@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tractatus</title>
+            <author>Petrus Hispanus</author>
+            <editor>L. M. de Rijk</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Born digital</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital; no previous source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            <head>Tractatus III</head>
+            <div>
+               <head>De Predicamentis</head>
+               <div>
+                  <head>De quibusdam premittendis</head>               
+                  <p><num>1 </num>Ad 
+                     <app>
+                        <lem>cognitionem predicamentorum</lem>
+                        <rdg wit="#A">cognoscendum predicamenta</rdg>
+                     </app> 
+                     quedam necessaria 
+                     <app>
+                        <lem>
+                           <app>
+                              <lem>premittentes</lem>
+                              <rdg wit="#A #V">sunt premittenda</rdg>
+                           </app>
+                        </lem>
+                        <rdg wit="#A" type="addition">sine quorum cognitione nequaquam haberi potest cognitio predicamentorum</rdg>
+                     </app> 
+                     <app>
+                        <lem>primo 
+                           <app>
+                              <lem>distinguemus</lem>
+                                 <rdg wit="#C">distingamus</rdg>
+                                 <rdg wit="#V">distinguimus</rdg>
+                           </app> 
+                           cum
+                              <cit>
+                                 <ref><name>Aristotile</name></ref>
+                                 <bibl>Categoriae, 1, 1a1-15 (transl. Boeth., p.5, ed. Minio-Paluello)</bibl>
+                              </cit> 
+                           triplicem modum predicandi</lem>
+                        <rdg wit="#A" type="omission"/>
+                     </app>: eorum 
+                     <app>
+                        <lem>igitur</lem>
+                        <rdg wit="#A" type="omission"/>
+                     </app> que 
+                     <app>
+                        <lem>dicuntur</lem>
+                        <rdg wit="#E #V">predicantur</rdg>
+                        <rdg wit="#H" type="correction-substitution">
+                           <subst>
+                              <del>dicuntur</del>
+                              <add hand="#hand1">predicantur</add>
+                           </subst>
+                        </rdg>
+                     </app>, 
+                     <app>
+                        <lem>alia sunt equivoca, alia 
+                           <app>
+                              <lem>quidem</lem>
+                              <rdg wit="#Y" type="omission"/>
+                           </app> 
+                           <app>
+                              <lem>univoca</lem>
+                              <rdg wit="#E" type="correction-deletion">
+                                 <del rend="expunctuated" hand="#hand2">quid</del>
+                              </rdg>
+                           </app>, alia vero denominativa.</lem>
+                        <rdg wit="#A">quedam univoca quedam equivoca alia denominativa</rdg>
+                     </app></p>
+                  <p>Equivoca sunt quorum 
+                     <app>
+                        <lem>nomen</lem>
+                        <rdg wit="#H">solum nomen</rdg>
+                     </app> est commune et secundum 
+                     <app>
+                        <lem>illud</lem>
+                        <rdg wit="#E">idem</rdg>
+                        <rdg wit="#C" type="correction-substitution">
+                           <subst>
+                              <del rend="emendatio">idem</del> <!-- rever emendatio -->
+                              <add>illud</add>
+                           </subst>
+                        </rdg>
+                     </app> nomen 
+                     <app>
+                        <lem>ratio</lem>
+                        <rdg wit="#E" type="correction-addition">
+                           <add hand="#hand2">vero</add>
+                        </rdg>
+                     </app> substantie diversa 
+                     <app>
+                        <lem>est</lem>
+                        <rdg wit="#A" type="correction-addition">
+                           <add hand="#hand3">scilicet diffinitio</add>
+                        </rdg>
+                     </app>. Ut cum <mentioned>animal</mentioned> significet verum animal et animal pictum, nomen eis est commune et ratio substantie utriusque secundum illud nomen est diversa.</p>
+                  <p>Univoca dicuntur quorum nomen commune est et secundum illud nomen ratio substantie est eadem. Ut hoc nomen <mentioned>animal</mentioned> commune est homini et bovi et similiter ratio eius secundum illud nomen est eadem.</p>
+                  <p>Denominativa dicuntur quecumque ab aliquo solo differentia casu secundum illud nomen habent appellationem, ut a <mentioned>gramatica</mentioned> <mentioned>gramaticus</mentioned>. Differunt solo casu, idest sola cadentia que est a parte rei, et secundum illud nomen habent appellationem. Nomen igitur denominativum debet convenire cum nomine univoco in principio, ut <mentioned>gramatica</mentioned> et <mentioned>gramaticus</mentioned>, et <mentioned>albus</mentioned> et <mentioned>albedo</mentioned>.</p>
+                  <p><num>2 </num>Eorum que dicuntur quedam dicuntur sine complexione, ut <mentioned>homo</mentioned> sive <mentioned>currit</mentioned>, quedam cum complexione, ut <mentioned>homo currit</mentioned>.</p>
+                  <p>Sed priusquam alterum membrum huius divisionis subdividatur, distinguendi sunt mo<cb n="7rb"/>di <term>essendi in</term>, qui necessarii sunt ad sequentem divisionem cognoscendam et ad quedam que postea dicentur.</p>
+                  <p>Primo ergo modo dicitur aliquid esse in aliquo sicut pars integralis in suo toto, ut digitus in manu et paries in domo.</p>
+                  <p>Secundo autem modo sicut totum integrale in suis partibus, ut domus in pariete, tecto, et fundamento.</p>
+                  <p>Tertio modo sicut species in genere, ut homo in animali, et universaliter quodlibet inferius in suo superiori.</p>
+                  <p>Quartus modus essendi in est sicut genus in specie, ut animal in homine et unumquodque diffiniens in sua diffinitione et unequeque diffinitiones in suo diffinito.</p>
+                  <p>Quintus modus essendi in est sicut forma in materia. Et iste quintus modus subdividitur, quia est quedam forma substantialis, ut anima est forma substantialis homini; alia autem est forma accidentalis, ut album homini. Et prima harum dicitur proprie esse in sicut forma in materia, ut anima in corpore; alia autem dicitur esse in sicut accidens in subiecto, ut albedo in pariete et color in corpore.</p>
+                  <p>Sextus modus essendi in est sicut aliquid in primo efficiente, ut regnum in regnante.</p>
+                  <p>Septimus modus essendi in est sicut aliquid in fine, ut virtus in beatitudine.</p>
+                  <p>Octavus modus essendi in est sicut aliquid in vase, et universaliter sicut locatum in loco.</p>
+                  <p>Hos autem octo modos essendi in distinguit Aristotiles. Boetius autem assignat novem, quia subdividit quintum in duos quemadmodum1 dictum est.</p>
+                  <p><num>3 </num>Eorum que sunt alia dicuntur de subiecto, in subiecto vero nullo sunt, ut genera et species substantie et differentie substantie, que omnia dicuntur substantie universales, extenso nomine <mentioned>substantie</mentioned>, ut homo, animal, et rationale. <mentioned>Dici de subiecto</mentioned>, ut hic sumitur, est dici de inferiori, ut animal de homine, et homo de Sorte, et color de albedine; sed <term>esse in subiecto</term> sumitur secundum quod accidens est in subiecto.<cb n="7va"/>Alia vero neque dicuntur de subiecto neque sunt in subiecto, ut individua substantie. Alia vero dicuntur de subiecto et sunt in subiecto, ut genera et species aliorum novem predicamentorum dicuntur de suis inferioribus et sunt in substantia ut accidens in subiecto, ut color dicitur de albedine ut de inferiori et est in corpore ut in subiecto. Alia vero in subiecto sunt, de subiecto autem nullo dicuntur, ut hec scientia est in anima ut accidens in subiecto et non dicitur de aliquo inferiori, et iste color est in subiecto et non dicitur de subiecto; omnis enim color in corpore est.</p>
+                  <p><num>4 </num>Quando alterum de altero predicatur ut de subiecto, quecumque de eo quod predicatur dicuntur, omnia et de subiecto dicuntur. Ut si Sortes est homo, et homo est animal, ergo Sortes est animal.</p>
+                  <p>Diversorum generum et non subalternatim positorum diverse sunt species et differentie, ut animalis et scientie, que sunt diversa genera. Differentie enim animalis sunt rationale et irrationale; dividitur enim per has differentias. Differentie autem scientie sunt <term>naturale</term> et <term>morale</term> et <term>sermocinale</term>; dividitur enim scientia per has differentias: scientiarum alia naturalis, alia moralis, alia sermocinalis.</p>
+                  <p><num>5 </num>Eorum que secundum nullam complexionem dicuntur singulum aut significat substantiam aut quantitatem aut qualitatem aut ad aliquid aut ubi aut quando aut situm esse aut habere aut facere aut pati. Est autem substantia, ut exemplariter dicatur, ut homo et equus; quantitas, ut bicubitum et tricubitum; qualitas, ut albedo et nigredo; ad aliquid, ut duplum et triplum; ubi, ut in loco; quando, ut heri, eras; situs, ut sedere et iacere; habere, ut calciatum esse vel arrnatum esse; facere, ut secare, urere; pati, ut secari, uri.</p>
+                  <p>Hiis autem habitis dicendum est de unoquoque ipsorum predicamentorum. Et prius de substantia, cum sit prior aliis predicamentis.<cb n="7vb"/></p>                
+               </div>
+               <div>
+                  <head>De substantia</head>
+                  <p><num>6 </num>Substantia dividitur per primam et secundam substantiam. Substantia prima est que proprie et principaliter et maxime dicitur; vel: prima substantia est que neque de subiecto dicitur neque in subiecto est, ut aliquis homo, aliquis equus.</p>
+                  <p>Secunde substantie sunt species in quibus sunt prime substantie et harum specierum genera, ut homo et animal; est enim aliquis homo in homine qui est species, sicut homo in animali quod est genus.</p>
+                  <p>Individua substantie dicuntur prime substantie, quia primo substant aliis; genera vero et species eorum dicuntur secunde substantie, quia secundo substant. Aliquis enim homo dicitur gramaticus et currens et animal et substantia et ideo homo dicitur gramaticus et currens et animal et substantia.</p>
+                  <p><num>7 </num>Item. Ea que dicuntur de subiecto, omnia predicantur nomine et ratione, ut homo de Sorte. Eorum vero que dicuntur de subiecto, in pluribus quidem neque nomen de subiecto neque ratio predicabitur, ut bee albedo vel hoc album; in aliquibus autem nomen nichil prohibet predicari aliquando de subiecto, rationem vero impossibile est; ut album de subiecto predicator, ratio vero albi numquam de subiecto predicabitur.</p>
+                  <p>Item. Secundarum substantiarum magis est substantia species quam genus, quia species est propinquior prime substantie quam genus, et etiam quia pluribus substat. Quibuscumque enim substat genus, eisdem substat species, et etiam ipsi generi. Sed species specialissime equaliter sunt substantie, ut homo, equus, et consimilia.</p>
+               </div>
+               <div><head>De communitatibus et proprietatibus substantie</head>
+                  <p><num>8 </num>Hiis visis dicendum est de communitatibus et proprietatibus substantie. Commune est autem omni substantie in subiecto non esse, quia esse in subiecto solum convenit accidenti. Et hoc patet de primis substantiis per diffinitionem prime substantie. De secundis autem patet inductione et sillogismo. Inductione sic. Homo non est in subiecto, equus non est in subiecto, neque animal, et sic de aliis secundis substantiis; ergo nulla secunda substantia est in subiecto. Sillogismo sic. Nichil eorum que sunt in subiecto, predicatur nomine et ratione; sed omnis<cb n="8ra"/>secunda substantia predicatur nomine et ratione; ergo nulla secunda substantia est in subiecto.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tractatus vel Summulae logicales</title>
+               <author>Petrus Hispanus</author>
+               <editor>L. M. de Rijk</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Assen, 1962</p>
+         </publicationStmt>
+         <sourceDesc>
+           <listWit>
+             <witness xml:id="A">Manuscripts list, p. </witness>
+           </listWit>
+         </sourceDesc>
+            
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            <head><supplied>Tractatus I</supplied></head>
+            <div>
+               <head>De introductionibus</head>
+               <div>
+                  <head>De dialetica</head>
+                  <p><cb ed="#A" n="2ra"/><num>1</num>Dialetica est ars ad omnium methodorum principia viam habens. Et ideo in acquisitione scientiarum dialetica debet esse prior.</p>
+                  <p>Dicitur autem <mentioned>dialetica</mentioned> a <mentioned>dia</mentioned>, quod est duo, et <mentioned>logos</mentioned>, quod est sermo, vel a <mentioned>lexis</mentioned>, quod est ratio, quasi duorum sermo vel ratio, scilicet opponentis et respondentis disputando. Sed quia disputatio non potest haberi nisi mediante sermone, nec sermo nisi mediante voce, omnis autem vox est sonus, — ideo a sono tamquam a priori inchoandum est.</p>
+               </div>
+               <div>
+                  <head>De sono</head>
+                  <p><num>2</num>Sonus igitur est quicquid auditu proprie percipitur; <mentioned>proprie</mentioned> autem dico, quia licet homo vel campana audiatur, hoc non est nisi per sonum. Sonorum alius vox, alius non- vox.</p>
+                  <p>Vox est sonus ab ore animalis prolatus, naturalibus instrumentis formatus. Naturalia instrumenta dicuntur quibus vox formatur: labia, dentes, lingua, palatum, guttur et pulmo.</p>
+                  <p>Sonus non-vox est ille qui generatur ex collisione corporum inanimatorum, ut frangor arborum, strepitus pedum.</p>
+               </div>
+               <div>
+                  <head>De voce</head>
+                  <p><num>3</num>Vocum alia significativa, alia non-significativa. Vox significativa est illa que auditui aliquid representat, ut 'homo', vel gemitus infirmorum. Vox non-significativa est illa que auditui nichil representat, ut 'buba ' . Vocum significativarum alia significativa ad placitum, alia naturaliter.</p>
+                  <p>Vox significativa naturaliter est illa que apud omnes idem representat, ut gemitus infirmorum, latratus canum.</p>
+                  <p>Vox significativa ad placitum est illa que ad voluntatem instituentis aliquid representat, ut 'homo''. Vocum significativarum ad placitum | alia simplex sive incomplexa, ut nomen et verbum,alia composita sive complexa, ut oratio.</p>
+               </div>
+               <div>
+                  <head>De nomine</head>
+                  <p><num>4</num>Nomen est vox significativa ad placitum sine tempore, cuius nulla pars significat separata finita recta. 'Vox' ponitur in diffinitione nominis pro genere; 'significativa' ponitur ad differentiam vocis non-significative; 'ad placitum' ponitur ad differentiam 15 vocis significantis naturaliter; 'sine tempore' ponitur ad differentiam verbi, quod significat cum tempore; 'cuius nulla pars etc.' ponitur ad differentiam orationis, cuius partes significant separate; 'finita' ponitur ad differentiam nominis infiniti, ut 'non-homo', quod non est nomen secundum dialeticos, sed nomen infinitum; 'recta' po- 20 nitur ad differentiam nominis obliqui, ut 'Catonis, Catoni', et sic de aliis, que non sunt nomina secundum dialeticos, sed casus nominum, sive obliqui; unde solus nominativus sive solus rectus dicitur esse nomen.</p>
+               </div>
+               <div>
+                  <head>De verbo</head>
+                  <p><num>5</num>Verbum est vox significativa ad placitum cum tempore, cuius nulla pars significat separata finita recta. <mentioned>Cum tempore</mentioned> ponitur in diffinitione verbi ad differentiam nominis, quod significat sine tempore; <mentioned>finita</mentioned> ponitur ad differentiam verbi infiniti, ut <mentioned>non currit</mentioned>, quod non est verbum secundum dialeticos, sed verbum infinitum; <mentioned>recta</mentioned> ponitur ad differentiam obliquorum verborum, ut <mentioned>currebat</mentioned>, et <mentioned>cucurrit</mentioned> et <mentioned>curret</mentioned>, que non appellat dialeticus verba, sed verba obliqua. Solum enim verbum presentis temporis indicativi modi dicitur esse verbum, reliqua enim verba eiusdem modi et aliorum modorum dicuntur verba obliqua. Omnes autem alie differentie ponuntur ibi eadem ratione qua in nomine.</p>
+                  <p>Et sciendum est quod dialeticus ponit du|as partes orationis tantum, scilicet nomen et verbum, alias vero partes appellat sincathegoremata, idest consignificativa.</p>
+               </div>
+               <div>
+                  <head>De oratione</head>
+                  <p><num>6</num>Oratio est vox significativa ad placitum cuius partes significant separate. <mentioned>Cuius partes etc.</mentioned> hoc totum ponitur ibi ad differentiam nominis et verbi, reliqua omnia ponuntur ibi eadem ratione qua in nomine et verbo.</p>
+               <p>Orationum alia perfecta, alia imperfecta. Oratio perfecta est que perfectum generat sensum in animo auditoris, ut <mentioned>homo est albus</mentioned>; imperfecta oratio est que imperfectum generat sensum in animo auditoris, ut <mentioned>homo albus</mentioned>.</p>
+               <p>Orationum perfectarum alia indicativa, ut <mentioned>homo currit</mentioned>, alia imperativa, ut <mentioned>fac ignem</mentioned>, alia optativa, ut utinam essem bonus clericus , alia subiunctiva, ut <mentioned>si veneris ad me, dabo tibi equum</mentioned>. Harum autem omnium sola indicativa oratio dicitur propositio.</p>
+               </div>
+               <div>
+                  <head>De propositione</head>
+                  <p><num>7</num>Propositio est oratio verum vel falsum significans, ut <mentioned>homo currit</mentioned>. Propositionum alia cathegorica, alia ypotetica. Cathegorica est illa que habet subiectum et predicatum principales partes sui, ut <mentioned>homo currit</mentioned>; in hac enim propositione hoc nomen <mentioned>homo</mentioned> est subiectum, hoc verbum <mentioned>currit</mentioned> est predicatum, et quod coniungit unum cum altero est copula. Quod patet resolvendo sic: <mentioned>homo currit</mentioned>: <mentioned>homo est currens</mentioned>; hoc nomen <mentioned>homo</mentioned> subicitur, <mentioned>currens</mentioned> vero predicatur, et hoc verbum est coniungit unum cum altero. Et dicitur <mentioned>cathegorica</mentioned> a <mentioned>cathegorizo, -zas</mentioned>, quod idem est quod <mentioned>predico, -cas</mentioned>. Subiectum est de quo aliquid dicitur; predicatum est quod de altero dicitur.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>

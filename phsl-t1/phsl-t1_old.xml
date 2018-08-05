@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://bitbucket.org/lombardpress/lombardpress-schema/raw/master/LombardPressODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://bitbucket.org/lombardpress/lombardpress-schema/raw/master/LombardPressODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatus 1, De Introductionibus</title>
+      	<author>Petrus Hispanus</author>
+        <editor></editor>
+        <respStmt>
+          <name>Jeffrey C. Witt</name>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+        	<title>Tractatus 1, De Introductionibus</title>
+          <date when="2016-06-16">June 16, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+      	<publisher>Petrus Hispanus Project in collaboration with LombardPress</publisher>
+        <pubPlace/>
+        <availability status="free">
+          <p>Public Domain</p>
+        </availability>
+        <date when="2016-06-16">June 16, 2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+        	<witness xml:id="A" n="avignon311" xml:base="http://scta.info/iiif/phsl-avignon311/canvas/">Avignon, Musee Calvet, cod. 311 (Anc. 186 Suppl.)</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc status="public-draft">
+      <listChange>
+        <change when="2015-11-05" who="#JW" status="draft" n="0.0.0-dev">
+          <note type="validating-schema">lbp-0.0.1</note>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="includeList">
+        <xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/workscited.xml" xpointer="worksCited"/>
+        <xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/Prosopography.xml" xpointer="prosopography"/>
+      </div>
+    	<div xml:id="startOn">
+    		<cb ed="#A" n="2ra" select="2"/>
+    	</div>
+    </front>
+    <body>
+      <div xml:id="phsl-t1">
+      	<head>Tractatus 1, De Introductionibus</head>
+      	<div>
+      		<head>De dialectica</head>
+      		<p><cb ed="#A" n="2ra" select="2"/>Dialetica est 
+      			<app>
+      				<lem>ars</lem>
+      				<rdg wit="#Y #Ec #Hc">ars artium</rdg>
+      				<rdg wit="#V">ars artium et scientia scientiarum</rdg>
+      			</app> ad omnium methodorum principia viam 
+      			<app>
+      				<lem>habens</lem>
+      			</app>. 
+      			Et ideo in acquisitione scientiarum dialetica debet esse
+      			prior.</p>
+      		<p>Dicitur autem <mentioned>dialetica</mentioned> a <mentioned>dia</mentioned>, quod est duo, et <mentioned>logos</mentioned>,
+      			quod est sermo, vel a <mentioned>lexis</mentioned>, quod est ratio, quasi duorum sermo
+      			vel ratio, scilicet opponentis et respondentis disputando. Sed quia
+      			disputatio non potest haberi nisi mediante sermone, nec sermo
+      			nisi mediante voce, omnis autem vox est sonus, - ideo a sono
+      			tamquam a priori inchoandum est.</p>
+      	</div>
+      	<div>
+      		<head>De sono</head>
+      		<p>Sonus igitur est quicquid auditu proprie percipitur;
+      			<mentioned>proprie</mentioned> autem dico, quia licet homo vel campana audiatur, hoc
+      			non est nisi per sonum. Sonorum alius vox, alius non-vox.</p>
+      		<p>Vox est sonus ab ore animalis prolatus, naturalibus instrumentis
+      			formatus. Naturalia instrumenta dicuntur quibus vox
+      			formatur: labia, dentes, lingua, palatum, guttur et pulmo.</p>
+      		<p>Sonus non-vox est ille qui generatur ex collisione corporum
+      			inanimatorum, ut frangor arborum, strepitus pedum.</p>
+      	</div>
+      	<div>
+      		<head>De voce</head>
+      		<p>Vocum alia significativa, alia non-significativa. Vox 
+      			significativa 
+      			<!-- p. 2 -->
+      			est ilia que auditui aliquid representat, ut <mentioned>homo</mentioned>,
+      			vel gemitus infirmorum. Vox non-significativa est ilia que auditui
+      			nichil representat, ut <mentioned>buba</mentioned>. Vocum significativarum alia significativa
+      			ad placitum, alia naturaliter.</p>
+      		<p>Vox significativa naturaliter est ilia que apud omnes idem 
+      			representat, ut gemitus infirmorum, latratus canum.</p>
+      		<p>Vox significativa ad placitum est ilia que ad voluntatem
+      			instituentis aliquid representat, ut <mentioned>homo</mentioned>. Vocum significativarum
+      			ad placitum <cb ed="#A" n="2rb" select="2"/> alia simplex sive incomplexa, ut nomen et verbum,
+      			alia composita sive complexa, ut oratio.</p>
+      	</div>
+      	<div>
+      		<p>Nomen est vox significativa ad placitum sine tempore,
+      			cuius nulla pars significat separata finita recta. <mentioned>Vox</mentioned> ponitur in
+      			diffinitione nominis pro genere; <mentioned>significativa</mentioned> ponitur ad differentiam
+      			vocis non-significative; <mentioned>ad placitum</mentioned> ponitur ad differentiam 
+      			vocis significantis naturaliter; <mentioned>sine tempore</mentioned> ponitur ad differentiam
+      			verbi, quod significat cum tempore; <mentioned>cuius nulla pars etc.</mentioned> ponitur
+      			ad differentiam orationis, cuius partes significant separate; <mentioned>finita</mentioned>
+      			ponitur ad differentiam nominis infiniti, ut <mentioned>non-homo</mentioned>, quod non
+      			est nomen secundum dialeticos, sed nomen infinitum; <mentioned>recta</mentioned> ponitur 
+      			ad differentiam nominis obliqui, ut <mentioned>Catonis, Catoni</mentioned>, et sic
+      			de aliis, que non sunt nomina secundum dialeticos, sed casus
+      			nominum, sive obliqui; unde solus nominativus sive solus rectus
+      			dicitur esse nomen.</p>
+      	</div>
+      	<div>
+      		<head>De verbo</head>
+      		<p>Verbum est vox significativa ad placitum cum tempore,
+      			cuius nulla pars significat separata finita recta. <mentioned>Cum tempore</mentioned>
+      			ponitur in diffinitione verbi ad differentiam nominis, quod significat
+      			sine tempore; <mentioned>finita</mentioned> ponitur ad differentiam verbi infiniti, ut
+      			<mentioned>non currit</mentioned>, quod non est verbum secundum dialeticos, sed verbum 
+      			infinitum; <mentioned>recta</mentioned> ponitur ad differentiam obliquorum verborum, <!-- p. 3 --> 
+      			ut <mentioned>currebat</mentioned>, et <mentioned>cucurrit</mentioned> et <mentioned>curret</mentioned>, que non appellat
+      			dialeticus verba, sed verba obliqua. Solum enim verbum presentis
+      			temporis indicativi modi dicitur esse verbum, reliqua enim verba
+      			eiusdem modi et aliorum modorum dicuntur verba obliqua. Omnes
+      			autem alie differentie ponuntur ibi eadem ratione qua in nomine.</p>
+      		<p>Et sciendum est quod dialeticus ponit du<cb ed="#A" n="2va" select="3"/>as partes orationis 
+      			tantum, scilicet nomen et verbum, alias vero partes appellat
+      			<mentioned>sincathegoremata <!-- why is this NOT in single quotes but only italicized --></mentioned>, idest consignificativa.</p>
+      	</div>
+      	<div>
+      		<head>De oratione</head>
+      		<p>Oratio est vox significativa ad placitum cuius partes
+      			significant separate. <mentioned>Cuius partes etc.</mentioned> hoc totum ponitur ibi ad
+      			differentiam nominis et verbi, reliqua omnia ponuntur ibi eadem
+      			ratione qua in nomine et verbo.</p>
+      		<p>Orationum alia perfecta, alia imperfecta. Oratio perfecta
+		      	est que perfectum generat sensum in animo auditoris, ut <mentioned>homo est
+		      	albus</mentioned>; imperfecta oratio est que imperfectum generat sensum in
+		      	animo auditoris, ut <mentioned>homo albus</mentioned>.</p>
+      		<p>Orationum perfectarum alia indicativa, ut <mentioned>homo currit</mentioned>,
+      			alia imperativa, ut <mentioned>fac ignem</mentioned>, alia optativa, ut <mentioned>utinam essem bonus
+      			clericus,</mentioned> alia subiunctiva, ut <mentioned>si veneris ad me, dabo tibi equum</mentioned>. 
+      			Harum autem omnium sola indicativa oratio dicitur propositio.</p>
+      	</div>
+      	<div>
+      		<head>De propositione</head>
+      		<p>Propositio est oratio verum vel falsum significans, ut
+      			<mentioned>homo currit</mentioned>. Propositionum alia cathegorica, alia ypotetica.
+      			Cathegorica est illa que habet subiectum et predicatum principales
+      			partes sui, ut <mentioned>homo currit</mentioned>; in hac enim propositione hoc nomen
+      			<mentioned>homo</mentioned> est subiectum, hoc verbum <mentioned>currit</mentioned> est predicatum, et quod
+      			coniungit unum cum altero est copula. Quod patet resolvendo sic:
+      			<mentioned>homo currit</mentioned>: <mentioned>homo est currens</mentioned>; hoc nomen <mentioned>homo</mentioned> subicitur,
+      			<!-- p. 4 -->
+      			<mentioned>currens</mentioned> vero predicator, et hoc verbum <mentioned>est</mentioned> coniungit unum cum
+      			altero. Et dicitur <mentioned>cathegorica</mentioned> a <mentioned>cathegorizo, -zas</mentioned>, quod idem est
+      			quod <mentioned>predico, -cas</mentioned>. Subiectum est de quo aliquid dicitur; predicatum
+      			est quod de altero dicitur.</p>
+      	</div>
+      	<div>
+      		<head>De propositione cathegorica eiusque triplici divisione</head>
+      		<p>Propositionum cathegoricarum alia uni<cb ed="#A" n="2vb" select="3"/>versalis, alia particularis,
+      			alia indefinita, alia singularis.</p>
+      		<p>Propositio universalis est ilia in qua subicitur terminus
+      			communis determinatus signo universali, ut <mentioned>omnis homo currit</mentioned>;
+      			vel: propositio universalis est illa que omni vel nulli aliquid inesse 
+      			significat.</p>
+      		<p>Terminus communis est qui est aptus natus de pluribus
+      			predicari, ut <mentioned>homo</mentioned> de Sorte et de Platone et de unoquoque aliorum
+      			hominum.</p>
+      		<p>Signa universalia sunt bee: <mentioned>omnis</mentioned>, <mentioned>nullus</mentioned>, <mentioned>nichil</mentioned>, <mentioned>quilibet</mentioned>, 
+      			<mentioned>uterque</mentioned>, <mentioned>neuter</mentioned>, et consimilia.</p>
+      		<p>Propositio particularis est illa in qua subicitur terminus
+      			communis signo particulari determinatus, ut <mentioned>aliquis homo currit</mentioned>'.
+      			Signa particularia sunt bee: <mentioned>aliquis</mentioned>, <mentioned>quidam</mentioned>, <mentioned>alter</mentioned>, <mentioned>reliquus</mentioned>, et
+      			consimilia.</p>
+      		<p>Indefinita est illa in qua subicitur terminus communis sine
+      			signo, ut <mentioned>homo currit</mentioned>.</p>
+      		<p>Propositio singularis est illa in qua subicitur terminus
+      			singularis vel terminus communis iunctus cum pronomine demonstrativo, <!-- p. 5 --> 
+      			ut <mentioned>Sortes currit</mentioned> vel <mentioned>iste homo currit</mentioned>. Terminus
+      			singularis est qui est aptus natus de uno solo predicari.</p>
+      		
+      		<p>Item. Propositionum cathegoricarum alia affirmativa,
+      			alia negativa. Affirmativa est illa in qua predicatum affirmatur
+      			5 de subiecto, ut <mentioned>homo currit</mentioned>. Negativa est illa in qua predicatum
+      			removetur a subiecto, ut <mentioned>homo non currit</mentioned>.</p>
+      		
+      		<p>Divisa propositione tripliciter sciendum est quod triplex
+      			est quesitivum per quod querimus, scilicet: <mentioned>que?</mentioned>, <mentioned>qualis?</mentioned>,
+      			<mentioned>quanta?</mentioned>, <mentioned>Que?</mentioned> querit de substantia propositionis; unde ad
+      			interrogationem factam per <mentioned>que?</mentioned> respondendum est <mentioned>cathegorica</mentioned>
+      			vel <mentioned>ypothetica</mentioned>; per <mentioned>qualis?</mentioned> <mentioned>aflirmativa</mentioned> vel <mentioned>negativa</mentioned>; <mentioned>qualis?</mentioned>
+      			enim querit de qualitate propositionis; per <mentioned>quanta?</mentioned>: <mentioned>universalis</mentioned>,
+      			<mentioned>particularis</mentioned> <mentioned>indefinita</mentioned>, et <mentioned>singularis</mentioned>, quia <mentioned>quanta?</mentioned> querit de
+      			quantitate propositionis. Unde versus: 
+      			<!-- this is formatted as centered and broken by line -->
+      			<mentioned>que ca vel ypo
+      				qualis <cb ed="#A" n="3ra" select="3"/>ne vel aft
+      				un quanta par in sin.</mentioned>
+      		</p>
+      		<p>Item. Propositionum cathegoricarum alie participant
+      			utroque termino, ut <mentioned>homo est animal</mentioned>, <mentioned>animal est homo</mentioned>; alie vero
+      			altero tantum, ut <mentioned>homo currit</mentioned>, <mentioned>homo disputat</mentioned>', vel 'homo currit',
+      			<mentioned>equus currit</mentioned>; alie vero nullo, ut <mentioned>homo currit</mentioned>, <mentioned>equus movetur</mentioned>.
+      			Item. Propositionum participantium utroque termino quedam
+      			participant secundum eundem ordinem, ut <mentioned>homo currit</mentioned>, <mentioned>homo non
+      			currit</mentioned>; quedam vero ordine converso, ut <mentioned>homo est animal</mentioned>, <mentioned>animal
+      			est homo</mentioned>.</p>
+      		<p>Item. Propositionum participantium utroque termino
+      			secundum eundem ordinem alie sunt contrarie, alie subcontrarie,
+      			alie contradictorie, alie subalterne.</p>
+      		<!-- p. 6 -->
+      		<p>Contrarie sunt universalis affirmativa et universalis negativa 
+      			eiusdem subiecti et eiusdem predicati, ut <mentioned>omnis homo currit</mentioned> -- 
+      			<mentioned>nullus homo currit</mentioned>.</p>
+      		<p>Subcontrarie sunt particularis affinnativa et particularis
+	      		negativa eiusdem subiecti et eiusdem predicati, ut <mentioned>quidam homo 5
+	      		currit</mentioned> - <mentioned>quidam homo non currit</mentioned>.</p>
+      		<p>Contradictorie sunt universalis affinnativa et particularis
+      		negativa, vel universalis negativa et particularis affinnativa,
+      		eiusdem subiecti et eiusdem predicati, ut <mentioned>'omnis homo currit'</mentioned> -
+      		<mentioned>quidam homo non currit</mentioned> vel <mentioned>nullus homo currit</mentioned> - <mentioned>quidam homo 10
+      		currit.</mentioned></p>
+      		<p>Subalterne sunt universalis affinnativa et particularis
+      		affinnativa, vel universalis negativa et particularis negativa, eiusdem
+      		subiecti et eiusdem predicati, ut <mentioned>omnis homo currit</mentioned> - <mentioned>quidam
+      		homo currit</mentioned>, vel <mentioned>nullus homo currit</mentioned> - <mentioned>quidam homo non 
+      		currit</mentioned>.</p>
+      		<p>Quod patet in hac figura:
+      			<!-- this is ok, figure needs to be allowed in scheam -->
+      			<!--
+      			<figure>
+      				<graphic url="squareOfopposites-figure.png"/>
+      			</figure>
+      			-->
+      		</p>
+      	</div>
+      	<div>
+      		<p>Propositionum triplex est materia, scilicet naturalis,
+      			contingens, et remota.</p>
+      		<p>Naturalis materia est in qua predicatum est de esse subiecti
+      			vel proprium eius, ut <mentioned>homo est animal</mentioned>, <cb ed="#A" n="3rb" select="3"/> et <mentioned>homo est risibilis</mentioned>.</p>
+      		<p>Contingens materia est in qua predicatum potest adesse
+      			vel abesse subiecto, ut <mentioned>homo est albus</mentioned>, homo non est albus.</p>
+      		<p>Remota materia est illa in qua predicatum non potest
+      		convenire cum subiecto, ut 'homo est asinus'.</p>
+      	</div>
+      	<div>
+      		<head>De equipollentiis earum</head>
+      		<p>Lex contrariarum talis est quod si una est vera, reliqua
+	      		est falsa, et non econverso; possunt enim ambe simul esse false in
+	      		contingenti materia, ut <mentioned>omnis homo est albus</mentioned>, <mentioned>nullus homo est
+	      		albus'</mentioned>. In naturali materia semper si una est vera, reliqua est
+	      		falsa, et econverso, ut <mentioned>omnis homo est animal</mentioned>, <mentioned>nullus homo est
+	      		animal</mentioned>; et in remota, ut <mentioned>omnis homo est asinus</mentioned>, <mentioned>nullus homo est
+	      		asinus</mentioned>, et in contingenti, quando predicatur accidens inseparabile,
+	      		ut <mentioned>omnis corvus est niger</mentioned>, <mentioned>nullus corvus est niger</mentioned>; sed in accidente
+	      		separabili ambe possunt simul esse false. Unde non semper in
+	      		contingenti materia ambe sunt simul false.</p>
+      		<p>Lex subcontrariarum talis est quod si una est falsa, reliqua
+	      		est vera, et non econverso; possunt enim am be esse simul vere in
+	      		contingenti materia. Unde lex subcontrariarum contrario modo se
+	      		habet legi contrariarum.</p>
+      		<p>Lex contradictoriarum talis est quod si una est vera, reliqua
+      			est falsa, et econverso; in nulla enim materia possunt simul esse
+      			vere vel false.</p>
+      		<p>Lex subalternarum talis est quod si universalis est vera,
+      			particularis est vera, et non econverso; potest enim universalis
+      			esse falsa, sua particulari existente vera. Et si particularis est
+      			falsa, sua universalis est falsa, et non econverso.</p>
+      	</div>
+      	<div>
+      		<head>De triplici conversione</head>
+      		<p>Item. Propositionum participantium utroque termino
+      			ordine converso triplex est conversio, scilicet simplex, per accidens,
+      			et per contrapositionem.</p>
+      		<p>Simplex conversio est de subiecto facere predicatum et 
+      			econverso, manente eadem qualitate et quantitate. Et hoc modo
+      			convertitur universalis negativa et particularis affirmativa, ut
+      			<mentioned>nullus homo est lapis</mentioned> - <mentioned>nullus lapis est homo</mentioned>; <mentioned>quidam homo est
+      			animal</mentioned> - <mentioned>quoddam animal est homo</mentioned>.</p>
+      		<p>Conversio per accidens est de subiecto facere predicatum 
+      			et de predicato subiectum, etiam manente eadem qualitate, sed
+      			mutata quantitate. Et sic convertitur universalis affirmativa in
+      			particularem affirmativam, ut <mentioned>omnis homo est animal</mentioned> - <mentioned>quoddam
+      			animal est homo</mentioned>, et universalis negativa in particularem negativam,
+      			ut <cb ed="#A" n="3va" select="4"/><mentioned>nullus homo est lapis</mentioned> - <mentioned>quidam lapis non est homo</mentioned>.</p>
+      		<p>Conversio per contrapositionem est facere de subiecto predicatum
+      			et de predicato subiectum, manente eadem qualitate et
+      			quantitate, sed terminis finitis mutatis in terminos infinitos. Et
+      			hoc modo convertitur universalis affirmativa et particularis negativa,
+      			ut <mentioned>omnis homo est animal</mentioned> - <mentioned>omne non-animal est non-homo</mentioned>; 
+      			<mentioned>quidam homo non est lapis</mentioned> - <mentioned>quidam non-lapis non est non-homo</mentioned>.
+      			Sciendum est quod si signum est in subiecto propositionis
+      			que debet converti, quodcumque sit, debet poni supra totum predicatum
+      			et reducere totum ad subiectum.</p>
+      	</div>
+      	<div>
+      		<head>De propositione ypotetica eiusque divisione</head>
+      		<p>Sequitur de propositione ypotetica. Propositio ypotetica
+      			est ilia que habet duas propositiones cathegoricas principales 
+      			partes sui, ut <mentioned>si homo currit, homo movetur</mentioned>. Et dicitur ypotetica.
+      			ab <mentioned>ypos</mentioned>, quod est sub, et <mentioned>thesis</mentioned>, quod est positio, quasi suppositiva,
+      			quia una pars supponitur alteri.</p>
+      		<p>Propositionis ypotetice alia conditionalis, alia copulativa,
+      			alia disiunctiva.</p>
+      		<p>Conditionalis est illa in qua coniunguntur due catbegorice
+      			per bane coniunctionem <mentioned>si</mentioned>, ut <mentioned>si homo currit, homo movetur</mentioned>; et
+      			illa cathegorica cui immediate coniungitur bee coniunctio <mentioned>si</mentioned>,
+      			dicitur antecedens, alia vero consequens.</p>
+      		<p>Copulativa est ilia in qua coniunguntur due cathegorice
+      			per hanc coniunctionem <mentioned>et</mentioned>, ut <mentioned>Sortes currit et Plato disputat</mentioned>.</p>
+      		<p>Disiunctiva est ilia in qua coniunguntur due catbegorice
+      			per hanc coniunctionem <mentioned>vel</mentioned>, ut <mentioned>Sortes currit vel Plato disputat</mentioned>.</p>
+      	</div>
+      	<div>
+      		<head>De veritate ypoteticarum</head>
+      		<p>Ad veritatem conditionalis exigitur quod antecedens
+	      		non possit esse verum sine consequenti, ut <mentioned>si homo est, animal est</mentioned>.
+      			Unde omnis conditionalis vera est necessaria, <cb ed="#A" n="3vb" select="4"/> et omnis conditionalis 
+	      		falsa est impossibilis. Ad falsitatem eius sufficit quod antecedens
+	      		possit esse sine consequenti, ut <mentioned>si Sortes est, album est</mentioned>.</p>
+      		<p>Ad veritatem copulative exigitur quod utraque pars sit
+      			vera, ut <mentioned>homo est animal et Deus est</mentioned>. Ad falsitatem eius sufficit
+      			alteram partem esse falsam, ut <mentioned>homo est animal et equus est lapis</mentioned>.</p>
+      		<p>Ad veritatem disiunctive sufficit alteram partem esse veram,
+      			ut <mentioned>homo est animal vel equus est asinus</mentioned>. Et permittitur quod 
+      			<!-- 10 -->
+      			utraque pars sit vera, sed non ita proprie, ut <mentioned>homo est animal vel,
+      			equus est hinnibilis</mentioned>. Ad falsitatem eius oportet utramque partem
+      			esse falsam, ut <mentioned>homo est asinus vel equus est lapis</mentioned>.</p>
+      	</div>
+      	<div>
+      		<head>De equipollentiis earum</head>
+      		<p>De equipollentiis assignantur regule tales: 
+      			<seg type="phsl-rule">si alicui signo preponatur negatio, equipollet suo contradictorio</seg> 
+      			Et ideo equipollent iste: <mentioned>non omnis homo currit</mentioned>, <mentioned>quidam homo non 
+      			currit</mentioned>, et ita de aliis.</p>
+      		<p>Secunda regula talis 
+      			<seg type="phsl-rule">si alicui signo universali postponatur negatio, 
+      				equipollet suo contrario,</seg>
+      			sicut iste: <mentioned>omnis homo non est animal</mentioned>', <mentioned>nullus homo est animal</mentioned>,
+      			vel iste: <mentioned>nullus homo non currit</mentioned>, <mentioned>omnis homo currit</mentioned>; et ita de aliis
+      			signis universalibus affirmativis et negativis.
+      		</p>
+      		<p>Tertia regula est talis: 
+      			<!-- formatting of rule is unclear; last line seems right justified; reason for line breaks is unclear -->
+      			<seg type="phsl-rule">si alicui signo universali vel particulari preponatur et postponatur negatio, 
+      				equipollet suo subalterno</seg>
+      		<!-- p. 11 -->
+      			sicut iste: <cb ed="#A" n="4ra" select="4"/> <mentioned>non omnis homo non currit</mentioned>, 
+      			<mentioned>quidam homo currit</mentioned>, et 
+      			iste similiter; <mentioned>non quidam homo non currit</mentioned>, 
+      			<mentioned>omnis homo currit</mentioned>. 
+      			Et sic de quolibet alio signo.</p>
+      		<p>Ex istis regulis sequitur alia regula talis: 
+	      			<seg type="phsl-rule">Si duo signa universalia negativa ponuntur in 
+	      			eadem oratione, ita quod unum in subiecto et 
+	      			reliquum in predicato - 
+	      			primum equipollet suo contrario, 
+	      			secundum suo contradictorio.</seg>
+      			Unde ista: <mentioned>nichil est nichil</mentioned> equipollet buic <mentioned>quidlibet est aliquid</mentioned>,
+      			quia per secundam regulam <mentioned>quidlibet non</mentioned> et <mentioned>nichil</mentioned> equipollent,
+      			quia sicut <mentioned>omnis non</mentioned> et <mentioned>nullus</mentioned> equipollent, ita <mentioned>quidlibet non</mentioned>
+      			et <mentioned>nichil</mentioned> equipollent, et per primam regulam <mentioned>non nichil</mentioned> et <mentioned>aliquid</mentioned>
+      			equipollent. Unde hec: <mentioned>nichil est nichil</mentioned> equipollet huic:
+      			<mentioned>quidlibet est aliquid</mentioned>, quia <mentioned>non nichil</mentioned> et <mentioned>aliquid</mentioned> equipollent.</p>
+      		<p>Et hec de equipollentiis sufficiant.</p>
+      	</div>
+      	<div>
+      		<head>De modo</head>
+      		<p>Modus est adiacens rei determinatio. Et habet fieri
+	      		per adiectivum. Sed quia adiectivum est duplex: est enim quoddam 
+	      		adiectivum nominis, ut <mentioned>albus</mentioned> et <mentioned>niger</mentioned> et consimilia, aliud
+	      		autem verbi, ut adverbium; secundum enim Priscianum1 adverbium
+	      		est ut verbi adiectivum, - et ideo duplex est modus: unus
+	      		nominalis, qui fit per adiectiva nominis, alius adverbialis, qui fit
+	      		per adiectiva adverbia, ut <mentioned>homo albus currit velociter</mentioned>.</p>
+      		<p>Item. Adverbiorum quedam determinant verbum gratia 
+      			compositionis, ut bee sex: <mentioned>necessario</mentioned>, <mentioned>contingenter</mentioned>, <mentioned>possibiliter</mentioned>,
+      			<mentioned>impossibiliter</mentioned>, <mentioned>vero</mentioned> et <mentioned>falso</mentioned>; alia determinant verbum gratia rei
+      			verbi, ut <mentioned>fortiter agit</mentioned>, <mentioned>velociter currit</mentioned>'; alia determinant verbum
+      			ratione temporis, ut adverbia temporalia; alia ratione modi, ut
+      			adverbia optandi et hortandi, et ita de aliis. Et secundum hoc 
+      			sumitur modus multiplex per adverbia.</p>
+      	</div>
+      	<div>
+      		<head>De propositionibus modalibus</head>
+      		<p>Sed omissis omnibus aliis de illo modo qui compositionem
+      			determinat, dicendum est, ut sunt isti sex: <mentioned>necessario</mentioned>, <mentioned>contingenter</mentioned>
+      			etc. Cum enim dicitur <mentioned>homo necessario currit</mentioned>, significatur quod 
+      			4rb ista compositio sit necessaria. Cum autem dicitur <cb ed="#A" n="4rb" select="4"/> <mentioned>homo currit
+      			bene vel velociter</mentioned>, significatur quod cursus hominis sit bonus vel
+      			velox. Et ita in ista determinatur res verbi, in prima vero compositio.
+      			Et sic intelligendum est de aliis predictis adverbiis. Unde
+      			solum ille modus qui determinat compositionem, facit propositionem 
+      			modalem et solum de tali hic intendimus.</p>
+      		
+      		<p>Et est sciendum quod isti sex modi quandoque sumuntur
+      			adverbialiter quandoque nominaliter. Adverbialiter, ut <mentioned>necessario</mentioned>,
+      			<mentioned>contingenter</mentioned>, <mentioned>possibiliter</mentioned>, <mentioned>impossibiliter</mentioned>, <mentioned>vero</mentioned> et <mentioned>falso</mentioned>; nominaliter,
+      			ut <mentioned>necessarium</mentioned>, <mentioned>contingens</mentioned>, <mentioned>possibile</mentioned> et <mentioned>impossibile</mentioned>,
+      			<mentioned>verum</mentioned> et <mentioned>falsum</mentioned>.</p>
+      		<p>Propositio modalis est ilia que determinatur aliquo istorum
+      			sex modorum, et <mentioned>Sortem currere est possibile</mentioned>, <mentioned>Sortem currere est
+      			impossibile</mentioned></p>
+      		
+      		<p>Et est sciendum quod in modalibus verbum debet 
+      			subici, modus autem predicari. Omnes autem alie propositiones dicuntur
+      			de inesse. Sed ille propositiones que modificantur hiis modis <!-- p. 13 -->
+      			scilicet <mentioned>vero</mentioned> et <mentioned>falso</mentioned>, modo relinquuntur, quia eodem modo
+      			sumitur oppositio in illis sicut in hiis de inesse, et similiter consequentia. 
+      			In aliis autem quatuor modis non sic sumitur oppositio,
+      			ut postea patebit.</p>
+      		
+      		<p>Sciendum autem quod unusquisque istorum quatuor
+      			modorum quatuor facit propositiones et sic, cum modi sint quatuor,
+      			propositiones erunt quater quatuor et sic sunt sedecim. Verbi
+      			gratia, modus qui est <mentioned>possibile</mentioned>, si sumatur sine negatione, facit
+      			propositionem unam, ut <mentioned>Sortem currere est possibile</mentioned>. Si sumatur
+      			10 cum negatione preposita ad verbum, facit alteram, ut <mentioned>Sortem
+      			non currere est possibile</mentioned>. Tertia autem propositio sumitur negatione
+      			posita ad modum, ut <mentioned>Sortem currere non est possibile</mentioned>. Quarta
+      			vero propositio sumitur una negatione posita ad verbum et alia <cb ed="#A" n="4va" select="5"/>
+      			ad modum, ut <mentioned>Sortem non currere non est possibile</mentioned>. Et hoc
+      			modo secundum unumquemque aliorum modorum sumuntur quatuor
+      			propositiones.</p>
+      	</div>
+      	<div>
+      		<head>De equipollentiis earum</head>
+      		<p>Harum autem propositionum equipollentie quatuor regulis
+      			cognoscuntur.</p>
+      		<p>Prima regula talis est: 
+      			<seg type="phsl-rule">cuicumque dicto affirmato attribuitur <mentioned>possibile</mentioned> 
+      				eidem attribuitur <mentioned>contingens</mentioned>, et ab eodem removetur
+      				<mentioned>impossibile</mentioned>, et ab eius contradictorie
+      				opposito removetur <mentioned>necesse</mentioned></seg>.</p>
+      		<p>Secunda regula talis est: 
+      			<seg type="phsl-rule">cuicumque dicto negato attribuitur <mentioned>possibile</mentioned>,
+      				eidem attribuitur <mentioned>contingens</mentioned> et ab eodem removetur
+      				<mentioned>impossibile</mentioned>, et ab eius contradictorie opposito
+      				removetur <mentioned>necesse</mentioned></seg>.</p>
+      		<!-- 14 -->
+      		<p>Tertia regula talis est: 
+      			<seg type="phsl-rule">a quocumque dicto affirmato removetur <mentioned>possibile</mentioned>,
+      				ab eodem removetur <mentioned>contingens</mentioned>, et eidem attribuitur
+      				<mentioned>impossibile</mentioned>, et eius contradictorie opposito
+      				attribuitur <mentioned>necesse</mentioned></seg>.</p>
+      		<p>Quarta regula talis est: 
+      			<seg type="phsl-rule">a quocumque dicto negato removetur
+      				ab eodem removetur <mentioned>contingens</mentioned> et eidem attribuitur 
+      				<mentioned>impossibile</mentioned> et eius contradictorie
+      				attribuitur <mentioned>necesse</mentioned></seg>.</p>
+      		<p>Quod patet in consequenti figura sive ordinatione:</p>
+      		<!-- four figures, formatted in 2x2 table -->
+      		<p><!-- I -->possibile est esse 
+      			contingens est esse 
+      			non impossibile est esse
+      			non necesse est non esse</p>
+      		
+      		<p><!-- II -->possibile est non esse
+      			contingens est non esse
+      			non impossibile est non esse
+      			non necesse est esse</p>
+      		
+      		<p><!-- III -->non possibile est esse
+      			non contingens est esse
+      			impossibile est esse
+      			necesse est non esse</p>
+      		
+      		<p><!-- IV -->non possibile est non esse
+      			non contingens est non esse
+      			impossibile est non esse
+      			necesse est esse.</p>
+      		
+      		<p>Omnes autem ille propositiones que sunt in prirna linea,
+      			<cb ed="#A" n="4vb" select="5"/> equipollent per prirnam regulam et convertuntur inter se; que
+			      autem sunt in secunda linea, per secundam et convertuntur inter
+			      se; que in tertia per tertiam et que in quarta per quartam.</p>
+      		
+      		<p>Item. Consequentia et equipollentia modalium potest haberi
+      			per hanc regulam: 
+      			<seg type="phsl-rule">omnes propositiones de possibili et de impossibili
+      				equipollent verbo similiter se habente et 
+      				modo dissimiliter. 
+      				Et omnes de possibili et necesse equipollent verbo 
+      				et modo dissimiliter se habentibus. 
+      				Et omnes de impossibili et necesse equipollent 
+      				verbo dissimiliter se habente et modo similiter 
+      				se habentes</seg>.</p>
+      		<p>Et intelligatur modus similiter se habere et dissimiliter
+      			quantum ad affirmationem et negationem. Ut dicatur modus
+      			similiter se habere quando modus affirmatur utrobique, vel negatur
+      			utrobique, dissimiliter autem quando affirmatur in una et negatur
+      			15 in altera. Et eodem modo intelligendum est de verbo sicut de
+      			modo. Et est sciendum quod in predicta regula non facit mentionem
+      			de contingenti, eo quod <mentioned>contingens</mentioned> convertitur cum <mentioned>possibili</mentioned>.
+      			Unde idem est iudicium de propositionibus utriusque. Exempla
+      			autem queramus in superiori figura in primo ordine et secundo et
+      			20 tertio et quarto, quia ad omnes est regula generalis.</p>
+      	</div>
+      	<div>
+      		<head>De oppositione earum</head>
+      		<p>Item. Propositionum modalium alie sunt contrarie, alie
+      		subcontrarie, alie contradictorie, alie subalteme. Quartus ordo et
+      		tertius contrariantur, sive propositiones que sunt in quarta linea
+      		et tertia contrariantur. Unde versus: <mentioned> <!-- formatted in its own line centered -->tertius est quarto semper contrarius ordo</mentioned></p>
+      		
+      		<p>Primus ordo et secundus subcontrariantur. Unde versus: 
+      			<mentioned>sit tibi linea subcontraria prima secunde.</mentioned></p>
+      		<!-- 16 -->
+      		<p>Item. Primus ordo contradicit tertio et secundus quarto. Unde 
+      			versus: <mentioned>tertius est primo contradictorius ordo.
+      				pugnat cum quarto contradicendo secundus.</mentioned></p>
+      		<p>Item. Prima <cb ed="#A" n="5ra" select="5"/> linea subalternatur quarte et secunda tertie. Unde 5
+      			versus: <mentioned>prima subest quarte, vice particularis habens se
+      				hac habet ad seriem se lege secunda sequentem</mentioned>, 
+      			vel sic: 
+      			<mentioned>ordo subalternus sit primus sive secundus</mentioned>. 
+      		</p>
+      		<p>Et hoc totum patet in sequenti figura: 
+      		<!-- figure 
+      		<figure>
+      			<graphic url="??"
+      		</figure>
+      		-->
+      		</p>
+      	</div>
+      </div>
+    </body>
+  </text>
+</TEI>

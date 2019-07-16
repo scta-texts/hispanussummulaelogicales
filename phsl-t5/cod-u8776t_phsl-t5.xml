@@ -2,14 +2,14 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Tractatus 1</title>
+        <title>Tractatus 5</title>
       	<author>Petrus Hispanus</author>
         <editor>Joana Gomes</editor>
-        <editor>Mario</editor>
+        <editor>Mário João Correia</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Tractatus 1</title>
+          <title>Tractatus 5: De locis</title><!--In this witness, it is the fourth. Order: I - II - IV - V - III - VI...-->
           <date when="2019-06-06">June 5, 2019</date>
         </edition>
       </editionStmt>
@@ -22,7 +22,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="T" n="cod-u8776t">Tarragona, Library of the Palacio del Arzobispo, cod 2</witness>
+          <witness xml:id="T" n="cod-u8776t">Tarragona, Arxiu Historic Arxidiocesà, cod 2 (85)</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -45,13 +45,13 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        
+        <pb ed="#T" n="2A-v"/><cb ed="#T" n="b"/>
       </div>
     </front>
     <body>
       <div xml:id="phsl-t1">
-        
-        
+
+
 
       </div>
     </body>

@@ -5,11 +5,11 @@
         <title>Tractatus 1</title>
       	<author>Petrus Hispanus</author>
         <editor>Joana Gomes</editor>
-        <editor>Mario</editor>
+        <editor>Mário João Correia</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Tractatus 1</title>
+          <title>Tractatus 1: De Introductionibus</title>
           <date when="2019-06-06">June 5, 2019</date>
         </edition>
       </editionStmt>
@@ -22,7 +22,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="T" n="cod-u8776t">Tarragona, Library of the Palacio del Arzobispo, cod 2</witness>
+          <witness xml:id="T" n="cod-u8776t">Tarragona, Arxiu Historic Arxidiocesà, cod 2 (85)</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -45,14 +45,618 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        
+        <pb ed="#T" n="1-r"/><cb ed="#T" n="a"/>
       </div>
     </front>
     <body>
       <div xml:id="phsl-t1">
-        
-        
+        <div>
+          <head>
+            <supplied>De dialectica</supplied>
+          </head>
+          <p>
+            <pb ed="#T" n="1-r"/>
+            <cb ed="#T" n="a"/>
+            <lb ed="#T"/><pc type="#pilcrow"/>Dialetica est ars artium ad omni<lb ed="#T"/>um
+            methodorum principia uiam
+            <lb ed="#T"/>habens.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Sola enim dyaletica pro<lb ed="#T"/>babiliter
+            disputat de principiis omnium
+            <lb ed="#T"/>arcium. Et ideo in adquisitione scientiarum dyalet<unclear reason="damage">ica</unclear> debet
+            <lb ed="#T"/>esse prior.</p>
+          <p>
+            Dicitur autem dyaletica a <mentioned>dya</mentioned> quod est duo, <unclear reason="damage">et</unclear> <mentioned>log<lb ed="#T"/>os</mentioned>
+          quod est sermo, uel <mentioned>lexis</mentioned> quod est ratio quasi <unclear reason="damage">duorum sermo</unclear> uel
+            <lb ed="#T"/>ratio, scilicet opponentis et respondentis disputando. <unclear reason="damage">Sed</unclear> quia
+            <lb ed="#T"/>disputatio non potest haberi nisi mediante sermone, sermo
+            <lb ed="#T"/>nisi mediante uoce, omnis autem sermo est <unclear>uox</unclear>, omnis uox
+            <lb ed="#T"/>est sonus, ideo a sono tanquam a priori inchoandum est.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Sonus
+            <lb ed="#T"/>est quicquid proprie per <unclear reason="damage">auditum</unclear> percipitur. Dico autem proprie quia licet
+            <lb ed="#T"/>homo uel campana <unclear reason="damage">audiatur</unclear>, hoc non est nisi per sonum.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>So<lb ed="#T"/>norum
+          alius uox, <unclear reason="damage">alius non</unclear> uox. Sonus uox <unclear reason="damage">idem</unclear> est quod uox. Vnde
+            <lb ed="#T"/>uox est sonus ab <unclear reason="damage">animalis</unclear> prolatus naturalibus instrumentis for<lb ed="#T"/>matus.
+            Naturalia instrumenta dicuntur quibus uox formatur, scilicet, labia,
+            <lb ed="#T"/>dentes, lingua, pallatum, gutur et pulmo.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Sonus non
+            <lb ed="#T"/>uox est ille qui generatur ex collisione <unclear reason="damage">corporum</unclear><unclear reason="damage">inanimatorum</unclear>, ut
+            <lb ed="#T"/>strepitus pedum, fragor arborum.
+          </p>
+        </div>
+        <div>
+          <head>
+            <supplied>Sequitur de uoce</supplied>
+          </head>
+          <p>
+            <pc type="#pilcrow"/>Vocum alia signifi<lb ed="#T"/>catiua,
+            alia non. <pc type="#pilcrow"/>Vox significatiua est illa que auditui aliquid
+            <lb ed="#T"/>representat, ut homo, uel gemitus infirmorum qui <unclear reason="damage">significat</unclear> dolorem.
+            <lb ed="#T"/>Vox non significatiua est illa que auditui nichil <unclear reason="damage">representat</unclear>, ut <mentioned>bub</mentioned>, <mentioned>ba</mentioned>.
+          </p>
+          <p>
+            <lb ed="#T"/><pc type="#pilcrow"/>Vocum significatiuarum alia significant naturaliter, alia ad placitum.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Vox
+            <lb ed="#T"/>significatiua naturaliter est illa que apud omnes idem <unclear reason="damage">representat</unclear>, ut gemitus
+            <lb ed="#T"/>infirmorum dolorem, latratus canum, etc.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Vox significatiua ad
+            <lb ed="#T"/>placitum est illa que ad uoluntatem instituentis aliquid significat, ut <unclear reason="damage"><mentioned>homo</mentioned></unclear>.
+          </p>
+          <p>
+            <lb ed="#T"/><pc type="#pilcrow"/>Vocum significatiuarum ad placitum alia simpliciter siue incomplexam, ut nomem,
+            <lb ed="#T"/>uerbum; alia composita siue complexa, ut oratio.
+          </p>
+        </div>
+        <div>
+          <head>
+            <supplied>Sequitur de nomine</supplied>
+          </head>
+          <p>
+            <lb ed="#T"/><pc type="#pilcrow"/>Nomen est uox significatiua ad placitum sine tempore cuius nulla
+            <lb ed="#T"/>pars significat separata, finita, recta.
+          </p>
+          <p>
+            <pc type="#pilcrow"/><mentioned>Vox</mentioned> ponitur in diffinitio<lb ed="#T"/>ne
+            nominis pro genere. <mentioned>Significatiua</mentioned> ponitur ad differentiam uocis non signifi<lb ed="#T"/>catiue.
+            <mentioned>Ad placitum</mentioned> ponitur ad differentiam uocis significatiue naturaliter. <mentioned>Sine
+            <lb ed="#T"/>tempore</mentioned> ponitur ad differentiam uerbi quod significat cum tempore.
+          </p>
+          <p>
+            <pc type="#pilcrow"/><mentioned>Cuius nulla pars</mentioned> et<lb ed="#T"/>c.,
+            ponitur ad differentiam orationis cuius partes significant separate.
+          </p>
+          <p>
+            <mentioned>Finita</mentioned>
+            <lb ed="#T"/>ponitur ad differentiam nominis infiniti, ut <mentioned>non homo</mentioned>, quod non est nomen secundum dyaleticum,
+            <lb ed="#T"/>sed est nomen infinitum.
+          </p>
+          <p>
+            <pc type="#pilcrow"/><mentioned>Recta</mentioned> ponitur ad differentiam nominum obliquorum, ut <mentioned>Ca<lb ed="#T"/>tonis, -ni</mentioned>,
+            et sic de aliis que non sunt nomina secundum dyaleticos, sed casus
+            <lb ed="#T"/>nominum sunt, et obliqui.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Vnde solus nominatiuus siue <unclear reason="damage">casus</unclear> rectus poni<lb ed="#T"/>tur
+            esse nomen.
+          </p>
+        </div>
+        <div>
+          <head><pc type="#pilcrow"/>Sequitur de uerbo</head>
+          <p>
+            <lb ed="#T"/><pc type="#pilcrow"/>Verbum est uox significatiua ad placitum cum tempore cuius
+            <lb ed="#T"/>nulla pars significat separata, finita, recta. <mentioned>Cum tempore</mentioned>
+            <lb ed="#T"/>ponitur in diffinitione uerbi ad differentiam nominis quod significat sine tempore.
+            <lb ed="#T"/><mentioned>Finita</mentioned> ponitur ad <unclear reason="damage">differentiam</unclear> uerbi infiniti, ut <mentioned><unclear reason="damage">non</unclear> currit</mentioned>, quod
+            <cb ed="#T" n="b"/> <lb ed="#T"/>non est uerbum <unclear reason="damage">secundum</unclear> dyaleticos, <unclear reason="damage">sed</unclear> est uerbum infinitum, ut <mentioned>non la<lb ed="#T"/>borat</mentioned>,
+            <unclear>etc</unclear>. <pc type="#pilcrow"><mentioned>Recta</mentioned> ponitur ad differentiam uerborum obliquorum, ut
+            <lb ed="#T"/><mentioned>currebat</mentioned>, <mentioned>cucurrit</mentioned>, <mentioned>curret</mentioned>, que non appellat dyaleticus uerba, sed uer<lb ed="#T"/>ba
+            obliqua. Solum enim uerbum presentis indicatiui modi dicitur esse uerbum.
+            <lb ed="#T"/>Reliqua omnia eisdem modi, et aliorum modorum dicuntur esse obliquorum. Omnis
+            <lb ed="#T"/>autem alie differentie ponuntur ibi eidem ratione qua in nomine.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Et sciendum
+            <lb ed="#T"/>quod dyaleticus ponit solum duas partes orationis, scilicet, nomen et uerbum. Ali<lb ed="#T"/>as
+            autem partes appellat <mentioned>sinchategoremata</mentioned>, id est, consignificatiua.
+          </p>
+        </div>
+        <div>
+          <head>
+            <pc type="#pilcrow"/>Sequitur de oratione
+          </head>
+          <p>
+            <lb ed="#T"/><pc type="#pilcrow"/>Oratio est uox significatiua ad placitum cuius partes signifi<lb ed="#T"/>cant
+            separate. Cuius partes etc. totum hoc ponitur ad di<lb ed="#T"/>fferentiam
+            nominis et uerbi. Reliqua omnia ponuntur eadem ratione qua
+            <lb ed="#T"/>in nomine et uerbo.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Orationum alia perfecta, alia imperfecta. Oratio perfecta
+            <lb ed="#T"/>est illa que perfectum sensum generat in animo auditoris, ut <mentioned>homo currit</mentioned>.
+          </p>
+          <p>
+            <lb ed="#T"/><pc type="#pilcrow"/>Imperfecta est illa que imperfectum sensum generat in animo auditoris, ut <mentioned>homo albus</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Orationum perfectarum, alia indicatiua, ut <mentioned>homo currit</mentioned>.
+            <lb ed="#T"/>Alia imperatiua, ut <mentioned>fac ignem</mentioned>. <pc type="#pilcrow"/>Alia optatiua, ut <mentioned>utinam essem
+            <lb ed="#T"/>bonus <unclear>clericus</unclear>'. <pc type="#pilcrow"/>Alia subiunctiua, ut <mentioned>si ueneris ad me dabo tibi equm</mentioned>.
+            <lb ed="#T"/>Harum autem <unclear reason="damage">omnium</unclear> sola indicatiua oratio est propositio, cum in indica<lb ed="#T"/>tiua
+            sit uerum uel falsum, et non in aliqua ceterarum.
+          </p>
+        </div>
+        <div>
+          <head>
+            <supplied>Sequitur de propositione</supplied>
+          </head>
+          <p>
+            <pc type="#pilcrow"/>Propositio
+              <lb ed="#T"/>igitur est oratio uerum uel falsum significans, ut <mentioned>homo currit</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Propositionum
+            <lb ed="#T"/>autem alia cathegorica, alia ypotetica. <pc type="#pilcrow"/>Cathegorica est illa que habet
+            <lb ed="#T"/>unum subiectum et unum predicatum principales partes sui,
+            <lb ed="#T"/>ut <mentioned>homo currit</mentioned>. In hac autem propositione, <mentioned>homo currit</mentioned>, hoc nomen <mentioned>homo</mentioned> est
+            <lb ed="#T"/>subiectum, et <mentioned>currit</mentioned> predicatum, et quod coniungit unum cum alio est co<lb ed="#T"/>pula,
+            quod patet in resolutione sic: <mentioned>homo currit</mentioned>, id est, <mentioned>homo est currens</mentioned>. Hoc
+            <lb ed="#T"/><unclear reason="damage">nomen</unclear> <mentioned>homo</mentioned> subicitur, et <mentioned>currens</mentioned> predicatur, et hoc uerbum <mentioned>est</mentioned> copulat unum
+            <lb ed="#T"/>cum altero. <pc type="#pilcrow"/>Et dicitur cathegorica a <mentioned>cathegorizo, -as</mentioned>, <unclear reason="damage">quod est idem</unclear>
+            <lb ed="#T"/>quod <mentioned>predico, -as</mentioned>. <pc type="#pilcrow"/>Subiectum est autem de quo aliquid dicitur; predicatum est quod
+            <lb ed="#T"/>de alio dicitur.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Propositionum cathegoricarum alia est uniuersalis, alia particularis,
+            <lb ed="#T"/>alia indefinita, alia singularis.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Propositio uniuersalis est illa in qua
+            <lb ed="#T"/>subicitur <unclear reason="damage">terminus</unclear> communis determinatus signo uniuersali, ut <mentioned>omnis homo currit</mentioned>.
+            <lb ed="#T"/>Vel propositio <unclear reason="damage">universalis</unclear> est illa que omni uel nulli inesse significat. Ter<lb ed="#T"/>minus
+            communis est qui aptus natus est de pluribus predicari, ut <mentioned>homo</mentioned>
+            <lb ed="#T"/>de Socrate et Platone, et de aliis hominibus; <mentioned>equs</mentioned> de equo; et sic
+            <lb ed="#T"/>de aliis. <pc type="#pilcrow"/>Signa uniuersalia sunt hec: <mentioned>omnis</mentioned>, <mentioned>nullus</mentioned>, <mentioned>nichil</mentioned>,
+            <lb ed="#T"/><mentioned>quilibet</mentioned>, <mentioned>uterque</mentioned> et consimilia.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Propositio particularis est illa in qua subicitur
+            <lb ed="#T"/>terminus communis determinatus signo particulari, ut <mentioned>aliquis homo currit</mentioned>.<pc type="#pilcrow"/>Signa particularia
+            <lb ed="#T"/>sunt hec: <mentioned>aliquis</mentioned>, <mentioned>quidam</mentioned>, <mentioned>alter</mentioned>, <mentioned>relicus</mentioned> et consimilia.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Indefinita
+            <lb ed="#T"/>est illa in qua subicitur terminus communis sine signo, ut <mentioned>homo currit</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Propositio
+            <lb ed="#T"/>singularis est illa in qua subicitur <unclear reason="damage">terminus</unclear> discretus uel terminus communis cum
+            <lb ed="#T"/>pronomine demonstratiuo, ut <mentioned>Socrates currit</mentioned> uel <mentioned>iste homo currit</mentioned>. <pc type="#pilcrow"/>Terminus singularis
+            <lb ed="#T"/>est qui aptus natus est predicari de uno solo.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Item propositionum ca<lb ed="#T"/>thegoricarum
+            alia affirmatiua, alia negatiua. Affirmatiua est illa in qua
+            <lb ed="#T"/>predicatum coniungitur cum subiecto. Negatiua est illa in qua predicatum
+            <pb ed="#T" n="1-v"/>
+            <cb ed="#T" n="a"/>
+            <lb ed="#T"/>remouetur a subiecto, ut <mentioned>homo non currit</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Diuisa propositio<lb ed="#T"/>ne
+            tripliciter. Sciendum est quod triplex est quesitum quod queritur
+            <lb ed="#T"/>de ipsi, scilicet, que, qualis, quanta, que querit de substantia propositionis.
+            <lb ed="#T"/>Vnde ad interrogationem factam per <mentioned>que</mentioned>, respondendum est cathegorica uel
+            <lb ed="#T"/>ipothetica. Ad interrogationem factam per <mentioned>qualis</mentioned>, respondendum est affirmatiua uel
+            <lb ed="#T"/>negatiua. <pc type="#pilcrow"/>Ad interrogationem factam per <mentioned>quanta</mentioned>, respondendum uniuersalis, uel particularis,
+            <lb ed="#T"/>uel indefinita, uel singularis. <pc type="#pilcrow"/>Vnde uersus:
+            <lg>
+              <l>que ca uel yp</l><lb ed="#T"/>
+              <l>qualis ne uel aff</l>
+              <l>un quanta par in sin.</l>
+            </lg>
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Item propositionum
+            <lb ed="#T"/>cathegoricarum, alie participant utroque termino, ut <mentioned>homo est animal</mentioned>, <mentioned>homo non est
+            <lb ed="#T"/>animal</mentioned>; alie uero in uno tantum, ut <mentioned>homo currit</mentioned>, <mentioned>homo disputat</mentioned>; alie uero nullo,
+            <lb ed="#T"/>ut <mentioned>homo currit</mentioned>, <mentioned>equs mouetur</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Item propositionum communicantium utroque termino quedam
+            <lb ed="#T"/>communicant eadem ordine, ut <mentioned>homo currit</mentioned>, <mentioned>homo non currit</mentioned>; quedam uero ordine
+            <lb ed="#T"/>conuerso, ut <mentioned>homo est animal</mentioned>, <mentioned>animal est homo</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Item propositionum participantium utroque
+            <lb ed="#T"/>termino eadem ordine, alie sunt contrarie, alie subcontrarie, alie contradic<lb ed="#T"/>torie,
+            alie subalterne.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Contrarie sunt uniuersalis affirmatiua et uniuersalis
+            <lb ed="#T"/>negatiua, ut <mentioned>omnis homo currit</mentioned>, <mentioned>nullus homo currit</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Subcontrarie sunt particularis aff<lb ed="#T"/>irmatiua
+            et particularis negatiua, ut <mentioned>quidam homo currit</mentioned>, <mentioned><unclear reason="damage">quidam</unclear> homo <unclear reason="damage">non</unclear>
+            <lb ed="#T"/>currit</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Contradictorie sunt uniuersalis <unclear reason="damage">affirmatiua et particularis</unclear> negatiua,
+            <lb ed="#T"/>uel uniuersalis negatiua et particularis affirmatiua.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Subalterne sunt uniuersalis
+            <lb ed="#T"/>affirmatiua et particularis affirmatiua, uel uniuersalis negatiua et particularis
+            <lb ed="#T"/>negatiua. Quod patet in sequenti figura:
+          </p>
+          <p>
+            <graphic url="figure1.jpg"/><!-- FIGURA: quadrado das oposições -->
+          </p>
+          <p>
+            <lb ed="#T"/><pc type="#pilcrow"/>Propositionum triplex est materia, scilicet, naturalis, contingens
+            <lb ed="#T"/>et remota.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Naturalis est materia in qua predicatus est
+            <lb ed="#T"/>de esse subiecti, uel proprium eius, ut <mentioned>homo est animal</mentioned>, <mentioned>homo est risibilis</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Contingens
+            <lb ed="#T"/>materia est in qua predicatus potest adesse uel abesse subiecto, ut <mentioned>homo est
+            <lb ed="#T"/>albus</mentioned>, <mentioned>homo non est albus</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Remota materia est in qua predicatus non potest
+            <lb ed="#T"/>conuenire subiecto, ut <mentioned>homo est asinus</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Lex contrariarum talis est quod si
+            <lb ed="#T"/>una est uera, reliqua est falsa, et non econuerso. Possunt enim simul esse
+            <lb ed="#T"/>ambe false in contingenti materia, ut <mentioned>omnis homo est albus</mentioned>, <mentioned>nullus
+            <lb ed="#T"/>homo est albus</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Lex subcontrariarum talis est quod si una est falsa
+            <lb ed="#T"/>reliqua est uera, et non econuerso. Possunt enim ambe simul <unclear reason="damage">uere</unclear>
+            <lb ed="#T"/>in contingenti materia. Vnde lex subcontrariarum <unclear reason="damage">contrario modo</unclear> se habet
+            <lb ed="#T"/>legi contrariarum.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Lex contradictoriarum talis est quod si una est
+            <lb ed="#T"/>uera, reliqua est falsa, et econuerso. In nulla enim materia possunt
+            <cb ed="#T" n="b"/>
+            <lb ed="#T"/> simul esse uere uel false.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Lex subalternarum talis est
+            <lb ed="#T"/>quod si uniuersalis est uera, particularis est uera, et non econuerso. Potest enim uniuersalis
+            <lb ed="#T"/>esse falsa, sua particulari existente uera, et si particularis est falsa, sua
+            <lb ed="#T"/>uniuersali est falsa, et non econuerso.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Item propositionum communicantium utroque
+            <lb ed="#T"/>termino ordine conuerso. Triplex est conuersio, scilicet, simplex et per accidens et per
+            <lb ed="#T"/><unclear reason="damage">contrapositionem</unclear>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Simplex conuersio est quando ex predicato fit subiectum et de
+            <lb ed="#T"/><unclear reason="damage">subiecto predicatum</unclear> manente eadem quantitate et qualitate propositionis, et hoc
+            <lb ed="#T"/>modo <unclear reason="damage">conuertitur</unclear> uniuersalis negatiua et particularis affirmatiua, ut <mentioned>nullus homo est
+            <lb ed="#T"/><unclear reason="damage">lapis</unclear></mentioned>, <mentioned>nullus <unclear reason="damage">lapis</unclear> est homo</mentioned>; <mentioned>quidam homo est animal</mentioned>, <mentioned>quodam animal
+            <lb ed="#T"/>est homo</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Conuersio per accidens est quando de subiecto fit predicatus
+            <lb ed="#T"/>et econuerso <unclear reason="damage">manente</unclear> qualitate, sed quantitate mutata. Et sic con<lb ed="#T"/>uertitur
+            uniuersalis affimatiua in particularem affirmatiuam, ut <mentioned>omnis homo est
+            <lb ed="#T"/>animal</mentioned>, <mentioned>quodam animal est homo</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Conuersio <unclear reason="damage">per</unclear> contrapositionem est facere de subiecto
+            <lb ed="#T"/>predicatum manente eadem qualitate et <unclear reason="damage">quantitate</unclear> propositionis, sed terminis
+            <lb ed="#T"/>finitis mutatis in terminos <unclear reason="damage">infinitos</unclear>. Et hoc modo conuertitur uniuersalis
+            <lb ed="#T"/>affirmatiua et particularis negatiua, ut <mentioned><unclear reason="damage">omnis homo</unclear> est animal</mentioned>, <mentioned>omne non animal
+            <lb ed="#T"/>est non homo</mentioned>; <pc type="#pilcrow"/></mentioned>quidam homo non est lapis</mentioned>, <mentioned>quidam non lapis est
+            <lb ed="#T"/>non homo</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Et sciendum est quod si signum est in subiecto propositionis que
+            <lb ed="#T"/>debet <unclear reason="damage">conuerti</unclear>, quodcumque <unclear reason="damage">sit</unclear> signum debet poni supra totum predicatum et re<lb ed="#T"/>ducere
+            <unclear reason="damage">totum</unclear> ad <unclear reason="damage">subiectum</unclear>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Preterea eadem est conuersio indefinite
+            <lb ed="#T"/>et particularis.
+          </p>
+        </div>
+        <div>
+          <head>
+            <pc type="#pilcrow"/>Sequitur de propositione ypothetica
+          </head>
+          <p>
+            <lb ed="#T"/><pc type="#pilcrow"/>Sequitur de propositione ypothetica. Ypothetica propositio est que habet
+            <lb ed="#T"/>duas <unclear reason="damage">cathegoricas</unclear> principales partes sui, ut <mentioned>si homo currit,
+            <lb ed="#T"/>homo mouetur</mentioned>. Et dicitur <mentioned>ypothetica</mentioned> ab <mentioned>ypos</mentioned> quod est sub, et <mentioned>thesis</mentioned> quod est
+            <lb ed="#T"/>positio, quasi subpositiua, quia una pars subponitur alii.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Propositio ypothetica
+            <lb ed="#T"/>diuiditur in conditionalem, copulatiuam et disiunctiuam. Con<lb ed="#T"/>ditionalis
+            est illa in qua coniunguntur due cathegorice per hanc coniunctionem <mentioned>si</mentioned>,
+            <lb ed="#T"/>ut <mentioned>si homo currit, homo mouetur</mentioned>; et illa cathegorica cui imediate coniungitur
+            <lb ed="#T"/><unclear reason="damage">hec coniunctio 'si', dicitur</unclear> antecedens, reliqua uero consequens.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Copulatiua
+            <lb ed="#T"/><unclear reason="damage">est illa in qua coniunguntur</unclear> due cathegorice per hanc coniunctionem
+            <lb ed="#T"/><unclear reason="damage">'et', ut</unclear> <mentioned>Socrates currit et Plato disputat</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Disiunctiua est illa in qua
+            <lb ed="#T"/>coniunguntur due cathegorice per hanc coniunctionem <mentioned>uel</mentioned>, ut <mentioned>Socrates currit uel Plato
+            <lb ed="#T"/>disputat</mentioned>.
+          </p>
 
+          <p>
+            <pc type="#pilcrow"/>Ad ueritatem conditionalis exigitur quod antecedens non possit esse
+            <lb ed="#T"/>sine consequente, ut <mentioned>si homo est, animal est</mentioned>. Vnde omnis conditionalis uera est necessaria
+            <lb ed="#T"/>et omnis falsa impossibilis.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Ad falsitatem eius sufficit quod antecedens possit
+            <lb ed="#T"/>esse sine consequente, ut <mentioned>si Socrates est, album est</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Ad ueritatem copula<lb ed="#T"/>tiue
+            exigitur utramque partem esse ueram, ut <mentioned>homo est animal et Deus est</mentioned>.
+          </p>
+          <p>
+            <lb ed="#T"/><pc type="#pilcrow"/>Ad falsitatem eius sufficit alteram partem esse falsam, ut <mentioned>homo
+            <lb ed="#T"/>est animal et equs est lapis</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Ad ueritatem disiunctiue sufficit
+            <lb ed="#T"/>alteram partem esse ueram, ut <mentioned>homo est animal, uel equs est lapis</mentioned>,
+            <lb ed="#T"/>et permittitur enim quod utraque pars sit uera, sed non ita proprie, ut <mentioned>homo
+            <lb ed="#T"/>est animal, uel equs est hinnibilis</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Ad falsitatem eius oportet
+            <lb ed="#T"/>utramque partem eius esse falsam, ut <mentioned>homo est asinus, uel equs est lapis</mentioned>.
+          </p>
+        </div>
+        <div>
+          <head>
+            <supplied>Sequitur de equipollentis</supplied>
+          </head>
+          <p>
+            <lb ed="#T"/><pc type="#pilcrow"/>Sequitur de equipollentiis, de quibus tales assignantur:
+          </p>
+          <p>
+            <pb ed="#T" n="2-r"/>
+            <cb ed="#T" n="a"/>
+            <lb ed="#T"/>
+            <lg>
+            <l><pc type="#pilcrow"/>Prius contradictio, post contra, <unclear>prepostque</unclear> <gap extent="11" unit="characters"/></l>
+            <l><pc type="#pilcrow"/>Non omnis, quidam non, omnis non, quasi nullus.</l>
+            <l><pc type="#pilcrow"/>Non nullus, quidam, sed nullus non, ualet omnis.</l>
+            <l><pc type="#pilcrow"/>Non aliquis, nullus, non quidam non, ualet omnis.</l>
+            <l><pc type="#pilcrow"/>Non alter, neuter, neuter non, prestat utrunque.</l>
+            </lg>
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Idem habetur per has regulas: <!--RULES start here-->si alicui signo prepo<lb ed="#T"/>natur
+            negatio equipollet suo contradictorio. Et ideo equipollent iste:
+            <lb ed="#T"/><mentioned>non omnis homo currit</mentioned>; <mentioned>quidam homo non currit</mentioned>; <mentioned>non nullus homo currit</mentioned>; <mentioned><unclear reason="damage">quidam</unclear> homo
+            <lb ed="#T"/>currit</mentioned>; et sic de aliis.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Secunda regula est talis: si alicui signo uniuersali
+            <lb ed="#T"/>postponatur negatio equipollet suo contrario. Vnde iste <unclear reason="damage">equipollent</unclear>: <mentioned>omnis
+            <lb ed="#T"/><unclear reason="damage">homo</unclear> non currit</mentioned>; <mentioned>nullus homo currit</mentioned>. Et iste similiter: <mentioned>nullus homo non currit</mentioned>; <mentioned>omnis
+            <lb ed="#T"/><unclear reason="damage">homo</unclear> currit</mentioned>; et sic de aliis signis uniuersalibus affirmatiuis et <unclear reason="damage">negatiuis</unclear>.
+          </p>
+          <p>
+            <lb ed="#T"/><pc type="#pilcrow"/>Tertia regula est: si alicui signo uniuersali uel particulari preponatur et postponatur
+            <lb ed="#T"/>negatio equipollet suo subalterno. Vnde iste equipollent: <mentioned>non omnis homo
+            <lb ed="#T"/>non currit</mentioned>; <mentioned>quidam homo currit</mentioned>. Et iste similiter: <mentioned>non quidam homo non currit</mentioned>,
+            <lb ed="#T"/><mentioned>omnis homo currit</mentioned>. Et <unclear>sic</unclear> de quolibet signo uniuersali et particulari.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Ex istis regulis
+            <lb ed="#T"/>sequitur alia regula: si <unclear reason="damage">duo signa</unclear> uniuersalia negatiua ponantur in eadem
+            <lb ed="#T"/>oratione, ita quod unum in subiecto, reliqum in predicato, primum equipol<lb ed="#T"/>let
+            suo contrario, secundum suo contradictorio. Vnde ista, <mentioned>nichil est nichil</mentioned>, equipo<lb ed="#T"/>llet
+            huic, <mentioned>quidlibet est aliquid</mentioned>, quia per secundam regulam <mentioned>quidlibet non est nichil</mentioned> et <mentioned>nichil
+            <lb ed="#T"/>est nichil</mentioned> equipollent, quia sicut <mentioned>omnis non</mentioned> et <mentioned>nullus</mentioned> equipollent, ita <mentioned>quilibet non</mentioned>
+            <lb ed="#T"/>et <mentioned>nichil</mentioned> equipollent, et per primam regulam <mentioned>non nichil</mentioned> et <mentioned>aliquid</mentioned> equipollent. Vnde
+            <lb ed="#T"/>hec <mentioned>nichil est nichil</mentioned> equipollet huic <mentioned>quidlibet est aliquid</mentioned>, quia <mentioned>non nichil</mentioned> et <mentioned>aliquid</mentioned> equip<lb ed="#T"/>ollent.
+            Et hec de equipollentis sufficiant.
+          </p>
+        </div>
+        <div>
+          <head>
+            <pc type="#pilcrow"/>Sequitur de modalibus
+          </head>
+          <p>
+            <lb ed="#T"/><pc type="#pilcrow"/>Modus est adiacens rei determinatio, et habet fieri per adiectiuum.
+            <lb ed="#T"/>Sed quia adiectiuum est duplex – est enim quodam nominis, quodam uerbi;
+            <lb ed="#T"/>nominis, ut <mentioned>albus</mentioned>, <mentioned>niger</mentioned>, et consimilia; uerbi, ut aduerbia; secundum
+            <lb ed="#T"/>enim <ref><name>Priscianum</name></ref>, aduerbium est ut uerbi <unclear reason="damage">adiectiuum</unclear> – ideo duplex est modus: unus no<lb ed="#T"/>minalis
+            qui fit per adiectiuum nominis; alius aduerbialis qui fit per
+            <lb ed="#T"/>aduerbia, ut <mentioned>homo albus currit uelociter</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Aduerbiorum quedam
+            <lb ed="#T"/>determinant uerbum ratione compositionis, ut ista VI: <mentioned>necessario</mentioned>, <mentioned>contin<lb ed="#T"/>genter</mentioned>,
+            <mentioned>possibiliter</mentioned>, <mentioned>impossibiliter</mentioned>, <mentioned>uero</mentioned>, <mentioned>falso</mentioned>. <pc type="#pilcrow"/>Alia uero determinant uerbum gratia
+            <lb ed="#T"/>rei uerbi, ut <mentioned>fortiter agit</mentioned>, <mentioned>uelociter currit</mentioned>. <pc type="#pilcrow"/>Alia determinant
+            <lb ed="#T"/>uerbum ratione temporis, ut aduerbia temporalia. <pc type="#pilcrow"/>Alia ratione modi,
+            <lb ed="#T"/>ut aduerbia optandi et ortandi, et ita de aliis. Et secundum
+            <lb ed="#T"/>hoc sumitur multiplex modus per aduerbia.
+          </p>
+
+          <p>
+            Sed omissis omnibus de illis
+            <lb ed="#T"/>modis qui compositionem determinant est dicendum, ut sunt ista: <mentioned>necessario</mentioned>, <mentioned>contingenter</mentioned>,
+            <lb ed="#T"/>etc. Cum enim dicitur <mentioned>homo necessario est</mentioned>, hic significatur quod compositio ista sit
+            <lb ed="#T"/>necessaria. Cum autem dicitur <mentioned>homo currit bene</mentioned> uel <mentioned>uelociter</mentioned>, significatur quod cursus
+            <lb ed="#T"/>hominis sit uelox uel bonus. Et ita in ista determinatur res uerbi,
+            <lb ed="#T"/>in prima uero compositio, et sic intelligendum est de aliis aduerbiis.
+          </p>
+          <p>
+            <lb ed="#T"/><pc type="#pilcrow"/>Vnde solus ille modus qui determinat compositionem facit propositionem modalem,
+            <lb ed="#T"/>et solum de tali hic intendimus.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Et sciendum quod ista VI modi
+            <lb ed="#T"/>quandoque sumuntur aduerbialiter, ut <mentioned>possibiliter</mentioned>, <mentioned>contingenter</mentioned>, <mentioned>uero</mentioned>, <mentioned>falso</mentioned>, <mentioned>impossibiliter</mentioned>
+            <lb ed="#T"/>et <mentioned>necessario</mentioned>; quandoque nominaliter, ut <mentioned>possibile</mentioned>, <mentioned>contingens</mentioned>, <mentioned>impossibile</mentioned>, <mentioned> necessarium</mentioned>,
+          <cb ed="#T" n="b"/>
+          <lb ed="#T"/><mentioned>uerum</mentioned>, <mentioned>falsum</mentioned>.
+        </p>
+          <p>
+            <pc type="#pilcrow"/>Propositio modalis est que determinat aliquo
+            <lb ed="#T"/>istorum VI modorum, ut <mentioned>Socrates currere est possibile</mentioned>, <mentioned>Socrates currere
+            <lb ed="#T"/>est necessarium</mentioned>, <mentioned>Socrates currere est contingens</mentioned>, <mentioned>Socrates currere est impossibile</mentioned>,
+            <lb ed="#T"/><mentioned>Socrates currere est uerum</mentioned>, <mentioned>Socrates currere est falsum</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Et sciendum quod in
+            <lb ed="#T"/>modalibus uerbum debet subici, modus autem predicari. Omnes
+            <lb ed="#T"/>autem alie propositiones <mentioned>de inesse</mentioned> dicuntur. Ille autem propositiones que modi<lb ed="#T"/>ficantur
+            hiis modis, scilicet, <mentioned>uerum</mentioned> et <mentioned>falsum</mentioned> relinquntur modo, quia
+            <lb ed="#T"/>eodem modo sumitur oppositio, et hiis, et in illis de inesse, et similiter conse<lb ed="#T"/>quentia.
+            In aliis autem IIII modis non sic sumitur oppositio,
+            <lb ed="#T"/>ut postea patebit.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Sciendum autem quod uniusquisque istorum
+            <lb ed="#T"/>IIII modorum, IIII facit propositiones, et sicut modi sunt IIII, propositiones
+            <lb ed="#T"/>erunt quater IIII, <unclear reason="damage">et sic sunt</unclear> XVI propositiones. Verbi gratia, mo<lb ed="#T"/>dus
+            qui est possibile, si sumatur sine negatione facit propositionem unam,
+            <lb ed="#T"/>ut <mentioned>Socrates currere est possibile</mentioned>. Si sumatur cum negatione preposita uer<lb ed="#T"/>bo,
+            facit aliam propositionem, ut <mentioned>Socrates non currere est possibile</mentioned>.
+            <lb ed="#T"/><pc type="#pilcrow"/>Tertia uero sumatur una negatione posita ad modum, ut
+            <lb ed="#T"/><mentioned>Socrates currere non est possibile</mentioned>. Quarta autem propositio sumitur una ne<lb ed="#T"/>gatione
+            <unclear reason="damage">posita ad</unclear> modum, alia ad uerbum, ut <mentioned>Socrates non currere non
+            <lb ed="#T"/>est possibile</mentioned>. Et hoc modo secundum unumquodque istorum IIII modorum sumuntur propositio<lb ed="#T"/>nes
+            IIII.
+          </p>
+
+          <p>
+            <pc type="#pilcrow"/>Harum autem propositionum equipollentie, siue consequentie
+            <lb ed="#T"/>IIII regulis cognoscuntur.
+          </p><!--RULES again -->
+          <p>
+            <pc type="#pilcrow"/>Prima regula est talis: cui<lb ed="#T"/>cumque
+            dicto affirmato atribuitur <mentioned>possibile</mentioned>, eidem atribuitur <mentioned>contingens</mentioned>,
+            <lb ed="#T"/>et ab eodem remouetur <mentioned>impossibile</mentioned>, et ab eius contradictorie opposito remouetur <mentioned>ne<lb ed="#T"/>cesse</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Secunda regula est talis: cuicumque dicto negato atribuitur
+            <lb ed="#T"/><mentioned>possibile</mentioned>, eidem atribuitur <mentioned>contingens</mentioned>, et ab eodem remouetur <mentioned>impossibile</mentioned>, et ab
+            <lb ed="#T"/>eius contradictorio opposito remouetur <mentioned>necesse</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Tertia regula talis est: a quocum<lb ed="#T"/>que
+            dicto affirmato remouetur <mentioned>possibile</mentioned>, ab eodem remouetur <mentioned>contingens</mentioned>, et eidem atri<lb ed="#T"/>buitur
+            <mentioned>impossibile</mentioned>, et eius contradictorio opposito atribuitur <mentioned>necesse</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Quar<lb ed="#T"/>ta
+            regula talis est: a quocumque dicto negato remouetur <mentioned>possibile</mentioned>, ab eodem remouetur
+            <lb ed="#T"/><mentioned>contingens</mentioned>, et eidem atribuitur <mentioned>impossibile</mentioned>, et eidem contradictorio opposito
+            <lb ed="#T"/>atribuitur <mentioned>necesse</mentioned>. Quod patet in hac ordinatione siue figura:
+          </p>
+          <p>
+            <lg>
+              <!--In the manuscript, the verses follow without line breaks, just with pilcrows, but like this it is more understandable...-->
+              <l><pc type="#pilcrow"/>Possibile est esse. Contingens est esse. Non impossibile est esse. Non necesse <lb ed="#T"/>est non esse.</l>
+              <l><pc type="#pilcrow"/>Possibile est non esse. Contingens est non esse. Non <lb ed="#T"/>impossibile est non esse. Non necesse est esse.</p>
+              <l><pc type="#pilcrow"/>Non possibile est esse. Non <lb ed="#T"/>contingens est esse. Impossibile est esse. Necesse est non esse.</p>
+              <l><pc type="#pilcrow"/>Non possibile <lb ed="#T"/>est non esse. Non contingens est non esse. Impossibile est non esse. Necesse <lb ed="#T"/>est esse.</p>
+            <lg>
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Omnes autem propositiones que sunt in prima linea equipollent per
+            <lb ed="#T"/>primam regulam, et conuertuntur inter se. <pc type="#pilcrow"/>Et que sunt in secunda per secundam
+            <lb ed="#T"/>regulam. <pc type="#pilcrow"/>Et que sunt in tercia per terciam. <pc type="#pilcrow"/>Et que sunt in quarta
+            <lb ed="#T"/>per quartam.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Item consequentia et equipollentia modali<lb ed="#T"/>um
+            possunt haberi per hanc regulam:
+          </p>
+          <!--RULE again-->
+          <p>
+            <pc type="#pilcrow"/>Omnes propositiones de possibili
+            <lb ed="#T"/>et de impossibili equipollent uerbo similiter se habente, et modo <unclear reason="damage">dissimiliter</unclear>. Et
+            <lb ed="#T">omnes propositiones de possibili et necesse, uerbo et modo dissimiliter se habentibus.
+            <lb ed="#T"><pc type="#pilcrow"/>Et omnes de impossibili et necesse uerbo dissimiliter se habentes
+            <pb ed="#T" n="2-v"/>
+            <cb ed="#T" n="a"/>
+            <lb ed="#T">modo similiter se habente.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Et intelligatur modus similiter et di<lb ed="#T">similiter
+             se habere quantum ad affirmationem et negationem, ut dicatur
+            <lb ed="#T">modus similiter se habere, quando affirmatur utrobique, uel quando negatur utro<lb ed="#T">bique.
+               Dissimiliter autem quando negatur in una et affirmatur in altera,
+            <lb ed="#T">et eodem modo intelligendum est de uerbo sicut de modo.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Sciendum
+            <lb ed="#T">quod in predicta regula non facit mentionem de contngenti eo quod contin<lb ed="#T">gens
+              conuertitur cum possibili. Vnde idem est iudicium de propositionibus utriusque.
+          </p>
+          <p>
+            <lb ed="#T"><pc type="#pilcrow"/>Exempla autem querantur in superiori figura, in primo ordine,
+            <lb ed="#T">et in secundo, et in tercio, et in quarto, quia ad omnes regula genera<lb ed="#T">lis
+              est.
+          </p>
+
+          <p>
+            <pc type="#pilcrow"/>Item modalium propositionum, alie sunt contrarie, alie sub<lb ed="#T">contrarie,
+            alie contradictorie, alie subalterne. <pc type="#pilcrow"/>Quartus ordo et
+            <lb ed="#T">tercius contrariantur, siue propositiones que sunt in tercia et in quarta linea
+              <lb ed="#T">contrariantur. Vnde uersus: <mentioned>Tertius est quarto semper contrarius ordo</mentioned>. Primus
+              <lb ed="#T">autem ordo et secundus subcontrariantur. Vnde uersus: <mentioned>Sit tibi linea subcon<lb ed="#T">traria
+                prima secunde</mentioned>. Item primus contradicit tercio, et secundus quarto. Vnde uersus:
+                <lb ed="#T"><mentioned>Tertius est primo contradictorius ordo. Pugnat cum quarto contra<lb ed="#T">dicendo
+                  secundus</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Item prima linea subalternatur quarte
+            <lb ed="#T">et secunda tercie. Vnde uersus: <mentioned>Prima subest <unclear reason="damage">quarte vice</unclear> particularis
+            <lb ed="#T">habens se</mentioned>. Hac habet
+              <choice>
+                <sic>asseriem</sic>
+                <corr>ad seriem</corr>
+              </choice>
+              sub lege secunda sequente.
+          </p>
+          <p>
+            <lb ed="#T"><pc type="#pilcrow"/>Ordo subalternus sit primus, siue secundus. Et hoc totum patet
+            <lb ed="#T">in hac figura:
+          </p>
+          <p>
+            <graphic url="figure2.jpb"/>
+            <!-- >>>>>FIGURA DAS PROPOSIÇÕES MODAIS<<<<<<<<< -->
+          </p>
+        </div>
       </div>
     </body>
   </text>

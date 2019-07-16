@@ -5,11 +5,11 @@
         <title>Tractatus 1</title>
       	<author>Petrus Hispanus</author>
         <editor>Joana Gomes</editor>
-        <editor>Mario</editor>
+        <editor>Mário João Correia</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Tractatus 1</title>
+          <title>Tractatus 2: De Predicabilibus</title>
           <date when="2019-06-06">June 5, 2019</date>
         </edition>
       </editionStmt>
@@ -22,7 +22,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="T" n="cod-u8776t">Tarragona, Library of the Palacio del Arzobispo, cod 2</witness>
+          <witness xml:id="T" n="cod-u8776t">Tarragona, Arxiu Historic Arxidiocesà, cod 2 (85)</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -45,14 +45,128 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        
+        <pb ed="#T" n="2-v"/><cb ed="#T" n="a"/>
       </div>
     </front>
     <body>
       <div xml:id="phsl-t1">
-        
-        
+        <div>
+          <head>
+            <supplied>De predicabili</supplied>
+          </head>
+          <p>
+            <pb ed="#T" n="2-v"/>
+            <cb ed="#T" n="a"/>
+            <lb ed="#T"/><pc type="pilcrow"/>Predicabile quandoque sumitur proprie, et sic solum dicitur
+            <lb ed="#T"/>predicabile quod de pluribus predicatur. Quandoque sumitur communiter et sic dicitur
+            <lb ed="#T"/>predicabile quod de uno solo, siue de pluribus predicatur. Vnde predicabile
+            <lb ed="#T"/>proprie sumptum et uniuersale idem sunt, sed differunt in hoc quod predicabile di<lb ed="#T"/>ffinitur
+            per dici, et uniuersale per esse. Est enim predicabile quod aptum na<lb ed="#T"/>tum
+            est de pluribus dici. Vniuersale autem quod aptum natum est esse
+            <lb ed="#T"/>in pluribus. Predicabile autem siue uniuersale diuiditur per differentiam, genus,
+            <lb ed="#T"/>speciem, proprium, accidens, et solum de istis V intendimus hic.
+          </p>
+        </div>
+        <div>
+          <head>
+            <supplied>Sequitur de genere</supplied>
+          </head>
+          <p>
+            <lb ed="#T"/><pc type="pilcrow"/><mentioned>Genus</mentioned> dicitur multipliciter: primo modo collectio multorum se habentium quodammodo
+            <lb ed="#T"/>ad se inuicem et ad unum principium, ut collectio eorum qui sunt de eadem
+            <lb ed="#T"/>parentela descendentium ab uno auo.
+          </p>
+          <p>
+            <pc type="pilcrow"/>Secundo modo dicitur
+            <cb ed="#T" n="b"/>
+            <lb ed="#T"/><mentioned>genus</mentioned> quod est principium uniuscuiusque generationis, ut pater uel
+            <lb ed="#T"/>patria.
+          </p>
+          <p>
+            <pc type="pilcrow"/>Tertio modo dicitur <mentioned>genus</mentioned> cui subponitur species, et hoc ultimo modo
+            <lb ed="#T"/>sumitur hic <mentioned>genus</mentioned>. Et diffinitur sic: genus est quod predicatur de pluribus diffe<lb ed="#T"/>rentibus
+            specie in eo quod quid est, ut animal predicatur de homine, et de equo
+            <lb ed="#T"/>et de leone qui differunt specie.
+          </p>
+          <p>
+            <pc type="pilcrow"/>Ad cognoscendum autem
+            <lb ed="#T"/>hoc membrum, scilicet, differentibus specie, oportet scire quot modis dicitur <mentioned>diffe<lb ed="#T"/>rens</mentioned>
+            <unclear reason="damage">tot</unclear> modis dicitur <mentioned>idem</mentioned>. <mentioned>Idem</mentioned> autem dicitur tripliciter, scilicet, idem genere, idem
+            <lb ed="#T"/>specie, idem numero. Eadem autem genere sunt quecumque sub eodem genere
+            <lb ed="#T"/>continentur, ut homo et asinus sub animali. Eadem autem specie sunt que<lb ed="#T"/>cumque
+            <unclear reason="damage">sub</unclear> eadem specie continentur, ut Socrates et Plato sub homine.
+          </p>
+          <p>
+            <pc type="pilcrow"/>Idem
+            <lb ed="#T"/><unclear reason="damage">numero dicitur tripliciter</unclear>: uno enim modo idem nomine, uel diffinitione; alio autem
+            <lb ed="#T"/>modo idem proprio; tertio autem modo idem accidente. Eadem autem nomine
+            <lb ed="#T"/>dicuntur quorum res est una, nomina uero plura, ut Marcus, Tullius.
+            <lb ed="#T"/><pc type="pilcrow"/>Eadem autem diffinitione dicuntur quorum unum est diffinitio alterius, ut
+            <lb ed="#T"/>animal rationale mortale et homo.
+            <pc type="pilcrow"/>Eadem autem proprio quorum unum est proprium
+            <lb ed="#T"/>alterius, ut risibile et homo.
+            <pc type="pilcrow"/>Eadem accidente sunt <unclear reason="damage">quorum</unclear> unum est accidens al<lb ed="#T"/>terius,
+            ut Socrates et albedo que in ipso est.
+          </p>
+          <p>
+            Similiter dicitur differens genere,
+            <lb ed="#T"/>differens specie, differens numero. Differentia genere sunt quecumque sunt sub
+            <lb ed="#T"/>diuersis generibus, ut homo est sub hoc genere quod est animal, et arbor
+            <lb ed="#T"/>sub hoc genere quod est planta. Differentia specie dicuntur quecumque sunt di<lb ed="#T"/>uersarum
+            specierum, ut homo et asinus. Differentia numero sunt quecumque faciunt
+            <lb ed="#T"/>numerum, ut Socrates et Plato.
+          </p>
+          <p>
+            <pc type="pilcrow"/>Illud autem dicitur predicari in quid quod conuenienter res<lb ed="#T"/>pondetur
+            ad interrogationem factam per <mentioned>quid</mentioned>, ut cum queruntur <mentioned>quid est homo</mentioned>
+            <lb ed="#T"/>conuenienter respondetur <mentioned>animal</mentioned>. Et ideo animal predicatur de homine in quid.
+          </p>
+          <p>
+            <pc type="pilcrow"/>Aliter
+            <lb ed="#T"/>autem diffinitur genus sic: genus est cui subponitur species.
+          </p>
 
+          <p>
+            <pc type="pilcrow"/>Genus di<lb ed="#T"/>uiditur
+            in genus generalissimum, et genus subalternum. <pc type="pilcrow"/>Genus
+            <lb ed="#T"/>generalissimum est supra quod non est aliud genus adueniens. Vel sic:
+            <lb ed="#T"/>genus generalissimum est quod cum sit genus non potest esse species, et di<lb ed="#T"/>uiditur
+            in X, que sunt: substantia, quantitas, qualitas, relatio,
+            <lb ed="#T"/>actio, passio, situs, quando, ubi, habitus. Hec autem X dicuntur
+            <lb ed="#T"/>generalissima quia nullum genus habent supra se. Licet enim ens
+            <lb ed="#T"/>dicatur de istis X, equiuoce siue multipliciter dicitur de ipsis, et ideo non est
+            <lb ed="#T"/>genus. De hiis autem X nichil modo dicemus, sed in <ref><title>Predicamentis</title></ref> determinabitur
+            <lb ed="#T"/>de ipsis.
+          </p>
+          <p>
+            <pc type="pilcrow"/>Genus subalternum est quod cum sit genus potest esse species, ut
+            <lb ed="#T"/>animal est genus hominis, et equi, et est species corporis animati.
+          </p>
+        </div>
+        <div>
+          <head>
+            <supplied>Sequitur de specie</supplied>
+          </head>
+          <p>
+            <pc type="pilcrow"/>Species est
+            <lb ed="#T"/>que predicare de pluribus differentibus numero in eo quod quid est. In hac autem
+            <lb ed="#T"/>diffinitione hoc uerbum <mentioned>predicatur</mentioned> dicit aptitudinem, et non actum. <pc type="pilcrow"/>Similiter in aliis, ut
+            <lb ed="#T"/><mentioned>homo</mentioned> predicatur de Socrate et Platone, et de aliis particularibus hominibus que sunt plura
+            <lb ed="#T"/>et differentia etiam numero sunt ut prius patuit; et predicatur de hiis in quid quia cum
+            <lb ed="#T"/>queritur <mentioned>quid est Socrates</mentioned>, conuenienter respondetur <mentioned>homo</mentioned>.
+          </p>
+          <p>
+            <pc type="pilcrow"/>Diffinitur etiam sic: species est
+            <lb ed="#T"/>que ponitur sub genere. Et sic species est de qua genus in eo quod quid
+            <lb ed="#T"/>sit predicatur.
+          </p>
+          <p>
+            <pc type="pilcrow"/>Et diuiditur per speciem specialissimam, et speciem subal<lb ed="#T"/>ternam.
+            <pc type="pilcrow"/>Species specialissima est que cum sit species non potest esse genus,
+            <lb ed="#T"/>ut homo et equs, et consimilia. Vel species specialissima est sub qua non
+            <!-- the folio was torn: it would contain the end of this treatise and the begininng of the IV treatise (De sillogismis)-->
+          </p>
+        </div>
       </div>
     </body>
   </text>

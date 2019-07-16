@@ -5,11 +5,11 @@
         <title>Tractatus 1</title>
       	<author>Petrus Hispanus</author>
         <editor>Joana Gomes</editor>
-        <editor>Mario</editor>
+        <editor>Mário João Correia</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Tractatus 1</title>
+          <title>Tractatus 4: De sillogismis</title>
           <date when="2019-06-06">June 5, 2019</date>
         </edition>
       </editionStmt>
@@ -22,7 +22,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="T" n="cod-u8776t">Tarragona, Library of the Palacio del Arzobispo, cod 2</witness>
+          <witness xml:id="T" n="cod-u8776t">Tarragona, Arxiu Historic Arxidiocesà, cod 2 (85)</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -45,14 +45,388 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        
+      <pb ed="#T" n="2A-r"/><cb ed="#T" n="a"/>
       </div>
     </front>
     <body>
       <div xml:id="phsl-t1">
-        
-        
+        <div>
+          <head>
+            <supplied>de modo et figura</supplied>
+          </head>
+          <p>
+          <!--lacks the beginning: the torn folio.-->
+            <pb ed="#T" n="2A-r"/>
+            <cb ed="#T" n="a"/>
+            <lb ed="#T"/>
+            titate et qualitate.
+          </p>
+        </div>
 
+        <div>
+          <head>
+            <supplied>De regulis uniuersalibus</supplied>
+          </head>
+          <p>
+            Vnde dantur regule uniuersales ad
+            <lb ed="#T"/>quamlibet figuram:
+          </p>
+          <p> <!--RULES-->
+            <pc type="#pilcrow"/>Ex puris particularibus uel indefinitis uel singula<lb ed="#T"/>ribus
+            non potest fieri sillogismus. Vnde oportet alteram premissarum esse uniuersalem.
+          </p>
+          <p>
+            <lb ed="#T"/><pc type="#pilcrow"/>Item: ex puris negatiuis in nulla figura potest fieri sillogismus. Vnde oportet
+            <lb ed="#T"/>alteram premissarum esse affirmatiuam.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Item: si aliqua pre<lb ed="#T"/>missarum
+            est particularis, conclusio debet esse particularis, et non econuerso.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Item: si
+            <lb ed="#T"/>aliqua premissarum est negatiua, et conclusio negatiua.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Item:
+            <lb ed="#T"/>medium nunquam debet noui in conclusione.
+          </p>
+        </div>
+
+        <div>
+          <head>
+            <supplied>Sequitur de prima figura</supplied>
+          </head>
+          <p>
+            <pc type="#pilcrow"/>Prima figura IX
+            <lb ed="#T"/>modos habet, IIII primos directe concludentes, et quinque se<lb ed="#T"/>quentes
+            indirecte concludentes. Directe autem concludere
+            <lb ed="#T"/>est maiorem extremitatem predicari de minori in conclusione.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Indirecte autem
+            <lb ed="#T"/>concludere est minorem extremitatem predicari de maiori in conclusione.
+          </p>
+          <p><!--RULES-->
+            <lb ed="#T"/><pc type="#pilcrow"/>Prima regula prime figure est talis: in IIII primis
+            <lb ed="#T"/>modis directe concludentibus minori negatiua nichil sequitur.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Item in
+            <lb ed="#T"/>eisdem maiori existente particulari nichil sequitur.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Nota hic duas regulas
+            <lb ed="#T"/>quarum prima concludit <gap extent="2" unit="characters"/> prime et tercie figure; <pc type="#pilcrow"/>secunda non concludit <unclear>rationem</unclear>
+            <lb ed="#T"/>prime quo ad primos IIII modos, et sic quo ad omnis.
+          </p>
+
+          <p>
+            <pc type="#pilcrow"/>Pri<lb ed="#T"/>mus
+            autem modus prime figure constat ex duabus propositionibus uni<lb ed="#T"/>uersalibus
+            affirmatiuis uniuersalem affirmatiuam concludentibus. Vt: <mentioned>omne
+            <lb ed="#T"/>animal est substantia; omnis homo est animal; ergo omnis homo est substantia</mentioned>.
+          </p>
+          <p>
+            <lb ed="#T"/><pc type="#pilcrow"/>Secundus constat ex uniuersali negatiua et uniuersali affirmatiua, uniuersalem
+            <lb ed="#T"/>negatiuam concludentibus. Vt: <mentioned>nullum animal est lapis; omnis homo
+            <lb ed="#T"/>est animal; ergo nullus homo est lapis</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Tercius constat ex uniuersali
+            <lb ed="#T"/>affirmatiua et particulari affirmatiua, particularem affirmatiuam concluden<lb ed="#T"/>tibus.
+            Vt: <mentioned>omne animal est substantia; quidam homo est animal; ergo quidam
+            <lb ed="#T"/>homo est substantia</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Quartus constat ex uniuersali negatiua et particulari aff<lb ed="#T"/>irmatiua
+            concludentibus particularem negatiuam. Vt: <mentioned>nullum animal
+            <lb ed="#T"/>est lapis; quidam homo est animal; ergo quidam homo non est lapis</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Quin<lb ed="#T"/>tus
+            constat ex duabus uniuersalibus affirmatiuis particularem affirmatiuam in<lb ed="#T"/>directe
+            concludentibus. Vt: <mentioned>omne animal est substantia; omnis homo est
+            <lb ed="#T"/>animal; ergo quidam substantia est homo</mentioned>. Et probatur per primum prime conclu<lb ed="#T"/>dentem
+            uniuersalem affirmatiuam, que conuertitur in particularem que, scilicet, particularis con<lb ed="#T"/>cluditur
+            in hoc quinto.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Sextus constat ex uniuersali ne<lb ed="#T"/>gatiua
+            et uniuersali affirmatiua, uniuersalem negatiuam indirecte conclu<lb ed="#T"/>dentibus.
+            Vt: <mentioned>nullum animal est lapis; omnis homo est animal; ergo nullus
+            <lb ed="#T"/>lapis est homo</mentioned>. Reducitur ad secundum prime per conuersionem conclusionis
+            <lb ed="#T"/>simpliciter.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Septimus constat ex uniuersali affirmatiua et particulari aff<lb ed="#T"/>irmatiua
+            particularem affirmatiuam indirecte concludentibus. Vt: <mentioned>omne
+            <lb ed="#T"/>animal est substantia; quidam homo est animal; ergo quidam substantia est homo</mentioned>. Et red<lb ed="#T"/>ucitur
+            ad tercium prime regule <gap extent="9" unit="characters"/> simpliciter.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Octa<lb ed="#T"/>uus
+            constat ex uniuersali affirmatiua et uniuersali negatiua particularem ne<lb ed="#T"/>gatiuam
+            indirecte concludentibus. Vt: <mentioned>omne animal est substantia; nullus
+            <lb ed="#T"/>lapis est animal; ergo quidam substantia non est lapis</mentioned>. Et reducitur ad
+            <lb ed="#T"/>quartum prime conuersa maiori per accidens et minori simpliciter
+            <cb ed="#T" n="b"/>
+            <lb ed="#T"/>et per transpositionem.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Nonus constat ex particulari affi<lb ed="#T"/>rmatiua
+            et uniuersali negatiua particularem negatiuam indirecte
+            <lb ed="#T"/>concludentibus. Vt: <mentioned>quidam animal est substantia; nullus lapis est animal;
+            <lb ed="#T"/>ergo quidam substantia non est lapis</mentioned>. Et reducitur ad quartum maiori
+            <lb ed="#T"/>et minori conuersis simpliciter et per transpositionem.
+          </p>
+        </div>
+
+        <div>
+          <head>
+            <supplied>Sequitur de secunda figura</supplied>
+          </head>
+          <p>
+            <pc type="#pilcrow"/>Sequitur
+            <lb ed="#T"/>de secunda figura cuius tales dantur regule:
+          </p>
+          <p><!--RULES-->
+            <pc type="#pilcrow"/>In secunda figura maiori
+            <lb ed="#T"/>existente particulari nichil sequitur.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>In secunda figura ex puris affirma<lb ed="#T"/>tiuis
+            nichil sequitur.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>In secunda figura semper concluditur negatiue, sed hec
+            <lb ed="#T"/>tercia regula potest intelligi per secundam.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Secunda figura quatuor modos
+            <lb ed="#T"/>habet.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Primus constat ex uniuersali negatiua et uniuersale affirmatiua uniuersalem
+            <lb ed="#T"/>negatiuam concludentibus. Vt: <mentioned>nullus lapis est animal; omnis homo est
+            <lb ed="#T"/>animal; ergo nullus homo est lapis</mentioned>. Et reducitur ad secundum prime maiori
+            <lb ed="#T"/>conuersa simpliciter.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Secundus constat ex uniuersali affirmatiua et uniuersali
+            <lb ed="#T"/>negatiua uniuersalem negatiuam concludentibus. Vt: <mentioned>omnis
+            <lb ed="#T"/>homo est animal; nullus lapis est animal; ergo nullus lapis est homo</mentioned>.
+            <lb ed="#T"/>Et reducitur ad secundum prime minori et conclusione conuersa sim<lb ed="#T"/>pliciter
+            et per transpositionem.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Tercius constat ex uniuersali negatiua
+            <lb ed="#T"/>et particulari <unclear reason="damage">affirmatiua particularem</unclear> negatiuam concludentibus. Vt: <mentioned>nullus
+            <lb ed="#T"/>lapis est animal; quidam homo est animal; ergo quidam homo non est lapis</mentioned>.
+            <lb ed="#T"/>Et reducitur ad quartum prime maiori conuersa simpliciter.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Qua<lb ed="#T"/>rtus
+            constat ex uniuersali affirmatiua et particulari negatiua particularem
+            <lb ed="#T"/>negatiuam concludentibus. Vt: <mentioned>omnis homo est animal; quidam lapis
+            <lb ed="#T"/>non est animal; ergo quidam lapis non est homo</mentioned>. Et reducitur ad pri<lb ed="#T"/>mum
+            prime per impossibile. <pc type="#pilcrow"/>Reducere per impossibile est ex opposito
+            <lb ed="#T"/>conclusionis et altera premissarum inferre oppositum alterius premi<lb ed="#T"/>ssarum.
+            <pc type="#pilcrow"/>Sumatur enim oppositum conclusionis haec, scilicet, <mentioned>omnis lapis
+            <lb ed="#T"/>est homo</mentioned>, cum maiori huius quarti, et sillogizabitur in primo
+            <lb ed="#T"/>prime sic: <mentioned>omnis homo est animal; omnis lapis est homo; ergo omnis
+            <lb ed="#T"/>lapis est animal</mentioned>. Ista conclusio opponitur minori quarti, et hoc est pro<lb ed="#T"/>bare
+            per impossibile.
+          </p>
+        </div>
+
+        <div>
+          <head>
+            <supplied>Sequitur de tercia figura</supplied>
+          </head>
+          <p>
+            <pc type="#pilcrow"/>Sequitur de tercia figura. Est autem
+            <lb ed="#T"/>tercia figura in qua idem subicitur in utraque. Cuius tales
+            <lb ed="#T"/>dantur regule:
+          </p>
+          <p> <!--RULES-->
+            <pc type="#pilcrow"/>In tercia figura minori existente negatiua
+            <lb ed="#T"/>nichil sequitur.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>In tercia figura nichil concluditur nisi per particularem.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Ter<lb ed="#T"/>cia
+            uero figura sex habet modos.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Primus constat ex duabus
+            <lb ed="#T"/>uniuersalibus affirmatiuis particularem affirmatiuam concludentibus. Vt: <mentioned>omnis
+            <lb ed="#T"/>homo est substantia; omnis homo est animal; ergo quidam animal est substantia</mentioned>. Et re<lb ed="#T"/>ducitur
+            ad tercium prime minori conuersa per accidens.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Secundus
+            <lb ed="#T"/>constat ex uniuersali negatiua et uniuersali affirmatiua particularem
+            <lb ed="#T"/>affirmatiuam concludentibus. Vt: <mentioned>nullus homo est lapis; omnis homo est
+            <lb ed="#T"/>animal; ergo quidam animal non est lapis</mentioned>. Et reducitur ad quar<lb ed="#T"/>tum
+            prime minori conuersa per accidens.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Tertius constat ex
+            <lb ed="#T"/>particulari affirmatiua et uniuersali affirmatiua particularem affirmatiuam con<lb ed="#T"/>cludentibus.
+            Vt: <mentioned>quidam homo est substantia; omnis homo est animal; ergo quodam
+            <lb ed="#T"/>animal est substantia</mentioned>. Et reducitur ad tercium prime maiori et
+            <pb ed="#T" n="2A-v"/>
+            <cb ed="#T" n="a"/>
+            <lb ed="#T"/>conclusione conuersa et per transpositionem.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Qua<lb ed="#T"/>rtus
+            constat ex uniuersali affirmatiua et particulari affirmatiua particularem aff<lb ed="#T"/>irmatiuam
+            concludentibus. Vt: <mentioned>omnis homo est substantia; quidam homo
+            <lb ed="#T"/>est animal; ergo quidam animal est substantia</mentioned>. Et reducitur ad tercium prime
+            <lb ed="#T"/>minori conuersa simpliciter.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Quintus constat ex particulari ne<lb ed="#T"/>gatiua
+            et uniuersali affirmatiua particularem negatiuam concludentibus.
+            <lb ed="#T"/>Vt: <mentioned>quidam homo non est lapis; omnis homo est animal; ergo quidam animal
+            <lb ed="#T"/>non est lapis</mentioned>. Et reducitur ad primum prime per impossibile. Sum<lb ed="#T"/>atur
+            enim oppositum conclusionis cum altera premissarum et infferatur
+            <lb ed="#T"/>oppositum alterius. Vt: <mentioned>omne animal est lapis; omnis homo est animal;
+            <lb ed="#T"/>ergo omnis homo est lapis</mentioned>. Hec conclusio facta in primo prime contradicit
+            <lb ed="#T"/>maiori quinti modi tercie figure.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Sextus constat ex
+            <lb ed="#T"/>uniuersali negatiua et particulari affirmatiua particularem negatiuam con<lb ed="#T"/>cludentibus.
+            Vt: <mentioned>nullus homo est lapis; quidam homo est animal; ergo qui<lb ed="#T"/>dam
+            animal non est lapis</mentioned>. Reducitur ad quartum prime minori
+            <lb ed="#T"/>conuersa simpliciter.
+          </p>
+        </div>
+
+        <div>
+          <head>
+            <supplied>De quibusdam regulis</supplied>
+          </head>
+          <p><!--Rules-->
+            <pc type="#pilcrow"/>Sillogismorum autem concludentium particularem
+            <lb ed="#T"/>negatiuam indirecte talis datur regula: <pc type="#pilcrow"/>Nullus sillogismus con<lb ed="#T"/>cludens
+            particularem negatiuam indirecte potest <unclear reason="damage">eam concludere</unclear> direc<lb ed="#T"/>te,
+            et concludens directe non potest eam concludere indirecte.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Item:
+            <lb ed="#T"/>prima figura concludit omnia genera propositionum, scilicet, uniuersalem, particularem,
+            <lb ed="#T"/>affirmatiuam, negatiuam.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Secunda uniuersalem, particularem, negatiuam.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Ter<lb ed="#T"/>tia
+            uero affirmatiuam, negatiuam, particularem; uniuersalem autem non.
+          </p>
+
+          <p>
+            <lg>
+              <l><lb ed="#T"/><pc type="#pilcrow"/>Barbara. Celarent. Darii. Ferio. Baralipton.</l>
+              <l><lb ed="#T"/><pc type="#pilcrow"/>Celantes. Dabitis. Fapesmo. Frisesomorum.</l>
+              <l><lb ed="#T"/><pc type="#pilcrow"/>Cesare. Cambestres. Festino. Baroco. Darapti.</l>
+              <l><lb ed="#T"/><pc type="#pilcrow"/>Felapton. Disamis. Datisi. Brocardo. Ferison.</l>
+            </lg>
+          </p>
+          <p>
+            <lb ed="#T"/><pc type="#pilcrow"/>In hiis uersibus sunt X et IX dictiones, X et IX modis trium
+            <lb ed="#T"/>figurarum deseruientes, ita quod per primam dictionem similiter primus modus
+            <lb ed="#T"/>prime figure, et per secundam secundus, et sic de aliis. Vnde duo primi
+            <lb ed="#T"/>uersus deseruiunt modis prime figure. <pc type="#pilcrow"/>Tertius uero uersus preter
+            <lb ed="#T"/>eius ultimam dictionem deseruit modis secunde figure. Ita quod prima dictio
+            <lb ed="#T"/>tercii uersus deseruiat primo modo secunde, et secunda secundo, et sic de aliis.
+            <lb ed="#T"/>Vltima dictio tercii uersus est cum aliis dictionibus quarti, et deseruit
+            <lb ed="#T"/>modis tercie figure per ordinem.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Sciendum ergo quod per has uocales
+            <lb ed="#T"/><mentioned>a</mentioned>, <mentioned>e</mentioned>, <mentioned>i</mentioned>, <mentioned>o</mentioned>, intelliguntur IIII genera propositionum. Per hanc uocalem
+            <lb ed="#T"/><mentioned>a</mentioned> intelligitur uniuersalis affirmatiuam; per <mentioned>e</mentioned>, uniuersalis negatiuam; per <mentioned>i</mentioned>,
+            <lb ed="#T"/>particularis affirmatiuam; per <mentioned>o</mentioned>, particularis negatiuam.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Item in qualibet dictione
+            <lb ed="#T"/>sunt III sillabe, et si aliquid est residuum superfluit, nisi <mentioned>m</mentioned>,
+            <lb ed="#T"/>ut postea patebit. Et per primam illarum trium sillabarum intelligitur
+            <lb ed="#T"/>maior propositio sillogismi, et per secundam minori et per tercia conclusio. Verbi
+            <lb ed="#T"/>gratia, prima dictio, scilicet, <mentioned>barbara</mentioned>, habet III sillabas in quarum qualibet
+            <lb ed="#T"/>ponitur <mentioned>a</mentioned>, et per <mentioned>a</mentioned> ter positum significatur quod primus modus prime
+            <lb ed="#T"/>figure constat ex duabus uniuersalibus affirmatiuis, uniuersalem affirmatiuam
+            <lb ed="#T"/>concludentibus, et ita intelligitur de aliis dictionibus secundum uocales
+            <cb ed="#T" n="b"/>
+            <lb ed="#T"/>ibi positas.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Item sciendum quod prime IIII dictiones primi
+            <lb ed="#T"/>uersus incipiunt ab hiis consonantibus: <mentioned>b</mentioned>, <mentioned>c</mentioned>, <mentioned>d</mentioned>, <mentioned>f</mentioned>, et omnes
+            <lb ed="#T"/>alie dictiones sequentes. Et per hoc intelligendum quod omnes modi
+            <lb ed="#T"/>intellecti per dictionem inchoantem a <mentioned>b</mentioned> reducuntur ad primum; et omnes
+            <lb ed="#T"/>modi intellecti per dictionem inchoantem a <mentioned>c</mentioned> reducuntur ad secundum;
+            <lb ed="#T"/>per <mentioned>d</mentioned> ad tercium; per <mentioned>f</mentioned> ad quartum.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Item ubicumque ponitur <mentioned>s</mentioned>, in
+            <lb ed="#T"/>hiis <unclear reason="damage">dictionibus</unclear> significat quod propositio intellecta per uocalem immediate
+            <lb ed="#T"/>precedentem debet conuerti simpliciter. Et <mentioned>p</mentioned> significat quod propositio debet conuerti per
+            <lb ed="#T"/>accidens significata per dictionem positam ante <mentioned>p</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Vbicumque ponitur
+            <lb ed="#T"/><mentioned>m</mentioned> significat quod debet fieri transpositio in premissis. Est autem transpositio
+            <lb ed="#T"/>facere de maiori minorem et econuerso.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Vbi ponitur <mentioned>c</mentioned>, significat quod 
+            <lb ed="#T"/>modus intellectus per dictionem illam debet probari per impossibile.
+          </p>
+        </div>
+
+        <div>
+          <head>
+            <supplied>De coniugationibus inutilibus</supplied>
+          </head>
+          <p>
+            <lb ed="#T"/><pc type="#pilcrow"/>Et quia <ref><name>Aristoteles</name> in <title>Prioribus<title></ref> ostendit coniugationes in quibus
+            <lb ed="#T"/>non sequitur conclusio ex premissis esse inutiles per inuentionem
+            <lb ed="#T"/>terminorum in quibus non tenet huius coniugatio, ideo utilis est inuen<lb ed="#T"/>tio
+            talium terminorum. Vbicumque ergo inutilis coniugatio est contra regulas
+            <lb ed="#T"/>sillogismorum prius assignata, accipiendi sunt duo termini sic,
+            <lb ed="#T"/>scilicet, due species sub uno genere, ut <mentioned>homo asinus</mentioned>, <mentioned>animal</mentioned>; vel duo
+            <lb ed="#T"/>termini quorum alter de altero predicetur siue conuertibiliter, siue non cum
+            <lb ed="#T"/>extrinseco utriusque, ut <mentioned>homo, risibile, lapis</mentioned>, uel <mentioned>homo, animal, lapis</mentioned>.
+            <lb ed="#T"/>Aut etiam accipiendi sunt duo termini quorum alter de altero pre<lb ed="#T"/>dicetur
+            siue conuertibiliter, siue non cum intrinsecum ad utriumque, ut <mentioned>homo,
+            <lb ed="#T"/>risibile, substantia</mentioned>, uel <mentioned>homo, animal, substantia</mentioned>. Per has enim dictas tres regulas
+            <lb ed="#T"/>cuicumque generi aplicentur siue substantie, siue qualitati, siue alicui
+            <lb ed="#T"/>aliorum, semper inueniuntur termini per quos inutilis coniugatio
+            <lb ed="#T"/>mostrabitur non tenere, et tales terminos appellat <ref><name>Aristoteles</name> in <title>Prio<lb ed="#T"/>ribus</title></ref>
+            terminos in quibus non <unclear>tenet</unclear> coniugatiua.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Et nota quod inue<lb ed="#T"/>nire
+            terminos in quibus non est ex acceptis terminis facere coniugationem in qua premisse sint uere et conclusio falsa, manente
+            <lb ed="#T"/>eadem qualitate et quantitate propositionum, et figura similiter in coniu<lb ed="#T"/>gatione
+            inutili; contra regulas <gap extent="4" unit="characters"/> prius <unclear>factus</unclear> in coniuga<lb ed="#T"/>tione
+            inutili facienda. Verbi gratia, hec est inutilis coniugatio: <mentioned>nullus
+            <lb ed="#T"/>homo est asinus; nullus lapis est homo; ergo nullus lapis est asinus</mentioned>. Et ista sunt
+            <lb ed="#T"/>termini in quibus sic. Contra hanc coniugationem inutilem sic acci<lb ed="#T"/>piuntur
+            termini in quibus non: <mentioned>nullus asinus est homo; nullum risibile
+            <lb ed="#T"/>est asinus; ergo nullum risibile est homo</mentioned>. Ecce premisse sunt uere, et conclusio
+            <lb ed="#T"/>falsa, seruata eadem quantitate et qualitate propositionum, et manente
+            <lb ed="#T"/>eadem figura in utraque coniugatione inutili.
+          </p>
+        </div>
       </div>
     </body>
   </text>

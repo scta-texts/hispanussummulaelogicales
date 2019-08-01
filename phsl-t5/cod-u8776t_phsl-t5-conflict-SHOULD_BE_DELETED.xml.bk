@@ -45,8 +45,7 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        <pb ed="#T" n="2A-v"/>
-        <cb ed="#T" n="b"/>
+        <pb ed="#T" n="2A-v"/><cb ed="#T" n="b"/>
       </div>
     </front>
     <body>
@@ -56,11 +55,10 @@
             <supplied>De ratio multiplici</supplied>
           </head>
           <p> <!--It begins in the end of f. 2A-vb -->
-            <!-- Since the text doesn't start on the first line of 2A-vb, we don't need these page break and column break milestones here
-              they are indicated above in the "starts-on" div
-              <pb ed="#T" n="2A-v"/>
-            <cb ed="#T" n="b"/>-->
-            <lb ed="#T"/><pc type="#pilcrow"/>Ratio multipliciter dicitur. Vno enim modo idem est quod diffinitio, uel
+            <pb ed="#T" n="2A-v"/>
+            <cb ed="#T" n="b"/>
+            <lb ed="#T"/>
+            <pc type="#pilcrow"/>Ratio multipliciter dicitur. Vno enim modo idem est quod diffinitio, uel
             <lb ed="#T"/><unclear>descriptio</unclear>, ut hic: <mentioned>uniuoca dicuntur quorum nomen est commune
             <lb ed="#T"/>ratio substantie secundum illud nomen est eadem</mentioned> <!--This is a quote, but he doesn't say it is... Aristoteles, Categoriae, 1, 1a8-9-->
           </p>
@@ -89,6 +87,7 @@
             <lb ed="#T"/>Hoc ultimo modo sumitur ratio in diffinitione argumenti sic.
           </p>
         </div>
+
         <div>
           <head>
             <supplied>Sequitur de argumento et argumentatione</supplied>
@@ -137,7 +136,7 @@
           </p>
           <p>
             <pc type="#pilcrow"/>Sic
-            <lb ed="#T"/>diffinit <ref><name>Aristoteles</name></ref> entimema: <pc type="#pilcrow"/>entimema est ex <mentioned>yco<lb ed="#T"/>tibus</mentioned>
+            <lb ed="#T"/>diffinit <ref><name>Aristoteles</name><ref> entimema: <pc type="#pilcrow"/>entimema est ex <mentioned>yco<lb ed="#T"/>tibus</mentioned>
             ex et <mentioned>signis</mentioned>. <mentioned>Ycos</mentioned> autem idem est quod propositio
             <choice>
               <sic>de materia</sic>
@@ -147,7 +146,7 @@
           </p>
           <p>
             <pc type="#pilcrow"/>Signum autem secundum quod hic
-            <lb ed="#T"/>sumitur <unclear reason="damage">dicit necessitatem</unclear> illationis. <mentioned>Ycos</mentioned> autem dicit probabilitatem
+            <lb ed="#T"/>sumitur <unclear reason=damage>dicit necessitatem</unclear> illationis. <mentioned>Ycos</mentioned> autem dicit probabilitatem
             <lb ed="#T"/>propositionis in se, secundum quam probabilitatem <unclear>materie</unclear> propositio est uera. Vnde
             <lb ed="#T"/>notandum quod in entimemate est infferendi propositio una infferens, et alia illata.
             <lb ed="#T"/>Vnde secundum quod propositio infferens apparet omnibus esse uera, in pluri<lb ed="#T"/>bus
@@ -184,7 +183,7 @@
             <lb ed="#T"/>secundum exigentiam modi, et fit sillogismus. Verbi gratia, in hoc enthimemate –
             <lb ed="#T"/><mentioned>omne animal currit; ergo omnis homo currit</mentioned> –, <mentioned>homo</mentioned> et <mentioned>currit</mentioned> sunt extremitates, <mentioned>animal</mentioned>
             <lb ed="#T"/>est medium. Sed hec extremitas, scilicet, <mentioned>homo</mentioned> sumpta est semel; ergo ex
-            <lb ed="#T"/>ipsa et medio fiet propositio una <gap extent="2" unit="characters"/> et tunc completus est sillogismus
+            <lb ed="#T"/>ipsa et medio fiet propositio una <gap extent=”2” unit="characters"/> et tunc completus est sillogismus
             <lb ed="#T"/>sic: <mentioned>omne animal currit; omnis homo est animal; ergo omnis homo currit</mentioned>.
           </p>
           <p>
@@ -196,6 +195,7 @@
             <lb ed="#T"/>affines.
           </p>
         </div>
+
         <div>
           <head>
             <supplied>De loco in generali</supplied>
@@ -210,13 +210,13 @@
             <choice>
               <sic>et et</sic>
               <corr>et</corr>
-            </choice>
-            <lb ed="#T"/>conclusio secundum substantiam siue in subiecto <unclear reason="damage">idem sunt</unclear>. Eadem autem oratio est
-            <lb ed="#T"/>propositio et questio et conclusio, ut <mentioned>omnis homo currit</mentioned>. Differunt autem
-            <lb ed="#T"/>secundum rationes; diuersas enim habent rationes, siue diffinitiones ut prius patu<lb ed="#T"/>it.
-            Secundum quod dubitatur est questio, prout probatur per argumentum
-            <lb ed="#T"/>est conclusio. Secundum autem quod ponitur pro alio in premissis est propositio.
-            <lb ed="#T"/>Vnde propositio dicitur secundum quod est in premissis ad probandam conclusionem.
+            <choice>
+              <lb ed="#T"/>conclusio secundum substantiam siue in subiecto <unclear reason="damage">idem sunt</unclear>. Eadem autem oratio est
+              <lb ed="#T"/>propositio et questio et conclusio, ut <mentioned>omnis homo currit</mentioned>. Differunt autem
+              <lb ed="#T"/>secundum rationes; diuersas enim habent rationes, siue diffinitiones ut prius patu<lb ed="#T"/>it.
+              Secundum quod dubitatur est questio, prout probatur per argumentum
+              <lb ed="#T"/>est conclusio. Secundum autem quod ponitur pro alio in premissis est propositio.
+              <lb ed="#T"/>Vnde propositio dicitur secundum quod est in premissis ad probandam conclusionem.
           </p>
           <p>
             <lb ed="#T"/><pc type="#pilcrow"/>Locus diuiditur in locum maximam et in locum differentiam maxime.
@@ -229,11 +229,11 @@
             <lb ed="#T"/>alia. Verbi gratia, iste maxime – <mentioned>de quocumque species et genus</mentioned>, <mentioned>de quocumque
             <lb ed="#T"/>diffinitio et diffinitum</mentioned> – differunt per terminos ex quibus componuntur.
             <lb ed="#T"/>Vna enim componitur ex genere et specie. Alia uero ex diffinitione
-            <lb ed="#T"/>et <unclear reason="damage">diffinito</unclear>. Vnde isti termini simplices dicuntur differentie maxime
+            <lb ed="#T"/>et <unclear reason=”damage”>diffinito</unclear>. Vnde isti termini simplices dicuntur differentie maxime
             <lb ed="#T"/>et tam locus maxima quam locus differentie maxime dicitur <mentioned>locus</mentioned>, quia uterque con<lb ed="#T"/>fert
             firmitudinem argumento. Vnde proportionaliter sumitur hic <mentioned>locus</mentioned>
             <lb ed="#T"/>ad locum in rebus naturalibus, quia sicut locus ibi dat
-            fir<pb ed="#T" n="3-v"/><cb ed="#T" n="a"/><lb ed="#T"/>mitudinem rebus naturalibus et conseruat eas inesse,
+            fir<pb ed="#T" n="3-v"><cb ed="#T" n="a"><lb ed="#T"/>mitudinem rebus naturalibus et conseruat eas inesse,
             <lb ed="#T"/>similiter hic locus conseruat argumentum.
           </p>
           <p>
@@ -256,19 +256,18 @@
             <lb ed="#T"/>denominatiuo, que dicuntur coniungata, ut si queratur utrum iust<lb ed="#T"/>icia
             sit bona, et probetur sic: <mentioned>iustum est bonum, ergo iusti<lb ed="#T"/>cia</mentioned>.
           </p>
-          <!-- MARIO: is this supposed to be a child de loco in generali or a sibling. If it is a child, then it is correct;
-            if it is a sibling, then the above <div> needs to close first. JEFF: This is a child. The idea is that he first says some general
-          remarks on topical arguments and then he starts dividing them. So, it is better to look at them as children... -->
+
           <div>
-            <head>
-              <supplied>De locis intrinsecis</supplied>
-            </head>
+              <head type="question-title">
+                <supplied>De locis intrinsecis</supplied>
+              </head>
             <p>
               <pc type="#pilcrow"/>Item locus intrinsecus diuiditur per locum a substantia et
               <lb ed="#T"/>per locum a concomitantibus substantiam.
             </p>
+
             <div>
-              <head>
+              <head type="question-title">
                 <supplied>Sequitur de loco a substantia</supplied>
               </head>
               <p>
@@ -277,6 +276,7 @@
                 hic locus per locum a diffinitione, et locum a descriptione, et
                 <lb ed="#T"/>locum a nominis interpretatione.
               </p>
+
               <div>
                 <head>
                   Sequitur de diffinitione
@@ -284,7 +284,7 @@
                 <p>
                   <lb ed="#T"/><pc type="#pilcrow"/>Diffinitio est oratio quid est esse rei significans. <pc type="#pilcrow"/>Locus
                   <lb ed="#T"/>a diffinitione est habitudo diffinitionis a diffinitum,
-                  <lb ed="#T"/>et continet IIII argumenta et IIII maximas. Prius <unclear reason="damage">subici<lb ed="#T"/>endo</unclear>
+                  <lb ed="#T"/>et continet IIII argumenta et IIII maximas. Prius <unclear reason=”damage”>subici<lb ed="#T"/>endo</unclear>
                   diffinitionem affirmatiue. Secundo predicando eam affirmatiue.
                   <lb ed="#T"/><pc type="#pilcrow"/>Tertio subiciendo eam negatiue. Quarto predicando eam
                   <lb ed="#T"/>negatiue.
@@ -307,8 +307,9 @@
                   <lb ed="#T"/>diffinitione. Maxima: <!--Rule-->a quocumque remouetur diffinitio et diffinitum.
                 </p>
               </div>
+
               <div>
-                <head>
+                <head type="question-title">
                   <supplied>Sequitur de diffinito</supplied>
                 </head>
                 <p>
@@ -346,8 +347,9 @@
                   <lb ed="#T"/>et non ab illato.
                 </p>
               </div>
+
               <div>
-                <head>
+                <head type="question-title">
                   Sequitur de descriptione
                 </head>
                 <p>
@@ -363,8 +365,9 @@
                   ponitur hic descriptio.
                 </p>
               </div>
+
               <div>
-                <head>
+                <head type="question-title">
                   Sequitur de interpretatione
                 </head>
                 <p>
@@ -388,8 +391,9 @@
                 </p>
               </div>
             </div>
+
             <div>
-              <head>
+              <head type="question-title">
                 <supplied>Sequitur de loco a concomitantibus substantiam</supplied>
               </head>
               <p>
@@ -399,8 +403,9 @@
                 <lb ed="#T"/>alius a generatione, alius a corruptione, alius ab usibus,
                 <lb ed="#T"/>alius a communiter accidentibus.
               </p>
+
               <div>
-                <head>
+                <head type="question-title">
                   <supplied>Sequitur de loco a toto</supplied>
                 </head>
                 <p>
@@ -409,8 +414,9 @@
                   aliud in modo, aliud in loco, aliud in tempore, et sic diuiditur
                   <lb ed="#T"/>locus a toto.
                 </p>
+
                 <div>
-                  <head>
+                  <head type="question-title">
                     <supplied>Sequitur de loco a toto uniuersali siue a genere</supplied>
                   </head>
                   <p>
@@ -424,7 +430,7 @@
                   </p>
                 </div>
                 <div>
-                  <head>
+                  <head type="question-title">
                     <supplied>Sequitur de loco a specie siue a parte subiectiua</supplied>
                   </head>
                   <p>
@@ -438,7 +444,7 @@
                   </p>
                 </div>
                 <div>
-                  <head>
+                  <head type="question-title">
                     <supplied>Sequitur de loco a parte integrali</supplied>
                   </head>
                   <p>
@@ -459,7 +465,7 @@
                   </p>
                 </div>
                 <div>
-                  <head>
+                  <head type="question-title">
                     Sequitur de loco a toto in quantitate
                   </head>
                   <p>
@@ -469,7 +475,7 @@
                     <lb ed="#T"/><mentioned>omnis homo currit; ergo Socrates currit</mentioned>. Locus a toto in quantitate. Maxima: quicquid
                     <lb ed="#T"/>predicatur de toto in quantitate, et de qualibet eius parte; uel si uniuersalis
                     <lb ed="#T"/>est uera, quelibet singularis est uera. Destructio sic: <mentioned>nullus homo
-                    <lb ed="#T"/>currit; ergo Socrates non <unclear reason="damage">currit</unclear></mentioned>. Locus a toto in quantitate. Maxima: Quicquid remouetur
+                    <lb ed="#T"/>currit; ergo Socrates non <unclear reason=”damage”>currit</unclear>. Locus a toto in quantitate. Maxima: Quicquid remouetur
                     <lb ed="#T"/>a toto in quantitate, et a qualibet eius parte; uel si uniuersalis est
                     <lb ed="#T"/>uera; quelibet singularis est uera.
                   </p>
@@ -486,7 +492,7 @@
                   </p>
                 </div>
                 <div>
-                  <head>
+                  <head type="question-title">
                     <supplied>Sequitur de loco a toto in modo</supplied>
                   </head>
                   <p>
@@ -499,7 +505,7 @@
                   </p>
                 </div>
                 <div>
-                  <head>
+                  <head type="question-title">
                     <supplied>Sequitur de loco a toto in loco</supplied>
                   </head>
                   <p>
@@ -515,11 +521,11 @@
                     <pc type="#pilcrow"/>Pars in loco est dictio comprehendens unum
                     <lb ed="#T"/>locum aduerbialiter, ut <mentioned>hic</mentioned>, uel <mentioned>ibi</mentioned>. <pc type="#pilcrow"/>Locus a parte in loco
                     <lb ed="#T"/>est habitudo ipsius ad suum totum, ut <mentioned>Cesar non est hic; ergo non
-                    <lb ed="#T"/>est ubique</mentioned>. Maxima: <unclear reason="damage">cuicumque</unclear> pars in loco, nec enim totum.
+                    <lb ed="#T"/>est ubique</mentioned>. Maxima: <unclear reason=”damage”>cuicumque</unclear> pars in loco, nec enim totum.
                   </p>
                 </div>
                 <div>
-                  <head>
+                  <head type="question-title">
                     <supplied>Sequitur de loco a toto in tempore</supplied>
                   </head>
                   <p>
@@ -530,17 +536,19 @@
                   </p>
                 </div>
               </div>
+
               <div>
-                <head>
+                <head type="question-title">
                   Sequitur de causa
                 </head>
                 <p>
                   <lb ed="#T"/><pc type="#pilcrow"/>Causa est <add place="above-line">ad</add> cuius esse sequitur aliud secundum naturam, et diuiditur
-                  <cb ed="#T" n="b"/>
+                  <cb ed="#T"/ n="b">
                   <lb ed="#T"/>in causam efficientem, materialem, formalem et finalem.
                 </p>
+
                 <div>
-                  <head>
+                  <head type="question-title">
                     <supplied>Sequitur de causa efficiente</supplied>
                   </head>
                   <p>
@@ -557,7 +565,7 @@
                   </p>
                 </div>
                 <div>
-                  <head>
+                  <head type="question-title">
                     <supplied>Sequitur de causa materiali</supplied>
                   </head>
                   <p>
@@ -586,7 +594,7 @@
                   </p>
                 </div>
                 <div>
-                  <head>
+                  <head type="question-title">
                     <supplied>Sequitur de loco a causa formali</supplied>
                   </head>
                   <p>
@@ -602,7 +610,7 @@
                   </p>
                 </div>
                 <div>
-                  <head>
+                  <head type="question-title">
                     <supplied>Sequitur de loco a causa finali</supplied>
                   </head>
                   <p>
@@ -616,8 +624,9 @@
                   </p>
                 </div>
               </div>
+
               <div>
-                <head>
+                <head type="question-title">
                   <supplied>Sequitur de loco a generatione</supplied>
                 </head>
                 <p>
@@ -629,8 +638,9 @@
                   <lb ed="#T"/>et si generatum est malum eius generatio est mala.
                 </p>
               </div>
+
               <div>
-                <head>
+                <head type="question-title">
                   <supplied>Sequitur de loco a corruptione</supplied>
                 </head>
                 <p>
@@ -644,8 +654,9 @@
                   <lb ed="#T"/>a corrupto.
                 </p>
               </div>
+
               <div>
-                <head>
+                <head type="question-title">
                   <supplied>Sequitur de loco ab usibus</supplied>
                 </head>
                 <p>
@@ -659,288 +670,298 @@
                   <lb ed="#T"/>sic: <mentioned>occidere est malum; ergo occisor est malus</mentioned>.
                 </p>
               </div>
+
               <div>
-                <head>
+                <head type="question-title">
                   A communiter accidentibus
                 </head>
                 <p>
-                  <lb ed="#T"/><pc type="#pilcrow"/><mentioned>Communiter accidentia</mentioned> sumuntur dupliciter: quedam enim sunt que
+                  <lb ed="#T"/><pc type="#pilcrow"/></mentioned>Communiter accidentia</mentioned> sumuntur dupliciter: quedam enim sunt que
                   <lb ed="#T"/>aliquando se consequuntur, et aliquando non, ut <mentioned>comptus</mentioned> et <mentioned>ad<lb ed="#T"/>ulter</mentioned>,
                   et ab hiis non sumitur locus dyalecticus sed sophisticus. Alia
-                  <lb ed="#T"/>sunt quorum alterum semper consequitur alterum, ut <unclear reason="damage"><mentioned>penitere</mentioned></unclear> sequitur
+                  <lb ed="#T"/>sunt quorum alterum semper consequitur alterum, ut <unclear reason="damage"></mentioned>penitere</mentioned></unclear> sequitur
                   <lb ed="#T"/><mentioned>deliquisse</mentioned>, et ab hiis sumitur dyalecticus, ut <mentioned>penitet; ergo de<lb ed="#T"/>liquit</mentioned>.
                   <pc type="#pilcrow"/>Locus a communiter accidentibus. Maxima: si communiter accidentium
                   <lb ed="#T"/><unclear>unde</unclear> posterius inesse, necesse est et primum inesse. <pc type="#pilcrow"/>Destructiue sic: <mentioned>non
                   <lb ed="#T"/>deliquit, siue non peccauit; ergo non penitet</mentioned>. Locus a communiter
                   <lb ed="#T"/>accidentibus. Maxima: si communiter accidentium primum non inesse, neque posterius.
                 </p>
-              </div>
-              <!-- Mario: dbcheck here; there was a empty div here that I removed. JEFF: What I intended was this: close the div of 'locus a communiter accidentibus',
-            which is a child of de 'locis a concomitantibus substantiae', which is a child of 'de locis intrinsecis'. So I had to close the div in the parents too. I probably lost myself... :) -->
               <div>
-                <head>
-                  <supplied>De locis extrinsecis</supplied>
+            </div>
+
+            <div>
+              <head type="question-title">
+                <supplied>De locis extrinsecis</supplied>
+              </head>
+              <p>
+                <lb ed="#T"/>Quid sit locus extrinsecus dictum est prius. <pc type="#pilcrow"/>Locorum autem
+                <lb ed="#T"/>extrinsecorum, alius ab oppositis, alius a maiori, alius
+                <lb ed="#T"/>a minori, alius a simili, alius a proportione, alius a transumptione,
+                <lb ed="#T"/>alius ab auctoritate.
+              </p>
+
+              <div>
+                <head type="question-title">
+                  <supplied>De loco ab oppositis</supplied>
                 </head>
                 <p>
-                  <lb ed="#T"/>Quid sit locus extrinsecus dictum est prius. <pc type="#pilcrow"/>Locorum autem
-                  <lb ed="#T"/>extrinsecorum, alius ab oppositis, alius a maiori, alius
-                  <lb ed="#T"/>a minori, alius a simili, alius a proportione, alius a transumptione,
-                  <lb ed="#T"/>alius ab auctoritate.
+                  <pc type="#pilcrow"/>Item oppositorum IIII sunt species, scilicet, oppositio re<lb ed="#T"/>latiua,
+                  et contrarietas, et oppositio priuatiua, et contradictio. <pc type="#pilcrow"/>Contrarietas est
+                  <lb ed="#T"/>contrariorum oppositio, ut albus et niger. Contradictio est oppositio cuius secundum se
+                  <lb ed="#T"/>non est medium.
                 </p>
                 <div>
-                  <head>
-                    <supplied>De loco ab oppositis</supplied>
+                  <head type="question-title">
+                    <supplied>De loco a relatiue oppositis</supplied>
                   </head>
                   <p>
-                    <pc type="#pilcrow"/>Item oppositorum IIII sunt species, scilicet, oppositio re<lb ed="#T"/>latiua,
-                    et contrarietas, et oppositio priuatiua, et contradictio. <pc type="#pilcrow"/>Contrarietas est
-                    <lb ed="#T"/>contrariorum oppositio, ut albus et niger. Contradictio est oppositio cuius secundum se
-                    <lb ed="#T"/>non est medium.
-                  </p>
-                  <div>
-                    <head>
-                      <supplied>De loco a relatiue oppositis</supplied>
-                    </head>
-                    <p>
-                      <pc type="#pilcrow"/>Locus a relatiue oppositis est habitudo
-                      <lb ed="#T"/>unius correlatiuorum ad alterum, et est constructiuus et destructiuus. Vt: <mentioned>pater
-                      <lb ed="#T"/>est; ergo filius est</mentioned>, et econuerso. Vel: <mentioned>pater non est; ergo filius non est</mentioned>, et
-                      <lb ed="#T"/>econuerso. <pc type="#pilcrow"/>Locus a relatiue oppositis. Maxima: posito uno relatiuorum
-                      <lb ed="#T"/>ponitur et reliquum.
-                    </p>
-                  </div>
-                  <div>
-                    <head>
-                      <supplied>De loco a contrariis</supplied>
-                    </head>
-                    <p>
-                      <pc type="#pilcrow"/>Contrariorum quedam sunt mediata, ut
-                      <lb ed="#T"/>album, nigrum, inter que sunt medii colores; quedam immediata, ut
-                      <lb ed="#T"/>sanum et egrum circa animal. <pc type="#pilcrow"/>Locus a contrariis est habitudo unius
-                      <lb ed="#T"/>contrariorum ad reliquum. <pc type="#pilcrow"/>Constructiue sic: <mentioned>hoc animal est sanum; ergo non
-                      <lb ed="#T"/>est egrum</mentioned>. Vel: <mentioned>hoc corpus est album; ergo non est nigrum</mentioned>. <pc type="#pilcrow"/>Locus
-                      <lb ed="#T"/>a contrariis. Maxima: posito uno contrariorum, remouetur et reliquum ab
-                      <lb ed="#T"/>eodem. <pc type="#pilcrow"/>Destructiue tenet in contrariis immediatis cum constantia subiecti,
-                      <lb ed="#T"/>ut <mentioned>hoc animal non est sanum; ergo est egrum</mentioned>. <pc type="#pilcrow"/>Locus a contrariis
-                      <lb ed="#T"/>immediatis. Maxima: remoto uno contrariorum immediatorum
-                      <lb ed="#T"/>ponitur reliquum manente subiecto.
-                    </p>
-                  </div>
-                  <div>
-                    <head>
-                      <supplied>De loco a priuatiue oppositis</supplied>
-                    </head>
-                    <p>
-                      <pc type="#pilcrow"/>Que sunt priuatiue oppo<lb ed="#T"/>sita
-                      dictum est prius. <pc type="#pilcrow"/>Locus a priuatiue oppositis est ha<cb ed="#T" n="b"/><lb ed="#T"/>bitudo
-                      priuationis ad habitum, uel habitus ad priuatio<lb ed="#T"/>nem,
-                      ut <mentioned>est uidens; ergo non est cecus</mentioned>. Vel: <mentioned>est cecus; ergo non est
-                      <lb ed="#T"/>uidens</mentioned>. <pc type="#pilcrow"/>Locus a priuatiue oppositis. Maxima: posito u<lb ed="#T"/>no
-                      priuatiue oppositorum, remouetur et reliquum ab eodem. De<lb ed="#T"/>structiue
-                      non tenet nisi cum constantia subiecti et tempore a natura determin<lb ed="#T"/>ato.
-                      Catulus enim non est cecus, neque uidens ante nonum di<lb ed="#T"/>em,
-                      et puer non dicitur edentulus, nec dentulus ante tempus determin<lb ed="#T"/>atum.
-                    </p>
-                  </div>
-                  <div>
-                    <head>
-                      <supplied>De loco a contradictorie oppositis</supplied>
-                    </head>
-                    <p>
-                      <pc type="#pilcrow"/>Locus a contradictorie oppositis est habitudo u<lb ed="#T"/>nius
-                      contradictorie oppositorum ad reliquum. Vt: <mentioned>Socrates sedere est
-                      <lb ed="#T"/>uerum; ergo Socrates non sedere est falsum</mentioned>. Maxima: si unum contradi<lb ed="#T"/>ctorie
-                      oppositorum est uerum, reliquum est falsum, et econuerso.
-                    </p>
-                  </div>
-                </div>
-                <div>
-                  <head>
-                    <supplied>De loco a maiori</supplied>
-                  </head>
-                  <p>
-                    <lb ed="#T"/><pc type="#pilcrow"/>Maius ut hic sumitur est illud quod subponitur alicui in pote<lb ed="#T"/>state,
-                    uel uirtute. Minus autem est quod ei subponitur. <pc type="#pilcrow"/>Locus
-                    <lb ed="#T"/>a maiori est habitudo maioris ad minus, et est semper destructiuus,
-                    <lb ed="#T"/>ut <mentioned>rex non potest expugnare castrum; ergo nec miles</mentioned>. Locus
-                    <lb ed="#T"/>a maiori. Maxima: si id quod magis uidetur inesse non inest, nec
-                    <lb ed="#T"/>id quod minus.
+                    <pc type="#pilcrow"/>Locus a relatiue oppositis est habitudo
+                    <lb ed="#T"/>unius correlatiuorum ad alterum, et est constructiuus et destructiuus. Vt: <mentioned>pater
+                    <lb ed="#T"/>est; ergo filius est</mentioned>, et econuerso. Vel: <mentioned>pater non est; ergo filius non est</mentioned>, et
+                    <lb ed="#T"/>econuerso. <pc type="#pilcrow"/>Locus a relatiue oppositis. Maxima: posito uno relatiuorum
+                    <lb ed="#T"/>ponitur et reliquum.
                   </p>
                 </div>
                 <div>
-                  <head>
-                    <supplied>De loco a minori</supplied>
+                  <head type="question-title">
+                    <supplied>De loco a contrariis</supplied>
                   </head>
                   <p>
-                    <pc type="#pilcrow"/>Locus a minori est habitudo minoris
-                    <lb ed="#T"/>ad maius, et est semper constructiuus, ut <mentioned>miles potest expugnare
-                    <lb ed="#T"/>castrum; ergo et rex</mentioned>. <pc type="#pilcrow"/>Locus a minori. Maxima: si id quod minus
-                    <lb ed="#T"/>uidetur inesse inest, et id quod maius.
+                    <pc type="#pilcrow"/>Contrariorum quedam sunt mediata, ut
+                    <lb ed="#T"/>album, nigrum, inter que sunt medii colores; quedam immediata, ut
+                    <lb ed="#T"/>sanum et egrum circa animal. <pc type="#pilcrow"/>Locus a contrariis est habitudo unius
+                    <lb ed="#T"/>contrariorum ad reliquum. <pc type="#pilcrow"/>Constructiue sic: <mentioned>hoc animal est sanum; ergo non
+                    <lb ed="#T"/>est egrum</mentioned>. Vel: <mentioned>hoc corpus est album; ergo non est nigrum</mentioned>. <pc type="#pilcrow"/>Locus
+                    <lb ed="#T"/>a contrariis. Maxima: posito uno contrariorum, remouetur et reliquum ab
+                    <lb ed="#T"/>eodem. <pc type="#pilcrow"/>Destructiue tenet in contrariis immediatis cum constantia subiecti,
+                    <lb ed="#T"/>ut <mentioned>hoc animal non est sanum; ergo est egrum</mentioned>. <pc type="#pilcrow"/>Locus a contrariis
+                    <lb ed="#T"/>immediatis. Maxima: remoto uno contrariorum immediatorum
+                    <lb ed="#T"/>ponitur reliquum manente subiecto.
                   </p>
                 </div>
                 <div>
-                  <head>
-                    De loco a simili
+                  <head type="question-title">
+                    <supplied>De loco a priuatiue oppositis</supplied>
                   </head>
                   <p>
-                    <lb ed="#T"/><pc type="#pilcrow"/>Locus a simili est habitudo unius similis ad reliquum, ut
-                    <lb ed="#T"/><mentioned>sicut inest risibile homini, et hinnibili equo; sed risibile est proprium
-                    <lb ed="#T"/>hominis; ergo hinnibile equi</mentioned>. Locus a simili. Maxima: de similibus
-                    <lb ed="#T"/>idem est iudicium. <pc type="#pilcrow"/>Destructiue sic: <mentioned>sicut inest risibile homini, inest hin<lb ed="#T"/>nibile
-                    equo; sed risibile non inest homini ut genus; ergo hinnibile non inest equo
-                    <lb ed="#T"/>ut genus</mentioned>. <pc type="#pilcrow"/>Locus a simili. Maxima: si unum simile inest
-                    <lb ed="#T"/>et reliquum; aut si unum non inest, nec reliquum.
+                    <pc type="#pilcrow"/>Que sunt priuatiue oppo<lb ed="#T"/>sita
+                    dictum est prius. <pc type="#pilcrow"/>Locus a priuatiue oppositis est ha<cb ed="#T" n="b"/><lb ed="#T"/>bitudo
+                    priuationis ad habitum, uel habitus ad priuatio<lb ed="#T"/>nem,
+                    ut <mentioned>est uidens; ergo non est cecus</mentioned>. Vel: <mentioned>est cecus; ergo non est
+                    <lb ed="#T"/>uidens</mentioned>. <pc type="#pilcrow"/>Locus a priuatiue oppositis. Maxima: posito u<lb ed="#T"/>no
+                    priuatiue oppositorum, remouetur et reliquum ab eodem. De<lb ed="#T"/>structiue
+                    non tenet nisi cum constantia subiecti et tempore a natura determin<lb ed="#T"/>ato.
+                    Catulus enim non est cecus, neque uidens ante nonum di<lb ed="#T"/>em,
+                    et puer non dicitur edentulus, nec dentulus ante tempus determin<lb ed="#T"/>atum.
                   </p>
                 </div>
                 <div>
-                  <head>
-                    A proportione
+                  <head type="question-title">
+                    <supplied>De loco a contradictorie oppositis</supplied>
                   </head>
                   <p>
-                    <lb ed="#T"/><pc type="#pilcrow"/>Locus a proportione est habitudo unius proportionalium ad reliquum,
-                    <lb ed="#T"/>ut <mentioned>sicut se habet retor nauis ad nauem, ita se habet rec<lb ed="#T"/>tor
-                    scolarum ad scolas; sed rector nauis est eligendus non
-                    <lb ed="#T"/>sorte, sed arte; ergo rector scolarum est eligendus non sorte,
-                    <lb ed="#T"/>sed arte</mentioned>. <pc type="#pilcrow"/>Locus a proportione. Maxima: de proportionalibus idem est iudicium.
-                    <lb ed="#T"/>Differt autem locus iste a loco a simili, quia in loco a simili
-                    <lb ed="#T"/>accipitur comparatio secundum habitudinem.
-                  </p>
-                </div>
-                <div>
-                  <head>
-                    A transunptione
-                  </head>
-                  <p>
-                    <lb ed="#T"/><pc type="#pilcrow"/>Transunptio est duplex: quedam enim est quando nomen uel oratio signifi<lb ed="#T"/>cans
-                    unum transumitur ad significandum aliud per similitudinem
-                    <lb ed="#T"/>aliqua, ut <mentioned>ridere</mentioned> transumitur ad <mentioned>florere</mentioned> cum dicitur <mentioned>pratum ridet</mentioned>.
-                    <lb ed="#T"/>Oratio transfertur cum dicitur <mentioned>litus aratur</mentioned> per <mentioned>operam perdi</mentioned> quod solet dici
-                    <lb ed="#T"/>alicui quod in cassum laborat et ista transumptio pertinet ad
-                    <lb ed="#T"/>sophistam, et non ad dialectium. Est alia transuptio cum sumitur nomen magis
-                    <lb ed="#T"/>notum pro alio minus noto, ut si debeat probari quod philosophus
-                    <lb ed="#T"/>non inuidet, et fiat translatio ad hec nomen scilicet, <mentioned>sapiens non in<lb ed="#T"/>uidet</mentioned>,
-                    et ista pertinet ad dyalecticum.
-                  </p>
-                  <p>
-                    <pc type="#pilcrow"/>Locus a transuptione est habi<lb ed="#T"/>tudo
-                    unius transupti ad aliud, ut <mentioned>sapiens non inuidet; ergo
-                    <pb ed="#T" n="5-r"/>
-                    <cb ed="#T" n="a"/>
-                    <lb ed="#T"/> philosophus non inuidet</mentioned>. <pc type="#pilcrow"/>Locus a transuptione. Maxima: quod
-                    <lb ed="#T"/>alicui conuenit sub nomine magis noto, et eadem conuenit sub
-                    <lb ed="#T"/>nomine minus noto. <pc type="#pilcrow"/>Differt autem locus iste a loco a nominis in<lb ed="#T"/>terpretatione,
-                    quia in loco a nominis interpretatione accipitur diffinitio
-                    <lb ed="#T"/>siue descriptio nominis, uel expositio, ut <mentioned>philosophus</mentioned> exponitur per hoc quod di<lb ed="#T"/>co
-                    <mentioned>amator sapientie</mentioned>. In loco autem a transuptione non acci<lb ed="#T"/>pitur
-                    expositio nominis, sed quod pro uno nomine minus noto sumitur aliquod no<lb ed="#T"/>tum
-                    magis uel aliquod aliud per quod facilius probetur propositum.
-                  </p>
-                </div>
-                <div>
-                  <head>
-                    Ab auctoritate
-                  </head>
-                  <p>
-                    <lb ed="#T"/><pc type="#pilcrow"/>Auctoritas ut hic sumitur est iudicium sapientis in scientia
-                    <lb ed="#T"/>sua. Vnde a <mentioned>rei iudicio</mentioned> solet denominari locus iste. Locus
-                    <lb ed="#T"/>ab auctoritate est habitudo ipsius auctoritatis ad id quod per eam probatur, ut
-                    <lb ed="#T"/><mentioned>astronomus dicit celum uolubile; ergo celum volubile est</mentioned>. Locus
-                    <lb ed="#T"/>ab auctoritate. Maxima: unicuique experto in sua scientia est cre<lb ed="#T"/>dendum.
+                    <pc type="#pilcrow"/>Locus a contradictorie oppositis est habitudo u<lb ed="#T"/>nius
+                    contradictorie oppositorum ad reliquum. Vt: <mentioned>Socrates sedere est
+                    <lb ed="#T"/>uerum; ergo Socrates non sedere est falsum</mentioned>. Maxima: si unum contradi<lb ed="#T"/>ctorie
+                    oppositorum est uerum, reliquum est falsum, et econuerso.
                   </p>
                 </div>
               </div>
-                  <div>
-                <head>
-                  <supplied>Sequitur de locis mediis</supplied>
+
+              <div>
+                <head type="question-title">
+                  <supplied>De loco a maiori</supplied>
                 </head>
                 <p>
-                  <pc type="#pilcrow"/>Locorum mediorum alius a coniugatis, alius a ca<lb ed="#T"/>sibus,
-                  alius a diuisione. Casus autem et coniugata differunt,
-                  <lb ed="#T"/>quia uniuocum siue principale, siue abstractum quod idem est cum suo de<lb ed="#T"/>nominatiuo
-                  dicitur coniugatum, ut iustitia et iustum. Casus autem
-                  <lb ed="#T"/>dicuntur ea que cadunt a principali, ut iustum et iuste a iustitia,
-                  <lb ed="#T"/>et hanc differentiam assignat <ref><name>Aristoteles</name> in <title>Topicis</title></ref>.
+                  <lb ed="#T"/><pc type="#pilcrow"/>Maius ut hic sumitur est illud quod subponitur alicui in pote<lb ed="#T"/>state,
+                  uel uirtute. Minus autem est quod ei subponitur. <pc type="#pilcrow"/>Locus
+                  <lb ed="#T"/>a maiori est habitudo maioris ad minus, et est semper destructiuus,
+                  <lb ed="#T"/>ut <mentioned>rex non potest expugnare castrum; ergo nec miles</mentioned>. Locus
+                  <lb ed="#T"/>a maiori. Maxima: si id quod magis uidetur inesse non inest, nec
+                  <lb ed="#T"/>id quod minus.
                 </p>
-                <div>
-                  <head>
-                    <supplied>De locis a coniugatis</supplied>
-                  </head>
-                  <p>
-                    <pc type="#pilcrow"/>Locus a coniuga<lb ed="#T"/>tis
-                    est habitudo unius coniugatorum ad reliquum, ut iustitia
-                    <lb ed="#T"/>est bona; ergo iustum est bonum. Maxima: quod uni coniugatorum
-                    <lb ed="#T"/>inest, et reliquo siue si unum coniugatorum inest et reliquum.
-                  </p>
-                </div>
-                <div>
-                  <head>
-                    <supplied>De locis a casibus</supplied>
-                  </head>
-                  <p>
-                    <lb ed="#T"/><pc type="#pilcrow"/>Locus a casibus est habitudo unius casus ad alium, ut <mentioned>quod
-                    <lb ed="#T"/>iustum est bonum est; ergo quod iuste fit bene fit</mentioned>, et econuerso. Maxima:
-                    <lb ed="#T"/><pc type="#pilcrow"/>quod uni casui conuenit, et reliquo.
-                  </p>
-                </div>
-                <div>
-                  <head>
-                    A diuisione
-                  </head>
-                  <p>
-                    <lb ed="#T"/><pc type="#pilcrow"/>Diuisionum alia est per negationem, ut <mentioned>Socrates aut est homo
-                    <lb ed="#T"/>aut non est homo; sed non est non homo; ergo est homo</mentioned>. <pc type="#pilcrow"/>Loco a diuisio<lb ed="#T"/>ne.
-                    Maxima: si aliqua duo condiuidunt aliquid posito uno remouetur
-                    <lb ed="#T"/>reliquum, uel remoto uno ponitur reliquum.
-                  </p>
-                  <p>
-                    Alia autem est diuisio
-                    <lb ed="#T"/>que non fit per negationem, et hec diuisio fit VI modis: tribus per se
-                    <lb ed="#T"/>et tribus per accidens. Prima est generis in species, ut <mentioned>animalium aliud rationale,
-                    <lb ed="#T"/>aliud irrationale</mentioned>. Secunda totius integralis in partes integrales,
-                    <lb ed="#T"/>ut <mentioned>domus alia pars est aries, alia tectum, alia fundamentum</mentioned>.
-                    <lb ed="#T"/><pc type="#pilcrow"/>Tertia uocis in significationes, ut <mentioned>canis aliud latrabile, aliud ma<lb ed="#T"/>rinum,
-                    aliud celeste sidus</mentioned>.
-                  </p>
-                  <p>
-                    <pc type="#pilcrow"/>Trium per accidens una est per accidens
-                    <lb ed="#T"/>subiecti, ut <mentioned>animalium alia sana, alia egra</mentioned>. Secunda accidentis in subiecta,
-                    <lb ed="#T"/>ut <mentioned>sanorum aliud brutum, aliud homo</mentioned>. Tertia accidentis in accidentia,
-                    <lb ed="#T"/>ut <mentioned>sanorum aliud calidum, aliud frigidum</mentioned>.
-                  </p>
-                  <p>
-                    <pc type="#pilcrow"/>Locus
-                    <lb ed="#T"/>a diuisione est habitudo unius condiuidentium ad alterum. A di<lb ed="#T"/>uisione
-                    uero secundum negationem sic sumitur argumentum: <mentioned>Socrates aut est
-                    <lb ed="#T"/>homo, aut non est homo; sed non est non homo; ergo est homo</mentioned>. Maxima:
-                    <lb ed="#T"/>posito uno condiuidentium remouetur aliud, uel remoto uno ponitur aliud.
-                    <lb ed="#T"/>Eodem autem modo fiet in aliis constructiue et destructiue. A diuisione
-                    <lb ed="#T"/>per se sic sumitur argumentum, ut <mentioned>si Socrates est animal aut est rationale
-                    <lb ed="#T"/>
-                    <note type="marginal-note" place="margin-right"><!-- THIS IS IN THE END OF THE PAGE. I don't know how to encode it. it has a little sign,
-                      maybe to refer to some text that is lacking in the middle of the main text, but I can't find it in the regular text...-->
-                      <lb ed="#T"/>Disparata sunt que non sunt opposita secundum aliquod genus <unclear>predicte</unclear>
-                      <lb ed="#T"/>oppositionis, sed diuisa sunt sicut homo et asinus, et a talibus
-                      <lb ed="#T"/>sic sumitur argumentum: <mentioned>Socrates est homo; ergo non est asinus</mentioned>. Maxima: de quo<lb ed="#T"/>cumque
-                      dicitur unum disparatorum X quod predicatur abstractiue, ab eodem
-                      <lb ed="#T"/>remouetur reliquum; sed quod abstractiue sumitur dictum est
-                      <lb ed="#T"/>prius, quia si concrete sumeretur non oporteret. Vnde
-                      <lb ed="#T"/><unclear>non</unclear> tenet hoc: <mentioned>est album; ergo non est quantum</mentioned>.
-                      <lb ed="#T"/>Locus diffinita sunt disparata, et si <unclear>queratur</unclear>
-                      <lb ed="#T"/>unde locus debet responderi a disparatis, sed
-                      <lb ed="#T"/>sequitur hec: <mentioned>est albedo; ergo non est quantitas</mentioned>.
-                      <lb ed="#T"/>Sequitur de locis mediis
-                      <lb ed="#T"/>quid sit locus me<lb ed="#T"/>dius
-                      dictum
-                      <lb ed="#T"/>est prius.
-                    </note>
-                    <cb ed="#T" n="b"/>
-                    <lb ed="#T"/>aut irrationale; sed non est irrationale; ergo est rationale</mentioned>, et sic de omnibus aliis diuisionibus.
-                  </p>
-                </div>
+              </div>
+
+              <div>
+                <head type="question-title">
+                  <supplied>De loco a minori</supplied>
+                </head>
+                <p>
+                  <pc type="#pilcrow"/>Locus a minori est habitudo minoris
+                  <lb ed="#T"/>ad maius, et est semper constructiuus, ut <mentioned>miles potest expugnare
+                  <lb ed="#T"/>castrum; ergo et rex</mentioned>. <pc type="#pilcrow"/>Locus a minori. Maxima: si id quod minus
+                  <lb ed="#T"/>uidetur inesse inest, et id quod maius.
+                </p>
+              </div>
+
+              <div>
+                <head type="question-title">
+                  De loco a simili
+                </head>
+                <p>
+                  <lb ed="#T"/><pc type="#pilcrow"/>Locus a simili est habitudo unius similis ad reliquum, ut
+                  <lb ed="#T"/><mentioned>sicut inest risibile homini, et hinnibili equo; sed risibile est proprium
+                  <lb ed="#T"/>hominis; ergo hinnibile equi</mentioned>. Locus a simili. Maxima: de similibus
+                  <lb ed="#T"/>idem est iudicium. <pc type="#pilcrow"/>Destructiue sic: <mentioned>sicut inest risibile homini, inest hin<lb ed="#T"/>nibile
+                  equo; sed risibile non inest homini ut genus; ergo hinnibile non inest equo
+                  <lb ed="#T"/>ut genus</mentioned>. <pc type="#pilcrow"/>Locus a simili. Maxima: si unum simile inest
+                  <lb ed="#T"/>et reliquum; aut si unum non inest, nec reliquum.
+                </p>
+              </div>
+
+              <div>
+                <head type="question-title">
+                  A proportione
+                </head>
+                <p>
+                  <lb ed="#T"/><pc type="#pilcrow"/>Locus a proportione est habitudo unius proportionalium ad reliquum,
+                  <lb ed="#T"/>ut <mentioned>sicut se habet retor nauis ad nauem, ita se habet rec<lb ed="#T"/>tor
+                  scolarum ad scolas; sed rector nauis est eligendus non
+                  <lb ed="#T"/>sorte, sed arte; ergo rector scolarum est eligendus non sorte,
+                  <lb ed="#T"/>sed arte</mentioned>. <pc type="#pilcrow"/>Locus a proportione. Maxima: de proportionalibus idem est iudicium.
+                  <lb ed="#T"/>Differt autem locus iste a loco a simili, quia in loco a simili
+                  <lb ed="#T"/>accipitur comparatio secundum habitudinem.
+                </p>
+              </div>
+
+              <div>
+                <head type="question-title">
+                  A transunptione
+                </head>
+                <p>
+                  <lb ed="#T"/><pc type="#pilcrow"/>Transunptio est duplex: quedam enim est quando nomen uel oratio signifi<lb ed="#T"/>cans
+                  unum transumitur ad significandum aliud per similitudinem
+                  <lb ed="#T"/>aliqua, ut <mentioned>ridere</mentioned> transumitur ad <mentioned>florere</mentioned> cum dicitur <mentioned>pratum ridet</mentioned>.
+                  <lb ed="#T"/>Oratio transfertur cum dicitur <mentioned>litus aratur</mentioned> per <mentioned>operam perdi</mentioned> quod solet dici
+                  <lb ed="#T"/>alicui quod in cassum laborat et ista transumptio pertinet ad
+                  <lb ed="#T"/>sophistam, et non ad dialectium. Est alia transuptio cum sumitur nomen magis
+                  <lb ed="#T"/>notum pro alio minus noto, ut si debeat probari quod philosophus
+                  <lb ed="#T"/>non inuidet, et fiat translatio ad hec nomen scilicet, <mentioned>sapiens non in<lb ed="#T"/>uidet</mentioned>,
+                  et ista pertinet ad dyalecticum.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Locus a transuptione est habi<lb ed="#T"/>tudo
+                  unius transupti ad aliud, ut <mentioned>sapiens non inuidet; ergo
+                  <pb ed="#T" n="5-r"/>
+                  <cb ed="#T" n="a"/>
+                  <lb ed="#T"/> philosophus non inuidet</mentioned>. <pc type="#pilcrow"/>Locus a transuptione. Maxima: quod
+                  <lb ed="#T"/>alicui conuenit sub nomine magis noto, et eadem conuenit sub
+                  <lb ed="#T"/>nomine minus noto. <pc type="#pilcrow"/>Differt autem locus iste a loco a nominis in<lb ed="#T"/>terpretatione,
+                  quia in loco a nominis interpretatione accipitur diffinitio
+                  <lb ed="#T"/>siue descriptio nominis, uel expositio, ut <mentioned>philosophus</mentioned> exponitur per hoc quod di<lb ed="#T"/>co
+                  <mentioned>amator sapientie</mentioned>. In loco autem a transuptione non acci<lb ed="#T"/>pitur
+                  expositio nominis, sed quod pro uno nomine minus noto sumitur aliquod no<lb ed="#T"/>tum
+                  magis uel aliquod aliud per quod facilius probetur propositum.
+                </p>
+              </div>
+
+              <div>
+                <head type="question-title">
+                  Ab auctoritate
+                </head>
+                <p>
+                  <lb ed="#T"/><pc type="#pilcrow"/>Auctoritas ut hic sumitur est iudicium sapientis in scientia
+                  <lb ed="#T"/>sua. Vnde a <mentioned>rei iudicio</mentioned> solet denominari locus iste. Locus
+                  <lb ed="#T"/>ab auctoritate est habitudo ipsius auctoritatis ad id quod per eam probatur, ut
+                  <lb ed="#T"/><mentioned>astronomus dicit celum uolubile; ergo celum volubile est</mentioned>. Locus
+                  <lb ed="#T"/>ab auctoritate. Maxima: unicuique experto in sua scientia est cre<lb ed="#T"/>dendum.
+                </p>
+              </div>
+            </div>
+
+            <div>
+              <head type="question-title">
+                <supplied>Sequitur de locis mediis</supplied>
+              </head>
+              <p>
+                <pc type="#pilcrow"/>Locorum mediorum alius a coniugatis, alius a ca<lb ed="#T"/>sibus,
+                alius a diuisione. Casus autem et coniugata differunt,
+                <lb ed="#T"/>quia uniuocum siue principale, siue abstractum quod idem est cum suo de<lb ed="#T"/>nominatiuo
+                dicitur coniugatum, ut iustitia et iustum. Casus autem
+                <lb ed="#T"/>dicuntur ea que cadunt a principali, ut iustum et iuste a iustitia,
+                <lb ed="#T"/>et hanc differentiam assignat <ref><name>Aristoteles</name> in <title>Topicis</title></ref>.
+              </p>
+
+              <div>
+                <head type="question-title">
+                  <supplied>De locis a coniugatis</supplied>
+                </head>
+                <p>
+                  <pc type="#pilcrow"/>Locus a coniuga<lb ed="#T"/>tis
+                  est habitudo unius coniugatorum ad reliquum, ut iustitia
+                  <lb ed="#T"/>est bona; ergo iustum est bonum. Maxima: quod uni coniugatorum
+                  <lb ed="#T"/>inest, et reliquo siue si unum coniugatorum inest et reliquum.
+                </p>
+              </div>
+
+              <div>
+                <head type="question-title">
+                  <supplied>De locis a casibus</supplied>
+                </head>
+                <p>
+                  <lb ed="#T"/><pc type="#pilcrow"/>Locus a casibus est habitudo unius casus ad alium, ut <mentioned>quod
+                  <lb ed="#T"/>iustum est bonum est; ergo quod iuste fit bene fit</mentioned>, et econuerso. Maxima:
+                  <lb ed="#T"/><pc type="#pilcrow"/>quod uni casui conuenit, et reliquo.
+                </p>
+              </div>
+
+              <div>
+                <head type="question-title">
+                  A diuisione
+                </head>
+                <p>
+                  <lb ed="#T"/><pc type="#pilcrow"/>Diuisionum alia est per negationem, ut <mentioned>Socrates aut est homo
+                  <lb ed="#T"/>aut non est homo; sed non est non homo; ergo est homo</mentioned>. <pc type="#pilcrow"/>Loco a diuisio<lb ed="#T"/>ne.
+                  Maxima: si aliqua duo condiuidunt aliquid posito uno remouetur
+                  <lb ed="#T"/>reliquum, uel remoto uno ponitur reliquum.
+                </p>
+                <p>
+                  Alia autem est diuisio
+                  <lb ed="#T"/>que non fit per negationem, et hec diuisio fit VI modis: tribus per se
+                  <lb ed="#T"/>et tribus per accidens. Prima est generis in species, ut <mentioned>animalium aliud rationale,
+                  <lb ed="#T"/>aliud irrationale</mentioned>. Secunda totius integralis in partes integrales,
+                  <lb ed="#T"/>ut <mentioned>domus alia pars est aries, alia tectum, alia fundamentum</mentioned>.
+                  <lb ed="#T"/><pc type="#pilcrow"/>Tertia uocis in significationes, ut <mentioned>canis aliud latrabile, aliud ma<lb ed="#T"/>rinum,
+                  aliud celeste sidus</mentioned>.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Trium per accidens una est per accidens
+                  <lb ed="#T"/>subiecti, ut <mentioned>animalium alia sana, alia egra</mentioned>. Secunda accidentis in subiecta,
+                  <lb ed="#T"/>ut <mentioned>sanorum aliud brutum, aliud homo</mentioned>. Tertia accidentis in accidentia,
+                  <lb ed="#T"/>ut <mentioned>sanorum aliud calidum, aliud frigidum</mentioned>.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Locus
+                  <lb ed="#T"/>a diuisione est habitudo unius condiuidentium ad alterum. A di<lb ed="#T"/>uisione
+                  uero secundum negationem sic sumitur argumentum: <mentioned>Socrates aut est
+                  <lb ed="#T"/>homo, aut non est homo; sed non est non homo; ergo est homo</mentioned>. Maxima:
+                  <lb ed="#T"/>posito uno condiuidentium remouetur aliud, uel remoto uno ponitur aliud.
+                  <lb ed="#T"/>Eodem autem modo fiet in aliis constructiue et destructiue. A diuisione
+                  <lb ed="#T"/>per se sic sumitur argumentum, ut <mentioned>si Socrates est animal aut est rationale
+                  <lb ed="#T"/>
+                  <note type="marginal-note" place="margin-right"><!-- THIS IS IN THE END OF THE PAGE. I don't know how to encode it. it has a little sign,
+                    maybe to refer to some text that is lacking in the middle of the main text, but I can't find it in the regular text...-->
+                    <lb ed="#T"/>Disparata sunt que non sunt opposita secundum aliquod genus <unclear>predicte</unclear>
+                    <lb ed="#T"/>oppositionis, sed diuisa sunt sicut homo et asinus, et a talibus
+                    <lb ed="#T"/>sic sumitur argumentum: <mentioned>Socrates est homo; ergo non est asinus</mentioned>. Maxima: de quo<lb ed="#T"/>cumque
+                    dicitur unum disparatorum X quod predicatur abstractiue, ab eodem
+                    <lb ed="#T"/>remouetur reliquum; sed quod abstractiue sumitur dictum est
+                    <lb ed="#T"/>prius, quia si concrete sumeretur non oporteret. Vnde
+                    <lb ed="#T"/><unclear>non</unclear> tenet hoc: <mentioned>est album; ergo non est quantum</mentioned>.
+                    <lb ed="#T"/>Locus diffinita sunt disparata, et si <unclear>queratur</unclear>
+                    <lb ed="#T"/>unde locus debet responderi a disparatis, sed
+                    <lb ed="#T"/>sequitur hec: <mentioned>est albedo; ergo non est quantitas</mentioned>.
+                    <lb ed="#T"/>Sequitur de locis mediis
+                    <lb ed="#T"/>quid sit locus me<lb ed="#T"/>dius
+                    dictum
+                    <lb ed="#T"/>est prius.
+                  </note>
+                  <cb ed="#T" n="b"/>
+                  <lb ed="#T"/>aut irrationale; sed non est irrationale; ergo est rationale</mentioned>, et sic de omnibus aliis diuisionibus.
+                </p>
               </div>
             </div>
           </div>
-        </div>
       </div>
     </body>
   </text>

@@ -2,14 +2,14 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Tractatus 1</title>
+        <title>Tractatus 7</title>
       	<author>Petrus Hispanus</author>
         <editor>Joana Gomes</editor>
-        <editor>Mario</editor>
+        <editor>Mário João Correia</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Tractatus 1</title>
+          <title>Tractatus 7: De fallaciis</title>
           <date when="2019-06-06">June 5, 2019</date>
         </edition>
       </editionStmt>
@@ -22,7 +22,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="T" n="cod-u8776t">Tarragona, Library of the Palacio del Arzobispo, cod 2</witness>
+          <witness xml:id="T" n="cod-u8776t">Tarragona, Arxiu Historic Arxidiocesà, cod 2 (85)</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -45,13 +45,2278 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        
+        <pb ed="#T" n="8-r"/><cb ed="#T" n="a"/>
       </div>
     </front>
     <body>
       <div xml:id="phsl-t1">
-        
-        
+        <div>
+          <head>
+            <supplied>Introductio</supplied>
+          </head>
+          <div>
+            <head type="question-tile">
+              <supplied>De disputationis diffinitione</supplied>
+            </head>
+            <p>
+              <lb ed="#T"/><pc type="#pilcrow"/>Disputatio est actus sillogisticus unius ad alterum
+              <cb ed="#T" n="b"/>
+              <lb ed="#T"/>ad propositum ostendendum.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Cum enim ad disputationem
+              <lb ed="#T"/>quinque exigantur, scilicet - ille a quo est actus disputandi, scilicet,
+              <lb ed="#T"/>opponens; et ille ad quem est actus disputandi, scilicet, res<lb ed="#T"/>pondens;
+              et ipsum propositum de quo disputatur; et ipse actus
+              <lb ed="#T"/>disputandi; et instrumentum disputationis -, omnia ista tan<lb ed="#T"/>guntur
+              in predicta descriptione <mentioned>disputationis</mentioned>. Per hoc enim quod
+              <lb ed="#T"/>dicit <mentioned>actus</mentioned> tanget ipsam actionem disputandi. Per hanc
+              <lb ed="#T"/>differentiam <mentioned>sillogisticus</mentioned> tanget quod iste actus egreditur a sillogismo,
+              <lb ed="#T"/>et sic ibi intelligitur sillogismus qui est instrumentum disputationis. Per
+              <lb ed="#T"/>hanc differentiam <mentioned>unius</mentioned> intelligitur ille a quo est actus disputan<lb ed="#T"/>di.
+              Per hanc autem differentiam <mentioned>ad alterum</mentioned> intelligitur ille ad quem est
+              <lb ed="#T"/>actus disputandi, et est ille contra quem disputatur. Per hanc autem
+              <lb ed="#T"/>differentiam <mentioned>ad propositum</mentioned> intelligitur res de qua disputatur que
+              <lb ed="#T"/>est obiectum disputationis. Et sic quinque notantur in predicta descriptio<lb ed="#T"/>ne.
+              Et sextum potest adhuc notari per hanc differentiam <mentioned>ostendendum</mentioned>,
+              <lb ed="#T"/>scilicet, unio actus disputandi cum suo obiecto que, scilicet, unio in<lb ed="#T"/>telligitur
+              ex comparatione ipsius actus disputandi ad obiectum disputationis,
+              <lb ed="#T"/>sicut ex comparatione huius actus, scilicet, uidere ad uisibile quod est eius obiectum
+              <lb ed="#T"/>intelligitur <unclear reason="damage">unio</unclear> ipsius uidere cum uisibili, ut non solum sit iam uisibile, sed
+              <lb ed="#T"/>actu uideatur. Vnde cum actus disputandi unitur suo obiecto, non
+              <lb ed="#T"/>solum est iam disputabile, uel mostrabile, sed actu disputatur uel de<lb ed="#T"/>monstratur.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Siquis obiciat quod inductio est instrumentum disputandi,
+              <lb ed="#T"/>ergo sillogismus non est proprium instrumentum disputandi, quia eiusdem non sunt plura
+              <lb ed="#T"/>instrumenta.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Solutio dicendum quod duplex est instrumentum actus perfectum et di<lb ed="#T"/>minutum,
+              sicut in gramatica est quod oratio congrua est instrumentum lo<lb ed="#T"/>quendi
+              perfectum. Oratio autem figuratiua est instrumentum diminutum. Similiter
+              <lb ed="#T"/>sillogismus est instrumentum completum et perfectum disputandi. Inductio uero
+              <lb ed="#T"/>diminutum, et entimema et exemplum. Vnde unius actus unum est
+              <lb ed="#T"/>instrumentum completum, et non plura, sed incompleta et deficientia
+              <lb ed="#T"/>a completo possunt esse plura.
+            </p>
+          </div>
+
+          <div>
+            <head type="question-title">
+              <supplied>De disputationis diuisione</supplied>
+            </head>
+            <p>
+              <pc type="#pilcrow"/>Disputationes autem IIII
+              <lb ed="#T"/>sunt species: alia namque est doctrinalis, alia dyalectica, alia temptatiua,
+              <lb ed="#T"/>alia autem sophistica. Doctrinalis est que sillogizat ex propriis
+              <lb ed="#T"/>principiis uniuscuiusque discipline et non ex hiis que uidentur
+              <lb ed="#T"/>respondenti. Et huius disputationis instrumentum est demonstratiuus sillogismus.
+              <lb ed="#T"/>Demonstratiuus autem sillogismus est quando est ueris et primis est sillogismus, aut ex
+              <lb ed="#T"/>talibus que per aliqua prima et <unclear reason="damage">uera</unclear> sue cognitionis principium supserunt.
+              <lb ed="#T"/>Et contra istum sumitur alius qui nominatur falsigraphus, et est ex eisdem prin<lb ed="#T"/>cipiis
+              falso <gap extent="22" unit="characters"/>ex probabilibus
+              <lb ed="#T"/>est collectiua contradictionum, et huius instrumentum est dyalecticus sillogismus. Dyalecticus
+              <lb ed="#T"/>autem sillogismus est qui ex probabilibus est sillogizatus.
+            </p>
+            <p>
+              Disputatio
+              <lb ed="#T"/>temptatiua est que ex hiis que uidentur respondenti et necessarium eum sci<lb ed="#T"/>re
+              qui simulat se habere scientiam sillogizat. Huius autem instru<lb ed="#T"/>mentum
+              disputationis est tempatiuus sillogismus. Temptatiuus autem sillogismus est
+              <lb ed="#T"/>qui sillogizatus est ex probabilibus respondenti. Vnde si aliquando
+              <pb ed="#T" n="8-v"/>
+              <cb ed="#T" n="a"/>
+              <lb ed="#T"/>est ex necessariis, uel ex falsis, uel ex probabilibus simpliciter,
+              <lb ed="#T"/>hoc non est in quantum talia sunt, sed in quo sunt probabilia
+              <lb ed="#T"/>respondenti. Et de isto temptatiuuo determinat <ref><name>Aristoteles</name> in principio
+              <lb ed="#T"/><title>Topicorum</title><ref> quando diuidit litigiosum ibi per tres partes
+              <lb ed="#T"/>de quo postea dicit: <quote>ergo primus eorum qui dicti sunt, est litigi<lb ed="#T"/>osus
+              sillogismus, et sillogismus dicatur.</quote>
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Et per hoc patet falsitas quest<lb ed="#T"/>ionis
+              quam quidam faciunt, cum <ref><name>Aristoteles</name> in principio <title>Elenchorum</title></ref> determinet de
+              <lb ed="#T"/>temptatiua disputatione determinando species disputationum,
+              <lb ed="#T"/>quare in principio <ref><title>Topicorum</title></ref> non determinat de temptatiuo sillogismo cum ibi
+              <lb ed="#T"/>determinet alias species sillogismi.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Temptatiuus enim est ille quem ipsi
+              <lb ed="#T"/>solent appellare peccantem in materia. Neque peccat in materia
+              <lb ed="#T"/>dyalectici sillogismi eo quod procedat ex falsis sicut ipsi dicunt, set
+              <lb ed="#T"/>quia peccat contra probabile. Dyalecticus enim accipit probabile simpliciter.
+              <lb ed="#T"/><pc type="#pilcrow"/>Probabile autem simpliciter est quod uidetur omnibus, uel pluribus, uel sa<lb ed="#T"/>pientibus,
+              et hiis uel omnibus, uel pluribus, uel maxime notis.
+              <lb ed="#T"/>Sed tempatiuus non accipit tale probabile, sed solum probabile res<lb ed="#T"/>pondenti,
+              et ita probabile secundum quid, et sic peccat contra probabile simpliciter.
+            </p>
+            <p>
+              <lb ed="#T"/><pc type="#pilcrow"/>Sophistica autem disputatio est que ex hiis que uidentur probabilia
+              <lb ed="#T"/>et non sunt sillogizat. Huius autem disputationis instrumentum <gap extent="2" unit="characters"/> sophisticus
+              <lb ed="#T"/>sillogismus. Sophisticus autem sillogismus est qui est apparens sillogismus, et non exi<lb ed="#T"/>stens,
+              quia ille de quo dicitur in <ref><title>Elenchis</title></ref> quod quidem est litigiosus
+              <lb ed="#T"/>qui esse sillogismus uidetur. Positio est autem conueniens rei est temptatiuus de quo dixi<lb ed="#T"/>mus
+              iam.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Et nota quod <mentioned>disputatio</mentioned> dicitur secundum prius et posterius de hiis
+              <lb ed="#T"/>IIII disputationibus, et similiter descriptio disputationis superius dicta. Et
+              <lb ed="#T"/>non diffinit <ref><name>Aristoteles</name> disputationem in <title>Elenchis</title></ref>, sed diuidit eam,
+              <lb ed="#T"/>quia diffinitio est eius quod uno modo dicitur, et non eius quod dicitur multipliciter, siue secundum
+              <lb ed="#T"/>prius et posterius, sicut suum descriptum.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Si queratur de qua predictarum
+              <lb ed="#T"/>IIII disputationum dicatur <mentioned>disputatio</mentioned> per prius et de qua dicatur per po<lb ed="#T"/>sterius,
+              dicendum est quod si inspiciantur differentie posite in predicta descriptione
+              <lb ed="#T"/>disputationis facile est uidere, quia si accipiamus disputationem
+              <lb ed="#T"/>a parte harum differentiarum, scilicet, <mentioned>unius ad alterum</mentioned>, quia per has <unclear reason="damage">intelliguntur per</unclear>
+              <lb ed="#T"/>disputantes inter quas est oppositio, cum maior sit oppositio inter sophi<lb ed="#T"/>stam
+              opponente et respondente, ideo <mentioned>disputatio</mentioned> hoc modo sumpta per prius
+              <lb ed="#T"/>dicitur de sophistica disputatione, et per posterius de temptatiua in qua ad<lb ed="#T"/>huc
+              est oppositio, sed non tanta, et deinde de dyalectica disputatione
+              <lb ed="#T"/>in qua minor est iam oppositio, et ultimo de doctrinali disputatione
+              <lb ed="#T"/>quia non interrogat, sed sumit que demonstrat. Omnes autem alie interrog
+              <lb ed="#T"/><gap extent="2" unit="characters"/><pc type="#pilcrow"/>Si autem accipiatur <unclear reason="damage">disputatio a parte huius quod est actus</unclear>
+              <lb ed="#T"/>sillogisticus totum econtrario accidit quia per prius de doctrinali, posterius
+              <lb ed="#T"/>de dyalectica, deinde de temptatiua, et ultimo de sophistica. Et similiter
+              <lb ed="#T"/>si accipiatur <mentioned>disputatio</mentioned> a parte sui obiecti quod erat propositum ost<lb ed="#T"/>endendum
+              quia ueriori modo ostendit, et probat doctrinalis, et dyalectica minus
+              <lb ed="#T"/>quam demonstratiua, et temptatiua minus quam dyalectica, et sophistica minus quam
+              <lb ed="#T"/>aliquam istarum.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Item doctrinalis disputationis quedam
+              <cb ed="#T" n="b"/>
+              <lb ed="#T"/>species est mathematica disputatio, et alia naturalis, et utraque
+              <lb ed="#T"/>istarum plures habet species, et similiter diuiditur dmonstratiuus sillogismus.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Item
+              <lb ed="#T"/>dyalectica disputationis tres sunt species prime: quedam enim est ad obuia<lb ed="#T"/>tiones,
+              et hec dicitur disputatio obuiatiua; <pc type="#pilcrow"/>alia est ad exercita<lb ed="#T"/>tiones,
+              et hec dicitur disputatio exercitatiua; <pc type="#pilcrow"/>tertia est ad disci<lb ed="#T"/>plinam
+              secundum philosophiam, et similiter sunt tres species dyalectici sillogismi. Hec autem
+              <lb ed="#T"/>tercia IIII habet species: prima est ad accidens construendum, uel de<lb ed="#T"/>struendo;
+              secunda est ad genus; tercia ad proprium; quarta ad di<lb ed="#T"/>ffinitionem.
+              Et similiter dyalectici sillogismi isto tercio modo sumpti IIII sunt
+              <lb ed="#T"/>species.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Item temptatiue disputationis due sunt species proprie: prima
+              <lb ed="#T"/>est temptatiua disputatio a communibus ad communia, ut <del rend="expunctuation">ea</del> qui temptat in
+              <lb ed="#T"/>dyalecticis uel in sophisticis; alia est temptatiua disputatio a communibus ad
+              <lb ed="#T"/>propria, ut qui temptat in doctrinalis specialibus, sicut in geome<lb ed="#T"/>tria,
+              uel arismetica, uel medicina. Et similiter due sunt species
+              <lb ed="#T"/>proprie temptatiui sillogismi, scilicet, unus qui est temptatiuus qui est a communibus ad
+              <lb ed="#T"/>communia, et alius a communibus ad propria.
+            </p>
+          </div>
+
+          <div>
+            <head type="question-title">
+              <supplied>De sophistica disputatione</supplied>
+            </head>
+            <p>
+              <pc type="#pilcrow"/>Item sophistice disputationis
+              <lb ed="#T"/>quinque sunt species que sumuntur per ordinem sophistice disputationis
+              <lb ed="#T"/>ad V metas siue fines speciales qui, scilicet, fines sunt: redar<lb ed="#T"/>gutio,
+              falsum, inopinabile, soloecismus, nugatio.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Redargu<lb ed="#T"/>tio
+              est preconcessi negatio, uel prenegati concessio ui argumentationis.
+            </p>
+            <p>
+              <lb ed="#T"/>Falsum autem dicitur dupliciter, quia est quodam falsum contradictionis, ut <mentioned>Socrates currere
+              <lb ed="#T"/>et non currere</mentioned>, et est aliud falsum propositionis, ut <mentioned>Ethiops est albus</mentioned>. Et primum
+              <lb ed="#T"/>est manifestissimum inter omnia falsa, et pertinet ad redargutionem.
+              <lb ed="#T"/>Secundum autem pertinet ad metam falsi, quando est patens. Vnde falsum prout
+              <lb ed="#T"/>est meta est falsum propositionis manifestam disputatione monstratam,
+              <lb ed="#T"/>quia licet sophista opponens ducat sophistam respondentem ad
+              <lb ed="#T"/>falsum occultum, ut quod terra sit maior minima stellarum ui<lb ed="#T"/>su
+              notabilium non ideo consequitur finem suum, quia falsitas huius
+              <lb ed="#T"/>propositionis non est manifesta, sed occulta. Aut si sponte concesserit
+              <lb ed="#T"/>propositionem manifeste falsam, et non cogatur aliquo medio uere
+              <lb ed="#T"/>uel apparenter inferenti nondum opponens consequitur finem suum.
+            </p>
+            <p>
+              <lb ed="#T"/>Inopinabile est quod est contra oppositionem omnium, aut plurium, aut sa<lb ed="#T"/>pientum,
+              et harum uel omnium, uel plurium, aut maxime notorum. Vnde
+              <lb ed="#T"/>inoppinabile et improbabile idem sunt in substantia. Differunt autem ratione,
+              <lb ed="#T"/>quia improbabile dicitur per respectum ad rationes contrarias manifestas. Ino<lb ed="#T"/>ppinabile
+              autem dicitur in quantum anima non uult aprehendere ipsum, nec
+              <lb ed="#T"/>consentire in ipso, sed refugit et disentit.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Soloecismus
+              <lb ed="#T"/>est uicium in contextu partium orationis contra terminus artis gramatice
+              <lb ed="#T"/><unclear reason="damage">factum</unclear>, ut <mentioned>uir alba</mentioned>, uel <mentioned>homines currit</mentioned>.
+            </p>
+            <p>
+              <pc type="pilcrow"/>Nugatio est eiusdem
+              <lb ed="#T"/>et ex eadem parte inutilis repetitio, ut <mentioned>homo homo currit</mentioned>, uel <mentioned>homo
+              <lb ed="#T"/>rationalis</mentioned>. Dico autem ex eadem parte, quia si ponatur in diuisis
+              <lb ed="#T"/>partibus idem non est nugatio, ut <mentioned>homo est homo</mentioned>, uel <mentioned>homo est rationalis</mentioned>. Dicitur
+              <lb ed="#T"/>autem inutilis repetitio, quia si idem repetatur ad maiorem
+              <lb ed="#T"/>expressionem, non est nugatio, ut <mentioned>Deus Deus meus</mentioned>.
+            </p>
+            <p>
+              Disputatio
+              <pb ed="#T" n="9-r"/>
+              <cb ed="#T" n="a"/>
+              <lb ed="#T"/>ergo sophistica ad redargutionem est prima species sophistice
+              <lb ed="#T"/>disputationis. <pc type="#pilcrow"/>Secunda uero species eius est disputatio sophistica ad
+              <lb ed="#T"/>falsum. <pc type="#pilcrow"/>Tertia uero disputatio sophistica ad inopinabilem. Quarta uero dis<lb ed="#T"/>putatio
+              sophistica ad soloecismum. <pc type="#pilcrow"/>Vltima autem disputatio sophistica
+              <lb ed="#T"/>ad nugationem. Et similiter sophistici sillogismi V sunt species eadem modo
+              <lb ed="#T"/>sumpte.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Et sciendum quod species dupliciter constituitur sub genere, quia
+              <lb ed="#T"/>uno modo differentia formalis adueniens generi constituit speciem, ut
+              <lb ed="#T"/><mentioned>rationale</mentioned> et <mentioned>mortale</mentioned> cum adueniunt <mentioned>animali</mentioned> constituunt <mentioned>hominem</mentioned>. Alio autem modo
+              <lb ed="#T"/>differentie finales adiuncte generi constituunt speciem sub genere,
+              <lb ed="#T"/>et isto secundo modo constituuntur species sophistice disputationis quod innuit
+              <lb ed="#T"/><ref><name>Aristoteles</name> in <title>Elenchis</title></ref> cum ponit diuisionem disputationis sophistice per
+              <lb ed="#T"/>IIII species subiungit istos V fines per quos iterum subdiuiditur in V species
+              <lb ed="#T"/>sophistica disputatio ut dictum est de qua intendit.
+            </p>
+            <p>
+              <lb ed="#T"/><pc type="#pilcrow"/>Diuisa disputatione per IIII species, et quelibet illarum specierum
+              <lb ed="#T"/> iterum subdiuisa per suas species proprias, et sic diuisa sophistica
+              <lb ed="#T"/>disputatione per V species supradictas que perficiuntur et constituuntur per
+              <lb ed="#T"/>ordinem sophistice disputationis ad V metas, siue fines ut
+              <lb ed="#T"/>dictum est, quia isti V fines, siue mete non sunt proximi fines
+              <lb ed="#T"/>disputationis sophistice, sed specierum eius ut patet ex predictis. Ideo sequitur proximus
+              <lb ed="#T"/>finis sophistice disputationis, qui est apparens sapientia, quia so<lb ed="#T"/>phiste
+              magis uolunt uideri sapientes et non esse, quam esse et non
+              <lb ed="#T"/>uideri. Vnde in omni sophistica disputatione intenditur apparens sapientia
+              <lb ed="#T"/>quasi finis proximus et principalis proprius sophistice disputationis secundum se.
+            </p>
+          </div>
+
+          <div>
+            <head typte="question-title">
+              <supplied>De tredecim fallaciis</supplied>
+            </head>
+            <p>
+              <lb ed="#T"/><pc type="#pilcrow"/>Cognito autem fine sophistice considerandum est ea que sunt ad finem
+              <lb ed="#T"/>istum, scilicet, fallacias. Finis autem prior est intentione, posterior autem in opera<lb ed="#T"/>tione.
+              Prius enim intendimus domum, et postea ligna et lateres
+              <lb ed="#T"/> et cementum. In operatione autem econtrario est quia rimo sumuntur lateres, et
+              <lb ed="#T"/>cementum, et deinde ligna ad construendum partes domus, et ultimo habetur
+              <lb ed="#T"/>domus. Similiter est in disputatione sophistice prius intendimus finem prin<lb ed="#T"/>cipalem,
+              et postea que sunt ad finem, sed cum iam ad ultimum dispu<lb ed="#T"/>tamus,
+              econuerso est. Vnde sciendum quod sicut oppinio que est finis in dyalecticis
+              <lb ed="#T"/>adquiritur per argumenta sumpta a locis dyalecticis, similiter apparens sapientia
+              <lb ed="#T"/>a locis sophisticis.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Loci autem sophistice in genere sunt XIII
+              <lb ed="#T"/>fallacie, quarum VI sunt in dictione, et VII extra dictionem.
+            </p>
+          </div>
+        </div> <!--This closes INTRODUCTIO-->
+
+        <div>
+          <head>
+            <supplied>De fallaciis in dictione</supplied>
+          </head>
+          <p>
+            Harum igitur que sunt in dictione, prima est equiuocatio;
+            <lb ed="#T"/><pc type="#pilcrow"/>secunda autem amphibolia; <pc type="#pilcrow"/>tertia compositio; <pc type="#pilcrow"/>quarta diuisio; quinta
+            <lb ed="#T"/>accentus; <pc type="#pilcrow"/>sexta figura dictiones.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Quia autem VI sint in dictione
+            <lb ed="#T"/>innuit <ref><name>Aristoteles</name></ref> probare inductione, et sillogismo. Inductione sic: hec
+            <lb ed="#T"/>fallacia equiuocatio fit aliquo istorum VI modorum; similiter amphibolia fit
+            <lb ed="#T"/>aliquo istorum sex modorum; et sic de aliis; ergo omnis fallacia in dictione
+            <lb ed="#T"/>fit aliquo istorum modorum. <pc type="#pilcrow"/>Sillogismo sic: omnis deceptio facta ex
+            <lb ed="#T"/>eo quod eisdem nominibus, uel orationibus non idem significamus fit aliquo
+            <lb ed="#T"/>istorum sex modorum; sed omnis fallacia in dictione fit ex eo quod
+            <cb ed="#T" n="b"/>
+            <lb ed="#T"/>eisdem nominibus, uel orationibus non idem significamus; ergo omnis fallacia
+            <lb ed="#T"/>in dictione fit aliquo istorum VI modorum. Sillogismus in primo prime. Probatio
+            <lb ed="#T"/>maioris: omnis multiplicitas dictionis fit aliquo istorum sex modorum;
+            <lb ed="#T"/>sed omnis deceptio facta ex eo quod nominibus eisdem uel orationibus non
+            <lb ed="#T"/>idem significamus fit ex multiplicitate dictionis; ergo omnis deceptio
+            <lb ed="#T"/>facta ex eo quod eisdem nominibus, uel orationibus non idem significamus
+            <lb ed="#T"/>fit aliquo istorum VI modorum. Et hec fuit maior. Probatio minoris: omnis ma<lb ed="#T"/>licia
+            dictionis fit ex eo quod eisdem nominibus, uel orationibus non idem
+            <lb ed="#T"/>significamus; sed omnis fallacia in dictione fit ex malitia dictionis; ergo
+            <lb ed="#T"/>omnis fallacia in dictione fit ex eo quod eisdem nominibus, uel orationibus
+            <lb ed="#T"/>non idem significamus. Et hec fuit minor. Et isti duo pro sillogismi sunt in primo
+            <lb ed="#T"/>prime.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Sciendum ut uult <ref><name>Alexander</name> in <title>commento super librum
+            <lb ed="#T"/>Elenchorum</title></ref> quod multiplex fit tripliciter: aliud enim est actuale; aliud potentiale; aliud
+            <lb ed="#T"/>fantasticum. <pc type="#pilcrow"/>Multiplex autem actuale est quando dictio uel oratio sim<lb ed="#T"/>pliciter
+            eadem significat plura, ut patebit in equiuocatione et amphibolia,
+            <lb ed="#T"/>in quibus est multiplex actuale. De multiplici potentiali et fantastico
+            <lb ed="#T"/>est in locis propriis manifestum. Vnde quia uerius saluatur ratio
+            <lb ed="#T"/>multiplicis in actuali quam in potentiali, et uerius in potentiali
+            <lb ed="#T"/>quam in fantastico, ideo prius dicendum de fallatiis facientibus multiplex
+            <lb ed="#T"/>actuale, postea de hiis in quibus est potentiale, et ultimo de
+            <lb ed="#T"/>fantastico.
+          </p>
+
+          <div>
+            <head type="question-title">
+              <supplied>De fallacia equiuocatione</supplied>
+            </head>
+            <div>
+              <head type="question-title">
+                <supplied>De equiuocationis diffinitione</supplied>
+              </head>
+              <p>
+                <pc type="#pilcrow"/>Hiis autem uisis dicendum est de equiuocatione, siue
+                <lb ed="#T"/>de fallacia equiuocationis. Sed intellige quod <mentioned>fallacia</mentioned> dupliciter dicitur, quia fallacia dicitur
+                <lb ed="#T"/>uno modo deceptio causata in nobis, alio autem modo dicitur fallacia causa
+                <lb ed="#T"/>siue principium ipsius deceptionis, et isto secundo modo intendimus
+                <lb ed="#T"/>hic de fallatiis. Vnde sciendum quod in qualibet fallacia isto secundo modo
+                <lb ed="#T"/>sumpta duplex est principium, siue duplex causa, scilicet: principium motiuum siue
+                <lb ed="#T"/>causa mouens, siue causa apparentie, et per hoc omnia idem principium
+                <lb ed="#T"/>nominatur; aliud autem principium siue alia causa est principium deffectus, siue causa non
+                <lb ed="#T"/>existentie quod idem est, siue causa falsitatis. <pc type="#pilcrow"/>Principi<lb ed="#T"/>um
+                autem motiuum, siue causa apparentie in qualibet fallacia est
+                <lb ed="#T"/>quod mouet ad credendum quod non est. Principium uero deffectus, siue causa
+                <lb ed="#T"/>falsitatis est quod facit creditum esse falsum, et quia ista duo principia
+                <lb ed="#T"/>siue iste due cause sunt in qualibet fallacia, ideo oportet quod sint in equiuocatione.
+                <lb ed="#T"/><pc type="#pilcrow"/>Principium autem motiuum, siue causa apparentie in equiuoce
+                <lb ed="#T"/>est unitas dictionis eiusdem simpliciter. Dico autem simpliciter propter accen<lb ed="#T"/>tum.
+                In accentu non est dictio eadem ut postea patebit. <pc type="#pilcrow"/> Prin<lb ed="#T"/>cipium
+                uero deffectus, siue causa non existentie, uel falsitatis
+                <lb ed="#T"/>in equiuoce est diuersitas rationum, uel rerum significatarum.
+              </p>
+              <p>
+                Vnde
+                <lb ed="#T"/>equiuocatio diffinitur sic: <pc type="#pilcrow"/>equiuocatio est cum diuerse rerum
+                <lb ed="#T"/>rationes in eodem simpliciter nomine uniuntur. In hac diffinitione
+                <lb ed="#T"/><mentioned>res</mentioned> sumitur communiter ad res ipsas, et ad duplicem modum rerum,
+                <lb ed="#T"/>et ad habitudines earundem. Ad res ipsas ut in hoc nomine
+                <lb ed="#T"/><mentioned>canis</mentioned>, quod significat latrabile, marinum et celeste sidus.
+                <lb ed="#T"/>Ad duplicem modum rerum quia est quidam modus consignificandi
+                <pb ed="#T" n="9-v"/>
+                <cb ed="#T" n="a"/>
+                <lb ed="#T"/>secundum quod dictio consignificat accidentia sua, et est alius modus qui
+                <lb ed="#T"/>est significandi, ut in hoc nomine <mentioned>sanum</mentioned> quod semper significat eadem sa<lb ed="#T"/>nitatem,
+                quia sanitatem animalis, sed secundum modos diuersos, quia
+                <lb ed="#T"/>cum dicitur <mentioned>urina est sana</mentioned>, sensus est urina est signficatiua sani<lb ed="#T"/>tatis,
+                sed non nisi sanitatis animalis; et cum dicitur <mentioned>cibus est sanus</mentioned>,
+                <lb ed="#T"/>sensus est cibus est effectus sanitatis, sed non nisi sanitatis anim<lb ed="#T"/>alis;
+                et <mentioned>dieta est sana</mentioned> quia conseruat sanitatem animalis; et
+                <lb ed="#T"/><mentioned>potio est sana</mentioned> quia preparat ad sanitatem animalis. Et sic semper
+                <lb ed="#T"/>eadem est sanitas, sed modi sunt diuersi, quia cum <mentioned>sanum</mentioned> dicitur
+                <lb ed="#T"/>de animali, significat sanitatem ut in subiecto, aut de subiecto, cum
+                <lb ed="#T"/>dicitur de urina, ut de significatiuo eiusdem sanitatis; de cibo
+                <lb ed="#T"/>ut de effectiuo; de dieta, ut de conseruatiuo; de potione ut
+                <lb ed="#T"/>de preparatiuo. Omnes autem isti modi diuersi sunt ad habitudines rerum
+                <lb ed="#T"/>ut in prepositionibus que dicunt diuersas habitudines causarum, ut patebit
+                <lb ed="#T"/>in paralogismis.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Quantum autem ad alium modum quem diximus non su<lb ed="#T"/>fficiunt
+                equiuocationi duo predicta principia, siue due predicte cause, sed exigitur
+                <lb ed="#T"/>ulterius quod sit in nobis inpotentia distinguendi diuersas nominis
+                <lb ed="#T"/>rationes. Vnde equiuocatio siue falacia equiuocationis hoc modo sumpta potest sic di<lb ed="#T"/>ffiniri:
+                <pc type="#pilcrow"/>fallacia equiuocationis est deceptio causata in nobis ex
+                <lb ed="#T"/>inpotentia distinguendi diuersas in eodem nomine simpliciter rationes.
+              </p>
+            </div>
+
+            <div>
+              <head type="question-title">
+                <supplied>De equiuocationis diuisione</supplied>
+              </head>
+              <p>
+                <lb ed="#T"/><pc type="#pilcrow"/>Species autem equiuocationis possunt summi dupliciter, ut uidetur <unclear reason="damage">uelle <ref><name>Aristoteles</name></ref></unclear>:
+                <lb ed="#T"/>primo secundum se, secundo autem secundum quod communicant cum amphibolia. Sed
+                <lb ed="#T"/>siue hoc modo, siue illo, non innuit <ref><name>Aristoteles</name></ref> nisi tres species equiuocationis
+                <lb ed="#T"/>siue modos.
+              </p>
+              <div>
+                <head type="question-title">
+                  <supplied>De prima specie equiuocationis</supplied>
+                </head>
+                <p>
+                  <pc type="#pilcrow"/>Prima species est quando eadem dictio equaliter significat diuer<lb ed="#T"/>sa,
+                  ut hoc nomen <mentioned>canis</mentioned> equaliter significat marinum, celeste sidus,
+                  <lb ed="#T"/>et latrabile. Et formatur sic paralogismus: <mentioned>omnis canis est latrabile; sed
+                  <lb ed="#T"/>quodam marinum animal est canis; ergo quodam marinum animal est la<lb ed="#T"/>trabile</mentioned>.
+                  Non sequitur cum utraque premissarum sit multiplex, et uno modo
+                  <lb ed="#T"/>sit uera, duobus autem falsa, cum utraque sit triplex sensus secundum triplicem
+                  <lb ed="#T"/>significationem huius nominis <mentioned>canis</mentioned>.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Uel sic: <mentioned>quicumque sunt gramatici
+                  <lb ed="#T"/>discunt; scientes sunt gramatici; ergo scientes </mentioned>. In hoc autem
+                  <lb ed="#T"/>paralogismo maior et conclusio sunt duplices, quia <mentioned>discere</mentioned> est equiuocum
+                  <lb ed="#T"/>ad intelligere docentem, et ad retinere ea que dicit, sicut quidam
+                  <lb ed="#T"/>sunt qui bene intelligunt ea que dicit magister eorum; sed non bene re<lb ed="#T"/>tinent.
+                  <pc type="#pilcrow"/>Alii autem sunt qui retinent ea que dicuntur, sed non
+                  <lb ed="#T"/>bebe intelligunt, et tam isti quam illi dicuntur <mentioned>adiscere</mentioned>. Vnde equi<lb ed="#T"/>uocatur
+                  adiscere ad hec duo.
+                </p>
+              </div>
+              <div>
+                <head type="question-title">
+                  <supplied>De secunda specie</supplied>
+                </head>
+                <p>
+                  <pc type="#pilcrow"/>Secunda species, uel secundus modus equiuocati<lb ed="#T"/>onis
+                  est quando eadem dictio secundum prius et posterius significat diuersa, ut hoc
+                  <lb ed="#T"/>nomen <mentioned>expediens</mentioned> significat bonum primo, et per posterius significat necessarium
+                  <lb ed="#T"/>quod accidit in malis. Non dico quod significat necessarium, sed necessarium quod
+                  <lb ed="#T"/>accidit in malis, sicut enim accidit aliquod magnum malum quod non potest
+                  <lb ed="#T"/>euitari nisi per minus malum, tunc illud minus malum dicitur necessarium
+                  <lb ed="#T"/>respectu maioris mali. Vnde non est necessarium simpliciter, sed necessarium est
+                  <lb ed="#T"/>respectu maioris mali, ut abcisio alicuius partis corporis
+                    <choice>
+                      <sic>materialia</sic>
+                      <corr>mala</corr>
+                    </choice>
+                  <cb ed="#T" n="b"/>
+                  <lb ed="#T"/>est, tamen est necessaria, ne totum corpus corrumpatur.
+                </p>
+                <p>
+                  Et potest forma<lb ed="#T"/>ri
+                  sic paralogismus: <mentioned>omne expediens est bonum; malum est expe<lb ed="#T"/>diens;
+                  ergo malum est bonum</mentioned>. Vtraque premissarum est duplex, ut patet ex
+                  <lb ed="#T"/>predictis, quia cum <mentioned>expediens</mentioned> significet bonum, et necessarium in malis,
+                  <lb ed="#T"/>secundum quod significat bonum maior est uera, falsa uero secundum quod <mentioned>expediens</mentioned> si<lb ed="#T"/>gnificat
+                  necessarium in malis. Econuerso dicendum est de minori.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Simile est hic:
+                  <lb ed="#T"/><mentioned>omne sanum est animal; urina est sanum; ergo urina est animal</mentioned>. Vtraque
+                  <lb ed="#T"/>premissarum est multiplex sicut pluries dictum est.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Ad hanc secundam speciem
+                  <lb ed="#T"/>reducitur equiuocatio ex transuptione – ut: <mentioned>quicquid ridet habet os; pratum
+                  <lb ed="#T"/>ridet; ergo pratum habet os</mentioned>, uel: <mentioned>quicquid currit habet pedes; secana currit;
+                  <lb ed="#T"/>ergo secana habet pedes</mentioned> –, quia hec uerba <mentioned>ridet</mentioned> et <mentioned>currit</mentioned> per prius significat
+                  <lb ed="#T"/>ridere et currere, et per posterius florere, et labi, quia hec significant
+                  <lb ed="#T"/>ex propria impositione, alia uero ex assuetudine. Vnde in utroque paralogismo
+                  <lb ed="#T"/>utraque premissarum fuit multiplex.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Ad hanc etiam speciem equiuocationis redu<lb ed="#T"/>citur
+                  omnis multiplicitas propositionum, quia quelibet prepositio per prius impor<lb ed="#T"/>tat
+                  habitudinem unam, et per posterius alias, ut hec prepositio <mentioned>secundum</mentioned>
+                  <lb ed="#T"/>per prius dicit habitudinem cause formalis, et per posterius habitudinem
+                  <lb ed="#T"/>cause efficientis. Et potest formari paralogismus sic: <mentioned>proprium est qualitatis
+                  <lb ed="#T"/>secundum eam simile, uel dissimile dici; sed secundum similitudinem dicitur aliquid
+                  <lb ed="#T"/>simile uel dissimile; ergo similitudo et dissimilitudo sunt qualitates</mentioned>.
+                  <lb ed="#T"/>Quod falsum est, imo sunt relationes. Maior est duplex predicta du<lb ed="#T"/>plicitate.
+                  Et ideo ut hec prepositio <mentioned>secundum</mentioned> dicat causam efficientem
+                  <lb ed="#T"/>uera est, quia due qualitates eiusdem speciei sunt causa efficiens similitudinis,
+                  <lb ed="#T"/>quia faciunt subiecta sua ad inuicem similia. Si autem dicat
+                  <lb ed="#T"/>causam formalem falsa est, quia qualitas non est causa formalis similitudinis
+                  <lb ed="#T"/>ipsius, sed similitudo est forma eius, sicut albedo albi, et calidi<lb ed="#T"/>tas
+                  calidi, et humiditas humidi. Econuerso autem dicendum est de
+                  <lb ed="#T"/>minori.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Similiter hec prepositio <mentioned>in</mentioned> per prius dicit habitudinem localem,
+                  <lb ed="#T"/>et per posterius omnis alias que patent secundum modos essendi in
+                  <lb ed="#T"/>prius distinctos. Et ideo dicit <ref><name>Aristoteles</name></ref> ubi distinguit modos illos, sim<lb ed="#T"/>pliciter
+                  autem et proprie icitur esse unum in alio, ut in loco. Notandum
+                  <lb ed="#T"/>autem quod hec prepositio <mentioned>in</mentioned> non equaliter significat habitudines alias ab ista,
+                  <lb ed="#T"/>scilicet, locali, sed per prius et per posterius, ut patet hic: <pc type="#pilcrow"/><mentioned>in quocumque est egri<lb ed="#T"/>tudo
+                  ipsum est animal; sed in humorum inadequatione est egritudo;
+                  <lb ed="#T"/>ergo humorum inadequatio est animal</mentioned>. <pc type="#pilcrow"/>Maior est duplex, quia si hec prepositio <mentioned>in</mentioned>
+                  <lb ed="#T"/>dicat ibi habitudinem cause materialis in qua est, siue habitudinem
+                  <lb ed="#T"/>subiecti, uera est. Si autem dicat habitudinem cause efficientis falsa
+                  <lb ed="#T"/>est. Et econuerso dicendum est de minori, quia animal subiectum est egritudinis,
+                  <lb ed="#T"/>et inadequatio humorum est causa efficiens egritudinis. Et sic sumitur
+                  <lb ed="#T"/>hic secundum diuersas habitudines, et per prius significat habitudinem
+                  <lb ed="#T"/>illam que est ipsius egritudinis ad suam causam efficientem, quia sicut
+                  <lb ed="#T"/><mentioned>sanum</mentioned> uel <mentioned>egrum</mentioned> per prius dicuntur de animali, et per posterius de eff<lb ed="#T"/>ectiuo,
+                  uel conseruatiuo, similiter hec prepositio <mentioned>in</mentioned> per prius significat habitudinem
+                  <pb ed="#T" n="10-r"/>
+                  <cb ed="#T" n="a"/>
+                  <lb ed="#T"/>ipsorum et per posterius habitudinem eorundem ad sua effectiua uel
+                  <lb ed="#T"/>conseruatiua.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Si obicias quod cum causa natura prior sit suo
+                  <lb ed="#T"/>effecto, ergo per prius dicet propositio habitudinem sanitatis uel egri<lb ed="#T"/>tudinis
+                  ad causam efficientem, et per posterius ad subiectum, cuius
+                  <lb ed="#T"/>oppositum dicebatur. Dicendum quod <mentioned>prius</mentioned> dicitur dupliciter: uno enim modo in causanda,
+                  <lb ed="#T"/>et sic causa natura prior est effectu; alio autem modo dicitur prius in complec<lb ed="#T"/>tione,
+                  et perfectione sue speciei, et sic dicimus completum et perfectum
+                  <lb ed="#T"/>natura prius diminuto. Et hoc modo loquimur de priori in ista secunda
+                  <lb ed="#T"/>specie equiuocationis. Vnde cum sanitas nondum sit in sua specie completa
+                  <lb ed="#T"/>cum est in sua causa; sed cum est in animali ut in subiecto tunc est in sua
+                  <lb ed="#T"/>completa specie; ideo hoc modo per prius est in animali, et per posterius in
+                  <lb ed="#T"/>suo effectiuo, uel in sua causa, quia hic plus habet de perfectione
+                  <lb ed="#T"/>et specie, ibi uero minus. Et similiter hec prepositio <mentioned>in</mentioned> per prius significat hanc habitu<lb ed="#T"/>dinem,
+                  et per posterius illam ut dictum est.
+                </p>
+              </div>
+              <div>
+                <head type="question-title">
+                  <supplied>De tercia specie</supplied>
+                </head>
+                <p>
+                  <pc type="#pilcrow"/>Tercia species equiuocatio<lb ed="#T"/>nis
+                  est ex diuersa consignificatione dictionis, ut hic: <mentioned>quicumque sana<lb ed="#T"/>batur
+                  sanus est; laborans sanabatur; ergo laborans sanus est</mentioned>. Minor
+                  <lb ed="#T"/>et conclusio sunt duplices, quia hoc participium <mentioned>laborans</mentioned> consignificat tempus
+                  <lb ed="#T"/>presens, et preteritum imperfectum. Vnde consignificat laborantem tunc et
+                  <lb ed="#T"/>laborantem nunc, et ideo si teneatur pro laborante tunc minor
+                  <lb ed="#T"/>est falsa, quia similis esset sanus et laboraret quod falsum est. Si
+                  <lb ed="#T"/>autem teneatur pro laborante nunc, uera est, quia nunc potest esse labo<lb ed="#T"/>rans
+                  et sanari poterat tunc. Econuerso dicendum est de conclusione.
+                </p>
+                <p>
+                  Similiter
+                  <lb ed="#T"/>hic: <mentioned>quicumque surgebat stat; sedens surgebat; ergo sedens
+                  <lb ed="#T"/>stat</mentioned>. Minor et conclusio sunt duplices, sicut in predicto paralogismo.
+                  <lb ed="#T"/>Et ideo dicit <ref><name>Aristoteles</name> in <title>Elenchis</title></ref>: <quote>Nam laborantem quidlibet facere aut
+                  <lb ed="#T"/>pati quidem non significat unum</quote>, id est, si <mentioned>laborans</mentioned> uel quodlibet aliud participium quod
+                  <lb ed="#T"/>dicitur presentis temporis adiungatur uerbo significanti actionem, uel
+                  <lb ed="#T"/>passionem non significat unum, ut <mentioned>laborans currit</mentioned>, uel <mentioned>uidet</mentioned>, uel <mentioned>gra<lb ed="#T"/>uatur</mentioned>.
+                  Sensus est laborans nunc currit, uel uidet, uel grauatur, uel la<lb ed="#T"/>borans
+                  prius.
+                </p>
+              </div>
+            </div> <!--This closes De equiuocatione diuisione-->
+            <div>
+              <head type="question-title">
+                <supplied>De tribus speciebus equiuocationis</supplied>
+              </head>
+              <p>
+                <pc type="#pilcrow"/>Has autem tres species, siue tres modos equiuocationis significat
+                <lb ed="#T"/><ref><name>Aristoteles</name> in <title>Elenchis</title></ref>, primo ponens paralogismum unum secundum equiuocatione huius uerbi
+                <lb ed="#T"/><mentioned>adiscere</mentioned>. Secundo autem ponens alium paralogismum secundum equiuocatione huius nominis <mentioned>ex<lb ed="#T"/>pediens</mentioned>.
+                Tercio uero ponens duos secundum multiplicitatem horum
+                <lb ed="#T"/>participiorum <mentioned>laborans</mentioned> et <mentioned>sedens</mentioned>.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Quidam autem aliam assignant
+                <lb ed="#T"/>rationem diuersitatis et ordinis horum modorum equiuocationis dicentes
+                <lb ed="#T"/>quod in primo modo equiuocatio est ad maiorem extremitatem, ut patet in paralogismo
+                <lb ed="#T"/>facto secundum equiuocatione huius uerbi <mentioned>adiscere</mentioned>. In secundo uero modo dictio equiuoca ponitur
+                <lb ed="#T"/>ad medium. In tercio uero ad minorem extremitatem, ut patet in
+                <lb ed="#T"/>paralogismis Aristotelis. Et ideo quia maior extremitas prior est medio in quantum
+                <lb ed="#T"/>maior, et medium prius minori extremitate, ideo sic ordinantur
+                <lb ed="#T"/>isti modi. Sed non credo Aristoteles habuisse respectum ad hoc, quia diuisio equi<lb ed="#T"/>uocationis
+                secundum maiorem extremitatem, et medium, et minorem in
+                <lb ed="#T"/>paralogismo non esset diuisio equiuocationis secundum se, sed solum in respectu uel in
+                <lb ed="#T"/>comparatione ad aliud. Preterea ratio medii et maioris extremitatis
+                <cb ed="#T" n="b"/>
+                <lb ed="#T"/>accidit dictioni, quia eadem dictio quandoque est ad me<lb ed="#T"/>dium,
+                quandoque ad maiorem extremitatem, quandoque ad minorem, siue
+                <lb ed="#T"/>significet unum, siue plura; ergo diuisio equiuocationis secundum rationem maioris
+                <lb ed="#T"/>extremitatis et minoris et medii est subiecti in accidentia; ergo non est
+                <lb ed="#T"/>diuisio equiuocationis in partes suas subiectiuas. Preterea esset diuisio secundum
+                <lb ed="#T"/>accidens, et non per se, que omnia sunt inconuenientia.
+              </p>
+              <p>
+                Et ideo ratio diuer<lb ed="#T"/>sitatis
+                et ordinis sicut tetigimus est in hoc quod equiuocatio fit
+                <lb ed="#T"/>tripliciter, quia uel eo quod dictio equaliter significat plura, quia equiuocatio aut est
+                <lb ed="#T"/>ex significatione, aut ex consignificatione, quia diuisio equiuocationis non est signum
+                <lb ed="#T"/>plurium, quam significationis et consignificationis; si est ex significatione, tunc ea
+                <lb ed="#T"/>que significantur aut de pari significantur per dictionem, aut prius et
+                <lb ed="#T"/>posterius, et sic sunt tres modi. Et ordinantur sic, quia ratio
+                <lb ed="#T"/>equiuocationis siue diffinitio magis saluatur ubi plura equaliter signifi<lb ed="#T"/>cantur,
+                quam ubi unum per prius, reliqum per posterius. In utroque istorum
+                <lb ed="#T"/>modorum magis saluatur quam in tercio, cum uterque istorum modorum fiat
+                <lb ed="#T"/>a parte significationis in qua attenditur diuersitas rerum significatarum.
+                <lb ed="#T"/>Tercius autem a parte consignificationis in qua attenditur diuersitas non rerum
+                <lb ed="#T"/>significatarum, sed modorum significandi.
+              </p>
+            </div>
+          </div> <!--This closes De equiuocatione-->
+
+          <div>
+            <head type="question-title">
+              Sequitur de fallacia amphibolie
+            </head>
+            <div>
+              <head type="question-title">
+                <supplied>De amphibolie diffinitione et diuisione</supplied>
+              </head>
+              <p>
+                <lb ed="#T"/><pc type="#pilcrow"/><mentioned>Amphibolia</mentioned> dicitur dupliciter: aliquando enim nominat principium
+                <lb ed="#T"/>decipiendi existens in oratione simpliciter eadem, quod scilicet principium
+                <lb ed="#T"/>compositum ex principio motiuo et principio deffectus; aliquando autem nominat
+                <lb ed="#T"/>deceptionem causatam in nobis per illud principium. Et primo modo sumitur
+                <lb ed="#T"/>hic.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Causa apparentie siue principium motiuum est unitas
+                <lb ed="#T"/>orationis simpliciter eiusdem. Causa uero non existentie, siue principium deff<lb ed="#T"/>ectus
+                amphibolie est diuersitas orationis.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Amphibolia autem
+                <lb ed="#T"/>est principium fallendi ex oratione simpliciter eadem plura significante. In
+                <lb ed="#T"/>hac autem diffinitione tangit utrumque predictorum principiorum. Dico autem <mentioned>oratio<lb ed="#T"/>nem simpliciter eandem</mentioned>, ut remoueatur compositio et diuisio, quia in eis non
+                <lb ed="#T"/>est oratio simpliciter eadem, sed secundum quid.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Sciendum quod sicut <mentioned>amphibolia</mentioned>
+                <lb ed="#T"/>dicitur dupliciter, eodem modo et <mentioned>fallacia amphibolie</mentioned> dicitur dupliciter, quia fallacia amphibolie
+                <lb ed="#T"/>aliquando nominat ipsum principium fallendi secundum quod diffinita est amphibolia,
+                <lb ed="#T"/>aliquando autem nominat deceptionem in nobis causatam ex illo
+                <lb ed="#T"/>principio. Et hec diffinitio generalis est cuilibet fallacie.
+              </p>
+              <p>
+                Dicitur autem <mentioned>amphibolia</mentioned>
+                <lb ed="#T"/>ab <mentioned>amphi</mentioned> quod est dubium et <mentioned>bolos</mentioned> quod est sententia, uel <mentioned>logos</mentioned>
+                <lb ed="#T"/>quod est sermo, quasi dubia sententia, uel dubius sermo.
+              </p>
+              <div>
+                <head type="question-title">
+                  <supplied>De prima specie amphibolie</supplied>
+                </head>
+                <p>
+                  Am<lb ed="#T"/>phibolie
+                  tres sunt species. Prima prouenit ex eo quod oratio principaliter
+                  <lb ed="#T"/>plura significat, ut <mentioned>liber Aristotelis</mentioned>. Hec enim est duplex. Vno enim modo <mentioned>liber Aristotelis</mentioned> idem
+                  <lb ed="#T"/>est quod liber editus ab Aristotele, siue factus. <pc type="#pilcrow"/>Alio autem modo idem est
+                  <lb ed="#T"/>quod possessus ab Aristotele. Et formatur sic paralogismus: <pc type="#pilcrow"/><mentioned>quicquid est Aristotelis
+                  <lb ed="#T"/>possidetur ab Aristotele; iste liber est Aristotelis; ergo iste liber possidetur ab
+                  <lb ed="#T"/>Aristotele</mentioned>. Vtraque premissarum est duplex predicta duplicitate.
+                </p>
+              </div>
+              <div>
+                <head type="question-title">
+                  <supplied>De secunda specie amphibolie</supplied>
+                </head>
+                <p>
+                  <pc type="#pilcrow"/>Secunda species
+                  <lb ed="#T"/>amphibolie est que prouenit ex transuptione orationis. Transup<lb ed="#T"/>tio
+                  autem orationis est quando oratio proprie significans unum transumitur ad signifi<lb ed="#T"/>candum
+                  aliud per similitudinem aliqua, ut <mentioned>litus aratur</mentioned> transumitur ad
+                  <pb ed="#T" n="10-v"/>
+                  <cb ed="#T" n="a"/>
+                  <lb ed="#T"/><mentioned>operam perdi</mentioned>, et formatur sic paralogismus: <mentioned>quicquid aratur, scin<lb ed="#T"/>ditur;
+                  litus aratur; ergo litus scinditur</mentioned>. Minor est duplex, quia <mentioned>litus
+                  <lb ed="#T"/>arari</mentioned> proprie significat <mentioned>terram scindi</mentioned>, transuptiue autem <mentioned>operam perdi</mentioned>.
+                  <lb ed="#T"/>Et est similitudo in hoc, quia litus arat operam perdi
+                  <lb ed="#T"/>et frustra laborat.
+                </p>
+
+              </div>
+              <div>
+                <head type="question-title">
+                  <supplied>De tercia specie amphibolie</supplied>
+                </head>
+                <p>
+                  <pc type="#pilcrow"/>Tertia species amphibolie prouenit
+                  <lb ed="#T"/>ex eo quod aliqua oratio significat plura, et unaqueque partium eius per se
+                  <lb ed="#T"/>sumpta significat unum solum, ut <mentioned>scit seculum</mentioned>. Hec enim oratio
+                  <lb ed="#T"/>duplex est. Significat enim et quod aliquis scit seculum, et quod seculum habeat
+                  <lb ed="#T"/>scientiam de aliquo. Et hoc idem est quod hec dictio <mentioned>seculum</mentioned> potest
+                  <lb ed="#T"/>subponere hinc uerbo <mentioned>scit</mentioned>, uel apponere.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Similiter hic: <mentioned>quod quis
+                  <lb ed="#T"/>uidet hoc uidet</mentioned>, quia hec dictio <mentioned>hoc</mentioned> potest subponere huic uerbo <mentioned>uidet</mentioned>
+                  <lb ed="#T"/>secundo loco posito, uel apponere eidem.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Similiter hic: <mentioned>quod quis scit
+                  <lb ed="#T"/>hoc scit</mentioned>. Hec dictio <mentioned>hoc</mentioned> potest subponere, uel apponere huic uerbo <mentioned>scit</mentioned> secundo
+                  <lb ed="#T"/>loco posito.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Similiter hic: <mentioned>vellem me accipere pugnantes</mentioned>
+                  <lb ed="#T"/>duplex est, quia iste accusatiuus <mentioned>pugnantes</mentioned> potest eidem subponere, uel app<lb ed="#T"/>onere.
+                  Et paralogizatur sic: <pc type="#pilcrow"/>quoscumque uolo me accipere,
+                  <lb ed="#T"/>uolo ut ipsi accipiant me; pugnantes uolo me acci<lb ed="#T"/>pere;
+                  ergo uolo ut pugnantes accipiant me</mentioned>. Vtraque pre<lb ed="#T"/>missarum
+                  est duplex predicta duplicitate.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Et sic: <mentioned>quod quis uidet
+                  <lb ed="#T"/>hoc uidet; uidet autem colupnam; ergo colupna uidet</mentioned>.
+                  <lb ed="#T"/>Maior est duplex ut dictum est.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Similiter hic: <mentioned>quicumque sunt episcopi <unclear reason="damage">sunt</unclear>
+                  <lb ed="#T"/>homines; isti asini sunt episcopi; ergo isti asini sunt homines</mentioned>. Vtraque
+                  <lb ed="#T"/>premissarum est duplex, quia hec dictio <mentioned>episcopi</mentioned> potest esse nominatiui casus uel genitiui.
+                  <lb ed="#T"/><pc type="#pilcrow"/>Quod autem deceptio ex diuersitate casus faciat amphiboliam
+                  <lb ed="#T"/>et non equiuocationem patet quia casus datus est dictioni ad hoc ut ordi<lb ed="#T"/>netur
+                  cum alia dictione. Ergo deceptio ex diuersitate casus est
+                  <lb ed="#T"/>deceptio ordinationis dictionis ad dictionem; ergo orationis; non ergo
+                  <lb ed="#T"/>equiuocationis.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Quod iterum deceptio ex diuersitate casus faciat
+                  <lb ed="#T"/>amphiboliam et non equiuocatione patet ab <ref><name>Aristotele</name></ref> formante secundum diuersitate
+                  <lb ed="#T"/>casus paralogismos amphibolie, et nullum equiuocationis.
+                </p>
+              </div>
+            </div> <!--This closes De amphibolie diffinitione et diuisione-->
+            <div>
+              <head type="question-title">
+                <supplied>De modis communibus equiuocatione et amphibolie</supplied>
+              </head>
+              <p>
+                <pc type="#pilcrow"/>Cum <ref><name>Aristoteles<name> in
+                <lb ed="#T"/><title>Elenchis</title> post equiuocationem et amphiboliam ponat modos communes utrique,
+                <lb ed="#T"/>ideo nos sequentes Aristoteles, post istos duos locos sophisticos ponamus
+                <lb ed="#T"/>modos communes utrique.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Sunt igitur tres modi communes equiuocationi et amphibolie. Primus
+                <lb ed="#T"/>modus est communis utrique, quando dictio uel oratio principaliter plura si<lb ed="#T"/>gnificat,
+                et quantum ad hoc quod nomen plura significare dicitur principaliter,
+                <lb ed="#T"/>pertinet ad equiuocationem iste primus modus, ut <mentioned>piscis</mentioned> et <mentioned>canis</mentioned>. Vtrumque enim
+                <lb ed="#T"/>horum nominum principaliter plura significat. <pc type="#pilcrow"/>Quantum autem ad hoc quod dicitur
+                <lb ed="#T"/>oratio principaliter plura significare pertinet iste primus modus amphibolie,
+                <lb ed="#T"/>ut in hac oratione <mentioned>liber Aristotelis</mentioned>.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Secundus autem modus communis utrique
+                <lb ed="#T"/>est eo quod soliti sumus sic dicere, id est, quando utimur transup<lb ed="#T"/>tione.
+                Sed transuptio in nomine pertinet ad equiuocationem sicut hoc
+                <lb ed="#T"/>uerbum <mentioned>ridet</mentioned> transumitur ad <mentioned>florere</mentioned> ut prius patuit. Transup<lb ed="#T"/>tio
+                autem in oratione pertinet ad amphiboliam sicut prius patuit
+                <lb ed="#T"/>de hac oratione <mentioned>litus aratur</mentioned>.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Tertius uero modus communis utrique
+                <cb ed="#T" n="b"/>
+                <lb ed="#T"/>est quando nomen compositum plures res significat, separatum uero
+                <lb ed="#T"/>unum simpliciter, idest, unum solum. Exemplum autem equiuocationis est in hiis
+                <lb ed="#T"/>nominibus <mentioned>inmortale</mentioned>, <mentioned>incorruptibile</mentioned>. <mentioned>Inmortale</mentioned> enim uno modo idem est
+                <lb ed="#T"/>quod non potens mori. <mentioned>Incorruptibile</mentioned> similiter quod non potens corrum<lb ed="#T"/>pi.
+                Alio autem modo <mentioned>inmortale</mentioned> idem est quod potens non mori, et <mentioned>incorruptibile</mentioned>
+                <lb ed="#T"/>quod potens non corrumpi. Sicut patet in Adam ante quam peccaret erat
+                <lb ed="#T"/>enim inmortalis, id est, potens non mori. Si enim non peccaret nunquam
+                <lb ed="#T"/>moreretur, et ita erat potens non mori, quia potuit omne quod non
+                <lb ed="#T"/>peccaret et ita quod moreretur. Sed non erat inmortalis secundum aliam
+                <lb ed="#T"/>significationem que est non potens mori, quia tunc remouetur ab eo possibilitas
+                <lb ed="#T"/>moriendi, et peccandi, quod non est uerum. <pc type="#pilcrow"/>Et hoc idem est quod hoc
+                <lb ed="#T"/>nomen <mentioned>inmortale</mentioned> uno modo priuat potentia moriendi, et alio priuat
+                <lb ed="#T"/>actum moriendi ponendo potentiam ad eundem actum. Et sic
+                <lb ed="#T"/>melius dicitur quam prius, quia magis est planum. Vtrumque tamen uerum est,
+                <lb ed="#T"/>et satis in idem rediti et quia hoc habet ex sua compositione ideo
+                <lb ed="#T"/>dicitur quod compositum significat plura separatum uero unum solum, id est, si resol<lb ed="#T"/>uatur
+                in suas partes prioris sensus capaces, tunc neutrum partium
+                <lb ed="#T"/>plura significat, sed unum solum.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Si obiciatur quod partes nominis compo<lb ed="#T"/>siti
+                nichil significant separate, ut dicitur in principio <ref><title>Peryhermenias</title></ref>, <pc type="#pilcrow"/>solo dicendum quod
+                <lb ed="#T"/>partes nominis compositi comparantur ad significatum quod habeant ante
+                <lb ed="#T"/>compositione, et comparatur ad significatum ipsius nominis compositi, quod scilicet
+                <lb ed="#T"/>significatum constituitur ex partialibus intellectibus ipsarum partium.
+                <lb ed="#T"/>Et quantum ad primum significatum partes nominis compositi significant. Quantum
+                <lb ed="#T"/>autem ad secundum significatum, quod, scilicet, est ex duabus primis nichil
+                <lb ed="#T"/>significant distincte.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Nota etiam quod intellectus nominis compositi
+                <lb ed="#T"/>est simpliciter per comparationem ad ipsum nomen compositum per quod significatur
+                <lb ed="#T"/>et sic est indiuisibilis. Sed idem est per comparationem ad partiales
+                <lb ed="#T"/>intellectus ipsarum partium diuisibilis cum constituitur ex eis. Sed
+                <lb ed="#T"/>intellectus nominis simplicis nullo modo est diuisibilis, et ideo ne<lb ed="#T"/>cesse
+                est quod partes nominis compositi etiam secundum quod sunt in suo toto magis
+                <lb ed="#T"/>habeant naturam significandi quam partes simplicis nominis. Et hoc
+                <lb ed="#T"/>est quod dicit <ref><name>Aristoteles</name> in principio <title>Peryhermenias</title></ref>, quod in simplicibus nominibus pars
+                <lb ed="#T"/>nullo modo est significatiua. In compositis autem uult quidem significare
+                <lb ed="#T"/>sed nullius est separati, id est, nullius est intellectus discreti, et hoc secundum quod
+                <lb ed="#T"/>est in suo toto.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Exemplum autem amphibolie est in hac oratione <mentioned>scit
+                <lb ed="#T"/>seculum</mentioned>, quia dato quod neutra ipsarum dictionum, scilicet, <mentioned>scire</mentioned> et <mentioned>seculum</mentioned> si<lb ed="#T"/>gnificet
+                plura, tamen oratio constituta ex eis plura significat, sicut patu<lb ed="#T"/>it
+                in tercio modo amphibolie. Et sic compositum significat plura. Separatum
+                <lb ed="#T"/>uero unum solum quantum ad amphiboliam.
+              </p>
+              <div>
+                <head type="question-title">
+                  <supplied>Dubitationes</supplied>
+                </head>
+                <p>
+                  <pc type="#pilcrow"/>Ad maiorem trium
+                  <lb ed="#T"/>predictorum modorum euidentiam potest dubitari primo, quod dictio istorum trium
+                  <lb ed="#T"/>modorum non est recte data ab <ref><name>Aristotele</name></ref> quia omnis recta diuisio fit per
+                  <lb ed="#T"/>opposita; sed diuisio istorum trium modorum non est per opposita; ergo diuisio istorum
+                  <lb ed="#T"/>trium modorum non est recta diuisio. Et est sillogismus in IIII secunde. Et maior
+                  <lb ed="#T"/>patet per hoc quod <mentioned>oppositum</mentioned> sumitur communiter ad opposita secundum quodlibet
+                  <pb ed="#T" n="11-r"/>
+                  <cb ed="#T" n="a"/>
+                  <lb ed="#T"/>genus oppositionis, et ad disparata, id est, ad diuisa. Minor
+                  <lb ed="#T"/>patet quia primus modus quo ad equiuocatione fit eo quod principaliter plura
+                  <lb ed="#T"/>significat nomen, sed nomen quod sumitur in tercio modo quo ad equiuocatione, ut
+                  <lb ed="#T"/><mentioned>inmortale</mentioned>, principaliter plura significat; ergo tercius modus quo ad equiuocatione conti<lb ed="#T"/>netur
+                  sub primo; sed nullum disparatorum, id est, diuisorum aut uere
+                  <lb ed="#T"/>oppositorum sub altero continetur; ergo diuisio istorum modorum trium non
+                  <lb ed="#T"/>fit per opposita. Et hec est minor.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Et dicendum quod ista diuisio recta
+                  <lb ed="#T"/>est, et fit per opposita, et predictus sillogismus bonus est. Sed minor est falsa
+                  <lb ed="#T"/>ad illud quod obicit probando eam, dicendum quod principaliter plura significare
+                  <lb ed="#T"/>reperitur in nomine ex duplici causa. Quarum una est ipso
+                  <lb ed="#T"/>nominis secundum placitum, alia est compositio ipsius nominis. Et prima istarum causarum
+                  <lb ed="#T"/>pertinet ad primum modum. Secunda uero pertinet ad tercium. Vnde licet in<lb ed="#T"/>mortale
+                  principaliter plura significat hoc non est ex impositione secundum placitum, ad
+                  <lb ed="#T"/>hoc, et ad aliud, sed est ex natura sue compositionis eo, scilicet, quod hec prepositio <mentioned>in</mentioned>
+                  <lb ed="#T"/>potest priuare tantum ipsum actum moriendi, uel potentiam antecedentem
+                  <lb ed="#T"/>actum, et sic per consequens ipsum actum. Vnde quod significat plura hoc non est
+                  <lb ed="#T"/>ex impositione secundum placitum imponentis.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Si obiciatur quod omne nomen
+                  <lb ed="#T"/>significat ad placitum, ergo et hoc, dicendum quod istud nomen <mentioned>inmortale</mentioned> et
+                  <lb ed="#T"/>fere omnia nomina composita uno modo significant ad placitum,
+                  <lb ed="#T"/>alio modo quasi ex necessitate, quia quantum ad causam remotam omnia nomina
+                  <lb ed="#T"/>significant ad placitum. Quantum autem ad causam proximam est ibi iam
+                  <lb ed="#T"/>necessitas significandi. Verbi gratia, quod iste due dictiones <mentioned>equs</mentioned> scilicet et <mentioned>fe<lb ed="#T"/>rus</mentioned>
+                  adinuicem componantur principium fuit uoluntas, sed cum iam
+                  <lb ed="#T"/>est compositum aliquod ex eis, ut <mentioned>equiferus</mentioned> iam necesse est ut habeat tale
+                  <lb ed="#T"/>significatum. Vnde in hoc nomine <mentioned>equiferus</mentioned> compositio est causa proxima sue
+                  <lb ed="#T"/>significationis. Voluntas autem ad compositionem eius est causa remota. Vnde quantum ad
+                  <lb ed="#T"/>causam remotam significat a uoluntate. Quantum autem ad causam proximam
+                  <lb ed="#T"/>que est per suam compositionem, significat ex necessitate. Sed in nominibus simplicibus
+                  <lb ed="#T"/>uoluntas est causa proxima, ut in hoc nomine <mentioned>equs</mentioned>. Et omnino similiter est in
+                  <lb ed="#T"/>omnibus equiuocis, quia in simplicibus uoluntas imponentis est enim eff<lb ed="#T"/>iciens
+                  proxima, quod significet plura principaliter, ut in hoc nomine <mentioned>canis</mentioned>.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>In nominibus autem equiuocis que sunt composita, ipsa composito est causa pro<lb ed="#T"/>xima
+                  quod plura significet et uoluntas ad talem compositionem est causa remota.
+                  <lb ed="#T"/>Vnde quia isti modi distinguntur penes causas proximas, et non remotas
+                  <lb ed="#T"/>patet quia isti tres modi sunt oppositi, et unus non continetur sub altero
+                  <lb ed="#T"/>patet etiam cum hoc qualiter in tercio modo nomen principaliter plura significat secundum placitum
+                  <lb ed="#T"/>et qualiter ex necessitate.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Item cum <ref><name>Aristoteles</name></ref> ponat exemplum in primo modo de
+                  <lb ed="#T"/>equiuocatione, et non de amphibolia, in tercio autem econuerso, in secundo uero de
+                  <lb ed="#T"/>neutro, non bene manifestat modos istos.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Et dicendum quod principaliter
+                  <lb ed="#T"/>plura significare per prius conuenit nomini quam orationi, et ideo per prius reperitur in
+                  <lb ed="#T"/>equiuocatione, quam in amphibolia, et ideo exemplificat de equiuocatione in primo modo,
+                  <lb ed="#T"/>et non de amphibolia, ut per hoc significet quod ille modus per prius
+                  <lb ed="#T"/>conuenit equiuocationi quam amphibolie. <pc type="#pilcrow"/>Sed econuerso est de tercio modo,
+                  <lb ed="#T"/>quia per prius compositum significare plura, et separatum unum solum
+                  <cb ed="#T" n="b"/>
+                  <lb ed="#T"/>per prius conuenit orationi, et per posterius nomini, quia partes oratio<lb ed="#T"/>nis
+                  cum sunt in suo toto non solum constituunt significatum
+                  <lb ed="#T"/>orationis, sed unaque retinet per se suum proprium significatum dis<lb ed="#T"/>cretum
+                  et separatum a significato alterius. Non enim sic est in nomine
+                  <lb ed="#T"/>composito, quod partes eius secundum quod unaqueque partium secundum se pro ut est
+                  <lb ed="#T"/>in ipso nomine composito retineat significatum discretum, et se<lb ed="#T"/>paratum
+                  a significato alterius, sed quemadmodum dictum est in diuisione
+                  <lb ed="#T"/>modorum. Et ita exemplificat in tercio modo de amphibolia, et non de equiuocatione,
+                  <lb ed="#T"/>ut per hoc significet tercium modum per prius conuenire amphibolie quam equiuocationi.
+                  <lb ed="#T"/><pc type="#pilcrow"/>In secundo autem modo nec exemplificat de equiuocatione nec de amphibolia quia licet
+                  <lb ed="#T"/>transuptio fiat apud omnes, non tamen in eisdem fit apud omnes.
+                  <lb ed="#T"/>Et ideo de neutra harum exemplificat, quia non debent determinari in scientia
+                  <lb ed="#T"/>nisi ea que sunt eadem apud omnes.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Vel dicendum et melius quod propria significatio
+                  <lb ed="#T"/>dicitur dictionis quam recipit usus communiter, unde quod modo per aliquam dictionem
+                  <lb ed="#T"/>sumitur transuptiue cum usus inoleuerit significabitur proprie, et
+                  <lb ed="#T"/>tunc erit dictio equiuoca quo ad primum modum. Et ideo quia contingit sic
+                  <lb ed="#T"/>significationem que modo non est propria, sed transuptiua fieri postea propriam
+                  <lb ed="#T"/>per frequentem usum, ideo non debuit ponere exempla aliqua in secundo
+                  <lb ed="#T"/>modo, <unclear>quia</unclear> non debet determinari in arte nisi quod semper manet idem.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Item adhuc uidetur quod non recte fiat diuisio istorum modorum quia
+                  <lb ed="#T"/>equiuocatio ex consignificatione sub nullo istorum trium modorum continetur
+                  <lb ed="#T"/>quod patet inductione in quolibet eorum, quia dictio non principaliter sua accidentia
+                  <lb ed="#T"/>nec transuptiue. Et ita non est in primo, nec in secundo equiuocatio
+                  <lb ed="#T"/>ex consignificatione, nec est in tercio cum tercius quo ad equiuocationem fit
+                  <lb ed="#T"/>solum in nominibus compositis. Equiuocatio autem ex consignificatione non solum
+                  <lb ed="#T"/>est in nominibus compositis, sed etiam in simplicibus.
+                </p>
+                <p>
+                  <pc type="pilcrow"/>Et
+                  <lb ed="#T"/>dicendum quod principalis significatio ipsius dictionis opponitur duobus, quia opponitur consignificatio<lb ed="#T"/>ni,
+                  et opponitur significationi transuptiue. Vnde cum opponitur huic remouet
+                  <lb ed="#T"/>hanc, et cum opponitur illi remouet illam. <pc type="#pilcrow"/>Vnde sumitur hic principaliter
+                  <lb ed="#T"/>plura significare secundum quod opponitur significationi transuptiue, et hoc modo non
+                  <lb ed="#T"/>remouet consignificationem. Vnde appellatur hic principaliter significatio quic<lb ed="#T"/>quid
+                  significatur per dictionem secundum communem usum, siue proprie quod idem est,
+                  <lb ed="#T"/>ita quod causa proxima sit uoluntas. <pc type="#pilcrow"/>Vnde per hoc quod dico <mentioned>secundum communem usum</mentioned>
+                  <lb ed="#T"/>remouetur secundus modus; per hoc autem quod uoluntas est causa illius significationis remouetur
+                  <lb ed="#T"/>tercius modus. Vnde equiuocatio ex consignificatione continetur sub primo modo
+                  <lb ed="#T"/>cum secundum communem usum accidentia represententur per dictionem a uoluntate,
+                  <lb ed="#T"/>quia qui imponebat dictionem ad significandum talem rem, simul im<lb ed="#T"/>ponebat
+                  eam ad significandum in tali genere et in tali numero,
+                  <lb ed="#T"/>ut hoc nomen <mentioned>lapis</mentioned> simul imponebatur ad significandum talem
+                  <lb ed="#T"/>rem et sub talibus accidentibus.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Item queritur quare decep<lb ed="#T"/>tio
+                  ex quibusdam accidentibus facit eqiuocationem, ut in hac
+                  <lb ed="#T"/>dictione <mentioned>laborans</mentioned>, et deceptio ex quibusdam aliis accidentibus
+                  <lb ed="#T"/>facit amphiboliam, ut deceptio ex diuersitate casus.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>So<lb ed="#T"/>lutio:
+                  quedam accidentia consequntur dictionem non absolute, sed
+                  <pb ed="#T" n="11-v"/>
+                  <cb ed="#T" n="a"/>
+                  <lb ed="#T"/>pro ut est ordinabilis cum alia dictione, sicut casus, quia casus
+                  <lb ed="#T"/>accidit nomini in quantum agere uel pati egreditur a nomine, ut
+                  <lb ed="#T"/>rectus, uel in quantum agere uel pati transit in nomen, ut obliqui.
+                  <lb ed="#T"/>Et sic simpliciter casus accidit nomini in comparatione ad uerbum. Vnde est
+                  <lb ed="#T"/>accidens respectiuum, est enim dispositio substantie respectu actus, et per talia
+                  <lb ed="#T"/>accidentia ordinantur dictiones ad inuicem. Male enim dicitur <mentioned>hominis
+                  <lb ed="#T"/>currit</mentioned>, quia non est in casus debitus, et deceptio ex talibus accidentibus
+                  <lb ed="#T"/>est deceptio ex ordinatione dictionum, et sic est deceptio in
+                  <lb ed="#T"/>oratione; et ita erit ibi amphibolia, et non equiuocatio. Sed alia sunt accidentia absoluta
+                  <lb ed="#T"/>que consequntur dictionem secundum se, ut tempus. Et per talia accidentia non
+                  <lb ed="#T"/>ordinantur dictiones adinuicem, quia eque bene dicitur <mentioned>homo currit</mentioned>, <mentioned>homo cu<lb ed="#T"/>currit</mentioned>,
+                  <mentioned>homo curret</mentioned>, <mentioned>uideo hominem</mentioned>, <mentioned>uidi hominem</mentioned>, <mentioned>uidebo hominem</mentioned>.
+                  <lb ed="#T"/>Vnde licet tempus uarietur, eadem manet super constructio nominis cum uerbo
+                  <lb ed="#T"/>a parte ante et a parte post. Et ideo non construitur mediante tempore
+                  <lb ed="#T"/>cum subposito, neque cum apposito. Vnde deceptio ex talibus accidentibus
+                  <lb ed="#T"/>non est orationis, sed dictionis, et ita est ibi equiuocatio, et non amphibolia.
+                  <lb ed="#T"/>Dicendum ergo breuiter quod deceptio ex talibus accidentibus que sunt
+                  <lb ed="#T"/>accidentia absoluta facit equiuocationem, sed deceptio ex accidentibus que sunt
+                  <lb ed="#T"/>respectiua facit amphiboliam.
+                </p>
+              </div>
+            </div> <!--This closes De modis communibus equiuocatione et amphibolie-->
+          </div> <!--This closes Sequitur de fallacia amphibolie-->
+
+          <div>
+            <head type="question-title">
+              Sequitur de fallacia compositionis
+            </head>
+            <div>
+              <head type="question-title">
+                <supplied>De multiplici potentiali</supplied>
+              </head>
+              <p>
+                <pc type="#pilcrow"/>Compositio, et diuisio, et accentus faciunt multiplex potentiale
+                <lb ed="#T"/>secundum <ref><name>Commentatorem</name></ref>, ut dictum est prius. Multiplex autem potentiale est cum
+                <lb ed="#T"/>eadem dictio, uel oratio secundum diuersas perfectiones diuersa significat. Verbi gratia,
+                <lb ed="#T"/>hoc uerbum <mentioned>pendere</mentioned> cum est secunde coniugationis, et cum est tercie coniu<lb ed="#T"/>gationis
+                aliam et aliam habet perfectionem quia sic sunt duo uerba
+                <lb ed="#T"/>specie differentia. Quare necesse est ea habere diuersas perfectiones, est tamen idem
+                <lb ed="#T"/>uerbum secundum materiam, cum sit ex eisdem litteris et sillabis; et sic est ibi indemptitas
+                <lb ed="#T"/>materialis et diuersitas perfectionis, et secundum diuersitatem perfectionis est
+                <lb ed="#T"/>diuersitas significatorum.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Similiter in oratione est cum oratio composita alterius
+                <lb ed="#T"/>perfectionis est, et alterius cum est diuisa, ut hec oratio <mentioned>duo et
+                <lb ed="#T"/>tria sunt quinque</mentioned> cum est composita, tunc est cathegorica, et est de copulato subiecto.
+                <lb ed="#T"/><pc type="#pilcrow"/>Cum autem est diuisa sic <mentioned>duo sunt V et tria sunt V</mentioned>, tunc est copulatiua.
+                <lb ed="#T"/>Palam autem est cathegorice propositionis et copulatiue diuersas esse perfec<lb ed="#T"/>tiones.
+              </p>
+              <p>
+                Et similiter in omni oratione secundum compositionem et dictionem est semper
+                <lb ed="#T"/>reperire diuersitatem aliquam a parte perfectionis, et propter hoc signifi<lb ed="#T"/>catorum.
+                Et quia in istis dictio uel oratio possibilis est ab una
+                <lb ed="#T"/>perfectione in alteram, et per hanc possibilitatem reperitur ibi diuersitas
+                <lb ed="#T"/>significatorum, ideo appellatur multiplex potentiale. In equiuocatione uero, et amphibolia
+                <lb ed="#T"/>quia dictio uel oratio existens semper sub eadem perfectione diuersa
+                <lb ed="#T"/>significat, ideo dicitur ibi esse multiplex actuale, quasi multiplex secundum eudem actum
+                <lb ed="#T"/>siue secundum eadem perfectionem. Perfectio enim actus appellatur.
+              </p>
+
+              <p>
+                <pc type="#pilcrow"/>Sed
+                <lb ed="#T"/>contra predicta obicitur quia cum hec oratio <mentioned>panem comedere canem</mentioned>
+                <lb ed="#T"/>sit alia et alia secundum quod iste accusatiuus <mentioned>panem</mentioned> subponit huic uerbo <mentioned>co<lb ed="#T"/>medere</mentioned>,
+                et secundum quod idem accusatiuus apponit eidem uerbo, sed non est alia
+                <lb ed="#T"/>et alia secundum materiam, quia est ex eisdem litteris, et sillabis, et
+                <cb ed="#T" n="b"/>
+                <lb ed="#T"/>dictionibus; ergo est eadem secundum materiam. Ergo cum simpliciter sit alia
+                <lb ed="#T"/>et alia tunc oportet quod sit alia et alia secundum speciem, et secundum hoc significat diuer<lb ed="#T"/>sa.
+                Ergo hec oratio <mentioned>panem comedere canem</mentioned> existens eadem secundum
+                <lb ed="#T"/>materiam, et diuersa secundum diuersas perfectiones diuersa significat. Ergo est ibi
+                <lb ed="#T"/>multiplex potentiale, cum diffinitio multiplicis potentialis prius posita conueniat
+                <lb ed="#T"/>ei, et ita cum non sit ibi nisi amphibolia tunc amphibolia faciet
+                <lb ed="#T"/>multiplex potentiale, quod est contra predicta.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Et dicendum quod in hac oratione
+                <lb ed="#T"/><mentioned>panem comedere canem</mentioned> non est multiplex potentiale, sed actuale
+                <lb ed="#T"/>tantum cum sit semper eadem oratio secundum speciem ut iam patebit. Ad
+                <lb ed="#T"/>illud quod obicit quod est alia et alia secundum speciem cum sit eadem secundum materiam, quia
+                <lb ed="#T"/>est ex eisdem litteris, et sillabis, et ex eisdem dictionibus, <pc type="#pilcrow"/>dicendum quod
+                <lb ed="#T"/>multiplex est idemptitas et diuersitas in oratione, quia idemptitas est in
+                <lb ed="#T"/>oratione dupliciter, scilicet, idemptitas perfectionis, et idemptitas materialis. Et utraque istarum
+                <lb ed="#T"/>idemptitatum est in ista oratione <mentioned>homo currit</mentioned>, cum sit ibi una et eadem
+                <lb ed="#T"/>perfectam et sic idemptitas perfectionis, et sit ex eisdem litteris, et si<lb ed="#T"/>llabis,
+                et dictionibus habentibus semper eandem ordinationem materialem. Et
+                <lb ed="#T"/>sic est ibi idemptitas materialis.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Item diuersitas orationis est primo
+                <lb ed="#T"/>duplex. Vno enim modo secundum speciem, ut hec oratio <mentioned>duo et tria sunt V</mentioned> diuer<lb ed="#T"/>sa
+                est species ab hac <mentioned>duo sunt V et tria sunt V</mentioned>. <pc type="#pilcrow"/>Alio modo est
+                <lb ed="#T"/>diuersitas materialis, et hec dupliciter, quia uel ex eo quod est ex aliis litteris, et
+                <lb ed="#T"/>sillabis, et dictionibus, ut <mentioned>Socrates currit, Plato disputat</mentioned>; uel eo quod est ex eis<lb ed="#T"/>dem
+                litteris, sillabis, et dictionibus, sed aliter et aliter ordinatis. Et
+                <lb ed="#T"/>hec iterum dupliciter, quia uno modo est oratio ex eisdem dictionibus aliter et aliter
+                <lb ed="#T"/>ordinatis ad eandem perfectionem; alio autem modo est diuersitas
+                <lb ed="#T"/>orationis secundum materiam ex dictionibus aliter et aliter ordinatis ad perfec<lb ed="#T"/>tiones
+                diuersas. Et hoc ultimo modo est alia et alia oratio secundum compositionem uel
+                <lb ed="#T"/>diuisionem. Modo autem penultimo est alia et alia oratio secundum amphiboliam.
+                <lb ed="#T"/>Verbi gratia, hec oratio <mentioned>panem comedere canem</mentioned> quocumque illorum accusatiuuorum
+                <lb ed="#T"/>subponente uel apponente semper est eadem secundum perfectionem, quia hec oratio
+                <lb ed="#T"/>perficitur ab inclinatione ibi existente licet sit infinita incli<lb ed="#T"/>natio;
+                sicut enim indicatiua oratio perficitur a sua propria inclinatione,
+                <lb ed="#T"/>et imperatiua a sua propria inclinatione, similiter et hec oratio infinitiua suo
+                <lb ed="#T"/>modo perficitur ab inclinatione infinita, licet non sit simpliciter oratio perfecta.
+                <lb ed="#T"/>Vnde predicta oratio est eadem secundum speciem, et est alia et alia secundum materiam,
+                <lb ed="#T"/>pro ut unus illorum accusatiuuorum subponit, uel apponit, et similiter de re<lb ed="#T"/>liquo.
+                Et potest hoc manifestari per simile naturale, quia sicut iste homo qui modo
+                <lb ed="#T"/>est puer, et postea iuuenis, uel senex, semper est idem homo, cor<lb ed="#T"/>pulentia
+                autem sua non est eadem semper, immo alia et alia, neque
+                <lb ed="#T"/>macies, quia aliquando est pinguis, aliquando macer. Est tamen idem
+                <lb ed="#T"/>homo semper, et sic transmutantur partes materiales in eo. Species autem hu
+                <lb ed="#T"/>mana semper est eadem in eo, et sic est in eo diuersitas materialis,
+                <lb ed="#T"/>et idemptitas in specie. <pc type="#pilcrow"/>Similiter in hac oratione <mentioned>panem comedere
+                <lb ed="#T"/>canem</mentioned> est diuersitas materialis modo predicto, idemptitas autem in specie.
+              </p>
+              <p>
+                <lb ed="#T"/><pc type="#pilcrow"/>Item si queratur utrum orationes secundum amphiboliam equaliter participent
+                <pb ed="#T" n="12-r"/>
+                <cb ed="#T" n="a"/>
+                <lb ed="#T"/>idemptitatem orationis, dicendum sicut patet ex predictis quod uno modo
+                <lb ed="#T"/>sic, alio modo non, quia duplex est idemptitas orationis, sicut iam patet
+                <lb ed="#T"/>ex predictis: una materialis, et alia secundum speciem. Loquendo autem de idem<lb ed="#T"/>ptitate
+                secundum materiam, aliqua oratio amphibolica est semper eadem,
+                <lb ed="#T"/>ut hec <mentioned>liber Aristotelis</mentioned>, aliqua autem est alia et alia, sicut omnis
+                <lb ed="#T"/>oratio amphibolica ex eo quod aliquis casus potest subponere, uel apponere
+                <lb ed="#T"/>eidem uerbo. Loquendo autem de idemptate orationis secundum speciem,
+                <lb ed="#T"/>oratio amphibolica est equaliter eadem cum nullam habeat diuersitatem secundum
+                <lb ed="#T"/>speciem in suis partius, quia unaquque secundum se habet propriam perfec<lb ed="#T"/>tionem
+                qua semper perficitur. Et ideo unaqueque oratio amphibolica est simpliciter
+                <lb ed="#T"/>eadem in se idemptitate secundum speciem.
+              </p>
+            </div> <!--This closes De multiplici potentiali-->
+
+            <div>
+              <head type="question-title">
+                <supplied>De compositione</supplied>
+              </head>
+              <p>
+                <pc type="#pilcrow"/>Hiis habitis dicendum
+                <lb ed="#T"/>est de compositione iam specialiter. <pc type="#pilcrow"/>Sed prius uidendum est quando oratio debet esse
+                <lb ed="#T"/>composita et quando diuisa.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Sciendum ergo quod oratio non potest esse composita
+                <lb ed="#T"/>nisi sit reperire in ea diuersum situm secundum quem partes possint di<lb ed="#T"/>uersimode
+                ordinari, et ideo cum dictiones ordinantur secundum situm magis
+                <lb ed="#T"/>debitum eis in oratione tunc oratio dicitur composita. Si uero diuidantur ab illo
+                <lb ed="#T"/>situ, et ponantur in situ minus debito, tunc est oratiol diuisa.
+                <lb ed="#T"/>Verbi gratia, hec oratio <mentioned>quicquid uiuit semper est</mentioned> potest esse composita uel di<lb ed="#T"/>uisa.
+                Cum enim hoc totum, scilicet, <mentioned>quicquid uiuit</mentioned> sit subiectum in ea
+                <lb ed="#T"/>et hoc uerbum <mentioned>est</mentioned> predicatum, tunc hoc uerbum <mentioned>est</mentioned> est principale
+                <lb ed="#T"/>in ea, et hoc uerbum <mentioned>uiuit<mentioned> cum implicetur ad subiectum non
+                <lb ed="#T"/>est uerbum principale in ea. probatio: uerbum est quod consignificat tempus, et est
+                <lb ed="#T"/>semper eorum que de altero dicuntur nota; ergo illud uerbum quod actu
+                <lb ed="#T"/>predicatur participat actu rationem uerbi simpliciter, et cum hoc uerbum
+                <lb ed="#T"/><mentioned>uiuit</mentioned> non predicetur in actu sed implicetur ad subiectum quod est
+                <lb ed="#T"/>contra naturam uerbi in quantum est uerbum tunc non participabit in actu
+                <lb ed="#T"/>rationem uerbi simpliciter, licet utrumque sit uerbum simpliciter secundum habitum,
+                <lb ed="#T"/>quia utrumque habet aptitudinem predicandi in se. Et sic utrumque est
+                <lb ed="#T"/>uerbum simpliciter habitu. Falso autem utrumque est uerbum in actu simpliciter,
+                <lb ed="#T"/>et sic alterum est principale et alterum non ut dictum est; ergo cum ad<lb ed="#T"/>uerbium
+                habeat de sua natura determinare uerbum, tunc rectius de<lb ed="#T"/>terminabit
+                uerbum principalius quam minus principale. Et sic ponitur in situ
+                <lb ed="#T"/>magis debita et propter hoc quando hec dictio <mentioned>semper</mentioned> determinat hoc uerbum
+                <lb ed="#T"/><mentioned>est</mentioned>, tunc est oratio composita sic: <mentioned>quicquid uiuit, semper est</mentioned>. Et si
+                <lb ed="#T"/>diuidatur ab eo erit diuisa sic: <mentioned>quicquid uiuit semper,
+                <lb ed="#T"/>est</mentioned>. Et similiter intelligendum est de aliis secundum naturam dictionum ibi pos<lb ed="#T"/>itarum.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Similiter est de hac oratione: <mentioned>ego posuite seruum entem
+                <lb ed="#T"/>liberum</mentioned>, quia cum signa in quantum sunt signa debeant habere conue<lb ed="#T"/>nientiam,
+                et differentiam rationem suorum signatorum, cum dictiones sint
+                <lb ed="#T"/>signa rerum, si res possunt ordinari differenter et signa
+                <lb ed="#T"/>uel dictiones. <unclear reason="damage">Similiter</unclear> tunc cum ordinatio rerum erit conuenientior et sig<lb ed="#T"/>norum
+                conuenientior, et cum ordinatio rerum est minus conueniens,
+                <lb ed="#T"/>et dictionum minus conueniens, et cum conuenientior status sit ipsi nature hu<lb ed="#T"/>mane
+                ex seruitute exire in libertatem, quam ex libertate
+                <cb ed="b"/>
+                <lb ed="#T"/>inuenire in seruitutem conuenientius construitur hoc participium
+                <lb ed="#T"/><mentioned>entem</mentioned> cum hoc nomine <mentioned>seruum</mentioned> quam cum hoc nomine <mentioned>liberum</mentioned>. Et sic
+                <lb ed="#T"/>est composita, et est sensus <mentioned>te entem seruum posui liberum</mentioned>, id est, <mentioned>ex te
+                <lb ed="#T"/>seruo feci liberum</mentioned>. Econuerso autem est diuersa, et est sensus <mentioned>te entem li<lb ed="#T"/>berum
+                posui seruum</mentioned>, id est, <mentioned>ex te libero feci seruum</mentioned>.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Et nota
+                <lb ed="#T"/>quod hanc orationem posuit <ref><name>Aristoteles</name></ref> inter paralogismos diuisionis.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Nota
+                <lb ed="#T"/>etiam quod ubi est compositio, uel diuisio, uel accentus non est necesse quod oratio
+                <lb ed="#T"/>uno modo sit uera semper, et alia falsa, quia potest esse quod utroque sensu sit uera,
+                <lb ed="#T"/>uel utroque sensu sit falsa. Vt <mentioned>tango percussum manu</mentioned>: esto ita quod
+                <lb ed="#T"/>aliquis percussus fiunt manu, et ego manu tangam eum, tunc prima
+                <lb ed="#T"/>est duplex eo quod iste ablatiuus <mentioned>manu</mentioned> potest determinare hoc uerbum <mentioned>tango</mentioned>, uel
+                <lb ed="#T"/>participium <mentioned>percussum</mentioned>; et est uera utroque sensu. Hec autem est falsa utroque sensu: <mentioned>tango
+                <lb ed="#T"/>baculo percussum</mentioned>, manente eadem positione. Similiter est in equiuocatione. Hec enim
+                <lb ed="#T"/>oratio <mentioned>omnis canis est substantia</mentioned> tres sensus habet et in quolibet est uera; hec autem
+                <lb ed="#T"/><mentioned>omnis canis est albedo</mentioned> in quolibet est falsa, et similiter est de amphibolia.
+              </p>
+              <p>
+                <lb ed="#T"/><pc type="#pilcrow"/>Ex hiis patet quod imperfecte dicunt dicentes orationem esse secundum compositionem
+                <lb ed="#T"/>quando est falsa in sensu compositionis, et secundum diuisionem quando est falsa in sensu
+                <lb ed="#T"/>diuisionis, quia non est hoc uerum in omnibus sicut dictum est. Sed hoc est uerum
+                <lb ed="#T"/>quod si parallogismus fiunt factus secundum compositionem, diuidenti erit solutio, et si
+                <lb ed="#T"/>secundum diuisionem componenti erit solutio. Et hoc habetur ab <ref><name>Aristotele</name></ref>. Illud autem non.
+              </p>
+
+              <div>
+                <head type="question-title">
+                  <supplied>De causis huius fallacie</supplied>
+                </head>
+                <p>
+                  <lb ed="#T"/><pc type="#pilcrow"/>Causa autem apparentie, siue principium motiuum compositionis, est uni<lb ed="#T"/>tas
+                  orationis secundum suam speciem ex compositione causata. Et dico quod causatur
+                  <lb ed="#T"/>ex compositione, quia ex eo quod oratio est composita sic, uel diuisa sic, habet
+                  <lb ed="#T"/>aliam et aliam speciem, et similiter aliam et aliam unitatem. Pri<lb ed="#T"/>ncipium
+                  autem defectus compositionis est possibilitas diuersorum signifi<lb ed="#T"/>catorum
+                  per eandem orationem, et hoc dico quia licet oratio sit composita
+                  <lb ed="#T"/>et ita stet sub una specie in ipsa compositione, est tamen possibilis ad
+                  <lb ed="#T"/>aliam speciem, siue ad aliam perfectionem qua potest haberi per diuisionem.
+                  <lb ed="#T"/>Et per hoc est in eo possibilitas diuersorum significatorum. Et hoc totum
+                  <lb ed="#T"/>patuit prius in hac oratione, scilicet, <mentioned>quicquid uiuit semper est</mentioned>. Vnde po<lb ed="#T"/>ssibilitas
+                  orationis ad diuersas species que est a parte uocis
+                  <lb ed="#T"/>ordinatur ad possibilitatem diuersorum significatorum que est a parte
+                  <lb ed="#T"/>rei.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Quidam autem dicunt quod causa apparentie compositionis est
+                  <lb ed="#T"/>ipsa composito, causa non existentie est diuisio ipsius orationis. <pc type="#pilcrow"/>Alii
+                  <lb ed="#T"/>autem dicunt quod causa apparentie compositionis est ueritas orationis composite,
+                  <lb ed="#T"/>causa autem non existentie est falsitas eiusdem orationis diuise,
+                  <lb ed="#T"/>quia isti dicunt quod ueritas orationis composite mouet ad credendum
+                  <lb ed="#T"/>ueritatem esse in eadem cum est diuisa, quia semper principium motiuum
+                  <lb ed="#T"/>facit credere oppositum principio defectus.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Quod autem isti male
+                  <lb ed="#T"/>distinguant principia huius istius loci sophistici patet primo per hoc quod
+                  <lb ed="#T"/>omnes fallacie in dictione differunt a fallaciis extra dictionem, per hoc
+                  <lb ed="#T"/>quod fallacie in dictione habent principium motiuum a parte uocis, siue
+                  <lb ed="#T"/>a parte signi, et habent principium defectus a parte rei; sed fallacie
+                  <lb ed="#T"/>extra dictionem utrumque horum principiorum habent a parte rei; ergo
+                  <pb ed="#T" n="12-v"/>
+                  <cb ed="#T" n="a"/>
+                  <lb ed="#T"/>prima sententia istorum non potest stare, quia ponit
+                  <lb ed="#T"/>utrumque istorum principiorum a parte uocis, siue in signo. Compositio enim uel
+                  <lb ed="#T"/>diuisio ipsius orationis a parte uocis attenditur siue signi.
+                </p>
+                <p>
+                  <lb ed="#T"/><pc type="#pilcrow"/>Item nichil mouet nisi ad simile simpliciter, uel in parte. Et ideo
+                  <lb ed="#T"/>non est possibile unum contrariorum mouere ad alterum. Ergo neque compositio
+                  <lb ed="#T"/>ad diuisionem, uel econuerso. Per primam autem harum rationum patet falsitas
+                  <lb ed="#T"/>secunde positionis que ponit utrumque principium compositionis a parte rei, cum ueri<lb ed="#T"/>tas
+                  non sit in oratione nisi a parte rei.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Item in equiuocatione pri<lb ed="#T"/>ncipium
+                  motiuum a parte unitatis dictionis sumitur, et principium
+                  <lb ed="#T"/>defectus a parte rerum significatarum. Et eodem modo in amphibolia
+                  <lb ed="#T"/>et similiter in accentu sicut postea patebit, et in figura dictio<lb ed="#T"/>nis.
+                  Oportet ergo quod in compositione similiter fiat, uel non erunt VI in dictio<lb ed="#T"/>ne,
+                  cuius oppositum docuit <ref><name>Aristoteles</name></ref> probare inductione, et sillogismo.
+                  <lb ed="#T"/>Oportet ergo ponere principium motiuum compositionis a parte uocis, et principium de<lb ed="#T"/>fectus
+                  a parte rei. Et ideo diximus quod principium motiuum compositionis est
+                  <lb ed="#T"/>unitas orationis secundum suam speciem ex compositione causata. Principium uero de<lb ed="#T"/>fectus
+                  est possibilitas diuersorum significatarum per eandem orationem. Vnitas
+                  <lb ed="#T"/>enim orationis composite mouet ad credendum significatum unum, sine
+                  <lb ed="#T"/>possibilitate ad aliud significatum, et sic principium motiuum mouet
+                  <lb ed="#T"/>ad oppositum principio defectus, sicut in ceteris locis sophisticis.
+                </p>
+              </div>
+
+              <div>
+                <head type="question-title">
+                  <supplied>De modis eius</supplied>
+                </head>
+                <p>
+                  <pc type="#pilcrow"/>Compositionis autem duo modi possunt assignari, quos uidetur <ref><name>Aristoteles</name></ref>
+                  <lb ed="#T"/>innuere in capitulo de compositione.
+                </p>
+
+                <div>
+                  <head type="question-title">
+                    <supplied>De primo modo fallacie compositionis</supplied>
+                  </head>
+                  <p>
+                    Primus modus prouenit ex eo quod
+                    <lb ed="#T"/>aliquod dictum potest subpositione alicui uerbo per se, uel pro parte sui, ut hic:
+                    <lb ed="#T"/><mentioned>Sedentem ambulare est possibile</mentioned>. Et formatur sic paralogismus: <mentioned>quecumque am<lb ed="#T"/>bulare
+                    est possibile contingit quod ipse ambulet; sed sedentem am<lb ed="#T"/>bulare
+                    est possibile; ergo contingit quod sedens ambulet</mentioned>. Minor est duplex,
+                    <lb ed="#T"/>quia si hoc dictum <mentioned>sedentem ambulare</mentioned> per se subiciatur hoc predicato
+                    <lb ed="#T"/><mentioned>est possibile</mentioned>, sic est sensus unus, et est oratio falsa in illo sensu, quia tunc actus
+                    <lb ed="#T"/>oppositi sibi inuicem coniunguntur, <mentioned>ambulare</mentioned>, scilicet, et <mentioned>sedere</mentioned>, quod falsum
+                    <lb ed="#T"/>est sicut hec est falsa: <mentioned>sedens ambulat</mentioned>. Si autem illud dictum subponat
+                    <lb ed="#T"/>predicto predicato pro parte sui, scilicet, pro subiecto ipsius dicti, tunc est sensus ta<lb ed="#T"/>lis:
+                    <mentioned>sedens habet in se potentiam ad ambulandum</mentioned>, et in hoc sensu
+                    <lb ed="#T"/>est minor uera. Et similiter hec est distinguenda: <mentioned>non scribentem scribere est
+                    <lb ed="#T"/>possibile</mentioned>, et paralogismus similiter est formandus. Et sunt iste orationes et consimiles com<lb ed="#T"/>posite
+                    secundum quod totum dictum subponit per se, diuise autem cum subpo<lb ed="#T"/>nit
+                    dictum pro parte sui, quia competentius atribuitur predicatum toti
+                    <lb ed="#T"/>dicto quam parti eius, licet semper dictum subponat.
+                  </p>
+                  <p>
+                    Vnde nichil est quod quidam obi<lb ed="#T"/>ciunt
+                    dicentes quod si est uerum predictum secundum modum quod possibilitas ad am<lb ed="#T"/>bulandum
+                    aliquando atribuatur toti dicto, aliquando parti eius, scilicet, huic
+                    <lb ed="#T"/>quod dico <mentioned>sedentem</mentioned>, ergo tunc accusatiuus iste subponit huic uerbo <mentioned>est</mentioned>
+                    <lb ed="#T"/>sic: <mentioned>sedentem est possibile ambulare</mentioned>. Sed hoc est inconueniens, quia
+                    <lb ed="#T"/>oratio esset incongrua. Accusatiuus enim non potest subponere uerbo persone
+                    <lb ed="#T"/>tercie. Ergo predicta distinctio nulla est.
+                  </p>
+                  <p>
+                    <pc type="#pilcrow"/>Solutio autem plana
+                    <lb ed="#T"/>est ex predictis, quia totum dictum semper subponit illi uerbo tercie persone,
+                    <cb ed="#T" n="b"/>
+                    <lb ed="#T"/>sed aliquando pro se, et tunc redditur possibilitas toti dicto,
+                    <lb ed="#T"/>aliquando pro parte sui, scilicet, pro subiecto dicti, et tunc redditur possibilitas subiecto
+                    <lb ed="#T"/>ipsius dicti, scilicet, huic quod dico <mentioned>sedentem</mentioned>.
+                  </p>
+                  <p>
+                    <pc type="#pilcrow"/>Alii distingunt his oratio<lb ed="#T"/>nes
+                    dicentes quod per hoc participium <mentioned>sedentem</mentioned> uel <mentioned>scribentem</mentioned> importatur conco<lb ed="#T"/>mitantiam,
+                    ut uult <ref><name>Priscianus</name></ref>, quia participium inuentum est ut ferat conco<lb ed="#T"/>mitantiam
+                    sui ad uerbum, ut <mentioned>sedens lego</mentioned>. Et explicatur ista
+                    <lb ed="#T"/>concomitantia per hanc dictionem <mentioned>dum</mentioned> uel <mentioned>cum</mentioned>, sicut <mentioned>dum sedeo lego</mentioned>,
+                    <lb ed="#T"/>uel <mentioned>cum sedeo lego</mentioned>. Dicunt ergo quod predicte orationes sunt duplices
+                    <lb ed="#T"/>quia concomitantia importata per praticipium potest significari respectu huius uerbi <mentioned>am<lb ed="#T"/>bulare</mentioned>,
+                    et tunc est sensus istius <mentioned>sedentem ambulare est possibile</mentioned>, id est, <mentioned>dum
+                    <lb ed="#T"/>sedeo me ambulare est possibile</mentioned>, quod falsum est; uel potest denotari
+                    <lb ed="#T"/>illa concomitantia respectu predicati, et tunc est sensus istius <mentioned>sedentem possibile est ambula<lb ed="#T"/>re</mentioned>,
+                    id est, <mentioned>dum sedet potentiam habet ad ambulandum postea</mentioned>, et hoc est
+                    <lb ed="#T"/>uerum. Sed ista distinctio in idem reddit cum priori, quia quando de<lb ed="#T"/>notatur
+                    concomitantia respectu huius uerbi <mentioned>ambulare</mentioned>, tunc ponitur possibilitas
+                    <lb ed="#T"/>supra totum dictum, et sic est falsa. Quando autem denotatur concomitantia respectu
+                    <lb ed="#T"/>predicati tunc ponitur possibilitas supra subiectum dicti, et sic est uera.
+                  </p>
+                  <p>
+                    <pc type="#pilcrow"/>Solent autem
+                    <lb ed="#T"/>huius orationes appellari de re uel de dicto. Et dicuntur <mentioned>de dicto</mentioned> quando
+                    <lb ed="#T"/>subponit dictum per se. Quando autem subponit dictum pro parte sui dicuntur
+                    <lb ed="#T"/><mentioned>de re</mentioned>, et appellant rem subiectum ipsius dicti. Subiectum autem dicti non est
+                    <lb ed="#T"/>dictum, unde licet dictum sit res, tamen non est res secundum quod ipsi sumunt
+                    <lb ed="#T"/>hic rem.
+                  </p>
+                </div>
+
+                <div>
+                  <head type="question-title">
+                    <supplied>De secundo modo fallacie compositionis</supplied>
+                  </head>
+                  <p>
+                    <pc type="#pilcrow"/>Secundus autem modus compositionis prouenit ex eo quod aliqua
+                    <lb ed="#T"/>dictio in oratione posita potest esse determinatio diuersorum, ut hic: <mentioned>literas quas scis
+                    <lb ed="#T"/>discere nunc est possibile</mentioned>, quia hoc aduerbium <mentioned>nunc</mentioned> potest determinare hoc uerbum
+                    <lb ed="#T"/><mentioned>discere</mentioned>. Et sic est falsa, quia literas quas scis non est possibile discere nunc,
+                    <lb ed="#T"/>quia si adiscit aliquid, ignorat illud, ut enim uult <ref><name>Aristoteles</name></ref>: <quote>quicumque adis<lb ed="#T"/>cit
+                    ignorat</quote>. Vel potest determinare hoc predicatum <mentioned>est possibile</mentioned>, et sic est uera,
+                    <lb ed="#T"/>quia literas quas scis adiscere iterum possibile est nunc. Potest enim earum obli<lb ed="#T"/>uisci,
+                    et sic in presenti habet potentiam quod adiscat eas. Similiter est
+                    <lb ed="#T"/>hic: <mentioned>quod unum solum potest ferre, plura potest ferre</mentioned>. Et formatur sic para<lb ed="#T"/>logismus:
+                    <mentioned>quod unum solum potest ferre, plura potest ferre; sed quod non
+                      <lb ed="#T"/>potest ferre plura, potest unum solum ferre; ergo quod non potest ferre plura,
+                      <lb ed="#T"/>potest ferre plura</mentioned>. Maior est duplex, quia si hec dictio <mentioned>solum</mentioned> determinet hoc
+                      <lb ed="#T"/>uerbum <mentioned>potest</mentioned>, falsa est, et est sensus <mentioned>quod unum solum potest</mentioned> et cetera, id est, <mentioned>quod unum
+                      <lb ed="#T"/>potest ferre, et non potest ferre plura, potest plura ferre</mentioned>, quia si solum
+                      <lb ed="#T"/>potest unum, ergo non potest plura. Si autem hec dictio <mentioned>solum</mentioned> determinet hoc uerbum <mentioned>fe<lb ed="#T"/>rre</mentioned>,
+                      uera est, et est sensus <mentioned>quod unum potest solum ferre, potest plura ferre</mentioned>, id est, <mentioned>quod
+                      <lb ed="#T"/>habet potentiam ut ferat unum solum potest una ferre</mentioned>, quia quicumque potest plura
+                      <lb ed="#T"/>ferre, habet etiam potentiam ut ferat unum solum, ut nauis que potest fere
+                      <lb ed="#T"/>decem homines, potest ferre unum solum. Et sic illa habet potentiam ut ferat
+                      <lb ed="#T"/>unum solum, et potest ferre plura. Vnde quod unum solum potest ferre plura potest ferre.
+                    </p>
+                </div> <!--This closes De secundo modo fallacie compositionis-->
+              </div> <!--This closes De modis eius-->
+            </div> <!--This closes De compositione-->
+
+            <div>
+              <head type="question-title">
+                <supplied>De diuisione</supplied>
+              </head>
+              <p>
+                <pc type="#pilcrow"/>Qualiter in oratione sit multiplex potentiale siue fuerit composita
+                <lb ed="#T"/>siue diuisa. Et quando debeat dici oratio diuisa patuit
+                <lb ed="#T"/>ex predictis. Nunc autem restat dicere principia siue causas et modos
+                <pb ed="#T" n="13-r"/>
+                <cb ed="#T" n="a"/>
+                <lb ed="#T"/>diuisionis. Est enim principium motiuum siue causa apparentie diuisionis
+                <lb ed="#T"/>unitas orationis secundum suam speciem ex dictione causata, quia alteram habet
+                <lb ed="#T"/>speciem cum est diuisa, et alteram cum est composita. Principium uero defectus
+                <lb ed="#T"/>siue causa non existentie diuisionis est possibilitas diuersorum significatorum
+                <lb ed="#T"/>in substantia orationis diuise. Et hoc dico quia licet oratiol illo modo quo est diuisa
+                <lb ed="#T"/>habeat unum significatum, tamen substantia eius possibilis est ad compositionem, et sic ad
+                <lb ed="#T"/>alterum significatum.
+              </p>
+              <div>
+                <head type="question-title">
+                  <supplied>De primo modo fallacie diuisionis</supplied>
+                </head>
+                <p>
+                  <pc type="#pilcrow"/>Modi autem diuisionis sunt duo. Primus modus pro<lb ed="#T"/>uenit
+                  ex eo quod aliqua dictio potest coniungere terminos uel propositiones, et hoc dupliciter, scilicet,
+                  <lb ed="#T"/>copulando uel disiungendo. Coniungere enim commune est ad copulare
+                  <lb ed="#T"/>uel disiungere, sicut coniuncto communis est ad copulatiuam compositionem, et
+                  <lb ed="#T"/>ad disiunctiuam, et ad alias coniunctiones. Est enim genus omnium
+                  <lb ed="#T"/>earum, quare coniungere terminos, uel propositiones commune est ad utrumque, scilicet, coniungere
+                  <lb ed="#T"/>eadem uel disiungere. Et ex hoc prouenit primus modus, ut <mentioned>quinque sunt
+                  <lb ed="#T"/>duo et tria</mentioned>. Et formatur sic paralogismus: <mentioned>quecumque sunt duo et tria, sunt tria; sed
+                  <lb ed="#T"/>V sunt duo et tria; ergo, V sunt tria. Minor est duplex. Potest enim esse di<lb ed="#T"/>uisa,
+                  et est sensus <mentioned>V sunt duo, et V sunt tria</mentioned>, et sic est copulatiua.
+                  <lb ed="#T"/>Vel potest esse composita, et est sensus <mentioned>V sunt duo et tria</mentioned> ita quod sit de
+                  <lb ed="#T"/>copulato predicato, et tunc est copulatio terminorum. Similiter maior est duplex.
+                  <lb ed="#T"/>Et similiter hic: <mentioned>V sunt paria et imparia</mentioned>.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Disiungendo sic: <mentioned>omne
+                  <lb ed="#T"/>animal est rationale uel irrationale; sed non omne animal est rationale; ergo omne animal est
+                  <lb ed="#T"/>irrationale</mentioned>. Maior est duplex, quia potest esse diuisa, et est sensus <mentioned>omne animal est rationale
+                  <lb ed="#T"/>uel omne animal est irrationale</mentioned>, et sic est diuisa, et est disiunctio propositionum. Vel potest
+                  <lb ed="#T"/>esse composita, et est sensus <mentioned>omne animal est rationale uel irratioale</mentioned>, et sic est de di<lb ed="#T"/>siuncto
+                  predicato, et sic est disiunctio terminorum. Et sic dicuntur iste orationes
+                  <lb ed="#T"/>composite quia coniunctio per prius est disiunctiua partium orationis, et per posterius
+                  <lb ed="#T"/>orationis. Similiter in hiis: <mentioned>omne animal est sanum uel egrum</mentioned>; <mentioned>omnis linea
+                  <lb ed="#T"/>est recta uel curua</mentioned>; <mentioned>omnis numerus est par uel impar</mentioned>; <mentioned>omnis substantia est
+                  <lb ed="#T"/>corporea uel incorporea</mentioned>.
+                </p>
+              </div>
+              <div>
+                <head type="question-title">
+                  <supplied>De secundo modo fallacie diuisionis</supplied>
+                </head>
+                <p>
+                  <pc type="#pilcrow"/>Secundus modus dictionis prouenit ex eo
+                  <lb ed="#T"/>quod aliquod casuale, uel aliqua determinatio potest ordinari cum diuersis, ut
+                  <lb ed="#T"/>hic: <mentioned>tu uides oculis percussum</mentioned>. Et fit paralogismus sic: <mentioned>quocumque tu uides
+                  <lb ed="#T"/>hunc percussum, illo percussus est hic; sed tu uides hunc oculo, uel
+                  <lb ed="#T"/>oculis percussum; ergo oculo percussus est hic</mentioned>. Minor est duplex, quia istud ca<lb ed="#T"/>suale,
+                  siue iste ablatiuus <mentioned>oculis</mentioned> potest ordinari cum hoc uerbo <mentioned>uides</mentioned>, et
+                  <lb ed="#T"/>tunc significat instrumentum uisionis, et est sensus <mentioned>tu oculis uides illum
+                  <lb ed="#T"/>qui est percussus</mentioned>. Et tunc est composita, quia cum ille ablatiuus <mentioned>determinatio</mentioned> sit
+                  <lb ed="#T"/>actus, et actus uerius sit in uerbo quam in participio, ideo per prius debet determinare
+                  <lb ed="#T"/>uerbum, et per posterius participium. Vel potest ordinari cum hc participio <mentioned>percu<lb ed="#T"/>ssum</mentioned>,
+                  et tunc significat instrumentum percussionis, et sic est diuisa, et est sensus <mentioned>tu
+                  <lb ed="#T"/>uides illum qui percussus est oculis</mentioned>. Similiter in hiis: <mentioned>ego posui te
+                  <lb ed="#T"/>seruum entem liberum</mentioned>; et <mentioned>quinquaginta uirorum C reliquit diuus Ach<lb ed="#T"/>illes</mentioned>;
+                  et <mentioned>tu scis tantum tres homines currere</mentioned>, posito quod VI currant,
+                  <lb ed="#T"/>sed tu non scias nisi de tribus. Sed quicquid scitur est uerum; ergo tantum
+                  <lb ed="#T"/>tres homines currere est uerum. Prima duplex, quia hoc aduerbium <mentioned>tantum</mentioned> potest
+                  <lb ed="#T"/>determianre hoc uerbum <mentioned>scis</mentioned>, et sic est composita, et uera. Vel hoc uerbum
+                  <cb ed="#T" n="b"/>
+                  <lb ed="#T"/><mentioned>currere</mentioned>, et sic est diuisa et falsa. Et <mentioned>tu es hodie natus</mentioned>.
+                  <lb ed="#T"/>Probatio: tu es hodie; ergo natus uel non natus; sed non es non natus;
+                  <lb ed="#T"/>ergo tu es hodie natus. Prima duplex eo quod hoc aduerbium <mentioned>hodie</mentioned> potest
+                  <lb ed="#T"/>determinare hoc uerbum <mentioned>est</mentioned>, et sic est composita et uera; uel hoc participium <mentioned>natus</mentioned>,
+                  <lb ed="#T"/>et sic est diuisa et falsa.
+                </p>
+              </div>
+            </div> <!--This closes De diuisione-->
+          </div> <!--This closes Sequitur de fallacia compositionis-->
+
+          <div>
+            <head type="question-title">
+              Sequitur de fallacia accentus
+            </head>
+            <div>
+              <head type="question-title">
+                <supplied>De accentus diffinitione</supplied>
+              </head>
+            </div>
+              <p>
+                <lb ed="#T"/><pc type="#pilcrow"/>Accentus est regula et lex ad eleuandum et deprimendum
+                <lb ed="#T"/>sillabam uniuscuiusque partium orationis. Qui etiam tripartito diuiditur:
+                <lb ed="#T"/>accuto; graui; circumflexo. <pc type="#pilcrow"/>Accutus namque accentus est
+                <lb ed="#T"/>qui accuit siue eleuat sillabam. <pc type="#pilcrow"/>Grauis uero qui deprimit
+                <lb ed="#T"/>sillabam et deponit. <pc type="#pilcrow"/>Circumflexus qui accuit sillabam et de<lb ed="#T"/>primit.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Accentus ut est principium decipiendi est multiplicitas
+                <lb ed="#T"/>eiusdem dictionis secundum substantiam causata secundum diuersitatem accentuum.
+              </p>
+            <div>
+              <head type="question-title">
+                <supplied>De causis et modis accentus</supplied>
+              </head>
+              <p>
+                Causa
+                <lb ed="#T"/>uero apparentie accentus est unitas dictionis secundum accentum
+                <lb ed="#T"/>unum. <pc type="#pilcrow"/>Causa falsitatis accentus est diuersitas eorum sig<lb ed="#T"/>nificatorum
+                per possibilitatem dictionis ab uno accentum in alterum.
+              </p>
+              <div>
+                <head type="question-title">
+                  <supplied>De primo modo fallacie accentus</supplied>
+                </head>
+                <p>
+                  <lb ed="#T"/><pc type="#pilcrow"/>Accentus autem duo sunt modi. Primus prouenit ex eo quod aliqua
+                  <lb ed="#T"/>dictio eadem secundum substantiam potest regi diuerso accentu, ut hic: <mentioned>omnis
+                  <lb ed="#T"/>populus est arbor; sed gens est populus; ergo gens est arbor</mentioned>. Maior
+                  <lb ed="#T"/>est duplex, quia hoc dictio <mentioned>populus</mentioned> aliud significat cum prima producitur, et aliud cum cor<lb ed="#T"/>rumpitur.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Similiter hic: <mentioned>omnis ara est in templo; stabulum porcorum
+                  <lb ed="#T"/>est ara; ergo stabulum porcorum est in templo</mentioned>. Similiter: <mentioned>quicquid ha<lb ed="#T"/>matur
+                  hamo capitur; uinum amatur; ergo uinum hamo
+                  <lb ed="#T"/>capitur</mentioned>. Aliud significat <mentioned>hamat</mentioned> cum aspiratione, et aliud sine as<lb ed="#T"/>piratione,
+                  et aliter et aliter profertur. Similiter hic: <mentioned>iustos uiros
+                  <lb ed="#T"/>oportet pendere; sed iustos uiros non oportet pendere; ergo oportet iustos uiros
+                  <lb ed="#T"/>pati idem et non pati idem</mentioned>.
+                </p>
+              </div>
+              <div>
+                <head type="question-title">
+                  <supplied>De secundo modo fallacie accentus</supplied>
+                </head>
+                <p>
+                  <pc type="#pilcrow"/>Secundus modus prouenit ex eo
+                  <lb ed="#T"/>quod aliquid potest esse dictio, uel oratio, ut hic: <mentioned>tu es quies; sed quies est re<lb ed="#T"/>quies;
+                  ergo tu es requies</mentioned>. Prima est duplex, quia secundum quod dico <mentioned>quies</mentioned> potest esse
+                  <lb ed="#T"/>dictio uel oratio, et secundum hoc significat diuersa. Similiter hic: <mentioned>Deus nichil fecit inui<lb ed="#T"/>te;
+                  ergo uinum non fecit in uite</mentioned>. Prima est duplex, quia hoc quod dico <mentioned>in<lb ed="#T"/>uite</mentioned>
+                  potest esse dictio, <del rend="expunctuation">uel oratio</del> et sic est uera, uel potest esse oratio et sic est falsa.
+                  <lb ed="#T"/>Similiter conclusio. Et hic: <mentioned>metuo longas pereunte noctes Lidia
+                  <lb ed="#T"/>dormis</mentioned>. Hoc quod dico <mentioned>metuo</mentioned> potest esse dictio uel oratio.
+                </p>
+              </div>
+            </div> <!--This closes De causis et modis accentus-->
+
+            <div>
+              <head type="question-title">
+                <supplied>Dubitationes</supplied>
+              </head>
+              <p>
+                <pc type="#pilcrow"/>Sed ex
+                <lb ed="#T"/>predictis emergunt dubitationes. Et primo qualiter sumatur hic accentus?
+                <lb ed="#T"/>Vtrum, scilicet, sumatur secundum diffinitionem accentus positam in principio huius trac<lb ed="#T"/>tatus
+                de accentu, an sumatur accentus communiter ad omnem modum
+                <lb ed="#T"/>proferendi in dictione qui sunt productum, correptum, aspiratum,
+                <lb ed="#T"/>non aspiratum, accutum, graue, et huius.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Quod autem non acci<lb ed="#T"/>piatur
+                hic proprie sed communiter, uidetur per hoc quod quidam paralogismi sumuntur a
+                <lb ed="#T"/>parte producti, uel correpti accentus, sicut in hoc uerbo <mentioned>pen<lb ed="#T"/>dere</mentioned>
+                cum media producitur, uel corripitur, quidam sumitur a par<lb ed="#T"/>te
+                aspirationis quod satis patet. Ergo accentus non sumitur hic
+                <lb ed="#T"/>proprie, sed communiter.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Quod autem non accipiatur communiter, sed proprie uidetur per
+                <lb ed="#T"/>auctoritatem <ref><name>Aristotelis</name> in <title>secundo Elenchorum</title></ref> ponentis solutionem
+                <pb ed="#T" n="13-v"/>
+                <cb ed="#T" n="a"/>
+                <lb ed="#T"/>generalem ad omnis orationes secundum accentum dicendo: <quote>quomodo autem
+                <lb ed="#T"/>soluendum palam est; non enim idem significat nomen grauiter et accute
+                <lb ed="#T"/>prolatum</quote>. Ergo sumitur hic proprie; ergo non communiter, cum graue et
+                <lb ed="#T"/>accutum sint differentie accentus proprie sumpti.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Item si accentus
+                <lb ed="#T"/>sumitur communiter, ergo pro ut hic sumitur esset commune ad tempus et spiritum.
+                <lb ed="#T"/>Ergo predicaretur de ipsis sicut predicatur de accuto et de graui.
+              </p>
+              <p>
+                <lb ed="#T"/><pc type="#pilcrow"/>Dicendum quod accentus sumitur hic communiter ad omnem modum profe<lb ed="#T"/>rendi,
+                sed non communiter secundum predicationem, sed communiter secundum consequentiam,
+                <lb ed="#T"/>quia hiis duobus modis dicitur <mentioned>commune</mentioned>, scilicet, predicando uel consequendo
+                <lb ed="#T"/>tantum, ita quod non predicando. Vt ad albedinem et nigredinem,
+                <lb ed="#T"/>et ad omnes medios colores consequitur superficies, quia proprium
+                <lb ed="#T"/>est superficiei primo loco colorari, et hoc intelligendum <unclear>medium</unclear> in cor<lb ed="#T"/>poribus
+                compositis ex elementis, quia alia corpora, ut elementa
+                <lb ed="#T"/>et celum et stelle non sunt colorata. De quo modo non est
+                <lb ed="#T"/>curandum cum pertineat ad naturales, sed tantum sumatur quod su<lb ed="#T"/>perficies
+                sequitur ad unumquemque predictorum colorum, et de nullo
+                <lb ed="#T"/>eorum predicatur. Et sic est uno modo commune in consequendo, et non predicando.
+                <lb ed="#T"/>Alio autem modo in predicando ut superiora de inferioribus. Secundum
+                <lb ed="#T"/>hoc ergo dico quod accentus sumitur hic communiter, sumpto <mentioned>communi</mentioned> secundum consequentiam,
+                <lb ed="#T"/>quia ad uariationem siue diuersitatem temporis, sequitur diuersitas
+                <lb ed="#T"/>siue uariatio accentus, ut patet in hoc uerbo <mentioned>pendere</mentioned> secundum quod media
+                <lb ed="#T"/>producitur uel corripitur. Solutio patet sic ad aliud quod obicitur de
+                <lb ed="#T"/>auctoritate <ref><name>Aristotelis</name></ref>, quia licet nomen non idem significet grauiter uel accute pro<lb ed="#T"/>latum,
+                hoc non accidit differentie propter solam diuersitatem accentuum, sed
+                <lb ed="#T"/>aliquando propter diuersitatem uel uariationem temporum secundum productum
+                <lb ed="#T"/>et correptum ad quam sequitur diuersitas accentuum. Ad illud quod obi<lb ed="#T"/>ciebat
+                quod accentus predicaretur de tempore et de spiritu si esset commune
+                <lb ed="#T"/>patet solutio ex predictis quia equiuocat commune. Non enim accentus est hic
+                <lb ed="#T"/>commune secundum predicationem, sed prout predictum est, et ita non predicatur de tempore nec
+                <lb ed="#T"/>de spiritu. Et spiritus appellatur hic secundum quam dictio uel sillaba dicitur aspira<lb ed="#T"/>ri,
+                quia tempus prius accidit sillabe, et per sillabam dictioni, ut patet a
+                <lb ed="#T"/>
+                  <choice>
+                    <sic>Priscianus</sic>
+                    <corr><ref><name>Prisciano</name></corr>
+                  </choice>, in <title>tractatu de ortographia</title></ref>, ubi assignantur IIII accidentia
+                  <lb ed="#T"/>sillabe: tempus, tenor, spiritus et numerus litterarum. Et tenor idem est
+                  <lb ed="#T"/>quod accentus. Vnde omnia ista per prius sunt in sillaba, et per posterius
+                  <lb ed="#T"/>in dictione. Et dico <mentioned>prius</mentioned> sicut incompletum et indistinctum ante comple<lb ed="#T"/>tum
+                  et distinctum. Hec enim indeterminata et indistincta sunt secundum se in
+                  <lb ed="#T"/>sillaba. In dictione autem siue in sillaba ipsa secundum quod est in dictione sunt
+                  <lb ed="#T"/>determinata, et distincta.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Item queritur cum <mentioned>accentus</mentioned> sumatur
+                  <lb ed="#T"/>comuniter ut dictum est quare potius ista fallacia dicitur secundum accentum quam secundum
+                  <lb ed="#T"/>tempus, uel spiritum.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Dicendum ut iam patet ex predictis quod cum ad di<lb ed="#T"/>uersitatem
+                  illorum sequitur diuersitas accentus et non econuerso. Ideo
+                  <lb ed="#T"/>appellatur secundum accentum, et non secundum tempus, uel spiritum, cum nominatio
+                  <lb ed="#T"/>secundum accentum communior sit, eo quod est diuersitas eius communior.
+                </p>
+            </div> <!--This closes Dubitationes-->
+          </div> <!--This closes Sequitur de fallacia accentus-->
+
+          <div>
+            <head type="question-title">
+              <supplied>Sequitur de fallacia figure dictionis</supplied>
+            </head>
+            <div>
+              <head type="question-title">
+                <supplied>De modo significandi in dictione</supplied>
+              </head>
+              <p>
+                <lb ed="#T"/><pc type="#pilcrow"/>Modus significandi in dictione est duplex quia unus est
+                <cb ed="#T" n="b"/>
+                <lb ed="#T"/>substantialis et alius accidentalis. Verbi gratia, <mentioned>qualitas nominis</mentioned> accipitur
+                <lb ed="#T"/>dupliciter, quia uno modo secundum quod est apta nata participari a pluri<lb ed="#T"/>bus
+                uel apta nata non participari a pluribus, sed ab uno so<lb ed="#T"/>lo,
+                et sic est completiua siue perfectiua nominis, et sic est essentialis,
+                <lb ed="#T"/>et sic dicitur quod omne nomen significat substantiam cum qualitate essentialiter.
+                <lb ed="#T"/>Alio autem modo accipitur illa eadem qualitas prout est participabilis
+                <lb ed="#T"/>a pluribus secundum actum, uel est participabilis ab uno solo singulari
+                <lb ed="#T"/>secundum actum, et sic accidit nomini. Et idem est dicere quod <mentioned>qualitas nominis</mentioned>
+                <lb ed="#T"/>accipitur uno modo secundum habitum participandi a pluribus, uel ab
+                <lb ed="#T"/>uno solo, et sic est essentialis. Et alio secundum actum participandi
+                <lb ed="#T"/>a pluribus, uel ab uno solo, et sic est accidentalis.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Et nota
+                <lb ed="#T"/>quod utraque qualitas diuiditur per proprium et appellatiuum. Sed proprium
+                <lb ed="#T"/>et appellatiuum pro ut dicunt aptitudinem participandi ab
+                <lb ed="#T"/>uno solo uel a pluribus, sic sunt partes qualitatis essentialis. Sed
+                <lb ed="#T"/>secundum quod dicunt actum participandi ab uno solo uel a pluribus sic
+                <lb ed="#T"/>sunt partes qualitatis accidentalis. Et secundum quod sut partis qualitatis essentialis sic
+                <lb ed="#T"/>ponuntur in difinitione nominis a
+                  <choice>
+                    <sic>Priscianus</sic>
+                    <corr><ref><name>Prisciano</name></ref></corr>
+                  </choice>
+                et a <ref><name>Donato</name></ref>. Secundum autem quod
+                <lb ed="#T"/>sunt partes qualitatis accidentalis, sic assignantur inter accidentia no<lb ed="#T"/>minis.
+                Verbi gratia, <mentioned>homo</mentioned> secundum quod dicit qualitatem aptam natam participari
+                <lb ed="#T"/>a pluribus, sic significat qualitatem essentialem; secundum autem quod <mentioned>homo</mentioned> iam
+                <lb ed="#T"/>est in hoc actu, et in illo, sic significat qualitatem accidentalem.
+                <lb ed="#T"/>Accidit enim homini esse actu in pluribus, sed non accidit ei esse
+                <lb ed="#T"/>habitu, uel aptitudine in pluribus, immo est ei essentiale.
+              </p>
+              <p>
+                <lb ed="#T"/><pc type="#pilcrow"/>Si querat aliquis utrum illa qualitas hominis sit humanitas, dicendum quod
+                <lb ed="#T"/>non, quia <mentioned>humanitas</mentioned> est quodam nomen secundum se habens suam substantiam
+                <lb ed="#T"/>et suam qualitatem. Sic enim contingeret in infinitum quod est impossibile.
+                <lb ed="#T"/>Sed per hoc nomen <mentioned>homo</mentioned> significatur substantia sua, et sua qualitas, et similiter
+                <lb ed="#T"/>qualitas Socratis secundum quod est apta nata participari ab uno
+                <lb ed="#T"/>solo sic est ei essentialis. Secundum quod aptitudo illa est in suo
+                <lb ed="#T"/>actu sic accidit.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Ex predictis patet quod modus significandi qui
+                <lb ed="#T"/>est quid, uno modo est essentialis, et alio accidentalis, scilicet, quod sumitur in
+                <lb ed="#T"/>aptitudine uel in actu, sicut dictum est. In nomine etiam est
+                <lb ed="#T"/>alius accidentalis modus significandi a parte accidentium secundum quod nomenn consignificat
+                <lb ed="#T"/>masculine uel feminine, et sic de aliis. Ergo in nomine duplex est
+                <lb ed="#T"/>modus significandi, unus substantialis et alius accidentalis. Similiter in uerbo quod
+                <lb ed="#T"/>agere et pati sumuntur dupliciter, scilicet, secundum habitum et sic sunt essentialia uerbo,
+                <lb ed="#T"/>uel secundum actum et sic accidunt ei. Verbi gratia, <mentioned>uidere</mentioned>, <mentioned>currere</mentioned>, <mentioned>se<lb ed="#T"/>dere</mentioned>,
+                <mentioned>ambulare</mentioned>, et sic de aliis sumuntur dupliciter secundum habitum, uel
+                <lb ed="#T"/>secundum actum. <pc type="#pilcrow"/>Secundum autem habitum sumuntur cum dicimus de dormi<lb ed="#T"/>ente
+                quod uidet et de equo in stabulo quod bene currit, uel ambulat,
+                <lb ed="#T"/>uel uadit multum, uel de aliquo stante dicimus quod semper sedet
+                <lb ed="#T"/>uel dormit. Secundum uero actum sumitur cum iam aperit oculos
+                <lb ed="#T"/>uel uidet res extra, uel cum iam nimia uelocitate pertran<lb ed="#T"/>sit
+                spacium. Similiter <mentioned>comburere</mentioned> dicimus de igne et ferro
+                <pb ed="#T" n="14-r"/>
+                <cb ed="#T" n="a"/>
+                <lb ed="#T"/>ignito, secundum habitum quando nichil leditur uel comburitur ab eis.
+                <lb ed="#T"/>Et dicimus quod comburunt: habent enim habitum comburendi. Et uniuersaliter quoci<lb ed="#T"/>enscumque
+                de subiecto aliquo nichil agente predicamus uerbum significans
+                <lb ed="#T"/>modum actionis, semper habitum predicamus, et sumitur ibi agere in habitu,
+                <lb ed="#T"/>ut dicimus de cultello quod scindit etiam si nullus scindat cum eo.
+                <lb ed="#T"/><pc type="#pilcrow"/>Quando autem de ipso subiecto predicamus aliquod uerbum eo quod ipsa actio iam
+                <lb ed="#T"/>unitur ei actualiter, tunc predicamus agere in actu. Et similiter in
+                <lb ed="#T"/>uerbis significantibus pati. Et ideo dicimus quod <mentioned>agere</mentioned> et <mentioned>pati</mentioned> sumuntur
+                <lb ed="#T"/>dupliciter, scilicet, habitu uel actu. Et sumpta secundum habitum sunt essentialia uer<lb ed="#T"/>bo.
+                Sumpta uero secundum actum sunt ei accidentia. Et sic in nomine et
+                <lb ed="#T"/>in uerbo duplex est modus significandi, scilicet, essentialis et accidentalis, et similiter in
+                <lb ed="#T"/>qualibet alia parte orationis. Et ideo in dictione simpliciter est iste modus duplex
+                <lb ed="#T"/>significandi.
+              </p>
+
+            </div>
+            <div>
+              <head type="question-title">
+                <supplied>De figura</supplied>
+              </head>
+              <p>
+                <pc type="#pilcrow"/>Figura est que termino uel terminis continetur:
+                <lb ed="#T"/>termino ut circulus circunferentia; terminis uero, ut figure multila<lb ed="#T"/>tere
+                suis lateribus continentur; non enim circunferentia est circularis, sed super<lb ed="#T"/>ficies
+                que continetur a circunferentia. Nec etiam tres linee rec<lb ed="#T"/>te
+                ad tria puncta ex utraque parte concurrentes sunt triangulis,
+                <lb ed="#T"/>sed superficies que in illis tribus lineis continetur.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Figura
+                <lb ed="#T"/>autem per prius reperitur in naturalibus, <unclear>deinde</unclear> in mathematicis, et per pos<lb ed="#T"/>terius
+                in dictione quia proportionaliter.
+              </p>
+            </div>
+            <div>
+              <head type="question-title">
+                <supplied>De figura dictionis</supplied>
+              </head>
+            </div>
+            <p>
+              Sed quia omnis figura est accidens
+              <lb ed="#T"/>eius cuius est figura, ideo si figura debetur dictioni proportionaliter, oportet quod
+              <lb ed="#T"/>sumatur a parte eorum que accidunt dictioni. Vnde dicimus quod figura dictionis
+              <lb ed="#T"/>est modus significandi in dictione accidentalis; propter hoc enim distinximus prius du<lb ed="#T"/>plicem
+              modus significandi.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Sed quod figura sit accidens in dictione
+              <lb ed="#T"/>sicut figura in illis, hoc non est similitudo propria propter quam hec figura propor<lb ed="#T"/>tionaliter
+              sumatur ab illa, sed hec est similitudo communis istius ad illam secundum
+              <lb ed="#T"/>quod utraque est accidens, et non secundum quod utraque est figura, quia in quantum
+              <lb ed="#T"/>accidit conuenit cum quolibet alio accidente. Sed similitudo propria secundum
+              <lb ed="#T"/>quam in dictione est figura, hec est, quia sicut figura in naturalibus et ma<lb ed="#T"/>thematicis
+              terminat et continet illud cuius est, similiter in dictione modus significandi
+              <lb ed="#T"/>accidentalis terminat et continet dictionem. Non dico terminatione uocali
+              <lb ed="#T"/>sicut <mentioned>musa</mentioned> terminatur in <mentioned>a</mentioned>, sed terminatione intelligibili. Hec enim figura
+              <lb ed="#T"/>non est terminatio uocalis ipsius dictionis, sed in terminatione dictionis uocalis
+              <lb ed="#T"/>intelligitur, ut quod significat per modum <mentioned>quid</mentioned>, uel per modum <mentioned>quale</mentioned>, uel masculine,
+              <lb ed="#T"/>uel feminine, et sic de aliis.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Quod autem ad predictam figuram dictio<lb ed="#T"/>nis
+              pertinet continere patet, quia quod ultimum est de re determinare
+              <lb ed="#T"/>et continere rem, ut patet in figura proprie sumpta que terminat et continet
+              <lb ed="#T"/>corpus cuius est, et est ultimum ipsius corporis. Vnde cum modus significandi
+              <lb ed="#T"/>accidentalis adueniat dictioni ultimo natura, quamuis non tempore. Ideo est ul<lb ed="#T"/>timum
+              a parte eorum que intelliguntur in dictione, et sic est sicut terminans
+              <lb ed="#T"/>et continens. Et propter hoc dicitur figura dictionis, et quo ad hoc est similitudo
+              <lb ed="#T"/>siue proportio huius figure ad illam.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Et nota quod non contin<lb ed="#T"/>git
+              decipi <gap reason="damage" extent="3" unit="characters"/> hanc figuram nisi figura unius dictionis siue modus
+              <lb ed="#T"/>significandi ipsius assimiletur figure alterius dictionis, uel modo significandi
+              <cb ed="#T" n="b"/>
+              <lb ed="#T"/>ipsius. Sed similitudo ipsius figure duplex est in dictionibus.
+              <lb ed="#T"/>Vno modo secundum quod utraque illarum dictionum que assimilantur in figura
+              <lb ed="#T"/>habent eundem modum significandi, et secundum hanc similitudinem figure
+              <lb ed="#T"/>non contingit decipi quia nullus subest defectus. Vt quando utraque est
+              <lb ed="#T"/>feminini generis, uel utraque est masculini generis, uel utraque
+              <lb ed="#T"/>significat <mentioned>quid</mentioned> uel <mentioned>quale</mentioned>, et sic de aliis. Alio autem modo sumitur simi<lb ed="#T"/>litudo
+              figure unius dictionis cum altera figura alterius dictionis, quando
+              <lb ed="#T"/>una dictio habet tantum unum modum significandi et propter conuenientiam aliquam
+              <lb ed="#T"/>quam habet cum alia dictione, uidetur habere modum significandi illius alterius cum su<lb ed="#T"/>mitur
+              sub illa alia ad medium, ut patebit in paralogismis. Et
+              <lb ed="#T"/>quia hoc modo dictio que sumitur sub medio habet proprium modum significandi
+              <lb ed="#T"/>alium a dictione posita ad medium, ideo non est ei similis simpliciter
+              <lb ed="#T"/>sed dissimilis. Apparet autem similis ei quia sumitur sub ea, et hanc
+              <lb ed="#T"/>dissimilitudinem ostendit <ref><name>Aristoteles</name> in illo capitulo <title>Elenchorum</title></ref>, fa<lb ed="#T"/>llacia
+              autem fit in hiis dicens: <quote>difficile est diuidere que similiter
+              <lb ed="#T"/>et que diuerse dicuntur</quote>, id est, dissimiliter. Et sic in una et eadem dictione
+              <lb ed="#T"/>implicantur diuersi modi significandi. Sed unius uere et alterius appa<lb ed="#T"/>renter.
+              Et propter hoc est ibi multiplex fantasticum, et per illam appa<lb ed="#T"/>rentiam
+              subest ibi defectus. Et similitudo est diminuta et fan<lb ed="#T"/>tastica.
+              Et hoc modo sumitur similitudo figure in hac fallacia, non
+              <lb ed="#T"/>primo modo.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Ex predictis patet iam quid multiplex fantasticum, et quod
+              <lb ed="#T"/>non simpliciter est multiplex, quia multiplicitas simpliciter est plurium
+              <lb ed="#T"/>rerum secundum placitum in eodem signo representatio. Et ideo multiplex ac<lb ed="#T"/>tuale
+              est simpliciter multiplex cum hec descriptio complete saluetur
+              <lb ed="#T"/>in eo, ut patet in equiuocatione et amphibolia. Potentiale autem multiplex non
+              <lb ed="#T"/>simpliciter est multiplex cum non sit signum idem propter diuersas dis<lb ed="#T"/>positiones
+              in quibus sumitur, ut prius patuit. Multiplex autem fanta<lb ed="#T"/>sticum
+              est cum eadem dictio habet unum modum significandi uere et alterum
+              <lb ed="#T"/>apparenter oppositum. Vnde quod quam ad hoc quod est ibi unum signu sim<lb ed="#T"/>pliciter
+              et implicat in se multa magis conuenit cum multiplici actu<lb ed="#T"/>ali
+              quam cum potentiali. Sed quantum ad hoc quod illa multitudo non est
+              <lb ed="#T"/>rerum, sed modorum significandi minus conuenit cum multiplici actuali
+              <lb ed="#T"/>quam cum potentiali.
+            </p>
+            <div>
+              <head type="question-title">
+                <supplied>De causis et modis figure dictionis</supplied>
+              </head>
+              <p>
+                <pc type="#pilcrow"/>Habito quis modus significandi in dictione dicatur
+                <lb ed="#T"/>figura dictionis. Et quomodo sumatur transumptiue in dictione, et que sit simili<lb ed="#T"/>tudo
+                transumptionis, et que similitudo figure unius dictionis ad figur<lb ed="#T"/>am
+                alterius faciat fallaciam, et quare multiplicitas dicatur
+                <lb ed="#T"/>fantastica, consequitur de causis, et de modis huius fallacie est dicendum.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Principium ergo motiuum figure dictionis est similitudo unius
+                <lb ed="#T"/>dictionis cum alia in modo significandi accidentali. Principium uero defectus est
+                <lb ed="#T"/>incompletio siue diminutio illius similitudinis.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Modi
+                <lb ed="#T"/>autem figure dictionis sunt tres, quia in dictione est quidam modus accidentalis
+                <lb ed="#T"/>significandi qui est principium congruitatis et incongruitatis, ut masculi<lb ed="#T"/>num,
+                femininum, uel neutrum. Et est alius modus significandi accidentalis
+                <lb ed="#T"/>qui debetur rei significate que, scilicet, res est principium ueritatis, uel
+                <pb ed="#T" n="14-v"/>
+                <cb ed="#T" n="a"/>
+                <lb ed="#T"/>falsitatis. Differt autem a primo, quia primus modus debetur
+                <lb ed="#T"/>rei existenti in dictione a parte principium congruitatis uel incongrui<lb ed="#T"/>tatis.
+                Iste autem secundus modus debetur rei a parte principiorum ueritatis
+                <lb ed="#T"/>uel falsitatis, rei dico ut <mentioned>quid</mentioned>, <mentioned>quale</mentioned>, <mentioned>quantum</mentioned>, et sic de aliis.
+                <lb ed="#T"/><pc type="#pilcrow"/>Tercius autem modus significandi in dictione est dictionis significantis rem
+                <lb ed="#T"/>singularem, ut <mentioned>hoc aliquid</mentioned>. Et secundum hos tres modos significandi, uel intelligen<lb ed="#T"/>di
+                in dictione sunt tres modi figure dictionis.
+              </p>
+              <div>
+                <head type="question-title">
+                  <supplied>De primo modo fallacie figure dictionis</supplied>
+                </head>
+                <p>
+                  <pc type="#pilcrow"/>Primus modus est quando
+                  <lb ed="#T"/>masculinum interpretatur femininum, uel econuerso, uel quando quod
+                  <lb ed="#T"/>interest alterum horum, ut <mentioned>omnis substantia colorata albedine
+                  <lb ed="#T"/>est alba; sed uir est substantia colorata albedine; ergo uir est alba.</mentioned>
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Et similiter hic: <mentioned>omnis aqua est humida; fluuius est aqua; ergo flu<lb ed="#T"/>uius
+                  est humida.</mentioned> In hiis duobus interpretatur masculinum
+                  <lb ed="#T"/>femininum eo quod <mentioned>fluuius</mentioned> masculini generis est, et propter conuenientiam
+                  <lb ed="#T"/>quam significatur habere cum aqua in hoc quod est ibi modus sumendi unum
+                  <lb ed="#T"/>sub altero apparet quod participat eundem modum significandi cum
+                  <lb ed="#T"/>aqua et ita quod sit femininum generis. Et intellige quod non pono
+                  <lb ed="#T"/>hanc apparentiam eo quod sit secundum ueritatem unum sub altero,
+                  <lb ed="#T"/>sed quia est ibi modus sumendi unum sub altero. Verbi gratia, hic est fi<lb ed="#T"/>gura
+                  dictionis: <mentioned>omnis petra est alba; uir est petra; ergo uir est
+                  <lb ed="#T"/>alba</mentioned>; tamen minor extremitas non est sub medio in ueritate,
+                  <lb ed="#T"/>sed est ibi modus sumendi sub medio, et quia sumitur unum sub
+                  <lb ed="#T"/>altero, ideo apparet habere eundem modum significandi cum medio preter
+                  <lb ed="#T"/>proprium. Et sic implicat in se modos significandi diuersos. Et sic patet
+                  <lb ed="#T"/>secundum quam conuenientiam apparet esse similis figura, quia similiter intelligendum
+                  <lb ed="#T"/>est in quolibet alio modo.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Et nota quod propter hoc quod similitudo fi<lb ed="#T"/>gure
+                  dictionis sit propter modum sumendi sub medio, ideo uerius omnes para<lb ed="#T"/>logismi
+                  figure dictionis sunt contra illationem, sed differant quia qui
+                  <lb ed="#T"/>sunt secundum primum modum perimunt naturam illationis secundum ueritatem
+                  <lb ed="#T"/>et secundum aparentiam quia ponunt incongruitatem quia soloecismum. Et ideo
+                  <lb ed="#T"/>in eo quod uidentur concludere nec ueritas, neque falsitas, neque mul<lb ed="#T"/>tiplicitas,
+                  et ideo non est ibi habitudo aliqua, nec uera, nec appa<lb ed="#T"/>rens
+                  premissarum ad id quod uidetur concludi. Non existente enim
+                  <lb ed="#T"/>quod prius est, nec existit quod consequenter est. Vnde nec sunt sillogismi, nec paralogismi
+                  <lb ed="#T"/>proprie in primo modo figure dictionis, sed orationes incongrue. Nec est hoc contra
+                  <lb ed="#T"/>illud quod prediximus, scilicet, ibi esse principium motiuum, et principium defectus. Et ita
+                  <lb ed="#T"/>apparentia aliqua, quia illa apparentia ibi ipsis premissis
+                  <lb ed="#T"/>erat. Quod modo dictionis est in eo quod uidetur conclusio. In aliis autem
+                  <lb ed="#T"/>modis remanet ueritas, uel falsitas, et sic remanent ibi habi<lb ed="#T"/>tudines,
+                  et si non uere, tamen apparentes, quia posterius ponit
+                  <lb ed="#T"/>prius. Veritas enim et falsitas posteriora sunt habitudinibus, quare
+                  <lb ed="#T"/>ueritate et falsitate posita, ponuntur habitudines uere, uel
+                  <lb ed="#T"/>apparentes. In hac autem oratione – <mentioned>omnis homem est albus; femina
+                  <lb ed="#T"/>est homo; ergo femina est albus</mentioned> –, interpretatur femininum mas<lb ed="#T"/>culinum
+                  econuerso quam in predictis propter modum sumendi sub medio,
+                  <cb ed="#T" n="b"/>
+                  <lb ed="#T"/>sicut dictum est. In isto autem - <mentioned>omnis substantia animata sensibilis est
+                  <lb ed="#T"/>colorata; animal est sensibilis; ergo animal est colorata</mentioned> -
+                  <lb ed="#T"/>neutrum alterum illorum. Si autem formetur sic paralogismus: <mentioned>musa et po<lb ed="#T"/>eta
+                  similiter terminantur; sed musa est femininum generis; ergo et poeta.</mentioned>, con<lb ed="#T"/>sequens
+                  est ibi, et non figura dictionis, quia dictiones non sumuntur per modum
+                  <lb ed="#T"/>signi, uel instrumenti, sed per modum rei, quia dicuntur dictiones sumi per modum
+                  <lb ed="#T"/>signi uel instrumenti quando per ipsas loquimur de rebus, sic enim sunt
+                  <lb ed="#T"/>signum rerum et instrumentis loquendi. Quando autem non loquimur per ipsas de
+                  <lb ed="#T"/>rebus, sed loquimur de ipsis secundum se, tunc sumuntur ut res, et ideo est
+                  <lb ed="#T"/>deceptio in re, quare non in dictione. Si autem formetur sic: <mentioned>qualiscumque
+                  <lb ed="#T"/>est musa talis est poeta; sed musa est feminini generis; ergo et poe<lb ed="#T"/>ta</mentioned>,
+                  ut loquimur de rebus per ipsas dictiones sic stant in ratione signi,
+                  <lb ed="#T"/>et instrumenti. Non tamen ibi est figura dictionis, quia cum <mentioned>qualiscumque</mentioned> sit distri<lb ed="#T"/>butiuum
+                  qualitatis et qualitas non possit plus extendi quam ad
+                  <lb ed="#T"/>qualitatem que est res significata, ut albedo, scientia, color et similia.
+                  <lb ed="#T"/>Et ad qualitatem que est modus significandi, ut masculinum, femininum,
+                  <lb ed="#T"/>et similia, res enim significata per hoc nomen <mentioned>albedo</mentioned> est qualitas que
+                  <lb ed="#T"/>est res. Et similiter per hoc nomen <mentioned>color</mentioned>, femininum autem genus in hoc
+                  <lb ed="#T"/>nomine <mentioned>albedo</mentioned> est qualitas que est modus significandi uel intelligendi.
+                  <lb ed="#T"/>Et similiter masculinum genus in hoc nomine <mentioned>color</mentioned>, et tunc oportet quod
+                  <lb ed="#T"/><mentioned>qualiscumque</mentioned> distribuat pro utraque uel pro neutrum, uel tantum pro una
+                  <lb ed="#T"/>uel tantum pro altera, quia in pluribus modis non potest esse. Et si dicat
+                  <lb ed="#T"/>quod pro neutrum, hoc fatuum est cum sit distributiuum qualitatis.
+                  <lb ed="#T"/>Et non sit alius modus qualitatis ab hiis duobus modis. Si di<lb ed="#T"/>cat
+                  quod pro utraque, ergo bene sumit sub medio, et optimus est
+                  <lb ed="#T"/>sillogismus cum assumat alteram, sed maior est falsa, quia hoc modo sensus
+                  <lb ed="#T"/>huius esset: <mentioned>quacumque qualitatem habet hec res et illa, et sub quocumque
+                  <lb ed="#T"/>modo significandi intelligitur hec res et illa</mentioned>, et utraque pars illius copula<lb ed="#T"/>tive
+                  est falsa, et sic maior est falsa. Si autem dicit quod distribu<lb ed="#T"/>at
+                  tantum pro qualitate que est modus significandi, tunc iterum bene stant
+                  <lb ed="#T"/>sub medio, et bonus est sillogismus cum assumat quendam modum significan<lb ed="#T"/>di
+                  particularem, sed maior iterum est falsa. Est enim sensus: <mentioned>sub quo<lb ed="#T"/>cumque
+                  modo significandi intelligitur musa et poeta, et ita cum bonus
+                  <lb ed="#T"/>sit sillogismus non est figura dictionis ibi. <pc type="#pilcrow"/>Si autem dicat quod distribu<lb ed="#T"/>at
+                  tantum pro qualitate que est res significata, tunc erunt IIII
+                  <lb ed="#T"/>termini cum assumat alteram qualitatem sicut hic: <mentioned>omnis homo
+                  <lb ed="#T"/>albus currit; ethiops est niger; ergo ethiops currit</mentioned>. Et ita nichil sumit
+                  <lb ed="#T"/>sub medio nec uere nec apparente, quare non est ibi figura dictionis.
+                </p>
+              </div>
+              <div>
+                <head type="question-title">
+                  <supplied>De secundo modo fallacie figure dictionis</supplied>
+                </head>
+                <p>
+                  <lb ed="#T"/><pc type="#pilcrow"/>Secundus modus figure dictionis fit quando mutamus unum modum
+                  <lb ed="#T"/>dictionis significantis uniuersale in alterum modum dictionis significantis uniuersale.
+                  <lb ed="#T"/>Et hoc tripliciter. Primo secundum quod modus generaliter reperitur in quolibet predi<lb ed="#T"/>camento,
+                  ut <mentioned>quid</mentioned> mutatur in proprium modum unius predicamenti, ut in <mentioned>quale</mentioned>,
+                  <lb ed="#T"/>uel in <mentioned>quantum</mentioned>, uel <mentioned>ad aliquid</mentioned>. Ille enim modus qui dicitur <mentioned>quid</mentioned> reperitur
+                  <lb ed="#T"/>in quolibet predicamento cum quodlibet genus et quelibet species predicetur
+                  <pb ed="#T" n="15-r"/>
+                  <cb ed="#T" n="a"/>
+                  <lb ed="#T"/><mentioned>in quid</mentioned> de suis inferioribus. <mentioned>Quale</mentioned> uero dicit proprium modum quali<lb ed="#T"/>tatis,
+                  et <mentioned>quantum</mentioned> quantitatis, et <mentioned>aliquid</mentioned> relationis. Et formatur
+                  <lb ed="#T"/>sic paralogismus: <mentioned>quidquid heri uidisti, hodie uides; album heri
+                  <lb ed="#T"/>uidisti; ergo album hodie uides</mentioned>. <mentioned>Album</mentioned> enim de se dicit quale,
+                  <lb ed="#T"/>et cum sumatur ut per se stans sub medio dicente <mentioned>quid</mentioned>, propter istum
+                  <lb ed="#T"/>modum sumendi sub eo apparet significare <mentioned>quid</mentioned>, et ita <mentioned>album</mentioned>
+                  <lb ed="#T"/>plicat in se diuersos modos significandi, alterum uere, et alterum ap<lb ed="#T"/>parenti,
+                  et propter hoc mutatur <lb ed="#T"/>quid</mentioned> in <mentioned>quale</mentioned>.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Secundo autem mut<lb ed="#T"/>atur
+                  unus modus dictionis significantis uniuersale in modum alterum dictionis si<lb ed="#T"/>gnificantis
+                  uniuersale quando modus proprius unius predicamenti mutatur in modum
+                  <lb ed="#T"/>proprium alterius, ut <mentioned>quantum</mentioned> in <mentioned>quale</mentioned>, ut: <mentioned>quantumcumque emisti, come<lb ed="#T"/>disti;
+                  sed crudum emisti; ergo crudum comedisti</mentioned>. <mentioned>Crudum</mentioned> enim
+                  <lb ed="#T"/><mentioned>quale</mentioned> dicit, et quia sumitur ut sub <mentioned>quanto</mentioned> apparet habere modum quanti.
+                  <lb ed="#T"/>Et sic habet in se modum unum uere, et alterum apparentem, et per
+                  <lb ed="#T"/>hanc apparentem similitudinem et non ueram mutatur <mentioned>quantum</mentioned>
+                  <lb ed="#T"/>in <mentioned>quale</mentioned>.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Tercio autem fit iste modus quando proprius modus unius dictio<lb ed="#T"/>nis
+                  predicamenti mutatur in alterum modum eiusdem predicamenti, ut
+                  <lb ed="#T"/><mentioned>quantum</mentioned> in <mentioned>quot</mentioned>, ut: <mentioned>quantoscumque digitos habuisti, habes; sed
+                  <lb ed="#T"/>decem habuisti; ergo decem habes</mentioned>. Nouenarius enim, et denarius
+                  <lb ed="#T"/>dicunt quantitatem discretam per modum illum qui est <mentioned>quid</mentioned>, cum sint
+                  <lb ed="#T"/>species numeri, et species dicat <mentioned>quid</mentioned>. Sed nouem et similiter decem que
+                  <lb ed="#T"/>sumuntur denominatiue ab illis dicunt quantitatem discretam, et per
+                  <lb ed="#T"/>modum discrete quantitatis. <mentioned>Quantuscumque</mentioned> enim dicit per modum quanti<lb ed="#T"/>tatis
+                  continue, et sic cum sumatur unum sub altero mu<lb ed="#T"/>tatur
+                  <mentioned>quantum</mentioned> in <mentioned>quot</mentioned>. Et sic iste <unclear>secundus</unclear> modus subdiuiditur per tres, et
+                  <lb ed="#T"/>solet appellari commutatio predicamenti, sed non eo quod res unius
+                  <lb ed="#T"/>predicamenti mutetur in rem alterius predicamenti, sed modus in modum ut dictum
+                  <lb ed="#T"/>est. Vnde hic – <pc type="#pilcrow"/><mentioned>quicquid heri uidisti, hodie uides; albe<lb ed="#T"/>dinem
+                  heri uidisti; ergo albedinem hodie uides.</mentioned> – non est
+                  <lb ed="#T"/>figura dictionis, quia sicut <mentioned>quicquid</mentioned> dicit <mentioned>quid</mentioned> communiter in quolibet predicamento,
+                  <lb ed="#T"/>et in substantiam, similiter albedo dicit <mentioned>quid</mentioned>. Sed si assumeret <mentioned>album</mentioned>,
+                  <lb ed="#T"/>fieret figura dictionis propter modos diuersos, ut dictum est.
+                </p>
+              </div>
+              <div>
+                <head type="question-title">
+                  <supplied>De tercio modo fallacie figure dictionis</supplied>
+                </head>
+                <p>
+                  <pc type="#pilcrow"/>Ter<lb ed="#T"/>cius
+                  modus figure dictionis fit quando <mentioned>quale quid</mentioned> interpretatur <mentioned>hoc aliquid</mentioned>,
+                  <lb ed="#T"/>id est, quando modus communis mutatur in modum singularem, uel econuerso, ex<lb ed="#T"/>tenso
+                  nomine communis ad commune simpliciter, ut est <mentioned>homo</mentioned>, uel <mentioned>animal</mentioned>, et ad commune
+                  <lb ed="#T"/>ex adiunctionem alterius, ut <mentioned>Coriscus musicus</mentioned>. In hoc enim termino sin<lb ed="#T"/>gulari
+                  adiunctum est commune, scilicet, <mentioned>musicus</mentioned>, et fit talis paralogismus secundum
+                  <lb ed="#T"/><ref><name>Aristotelem</name></ref>, scilicet: <mentioned>Coriscus est tercius ab homine; sed ipse est homo; ergo ipse est
+                  <lb ed="#T"/>tercius a se</mentioned>. Nam <mentioned>homo</mentioned> ut ait <ref><name>Aristoteles</name></ref> et omne commune non <mentioned>hoc aliquid</mentioned>, sed
+                  <lb ed="#T"/><mentioned>quale quid</mentioned> significat, uel <mentioned>ad aliquid</mentioned>, et sic de aliis modis communium. Sed <mentioned>Cor<lb ed="#T"/>iscus</mentioned>
+                  <mentioned>hoc aliquid</mentioned> significat, id est, rem discretam et singulariter significatam
+                  <lb ed="#T"/>que non potest esse in pluribus. Commune autem potest, unde <mentioned>Coriscus</mentioned> simpliciter habet
+                  <lb ed="#T"/>modum indiuiduationis, siue singularitatis, et quia sumitur sub habere
+                  <lb ed="#T"/>apparet in se habere modum qui est <mentioned>quale quid</mentioned>, sicut <mentioned>homo</mentioned>. Et sic ap<cb ed="#T" n="b"/><lb ed="#T"/>parenter
+                  implicat in se plures modos. <mentioned>Homo</mentioned> autem econuerso simpliciter
+                  <lb ed="#T"/>est <mentioned>quale quid</mentioned>, cum sit commune simpliciter id enim quale non est nisi aptitudo existendi in pluribus, sed quia <mentioned>homo</mentioned> est in hoc singulari et in illo qui sunt <mentioned>hoc aliquid</mentioned> uidetur similiter quod <mentioned>homo</mentioned> sit <mentioned>hoc aliquid</mentioned>. Et sic <mentioned>homo</mentioned> plicat in se plures modos, unum uere, scilicet, qui est <mentioned>quale quid</mentioned>, et alterum apparenter, scilicet, qui <mentioned>hoc aliquid</mentioned>. Et similiter quodlibet aliud commune quod est
+                  <lb ed="#T"/>genus uel species habet duos modos. Vnde cum dico <mentioned>Coriscus est tercius
+                  <lb ed="#T"/>ab homine</mentioned>, hec non est uera nisi quia <mentioned>homo</mentioned> est <mentioned>quale quid</mentioned>. Si enim <mentioned>homo</mentioned> esset
+                  <lb ed="#T"/><mentioned>hoc aliquid</mentioned> sicut Socrates, aut alia indiuidua tunc de nullo indiuiduo pre<lb ed="#T"/>dicaretur,
+                  sicut nec <mentioned>Coriscus</mentioned> de Socrate, uel Platone, quare ista – <mentioned>Coris<lb ed="#T"/>cus
+                  est tercius ab homine</mentioned> – non est uera nisi quia homo est <mentioned>quale quid</mentioned>. Sed cum dico
+                  <lb ed="#T"/><mentioned>ipse Coriscus est homo</mentioned>, sub eo quod est <mentioned>quale quid</mentioned>, accipio <mentioned>hoc
+                  <lb ed="#T"/>aliquid</mentioned>, et ita muto <mentioned>quale quid</mentioned> in <mentioned>hoc aliquid</mentioned>, concludendo <mentioned>ergo Coriscus est
+                  <lb ed="#T"/>tercius a se</mentioned>. Omnes enim paralogismi figure dictionis contra illationem sunt ut
+                  <lb ed="#T"/>dictum est. Sed si <mentioned>homo</mentioned> esset <mentioned>hoc aliquid</mentioned>, tunc bene sequeretur <mentioned>Coriscus
+                  <lb ed="#T"/>est tercius ab homine; sed ipse Coriscus est homo; ergo ipse est tercius a
+                  <lb ed="#T"/>se</mentioned>. Sed minor esset falsa, sicut hic: <mentioned>Coriscus est tercius a Platone</mentioned>,
+                  <lb ed="#T"/>posito quod sint tres; <mentioned>sed Coriscus est Plato; ergo Coriscus est tercius
+                  <lb ed="#T"/>a se</mentioned> bene sequitur, sed minor est falsa.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Alium paralogismum innuit
+                  <lb ed="#T"/><ref><name>Aristoteles</name></ref> talem: <mentioned>Coriscus est alter a Corisco musico; sed Co<lb ed="#T"/>riscus
+                  musicus est Coriscus; ergo Coriscus est alter a Corisco</mentioned>.
+                  <lb ed="#T"/>Nam hoc, scilicet <mentioned>Coriscus</mentioned>, significat <mentioned>hoc aliquid</mentioned>; illud autem, scilicet, <mentioned>Coriscus mu<lb ed="#T"/>sicus</mentioned>,
+                  significat <mentioned>quale quid</mentioned>. Vnde cum significatur alteritas Corisci ad Co<lb ed="#T"/>riscum
+                  musicum secundum quod significatur ibi qualitas, scilicet, musicum, et non
+                  <lb ed="#T"/>ad Coriscum qui est <mentioned>hoc aliquid</mentioned>, ideo concludendo alteritatem de Co<lb ed="#T"/>risco
+                  mutat <mentioned>quale quid</mentioned> in <mentioned>hoc aliquid</mentioned>, et ideo non uidet illatio.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Et
+                  <lb ed="#T"/>nota quod in primo paralogismo appellatur <mentioned>quale quid</mentioned> quod est genus, uel species.
+                  <lb ed="#T"/>Nam genus, uel species secundum quod est commune habet naturam <mentioned>qualis</mentioned>. Secundum uero quod
+                  <lb ed="#T"/>predicatur <mentioned>in quid</mentioned>, significat <mentioned>quid</mentioned>, et ita est <mentioned>quale quid</mentioned> cum sit commune, et
+                  <lb ed="#T"/>predicatur <mentioned>in quid</mentioned>. In secundo autem paralogismo hoc quod est <mentioned>Coriscus musicus</mentioned> appe<lb ed="#T"/>llat
+                  <ref><name>Aristoteles</name></ref> <mentioned>quale quid</mentioned>, et sic <mentioned>musicum</mentioned> quod est qualitas dicit <mentioned>quale</mentioned>.
+                  <lb ed="#T"/>Subiectum illius qualitatis, ut Coriscus est, appellat <ref><name>Aristoteles</name></ref> <mentioned>quid</mentioned>,
+                  <lb ed="#T"/>sic Coriscus musicus est <mentioned>quale quid</mentioned>. Sic ergo nota qualiter <ref><name>Aristoteles</name></ref> ex<lb ed="#T"/>tendat
+                  <mentioned>quale quid</mentioned> ad hec duo qui in predicamento substantie solum genera
+                  <lb ed="#T"/>et species dicit <mentioned>quale quid</mentioned>. Vnde ibi sumit proprie <mentioned>quale quid</mentioned>, hic autem extenso
+                  <lb ed="#T"/>nomine. Similiter hic interpretatur <mentioned>quale quid</mentioned> <mentioned>hoc aliquid</mentioned>: <mentioned>animal est Socrates; animal est
+                  <lb ed="#T"/>Plato; et sic de singulis; ergo animal est omnis homo</mentioned>. Cum <mentioned>animal</mentioned> sit <mentioned>quale
+                  <lb ed="#T"/>quid</mentioned>, et secundum quod significat idem cum Socrate, apparet habere modum eius quod est <mentioned>hoc
+                  <lb ed="#T"/>aliquid</mentioned>. Et ita quando concludit sic – <mentioned>ergo animal est omnis homo</mentioned> – mutat modum
+                  <lb ed="#T"/>qui erat uere in animali, scilicet, <mentioned>quale quid</mentioned> in modum qui erat ibi apparenter,
+                  <lb ed="#T"/>scilicet, <mentioned>hoc aliquid</mentioned>, et ideo non sequitur. Sed si ille modus apparens esset ibi
+                  <lb ed="#T"/>secundum ueritatem bene sequeretur quia tunc animal esset ibi simpliciter <mentioned>hoc aliquid</mentioned>,
+                  <lb ed="#T"/>sicut hic: <mentioned>Socrates est Socrates; Socrates est Plato; Socrates est Cicero; et sic de sin<lb ed="#T"/>gulis;
+                  ergo est omnis homo</mentioned> bene sequitur. Falsitas enim propositionum non
+                  <pb ed="#T" n="15-v"/>
+                  <cb ed="#T" n="a"/>
+                  <lb ed="#T"/>impedit argumentum. Et solent appellare istum paralo<lb ed="#T"/>gismum
+                  et consimiles a pluribus determinatis subpositionibus ad u<lb ed="#T"/>nam
+                  determinatam subpositionem, quia <mentioned>animal</mentioned> in premissis et conclusione
+                  <lb ed="#T"/>determinatam habet subpositionem. Sed istud nichil est quia procedere a determinata
+                  <lb ed="#T"/>subpositione ad determinatam nullam facit fallaciam nisi defectus alius
+                  <lb ed="#T"/>concomitetur hoc, ut: <mentioned>animal album currit; animal album mouetur; ergo animal
+                  <lb ed="#T"/>album mouetur et currit</mentioned>. In premissis autem determinatam habet subpositio<lb ed="#T"/>nem
+                  <mentioned>animal</mentioned>, et in conclusione determinatam.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Similiter ubicumque ipsi dicunt proces<lb ed="#T"/>sum
+                  fieri a simplici ad personalem aut istud non facit fallaciam
+                  <lb ed="#T"/>figure dictionis, aut oportet quod interpretetur ibi <mentioned>quale quid</mentioned> <mentioned>hoc aliquid</mentioned>, ut:
+                  <lb ed="#T"/><mentioned>homo est species; iste homo est homo; ergo iste homo est species</mentioned>. Cum <mentioned>homo</mentioned> significet
+                  <lb ed="#T"/><mentioned>quale quid</mentioned>, et iste homo significet <mentioned>hoc aliquid</mentioned>, sicut satis patet ex predictis.
+                  <lb ed="#T"/>Et hic: <mentioned>omnis homo est animal; ergo omnis homo est hoc animal</mentioned>. <pc type="#pilcrow"/>Et similiter hic:
+                  <lb ed="#T"/><mentioned>omne corpus animatum preter animal est insensibile; ergo preter hoc
+                  <lb ed="#T"/>animal.</mentioned> In utraque enim <mentioned>animal</mentioned> significat <mentioned>qualequid</mentioned>, sed <mentioned>hoc animal</mentioned> significat <mentioned>hoc
+                  <lb ed="#T"/>aliquid</mentioned>. Et sic interpretatur <mentioned>quale quid</mentioned> <mentioned>hoc aliquid</mentioned>.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Et nota quod
+                  <lb ed="#T"/>diuersa genera prout simpliciter sunt in eadem dictione sunt principia fa<lb ed="#T"/>llendi
+                  secundum equiuocationem, ut: <mentioned>sacerdos celebrat; mulier est
+                  <lb ed="#T"/>sacerdos; ergo mulier celebrat.</mentioned>. Sed diuersa genera non solum
+                  <lb ed="#T"/>prout sunt in <del rend="expunctuation">diuersis</del> dictionibus, sed secundum quod sunt in diuersis dictio<lb ed="#T"/>nibus
+                  sic quod una eorum habet genus suum sibi proprium et habet
+                  <lb ed="#T"/>genus alterius apparenter sunt principia fallendi secundum figuram dictio<lb ed="#T"/>nis
+                  quo ad primum modum, ut prius patuit.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Et de hac
+                  <lb ed="#T"/>fallacia difuse dictum est propter multas eius dificultates.
+                </p>
+              </div>
+            </div> <!--This closes De causis et modis figure dictionis-->
+          </div> <!--This closes Sequitur de fallacia figure dictionis-->
+        </div> <!--This closes De fallaciis in dictione-->
+
+
+        <div>
+          <head>
+            <supplied>De fallaciis extra dictionem</supplied>
+          </head>
+          <p>
+            <lb ed="#T"/><pc type="#pilcrow"/>Fallacia extra dictionem dicitur cuius causa apparentie et
+            <lb ed="#T"/>causa non existentie est in re. Et per hoc differt
+            <lb ed="#T"/>a fallaciis in dictione. Fallacia autem in dictione est cuius causa apparen<lb ed="#T"/>ciae
+            est in dictione, et causa falsitas in re.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Fallacie autem extra
+            <lb ed="#T"/>dictionem sunt septem, quarum: prima est accidens; <pc type="#pilcrow"/>secunda est
+            <lb ed="#T"/>secundum quid et simpliciter; <pc type="#pilcrow"/>tercia est ignorantia elenchi; <pc type="#pilcrow"/>qua<lb ed="#T"/>rta
+            est peticio principii; <pc type="#pilcrow"/>quinta est consequens; <pc type="#pilcrow"/>sexta
+            <lb ed="#T"/>uero est non causa ut causa; <pc type="#pilcrow"/>septima secundum plures interrogationes
+            <lb ed="#T"/>ut una.
+          </p>
+
+          <div>
+            <head type="question-title">
+              <supplied>De accidente</supplied>
+            </head>
+            <p>
+              <pc type="#pilcrow"/>De accidente igitur primo dicendum est. Ponitur autem ab <ref><name>Aristotele</name></ref>
+              <lb ed="#T"/>talis ratio accidentis: <quote>accidens fit quando similiter quidlibet assignatum
+              <lb ed="#T"/>fuerit rei subiecte et accidenti inesse</quote>. Vt: <mentioned>homo est species; Socrates est homo;
+              <lb ed="#T"/>ergo Socrates est species</mentioned>. Hic enim <mentioned>homo</mentioned> est res subiecta, et <mentioned>Socrates</mentioned> accidit ei, et
+              <lb ed="#T"/>species assignatur inesse utrique, et etiam similiter quia utrique assig<lb ed="#T"/>natur
+              ut accidens suo subiecto.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Et nota quod ubicumque est sophisma
+              <lb ed="#T"/>accidentis exigitur duplex accidens: unum quod accidit rei subiecte,
+              <lb ed="#T"/>et aliud quod assignatur rei subiecte et accidenti eius inesse. Et utrumque
+              <lb ed="#T"/>significatur in predicta ratione communi paralogismorum accidentis.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Si ergo aliquis
+              <lb ed="#T"/>querat quomodo sumatur hic accidens, dicendum quod questio ista multiplex
+              <lb ed="#T"/>est propter illud duplex accidens quod semper exigitur ad paralogismos secundum accidens.
+              <lb ed="#T"/><pc type="#pilcrow"/>Et ideo dicendum quod si querat de illo accidente quod assignatur
+              <cb ed="#T" n="b"/>
+              <lb ed="#T"/>inesse utrique tunc illud accidens non erit prout sumitur a
+              <lb ed="#T"/><ref><name>Porphirio</name></ref> unum de quinque predicabilibus, nec secundum quod sumitur ab <ref><name>Aristotele</name>
+              <lb ed="#T"/>unum de IIII predicatis in <title>Topicis</title></ref>. Nec est illud accidens quod ex
+              <lb ed="#T"/>opposito diuiditur contra substantiam, cum dicimus: <mentioned>quicquid est aut est
+              <lb ed="#T"/>substantia, aut accidens, aut creator substantie, aut accidentis</mentioned>. Sed illud
+              <lb ed="#T"/>accidens est idem quod non necessarium in consequendo, quia <mentioned>non necessarium</mentioned>
+              <lb ed="#T"/>dicitur dupliciter, scilicet, uno modo in predicando uel subponendo, cum dicitur <mentioned>Socrates
+              <lb ed="#T"/>est homo</mentioned>, uel <mentioned>animal est substantia</mentioned>, secundum quod superius uno modo accidit inferiori,
+              <lb ed="#T"/>et alio modo econuerso, sicut inferius accidit superiori. Et non sumitur hoc
+              <lb ed="#T"/>modo hic <mentioned>non necessarium</mentioned>. <pc type="#pilcrow"/>Alio autem modo sumitur <mentioned>non necessarium</mentioned> in consequendo
+              <lb ed="#T"/>ut diximus et sic sumitur hic accidens quod assignatur inesse utrique.
+            </p>
+            <p>
+              <lb ed="#T"/><pc type="#pilcrow"/>Vnde accidens hoc modo opponitur ei quod est ex necessitate accidere. Sed
+              <lb ed="#T"/>non dico <mentioned>ex necesitate accidere</mentioned> prout necessitas inferendi
+              <lb ed="#T"/>causatur ex qualitate et quantitate et ordine propositionum, quod enim huic
+              <lb ed="#T"/>necessitati opponitur inutilis coniugatio appellatur in <ref><title>Prioribus</title></ref>. Sed dico
+              <lb ed="#T"/><mentioned>ex necessitate accidere</mentioned> prout necessitas inferendi causatur uel
+              <lb ed="#T"/>ab habitudinibus localibus, ut in dyalecticis, uel a causa, uel
+              <lb ed="#T"/>ab effectu, ut in demonstratiuis. Et hinc necessitati inferen<lb ed="#T"/>di
+              opponitur accidens quod assignatur inesse utrique, quia sic dicitur dupliciter
+              <lb ed="#T"/><mentioned>ex necessitate accidere</mentioned>. Vnde <mentioned>accidens</mentioned> hoc modo idem est quod <mentioned>non
+              <lb ed="#T"/>necessarium in consequendo</mentioned> contra istam necessitatem inferendi quam diximus.
+            </p>
+            <p>
+              <lb ed="#T"/><pc type="#pilcrow"/>Si autem querat de illo accidente quod accidit rei subiecte, dico
+              <lb ed="#T"/>quod est extraneum, uel diuersum in respectu ad aliquod tercium. Vnde <mentioned>homo</mentioned> secundum quod
+              <lb ed="#T"/>stat sub hoc predicamento species omnia inferiora accidunt ei, et omnia
+              <lb ed="#T"/>superiora similiter. Vnde ex utraque parte est accidens siquid illorum acci<lb ed="#T"/>piatur.
+              Vt: <mentioned>homo est species; homo est substantia; ergo substantia est species</mentioned>. Vel <mentioned>homo est
+              <lb ed="#T"/>species; Socrates est homo; ergo Socrates est species</mentioned>. Et sic tam superius quam inferius
+              <lb ed="#T"/>accidit <mentioned>homini</mentioned> in respectu ad aliquod tercium.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Nota etiam quod quidam dixerunt
+              <lb ed="#T"/>quod accidens quod exigitur ad hanc fallaciam erat medium in parte
+              <lb ed="#T"/>idem et in parte diuersum cum extremis. Sed isti dupliciter <del rend="expunctuation">errabant</del>, u<lb ed="#T"/>no
+              modo quia in quolibet sillogismo oportet medium esse in parte idem et in parte
+              <lb ed="#T"/>diuersum cum utraque extremitate. Errabant etiam quia subponebant
+              <lb ed="#T"/>unum modum accidentis exigi ad hanc fallaciam quod falsum est,
+              <lb ed="#T"/>cum sicut diximus ad ipsam semper duplex accidens exigatur.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Nota
+              <lb ed="#T"/>etiam quod duplex idemptitas medii exigitur in quolibet bono sillogismo.
+              <lb ed="#T"/>Vna est idemptitats que patitur secum diuersitatem, et hec ipsius
+              <lb ed="#T"/>medii ad extrema, ut diximus. Alia est idemptitas ipsius me<lb ed="#T"/>dii
+              in se secundum quod in premissis est medium iteratum, uel secundum quod stat
+              <lb ed="#T"/>in ratione medii iterati quia secundum quod iteratur medium in premissis debet
+              <lb ed="#T"/>simpliciter esse idem. Et contra hanc idemptitatem in medio peccat hec
+              <lb ed="#T"/>fallacia.
+            </p>
+            <div>
+              <head type="question-title">
+                <supplied>De causis et modis accidentis</supplied>
+              </head>
+              <p>
+                <pc type="#pilcrow"/>Visa ratione communi paralogismorum accidentis, et quod duplex accidens
+                <lb ed="#T"/>exigitur semper ad paralogismos accidentis, et qualiter sumantur illi duo
+                <lb ed="#T"/>modi accidentis, et qualiter non, et quod duplex idemptitas exigitur in
+                <lb ed="#T"/>quolibet sillogismo; <pc type="#pilcrow"/>nunc dicendum est de causis et modis accidentis.
+              </p>
+              <p>
+                Prin<pb ed="#T" n="16-r"/><cb ed="#T" n="a"/><lb ed="#T"/>cipium
+                igitur motiuum accidentis est idemptitas medii secundum partem
+                <lb ed="#T"/>prout iteratur in premissis. Et dico <mentioned>prout iteratur in premissis</mentioned> ut
+                <lb ed="#T"/>non intelligatur de illa idemptitate secundum partem que est ipsius ad ex<lb ed="#T"/>trema,
+                sed in se ut iteratum est.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Principium autem defectus est diuers<lb ed="#T"/>itas
+                medii iterati secundum rationem. Verbi gratia: <mentioned>homo est species; Socrates est homo; ergo
+                <lb ed="#T"/>Socrates est species.</mentioned>. Hic est accidens, quia medium, scilicet, <mentioned>homo</mentioned>, est idem secundum substantiam
+                <lb ed="#T"/>in premissis prout iteratur. Non autem est idem secundum rationem, quia <mentioned>homo</mentioned> subicitur
+                <lb ed="#T"/>in maiori pro ipso communi secundum se, et non prout est in Socrate, siue secundum com<lb ed="#T"/>parationem
+                quam habet ad inferiora. Sed in minori propositione predicatur de Socrate secundum
+                <lb ed="#T"/>istam comparationem et non secundum illam. Et sic est idem in substantia et diuersum
+                <lb ed="#T"/>in ratione prout iteratur. Cum autem dico – <mentioned>omnis homo currit; Socrates est homo; ergo Socrates
+                <lb ed="#T"/>currit</mentioned> –, hic est bonus sillogismus, quia currere predicatur de homine secundum comparationem
+                <lb ed="#T"/>quam habet <mentioned>homo</mentioned> ad sua inferiora. Et sic non sumitur medium in ratio<lb ed="#T"/>nibus
+                diuersis sicut cum subicitur speciei.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Siquis obiciat quod
+                <lb ed="#T"/>cum medium sumatur secundum diuersas comparationes accidentales, ergo
+                <lb ed="#T"/>medium erit accidens in hac fallacia, dicendum quod non sequitur, quia licet medium
+                <lb ed="#T"/>sumatur in diuersis comparationibus accidentalibus hoc non est quia
+                <lb ed="#T"/>ipsum accidat aliis, sed quia alia accidunt ipsi, sicut homini accidit
+                <lb ed="#T"/>esse speciem, et etiam accidit esse Socratem.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Modi autem huius fallacie di<lb ed="#T"/>stinguntur
+                a parte accidentis quod accidit rei subiecte, quia accidens quod
+                <lb ed="#T"/>accidit rei subiecte aliquando est antecedens, aliquando est consequens, aliquando
+                <lb ed="#T"/>conuertibile, quia quod uno modo accidat inferius superiori. Hoc dicit
+                <lb ed="#T"/><ref><name>Aristoteles</name></ref> quando dat generationem paralogismorum accidentis quod homini accidit Socrates;
+                <lb ed="#T"/>et in <ref><title>secundo Topicorum</title></ref> quod triangulo accidit equilaterus qui est species trian<lb ed="#T"/>guli,
+                sicut yzocheles. Equilaterus enim est triangulus habens tria latera
+                <lb ed="#T"/>equalia; yzocheles autem est triangulus habens tantum duo latera
+                <lb ed="#T"/>equalia. Quadratus uero omnia in equalia habet. Alio autem modo superius
+                <lb ed="#T"/>accidit inferiori. Vnde <ref><name>Aristoteles</name> in capitulo de reductione fallaciarum ad
+                <lb ed="#T"/>ignorantiam elenchi</ref> dicit quod accidit triangulo esse figuram, et
+                <lb ed="#T"/>in principio <ref><title>ueteris Methaphisice</title></ref> dicit quod homo accidit Socrati.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Ter<lb ed="#T"/>cio
+                autem modo sumitur <mentioned>accidens</mentioned> secundum quod conuertibile accidit suo conuertibili,
+                <lb ed="#T"/>ut postea patebit. Et sic dico quod aliquando accidit superius inferio<lb ed="#T"/>ri,
+                aliquando conuertibile conuertibili. Similiter inte<lb ed="#T"/>llige
+                de antecedente et consequente, et conuertibili, siue fiunt pre<lb ed="#T"/>dicabilia
+                siue non, quia tam in predicabilibus quam in non predicabi<lb ed="#T"/>libus
+                accidit hec fallacia.
+              </p>
+
+              <div>
+                <head type="question-title">
+                  <supplied>De primo modo accidentis</supplied>
+                </head>
+                <p>
+                  <pc type="#pilcrow"/>Primus ergo modus accidentis fit quando ante<lb ed="#T"/>cedens
+                  accidit ei cui antecedit, ut: <mentioned>homo est species; Socrates est homo; ergo
+                  <lb ed="#T"/>Socrates est species</mentioned>. Vel <mentioned>animal est asinus; homo est animal; ergo homo est asinus</mentioned>. Vel <mentioned>animal
+                  <lb ed="#T"/>currit; homo est animal; ergo homo currit</mentioned>. Vel <mentioned>omnis triangulus habet tres an<lb ed="#T"/>gulos
+                  equales duobus rectis; sed yzocheles est triangulus; ergo yzocheles
+                  <lb ed="#T"/>habet tres angulos equales duobus rectis</mentioned>. Vel <mentioned>omne metallum
+                  <lb ed="#T"/>est naturale; sed omnis statua fusilis est metallum; ergo omnis statua
+                  <lb ed="#T"/>fusilis est naturalis</mentioned>. Vel: <mentioned>omnis lapis et lignum est naturale; sed domus est
+                  <lb ed="#T"/>ex lapidibus et lignis; ergo domus est naturalis</mentioned>.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>In primo autem
+                  <cb ed="#T" n="b"/>
+                  <lb ed="#T"/>paralogismo <mentioned>Socrates</mentioned> qui antecedit ad <mentioned>hominem</mentioned> accidit ei. Et species
+                  <lb ed="#T"/>assignatur inesse utrique. In secundo <mentioned>homo</mentioned> accidit <mentioned>animali</mentioned> et assignatur
+                  <lb ed="#T"/><mentioned>asinus</mentioned> utrique inesse, uel conuenire. Et similiter esse si <mentioned>animal</mentioned> predicaretur
+                  <lb ed="#T"/>de utroque ita quod fieret paralogismus in secunda figura, ut: <mentioned>asinus est animal; homo est
+                  <lb ed="#T"/>animal; ergo homo est asinus.</mentioned>. Similiter in alio <mentioned>homo</mentioned> accidit <mentioned>animali</mentioned>, et <mentioned>currere</mentioned> assi<lb ed="#T"/>gnatur
+                  inesse utrique. In quarto autem <mentioned>yzocheles</mentioned> accidit <mentioned>triangulo</mentioned>
+                  <lb ed="#T"/>et habere tres assignatur utrique inesse.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Et nota quod in isto
+                  <lb ed="#T"/>paralogismo siue dyalecticus siue demonstrator ostendat habere tres et cetera
+                  <lb ed="#T"/>de yzocheles ut de subiecto adequato, uel conuertibili semper est sophisma acci<lb ed="#T"/>dentis.
+                  Sed ut uterque illorum ostendat habere tres de yzochele, ut de
+                  <lb ed="#T"/>subiecto particulari per medium conueniens, ut iste er medium dialectium,
+                  <lb ed="#T"/>ille per medium demonstratiuum erit semper bonus sillogismus quo ad utrumque, quia
+                  <lb ed="#T"/>quo ad istum bonus est sillogismus dyalecticus, quo ad demonstratorem erit demonstratio
+                  <lb ed="#T"/>particularis bona.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Et nota quod si <mentioned>triangulus</mentioned> accipiatur in quantum
+                  <lb ed="#T"/>est predicabilis de yzochele sic est medium dialecticum. Si autem accipi<lb ed="#T"/>etur
+                  <mentioned>triangulus</mentioned> in quantum habet in se causam proximam illius passio<lb ed="#T"/>nis
+                  que est habere tres, et ut fiat medium ut probetur eadem passio
+                  <lb ed="#T"/>de yzochele, ut de subiecto particulari sic est medium demonstratiuum, et est secundum hoc
+                  <lb ed="#T"/>demonstratio particularis. Vnde idem sumptum secundum diuersas rationes potest esse me<lb ed="#T"/>dium
+                  dialecticum, et medium demonstratiuum. Vnde nichil dicunt dicentes
+                  <lb ed="#T"/>in predicto paralogismo esse sophisma accidentis quo ad demonstratorem, et bo<lb ed="#T"/>num
+                  sillogismum quo ad dialecticum, quia licet sumatur triangulus prout habet
+                  <lb ed="#T"/>in se proximam causam et immediatam illius passionis dum
+                  <lb ed="#T"/>eadem passio probetur de yzochele ut de proprio subiecto, semper est so<lb ed="#T"/>phisma
+                  accidentis. Et constat quod medium sic sumptum non est
+                  <lb ed="#T"/>dialecticum. Vnde intelligendum est sicut diximus.
+                </p>
+                <p>
+                  <pc type="#pilcrow"/>Similiter statua fu<lb ed="#T"/>silis
+                  accidit metallo et domus lignis et lapidibus, prout
+                  <lb ed="#T"/>medium stat sub hoc predicamento esse naturale, uel esse a natura.
+                  <lb ed="#T"/>Vnde in omnibus hiis antecedens accidit consequenti, sed in duobus ultimis
+                  <lb ed="#T"/>proprie antecedens et consequens non sumuntur secundum predicationem. <pc type="#pilcrow"/><mentioned>Me<lb ed="#T"/>tallum</mentioned>
+                  enim proprie non predicatur de statua fusili, nec lapides et
+                  <lb ed="#T"/>ligna de domo. Si obiciat quod hic est accidens – <mentioned>omne animal
+                  <lb ed="#T"/>currit; omnis homo est animal; ergo omnis homo currit</mentioned> – cum <mentioned>homo</mentioned> accidat <mentioned>animali</mentioned>,
+                  <lb ed="#T"/>et <mentioned>currere</mentioned> assignetur utrique inesse, dicendum quod nullum est ibi accidens,
+                  <lb ed="#T"/>cum <mentioned>animal</mentioned> subiciatur <mentioned>cursui</mentioned> discrete et signate pro quolibet inferiorum.
+                  <lb ed="#T"/>Et similiter predicatur in minori <mentioned>animal</mentioned> de <mentioned>homine</mentioned> per comparationem ad omnia
+                  <lb ed="#T"/>contenta sub <mentioned>homine</mentioned>. Et sic medium est idem secundum subiectum, et su<lb ed="#T"/>mitur
+                  secundum comparationem eandem, et sic sumitur medium uniformiter
+                  <lb ed="#T"/>et non diformiter.
+                </p>
+
+              </div>
+              <div>
+                <head type="question-title">
+                  <supplied>De secundo modo accidentis</supplied>
+                </head>
+                <p>
+                  <pc type="#pilcrow"/>Secundus autem modus accidentis fit quando
+                  <lb ed="#T"/>consequens accidit antecedenti, ut: <mentioned>homo est species; homo est substantia; ergo
+                  <lb ed="#T"/>substantia est species</mentioned>. Et: <mentioned>omnis triangulus habet tres et cetera; sed omnis
+                  <lb ed="#T"/>triangulus est figura; ergo omnis figura habet tres et cetera.</mentioned>. Vel: <mentioned>me<lb ed="#T"/>dicus
+                  sanat Socratem; Socrates est homo; ergo medicus sanat hominem</mentioned>. <mentioned>Socrates
+                  <lb ed="#T"/>est monacus; Socrates est albus; ergo Socrates est monacus albus</mentioned>.
+                  <pb ed="#T" n="16-v"/>
+                  <cb ed="#T" n="a"/>
+                  <lb ed="#T"/><mentioned>Cognosco Coriscum; Coriscus est ueniens; ergo, cognosco uenientem.</mentioned> <mentioned>Omnis domus est artificialis; sed omnis domus est ex lapidibus et lignis; ergo lapides et ligna sunt artificialia.</mentioned>
+<pc type="#pilcrow"/>In primo enim <mentioned>substantia</mentioned> accidit <mentioned>homini</mentioned>, et <mentioned>species</mentioned> assignatur inesse utrique ut subiecto suo proprio/primo, et sic similiter. Et ideo est sophisma accidentis. In secunda autem figura accidit triangulo secundum quod habet tres et cu assignatur utrique inesse ut subiecto proprio adequato et sic similiter. In alio autem <mentioned>homo</mentioned> accidit <mentioned>Socrati</mentioned>. Omnis enim motus et omnis operationes circa singularia sunt. Unde medicus non sanat hominem nisi secundum accidens, sed Socratem uel Platonem.
+<pc type="#pilcrow"/>In alio autem <mentioned>esse monachus</mentioned> accidit Socrati, et <mentioned>album</mentioned> assignatur inesse utrique. Monachus autem accidens est commune et sic habet ratione consequentis, et sic consequens accidit antecedenti. Similiter <mentioned>ueniens</mentioned> accidit <mentioned>Coriscco</mentioned> et <mentioned>cognosci a me</mentioned> assignatur inesse utrique. In ultimo autem <mentioned>lapides</mentioned> et <mentioned>ligna</mentioned> accidunt domui secundum quod domus stat sub hoc predicato <mentioned>esse artificiale</mentioned>, uel <mentioned>esse ab arte</mentioned>. Lapides enim et ligna non sunt artificialia, nec ab arte, immo sunt a natura, sed quadratura uel dolatura eorum est ab arte. Unde accidunt domui respectu illius predicati. Et sic est in omnibus predictis in isto secundo modo consequens accidit antecedenti.
+              </div>
+              <div>
+                <head type="question-title">
+                  <supplied>De tercio modo accidentis</supplied>
+                </head>
+                <p>
+                  <pc type="#pilcrow"/>Tercius autem modus fit quando conuertibile accidit suo conuertibili, ut: <mentioned>homo est species; ergo risibile est species.</mentioned> <mentioned>Homo</mentioned> enim subicitur speciei secundum suam essentiam, et non ratione qua est risibile, et sic <mentioned>risibile</mentioned> accidit <mentioned>homini</mentioned> respectu huius predicati.
+<pc type="#pilcrow"/>Item: <mentioned>risibile est proprium; ergo homo est proprium.</mentioned> Nam <mentioned>homo</mentioned> accidit <mentioned>risibili</mentioned>, quia risibile ita est substantiam huius intentionis proprium quod non ratione hominis, et sic homo accidit risibili, et sic conuertibile accidit conuertibili. Similiter hic: <mentioned>pater est superpositione; ergo est filius</mentioned>, quia prout pater stat sub illo predicato <mentioned>filius</mentioned> accidit ei, et sic pater est res subiecta et filius est accidens rei subiecte, et esse in superpositione est accidens quod assignatur inesse utrique, et est non necessarium prout filius consequebatur ad patrem et sic est non necessarium in consequendo. Et similiter hic: <mentioned>id quod est pater est natura prius filio; ergo pater est natura prius filio</mentioned>. In hoc enim subiectum paternitatis est res subiecta, sicilicet, <mentioned>id quod est pater</mentioned>, et <mentioned>pater</mentioned> est accidens rei subiecte, et esse natura prius filios assignatur inesse utrique.
+
+<pc type="#pilcrow"/>Et nota quod differt hec conuertibilitas a predictis quia pater conuertitur cum eo quod est pater, siue cum subiecto paternitatis, sicut relatio cum proprio subiecto in quo habet esse uel fieri comparando ipsum ad aliud. Risibile autem cum homine non sic sed sicut propria passio cum proprio subiecto. Pater autem, et filius neutro predicatorum modorum, sed sicut tantum correlatiuorum cum altero. Plures enim et diuerse sunt cause conuertibilitatis.
+<pc type="#pilcrow"/>Ex predictis iam patet quod unum conuertibile accidit suo conuertibili respectu alicuius tercii.
+<pc type="#pilcrow"/>Et nota quod ubicumque est figura dictionis ibi est semper accidens, et non econuerso, |16vb ou 18vb| sed per diuersa principia, et per diuersas rationes se concomitantes, quia sicut uidere duas habet comparationes diuersas siue duos respectus diuersos se concomitantes. Uidere enim comparatur ad oculum et est ipsius ut organi; et comparatur ad colorem et est ipsius ut obiecti. Et isti duo respectus concomitantur semper se in eodem actu uidendi, licet sint diuersi. Similiter est ubi est figura dictionis quia modus significandi comparatur ad dictionem et est ipsius ut instrumenti, uel signi, et comparatur ad rem significatam, et est ipsius ut obiecti, uel significati, et etiam ut [ut]  subiecti. Et intellig::: hoc de modo significandi quo ad omnes modos figure dictionis, siue quo ad omnes species eius, scilicet, quod ille modum habet hos duos diuersos respectus. Unde dico quod si ille modus significandi fuerit principium motiuum prout est in suo signo quod est dictio, sic est deceptio in dictione, et sic est figura dictionis. Sed si modus significandi sumatur secundum alteram comparationem, scilicet, secundum quod comparatur ad rem, et est ipsius ut subiecti, et sic hoc modo principium motiuum sic est deceptio extra dictionem, et sic est accidens. Unde ubicumque est figura dictionis ibi semper accidens, et non econuerso quia ratio rei non dependet a ratione dictionis, sed ratio dictionis dependet a ratione rei cum dictio sit signum rei et ad rem finaliter ordinetur, a fine autem est perfectio et complementum in hiis que sunt ad finem, et non econuerso, quare secundum ratione rei non potest esse ratio dictionis.
+
+<pc type="#pilcrow"/>Nota etiam quod ubicumque est sophisma accidentis dico medium siue illud de quod uere dicitur quod assignatur inesse utrique esse rem subiectam. Et minorem extremitatem siue illud quod est a parte minoris extremitatis esse accidens rei subiecte siue sit subicibile, uel predicabile de medio siue non, et maiorem extremitatem siue quod est a parte maioris extremitatis dico esse quod assignatur inesse utrique et hic accidens alterum quod est non necessarium in consequendo. Nec est contrarium quod dicit Aristoteles in secundo Elenchorum quod quinque illud quod inese accidenti dicunt de re subiecta. Et sic uidetur quod non solum per rem subiectam ostendimus aliquid sophistice de re subiecta. Dico enim quod paralogismorum accidentis alii concludunt tantum unam partem contradictionis sicut patet in predictis, alli autem concludunt utrumque partem contradictionis, et hooc implicite, uel explicite, ut: <mentioned>cognosco Coriscum; ignoro uenientem; ergo cognosco et ignoro</mentioned>. Ita conclusio habet contradictionem implicitam, et unam partem accipit a parte rei subiecte, aliam uero a parte accidentis. Cum autem dico: <mentioned>cognosco Coriscum; non cognosco uenientem; ergo eudem cognosco et non cognosco</mentioned>, ibi est contradictio explicite, et in istis qui habent utrumque artem contradictionem est quod dicit Aristoteles. Unde ipse dicit ibidem quod in quibusdam uidetur et dicunt sic, in quibusdam autem non. In aliis autem qui concludunt unam partem contradictionis ostenditur semper per rem subiectam aliquid conuenire accidenti siue sumantur termini secundum predicationem, siue natura |17ra ou 19ra|
+
+<pc type="#pilcrow"/>Posset etiam solui et credo quod melius licet illud uerum sit dicendo scilicet quod neque in istis est dictio cum in quolibet tali paralogismo sit uirtus duorum paralogismorum. Unde etiam oportet intelligere tertiam propositionem in premissis sic: <mentioned>Cognosco Coriscum; ignoro uenientem; et Coriscus est ueniens; ergo eundem cognosco et ignoro</mentioned>. Et sumuntur sic: <mentioned>Cognosco Coriscum; Coriscus est ille qui uenit; ergo cognosco illum qui uenit.</mentioned> Item: <mentioned>ignoro uenientem; et ueniens est ille qui uenit; ergo ignoro illum qui uenit; ergo cognosco et ignoro eundem.</mentioned>
+<pc type="#pilcrow"/>In primo enim per Coriscum qui est res subiecta ostenditur ille qui uenit esse in cognitione materia/mea que scilicet cognitio est ad maiorem extremitatem, et accidit Corisco secundum quod Coriscus subicitur ei qui uenit. In secundo autem paralogismo per uenientem que est res subiecta ostenditur ille qui uenit esse ignoratum a me, et sic ueniens est res subiecta, et est medium, et ille qui uenit est minor extremitas, et ignoro est minor extremitas, et est accidens uenienti secundum quod ueniens stat sub illo predicato. Et sic patet uniuersaliter quid debet assignari res subiecta et quid accidens rei subiecte, et quid accidens quod assignatur inese utrique.
+              </div>
+            </div> <!--This closes De causis et modis accidentis-->
+          </div> <!--This closes De accidente-->
+
+          <div>
+            <head type="question-title">
+              <supplied>De fallacia secundum quid et simpliciter</supplied>
+            </head>
 
       </div>
     </body>

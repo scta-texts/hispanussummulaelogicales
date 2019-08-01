@@ -2,14 +2,14 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Tractatus 1</title>
+        <title>Tractatus 6</title>
       	<author>Petrus Hispanus</author>
         <editor>Joana Gomes</editor>
-        <editor>Mario</editor>
+        <editor>Mário João Correia</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Tractatus 1</title>
+          <title>Tractatus 6: De subpositionibus</title>
           <date when="2019-06-06">June 5, 2019</date>
         </edition>
       </editionStmt>
@@ -22,7 +22,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="T" n="cod-u8776t">Tarragona, Library of the Palacio del Arzobispo, cod 2</witness>
+          <witness xml:id="T" n="cod-u8776t">Tarragona, Arxiu Historic Arxidiocesà, cod 2 (85)</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -45,14 +45,347 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        
+        <pb ed="#T" n="7-r"/>
+        <cb ed="#T" n="a"/>
       </div>
     </front>
     <body>
       <div xml:id="phsl-t1">
-        
-        
+        <div>
+          <head>
+            <supplied>De eis que dicuntur</supplied>
+          </head>
+          <p>
+            <lb ed="#T"/><pc type="#pilcrow"/>Eorum que dicuntur quedam dicuntur cum cumplexione, ut <mentioned>homo currit</mentioned>, uel <mentioned>homo
+            <lb ed="#T"/>albus</mentioned>; quedam sine complexione, ut <mentioned>homo</mentioned> qui est terminus incom<lb ed="#T"/>plexus.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Terminorum autem incomplexorum, uniusquisque aut si<lb ed="#T"/>gnificat
+            substantiam, aut qualitatem, aut quantitatem, aut
+            <lb ed="#T"/>ad aliquid, aut facere, aut pati, et sic de aliis.
+          </p>
+        </div>
 
+        <div>
+          <head>
+            <supplied>De significatione</supplied>
+          </head>
+          <p>
+            Significatio
+            <cb ed="#T" n="b"/>
+            <lb ed="#T"/>termini pro ut hic sumitur est rei per uocem secundum pla<lb ed="#T"/>citum
+            representatio, quare cum omnis res aut sit uniuersalis, aut
+            <lb ed="#T"/>particularis, oportet dictiones non significantes uniuersale aut particulare non significa<lb ed="#T"/>re
+            aliquid, et sic non esse terminum pro ut hic sumitur terminus,
+            <lb ed="#T"/>ut signa uniuersalia, uel particularia.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Significationis alia est rei substantiue
+            <lb ed="#T"/>et hec fit per nomen substantiuum, ut <mentioned>homo</mentioned>; alia est rei adiectiue
+            <lb ed="#T"/>et hec fit per nomen adiectiuum, uel per uerbum, ut <mentioned>albus</mentioned>, uel <mentioned>currit</mentioned>.
+            <lb ed="#T"/>Quia proprie non est significatio adiectiua, uel substantiua, sed aliquid si<lb ed="#T"/>gnificatur
+            adiectiue, uel substantiue, quia adiectiuatio uel substantiuatio
+            <lb ed="#T"/><gap extent="2" unit="characters"/> sunt modi rerum que significantur, et non significationis. Nomina uero substan<lb ed="#T"/>tiua
+            dicuntur subponere; nomina uero adiectiua et uerba dicuntur copulare.
+          </p>
+        </div>
+
+        <div>
+          <head>
+            <supplied>De subpositione et copulatione</supplied>
+          </head>
+          <p>
+            <pc type="#pilcrow"/>Subpositio est acceptio termini substantiui pro aliquo. Differunt
+            <lb ed="#T"/>autem subpositio et significatio, quia significatio est per impositionem uocis ad rem
+            <lb ed="#T"/>significandam. <pc type="#pilcrow"/>Subpositio uero est acceptio ipsius termini iam si<lb ed="#T"/>gnificantis
+            rem pro aliquo, ut cum dicitur <mentioned>homo currit</mentioned>, iste terminus <mentioned>homo</mentioned> subpo<lb ed="#T"/>nit
+            pro Socrate et pro Platone et sic de aliis. Quare significatio est prior
+            <lb ed="#T"/>subpositione, nec sunt eiusdem quia significare est uocis, subpositione uero
+            <lb ed="#T"/>termini iam quasi <unclear reason="damage">compositi</unclear> ex uoce et significatione. Ergo subpositio non est
+            <lb ed="#T"/>significatio.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Copulatio est adiectiua termini acceptio pro aliquo.
+          </p>
+        </div>
+
+        <div>
+          <head>
+            <supplied>De subpositionis diuisione</supplied>
+          </head>
+          <p>
+            <lb ed="#T"/><pc type="#pilcrow"/>Subpositionis alia est communis, alia est discreta. Subpositio co<lb ed="#T"/>mmunis
+            est que fit per terminum communem, ut <mentioned>homo</mentioned>. Subpositio dis<lb ed="#T"/>creta
+            est que fit per terminum discretum, ut <mentioned>Socrates</mentioned>, uel <mentioned>iste homo</mentioned>.
+          </p>
+          <p>
+            <lb ed="#T"/><pc type="#pilcrow"/>Item subpositionum communium alia est naturalis, alia accidentalis. Natura<lb ed="#T"/>lis
+            subpositio est acceptio termini communis pro omnibus a quibus est aptus
+            <lb ed="#T"/>natus participari, ut <mentioned>homo</mentioned> per se sumptus de natura sua subponit
+            <lb ed="#T"/>pro omnibus hominibus qui fuerunt, et pro omnibus qui sunt, et pro omnibus qui
+            <lb ed="#T"/>erunt.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Accidentalis autem subpositio est acceptio termini communis pro eis pro
+            <lb ed="#T"/>quibus exigit adiunctum, ut <mentioned>homo est</mentioned>. Iste terminus <mentioned>homo</mentioned> subponit pro presen<lb ed="#T"/>tibus.
+            Cum autem dicitur <mentioned>homo fuit</mentioned>, subponit pro preteritis. Cum uero dicitur
+            <lb ed="#T"/><mentioned>homo erit</mentioned>, subponit pro futuris. Et ita diuersas subpositiones secundum diuer<lb ed="#T"/>sitatem
+            eorum que ei adiunguntur.
+          </p>
+        </div>
+
+        <div>
+          <head>
+            <supplied>De subpositionis accidentalis diuisione</supplied>
+          </head>
+          <p>
+            <pc type="#pilcrow"/>Accidentalium subpositionum alia
+            <lb ed="#T"/>est simplex, alia particularis. Simplex subpositio est acceptio termini communis
+            <lb ed="#T"/>pro re uniuersali significata per ipsum, ut cum dicitur <mentioned>homo est species</mentioned> uel <mentioned>animal
+            <lb ed="#T"/>est genus</mentioned>, iste terminus <mentioned>homo</mentioned> subponit pro homine in communi, et non pro aliquo
+            <lb ed="#T"/>inferiorum, et iste terminus <mentioned>animal</mentioned> pro animali in communi, et non pro aliquo in<lb ed="#T"/>feriorum,
+            et similiter de quolibet nomen communi, ut <mentioned>risibile est proprium</mentioned>, <mentioned>rationale
+            <lb ed="#T"/>est differentia</mentioned>, <mentioned>album est accidens</mentioned>.
+          </p>
+        </div>
+
+        <div>
+          <head>
+            <supplied> De subpositione simplici</supplied>
+          </head>
+          <p>
+            <pc type="#pilcrow"/>Item subpositionum simpli<lb ed="#T"/>cium
+            alia est termini communis in subiecto positi, alia est termini communis positi
+            <lb ed="#T"/>a parte predicati affirmatiui, ut <mentioned>omnis homo est animal</mentioned>, iste terminus <mentioned>animal</mentioned> in predicato
+            <lb ed="#T"/>positus simplicem habet subpositionem. Alia est termini communis posi<lb ed="#T"/>ti
+            post dictionem exceptiuam, ut <mentioned>omne animal preter hominem est irrationale</mentioned>. Hic
+            <lb ed="#T"/>enim iste terminus <mentioned>hominem</mentioned> simplicem habet subpositionem. Vnde non sequitur <mentioned>omne
+            <lb ed="#T"/>animal preter hominem est irrationale; ergo omne animal preter hunc hominem</mentioned>; sed est
+            <lb ed="#T"/>ibi figura procedendo dictionis a simplici ad personalem. Similiter hic:
+            <pb ed="#T" n="7-v"/>
+            <cb ed="#T" n="a"/>
+            <lb ed="#T"/><mentioned>homo est species; ergo aliquis homo est species</mentioned>. Et hic: <mentioned>omnis <add place="above-line">homo</add> est animal,
+            <lb ed="#T"/>ergo omnis homo est hoc animal</mentioned>. In omnibus fit processus a simplici
+            <lb ed="#T"/>ad personalem.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Quod autem terminus in predicato positus simpliciter
+            <lb ed="#T"/>teneatur, patet cum dicitur <mentioned>omnium contrariorum eadem est disciplina</mentioned>.
+            <lb ed="#T"/>Nisi enim iste terminus <mentioned>disciplina</mentioned> simplicem haberet subpositionem falsa
+            <lb ed="#T"/>esset, quia nulla particularis disciplina est omnium contrariorum. <pc type="#pilcrow"/>Medi<lb ed="#T"/>cina
+            non est disciplina omnium contrariorum, sed solum sani et egri,
+            <lb ed="#T"/>et gramatica solum congrui et incongrui, et ita de aliis.
+          </p>
+        </div>
+
+        <div>
+          <head>
+            <supplied>De subpositione personali</supplied>
+          </head>
+          <p>
+            <pc type="#pilcrow"/>Personalis
+            <lb ed="#T"/>subpositio est acceptio termini communis per suis inferioribus, ut cum
+            <lb ed="#T"/>dicitur <mentioned>homo currit</mentioned>, iste terminus <mentioned>homo</mentioned> subponit pro suis inferioribus.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Item
+            <lb ed="#T"/>personalium subpositionum alia determinata, alia confusa.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Determinata subpositio
+            <lb ed="#T"/>est qua habet terminus communis indefinite sumptus, uel cum signo
+            <lb ed="#T"/>particulari, ut <mentioned>homo currit</mentioned>, uel <mentioned>aliquis homo currit</mentioned>, et dicitur utraque istarum determinata,
+            <lb ed="#T"/>quia licet in utraque iste terminus <mentioned>homo</mentioned> subponat pro omni homine, tamen
+            <lb ed="#T"/>uno homine currente uere sunt. Aliud enim est subpositione, et aiud reddere
+            <lb ed="#T"/><unclear>locutionem</unclear> ueram pro aliquo.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>In predictis enim iste terminus <mentioned>homo</mentioned> subponit pro
+            <lb ed="#T"/>omni homine tam currente quam non currente, sed reddit locutionem ueram
+            <lb ed="#T"/>pro currente tantum.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Quod autem utraque illarum sit determinata patet, quia
+            <lb ed="#T"/>cum dicitur <mentioned>animal est Plato, animal est Socrates et sic de aliis; ergo animal est
+            <lb ed="#T"/>omnis homo</mentioned>, hic est figura dictionis a pluribus determinatis ad unam,
+            <lb ed="#T"/>et ita terminus communis indefinite sumptus habet determinatam subpositionem,
+            <lb ed="#T"/>et similiter cum signo particulari.
+          </p>
+
+          <p>
+            <pc type="#pilcrow"/>Confusa subpositio est acceptio
+            <lb ed="#T"/>termini communis pro pluribus mediante signo uniuersali, ut cum dicitur
+            <lb ed="#T"/><mentioned>omnis homo est animal</mentioned>, iste terminus <mentioned>homo</mentioned> mediante signo uniuersali tenetur
+            <lb ed="#T"/>pro pluribus quia pro quolibet suo subposito.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Item confusarum subpo<lb ed="#T"/>sitionum,
+            <pc type="#pilcrow"/>alia est confusa neccessitate signi, uel modi; <pc type="#pilcrow"/>alia uero
+            <lb ed="#T"/>confusa neccessitate rei, ut cum dicitur <mentioned>omnis homo est animal</mentioned>, <pc type="#pilcrow"/>iste terminus
+            <lb ed="#T"/><mentioned>homo</mentioned> necessitate signi confunditur siue distribuitur pro quolibet
+            <lb ed="#T"/>suo subposito, et cum unusquisque homo suam habeat essentiam, ideo
+            <lb ed="#T"/>hoc uerbum <mentioned>est</mentioned> tenetur neccessitate rei pro tot essentiis pro quot
+            <lb ed="#T"/>hominibus homo. Et cum unicuique homini sua insit animalitas, ideo
+            <lb ed="#T"/>necessitate rei tenetur animal pro tot animalibus, pro quot hominibus
+            <lb ed="#T"/>homo, et pro quot essentiis hoc uerbum <mentioned>est</mentioned>. Vnde iste terminus homo dicitur
+            <lb ed="#T"/>confuse subpositione mobiliter et distributiue. Sed confuse et di<lb ed="#T"/>stributiue
+            subponit quia tenetur pro omni homine. <pc type="#pilcrow"/>Mobiliter quia licet
+            <lb ed="#T"/>
+              <choice>
+                <sic>decessum</sic>
+                <corr>decensum</corr>
+              </choice>fieri sub eo, ut <mentioned>omnis homo, ergo Socrates</mentioned>; uel <mentioned>omnis homo; ergo
+            <lb ed="#T"/>Plato</mentioned>. Sed iste terminus <mentioned>animal</mentioned> dicitur confundi immobiliter, quia non licet decensum
+            <lb ed="#T"/>fieri sub eo, ut <mentioned>omnis homo est animal; ergo omnis homo est hoc animal</mentioned>.
+            <lb ed="#T"/>Sed est in processus a simplici ad personalem, sicut hic: <mentioned>homo est dig<lb ed="#T"/>nissima
+            creaturarum; ergo aliquis homo</mentioned>, uel <mentioned>rosa est pulcherimus
+            <lb ed="#T"/>flos florum; ergo aliqua rosa</mentioned>. Sed in hoc differunt.
+          </p>
+        </div>
+
+        <div>
+          <head>
+            <supplied>Dubia</supplied>
+          </head>
+          <p>
+            <pc type="#pilcrow"/>Ne
+            <lb ed="#T"/>uideatur oppositum quod dictum est quod in hac <mentioned>omnis homo est
+            <lb ed="#T"/>animal</mentioned>, iste terminus animal in predicato positus habet simplicem sub<lb ed="#T"/>positionem
+            cum prius diceretur quod habeat confusam quia secundum quod genus
+            <cb ed="#T" n="b"/>
+            <lb ed="#T"/>predicatur ibi de specie, et iste terminus <mentioned>animal</mentioned> tenetur pro ipso communi
+            <lb ed="#T"/>quod est genus, sic habet simplicem subpositionem. Secundum autem quod ipsa natura
+            <lb ed="#T"/>communis ipsius generis multiplicatur per subposita hominis sic dicitur
+            <lb ed="#T"/>habere confusam non mobiliter, sed immobiliter.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Subpositio autem confusa
+            <lb ed="#T"/>mobiliter non potest in simul esse cum simplici, neque secundum idem, neque secundum
+            <lb ed="#T"/>diuersa, sed subpositio confusa imobiliter potest in simul esse cum simpli<lb ed="#T"/>ci
+            non secundum idem, sed secundum diuersa, ut dictum est.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Et sic oportet sol<lb ed="#T"/>uere
+            contrarietatem que apparebat sustinentibus quod terminus communis in
+            <lb ed="#T"/>predicato positus habet simplicem subpositionem, et confunderetur im<lb ed="#T"/>mobiliter
+            signo uniuersali affirmatiuo existente in subiecto, ut <mentioned>omnis
+            <lb ed="#T"/>homo est animal</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Sed ego credo impossibile esse terminum comunem in predicato
+            <lb ed="#T"/>positum confundi immobiliter, uel mobiliter signo uniuersali afirmatiuo
+            <lb ed="#T"/>posito in substantia, ut <mentioned>omnis homo est animal</mentioned>, et consimilibus, <pc type="#pilcrow"/>quia ut uult
+            <lb ed="#T"/><ref><name>Porphirius</name></ref>, omne quod de aliquo predicatur, aut est maius eo, aut equa<lb ed="#T"/>le
+            ipsi de quo predicatur. Et intendit de predicatione per se. <pc type="#pilcrow"/>Sed in
+            <lb ed="#T"/>hac <mentioned>omnis homo est animal</mentioned> est predicatio per se, et non predicatur equale;
+            <lb ed="#T"/>ergo predicatur maius, sed non accidentale, ergo substantiale, siue essentiale;
+            <lb ed="#T"/>ergo genus uel differentia; non differentia; ergo genus. Sed natura generis multiplicata
+            <lb ed="#T"/>mobiliter, uel immobiliter non est genus; ergo cum dicitur <mentioned>omnis homo est
+            <lb ed="#T"/>animal</mentioned>, cum ibi predicetur genus, non est possibile terminum commune multipli<lb ed="#T"/>cari
+            mobiliter, neque immobiliter qui significat natura generis, quia iam non esset
+            <lb ed="#T"/>genus, sicut si homo confunditur mobiliter uel immobiliter iam non
+            <lb ed="#T"/>est species.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Item hoc idem uidetur per <ref><name>Aristotelem</name> in <title>primo Topicorum</title></ref>,
+            <lb ed="#T"/>dicit enim quod necesse est omne quod de aliquo predicatur, aut conuersim
+            <lb ed="#T"/>predicari de eo, aut non. Si conuersim diffinitio est uel proprium;
+            <lb ed="#T"/>si autem non conuersim predicatur de re, aut cadit in diffinitione
+            <lb ed="#T"/>rei, aut non; si non, tunc est accidens; si cadit in diffinitione
+            <lb ed="#T"/>aut est genus, aut differentia. <pc type="#pilcrow"/>Et intendit ibi <ref><name>Aristoteles</name></ref> quod sit predi<lb ed="#T"/>catio
+            recta, et subiciatur species secundum se uel multiplicata.
+            <lb ed="#T"/>Sed in hac <mentioned>omnis homo est animal</mentioned> est predicatio recta, et subicitur <mentioned>homo</mentioned>,
+            <lb ed="#T"/>et non predicatur equale, uel accidens; ergo predicatur genus, uel differentia; sed non
+            <lb ed="#T"/>differentia; ergo genus, et sic reddit quod prius. <pc type="#pilcrow"/>Quare non est possibile terminum
+            <lb ed="#T"/>communem in predicato positum confundi neque mobiliter neque immobiliter.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Item
+            <lb ed="#T"/>totum uniuersale quod est genus, et totum in quantitate ex opposito se
+            <lb ed="#T"/>habent. Sed totum in quantitate dupliciter est, <pc type="#pilcrow"/>quia est quodam totum in quantitate
+            <lb ed="#T"/>completum, ut ubicumque confunditur terminus communis mobiliter, et est aliud totum
+            <lb ed="#T"/>in quantitatem incompletum, uel diminutum, ut ubicumque confunditur terminus
+            <lb ed="#T"/>communis immobiliter, quia si multiplicaretur terminus communis simpliciter, et simpliciter
+            <lb ed="#T"/>fit totum in quantitate; si quodammodo et quodammodo; ergo si impossibile est totum
+            <lb ed="#T"/>in quantitate esse genus inquantum huius, non est possibile terminum communem positum
+            <lb ed="#T"/>in predicato confundi ut dicebant.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Item comparatio illa secundum quam
+            <lb ed="#T"/>inferiora reducitur in suum superius opposita est illi comparationi
+            <lb ed="#T"/>secundum quam superius diuiditur in inferiora. Sed secundum primam sumitur commune
+            <lb ed="#T"/>in ratione communis, sic enim ipsum commune in se omnia continet que sub
+            <pb ed="#T" n="8-r"/>
+            <cb ed="#T" n="a"/>
+            <lb ed="#T"/>ipso sunt. Secundum alteram sumitur multipliciter siue confuse commune
+            <lb ed="#T"/>pro omnibus, siue pro quibusdam; ergo si genus stat per se in ratione communis
+            <lb ed="#T"/>non est possibile ipsum multiplicari in inquantum huius, et omnia ista
+            <lb ed="#T"/>concedimus.
+          </p>
+        </div>
+
+        <div>
+          <head>
+            <supplied>Solutio</supplied>
+          </head>
+          <p>
+            <pc type="#pilcrow"/>Causa uero propter quam mouentur facilis est ad sol<lb ed="#T"/>uendum.
+            Dicunt enim quod cum dicitur <mentioned>omnis homo est animal</mentioned>, cum unicuique homini
+            <lb ed="#T"/>respondeat sua essentia et sua animalitas eo quod non est possibile
+            <lb ed="#T"/>esse hominem quin sit animal; ergo iste terminus <mentioned>animal</mentioned> tenebitur pro
+            <lb ed="#T"/>tot animalibus pro quot hominibus iste terminus <mentioned>homo</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Dicimus enim quod in
+            <lb ed="#T"/>hoc argumento nulla est apparentia. <pc type="#pilcrow"/>Cum enim dico <mentioned>omnis
+            <lb ed="#T"/>homo est albus</mentioned>, uel <mentioned>omnis homo est niger</mentioned>, cum impossibile est esse homine quin
+            <lb ed="#T"/>sit animal, necesse est quod tot animalia, siue tot animalitates in<lb ed="#T"/>telligantur
+            in subiecto, quot sunt homines pro quibus tenetur iste terminus
+            <lb ed="#T"/><mentioned>homo</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Tamen fatuum est dicere quod multitudo illarum animalitatum sit
+            <lb ed="#T"/>ibi ex multiplicatione predicati, cum ibi predicetur <mentioned>album</mentioned>, uel
+            <lb ed="#T"/><mentioned>nigrum</mentioned>. <pc type="#pilcrow"/>Vnde dico quod quia <mentioned>homo</mentioned> constituitur logice loquendo non
+            <lb ed="#T"/>naturaliter ex <mentioned>animali</mentioned> et <mentioned>rationali</mentioned>; ideo est quod homo de se habet <mentioned>animal</mentioned>. Vnde cum mul<lb ed="#T"/>tiplicetur
+            in se <mentioned>homo</mentioned> habet multiplicationem illarum animalita<lb ed="#T"/>tum.
+            <pc type="#pilcrow"/>Cum dico <mentioned>omnis homo est albus</mentioned>, uel <mentioned>omnis homo est niger,</mentioned> et
+            <lb ed="#T"/>nullo modo habet has animalitates a predicato.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Similiter est in proposito
+            <lb ed="#T"/>cum predicatur genus, ut <mentioned>omnis homo est animal</mentioned>. <pc type="#pilcrow"/>In hac enim propositione subicitur <mentioned>homo</mentioned>
+            <lb ed="#T"/>in quo intelligitur multitudo illarum animalitatum, ut dictum est, et
+            <lb ed="#T"/>predicatur hoc genus <mentioned>animal</mentioned> quod nullo modo confunditur neque mobiliter, neque im<lb ed="#T"/>mobiliter;
+            sed stat ibi pro ipsa essentia generis que predicatur de pluribus.
+            <lb ed="#T"/>Vnde <mentioned>animal</mentioned> predicatur, et <mentioned>animal</mentioned> intelligitur in subiecto, sicut hic: <mentioned>omne animal rationale
+            <lb ed="#T"/>mortale est animal</mentioned>.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Similiter dico quod hoc uerbum <mentioned>est</mentioned> non confunditur neque
+            <lb ed="#T"/>mobiliter, neque immobiliter, quia quod animal esset, uel existeret in homine, hoc
+            <lb ed="#T"/>habebat ipsum subiectum de se ante quam in propositione subiceretur predicato
+            <lb ed="#T"/>accidentali uel essentiali.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Et per hoc destruimus quandam diuisionem antecedentem
+            <lb ed="#T"/>hanc, scilicet, subpositionum confusarum alia est confusa necessitate modi uel
+            <lb ed="#T"/>signi, alia uero necessitate rei. Dicimus quod omnis confusio
+            <lb ed="#T"/>est necessitate modi, sicut enim hic: <mentioned>omne animal rationale mortale est animal</mentioned>, iste terminus
+            <lb ed="#T"/><mentioned>animal</mentioned> tenetur uirtute signi pro omni eo animali quod est homo. Similiter et hic:
+            <lb ed="#T"/><mentioned>omnis homo est animal</mentioned>. Et iste terminus <mentioned>homo</mentioned> tenetur non solum pro omni homine, sed
+            <lb ed="#T"/>pro omni animali quod est homo. Et ideo est quod tot sunt ibi animalitates
+            <lb ed="#T"/>quot humanitates naturaliter loquendo, quia eadem humanitas est secundum
+            <lb ed="#T"/>uiam logices non nature in quolibet indiuiduo hominis, sicut homo in
+            <lb ed="#T"/><unclear>communi</unclear> idem. Vnde quod sit animalitas hec uel illa, hoc est ratione materie.
+            <lb ed="#T"/><pc type="#pilcrow"/>In uia enim nature humanitas mea per se alia est ab humanitate
+            <lb ed="#T"/>tua, sicut anima mea per quam est humanitas mea in me, alia
+            <lb ed="#T"/>est ab anima tua per quam causatur humanitas tua in te, et propter hoc
+            <lb ed="#T"/>signum, siue modus confundendo <mentioned>hominem</mentioned> non confundit <mentioned>animal</mentioned>, sed <mentioned>animal</mentioned> contrac<lb ed="#T"/>tum
+            ad <mentioned>hominem</mentioned> per suas differentias. Vnde omnis confusio est necessitate
+            <lb ed="#T"/>signi, uel modi.
+          </p>
+        </div>
       </div>
     </body>
   </text>

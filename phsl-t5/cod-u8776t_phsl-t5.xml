@@ -50,12 +50,12 @@
       </div>
     </front>
     <body>
-      <div xml:id="phsl-t1">
-        <div>
-          <head>
+      <div xml:id="phsl-t5">
+        <div xml:id="phsl-t5-Dd1e103">
+          <head xml:id="phsl-t5-Hd1e105">
             <supplied>De ratio multiplici</supplied>
           </head>
-          <p> <!--It begins in the end of f. 2A-vb -->
+          <p xml:id="phsl-t5-d1e111"> <!--It begins in the end of f. 2A-vb -->
             <!-- Since the text doesn't start on the first line of 2A-vb, we don't need these page break and column break milestones here
               they are indicated above in the "starts-on" div
               <pb ed="#T" n="2A-v"/>
@@ -64,36 +64,36 @@
             <lb ed="#T"/><unclear>descriptio</unclear>, ut hic: <mentioned>uniuoca dicuntur quorum nomen est commune
             <lb ed="#T"/>ratio substantie secundum illud nomen est eadem</mentioned> <!--This is a quote, but he doesn't say it is... Aristoteles, Categoriae, 1, 1a8-9-->
           </p>
-          <p>
+          <p xml:id="phsl-t5-d1e133">
             <pc type="#pilcrow"/>Alio autem modo idem est quod uir<lb ed="#T"/>tus
             anime.
           </p>
-          <p>
+          <p xml:id="phsl-t5-d1e140">
             <pc type="#pilcrow"/>Alio autem modo idem est quod propositio ostendens aliquid, sicut sunt
             <lb ed="#T"/>rationes disputantium.
           </p>
-          <p>
+          <p xml:id="phsl-t5-d1e147">
             <pc type="#pilcrow"/>Alio autem modo idem est quod forma materie, ut
             <lb ed="#T"/>in cultello ferrum est materia, dispositio sic inducta in
             <pb ed="#T" n="3r"/>
             <cb ed="#T" n="a"/>
             <lb ed="#T"/>ferrum est forma.
           </p>
-          <p>
+          <p xml:id="phsl-t5-d1e161">
             <pc type="#pilcrow"/>Alio autem modo idem est quod essen<lb ed="#T"/>tia
             communis predicabilis de pluribus, ut essentia speciei uel generis,
             <lb ed="#T"/>uel differentie.
           </p>
-          <p>
+          <p xml:id="phsl-t5-d1e170">
             <pc type="#pilcrow"/>Alio autem modo ratio idem est quod medium inferrens.
             <lb ed="#T"/>Hoc ultimo modo sumitur ratio in diffinitione argumenti sic.
           </p>
         </div>
-        <div>
-          <head>
+        <div xml:id="phsl-t5-Dd1e178">
+          <head xml:id="phsl-t5-Hd1e180">
             <supplied>Sequitur de argumento et argumentatione</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t5-d1e186">
             <lb ed="#T"/><pc type="#pilcrow"/>Argumentum est ratio rei dubie faciens fidem, id est, medium
             <lb ed="#T"/>probans conclusionem que debet confirmari per argumentum. Est enim
             <lb ed="#T"/>conclusio argumento, uel argumentis aprobata propositio. Sed ante<lb ed="#T"/>quam
@@ -101,7 +101,7 @@
             <lb ed="#T"/>enim diffinitur: questio est dubitalis propositio. Medium est quod
             <lb ed="#T"/>habet duo extrema.
           </p>
-          <p>
+          <p xml:id="phsl-t5-d1e205">
             <pc type="#pilcrow"/>Argumentatio est argumenti per
             <lb ed="#T"/>orationem explicatio, id est, oratio explicans argumentum. Di<lb ed="#T"/>ffert
             autem argumentum a medio et ab argumentatione, quia
@@ -110,7 +110,7 @@
             <lb ed="#T"/>hoc quod sit argumentum exigitur quod sit medium, et quod
             <lb ed="#T"/>habeat uirtutem per quam probet conclusionem.
           </p>
-          <p>
+          <p xml:id="phsl-t5-d1e223">
             <pc type="#pilcrow"/>Argumentatio autem dicitur
             <lb ed="#T"/>oratio totalis composita ex premissis et conclusionem, et in illa
             <lb ed="#T"/>manifestatur uirtus argumenti. Aliqua enim talis oratio potest
@@ -120,7 +120,7 @@
             cum ostenditur supra quam conclusionem potest et supra quam non potest,
             <lb ed="#T"/>quod fit in argumentatione ut superius ostensum est per rationes.
           </p>
-          <p>
+          <p xml:id="phsl-t5-d1e243">
             <pc type="#pilcrow"/>Ar<lb ed="#T"/>gumentationis
             autem IIII sunt species: sillogismus, <pc type="#pilcrow"/>inductio,
             <lb ed="#T"/>entimema, exemplum. Diffinitio sillogismi dicta est prius. Ind<lb ed="#T"/>uctio
@@ -128,16 +128,16 @@
             <lb ed="#T"/>uniuersalem. Vt: <mentioned>Socrates currit; Plato currit; <gap extent="3" unit="characters"/> currit; et sic de singulis;
             <lb ed="#T"/>ergo omnis homo currit</mentioned>.
           </p>
-          <p>
+          <p xml:id="phsl-t5-d1e267">
             <lb ed="#T"/><pc type="#pilcrow"/>Entimema est <unclear reason="damage">sillogismus imperfectus uel oratio</unclear>
             <lb ed="#T"/>in qua non omnibus antepositis propositionibus infertur conclusio fe<lb ed="#T"/>stinata.
             Vt: <mentioned>omne animal currit; ergo omnis homo currit</mentioned>. In hac enim
             <lb ed="#T"/>dicta argumentatione intelligitur hec propositio, scilicet, <mentioned>omnis homo est animal</mentioned>,
             <lb ed="#T"/>et non apponitur ibi que si apponent prefectus esset sillogismus.
           </p>
-          <p>
+          <p xml:id="phsl-t5-d1e291">
             <pc type="#pilcrow"/>Sic
-            <lb ed="#T"/>diffinit <ref><name>Aristoteles</name></ref> entimema: <pc type="#pilcrow"/>entimema est ex <mentioned>yco<lb ed="#T"/>tibus</mentioned>
+            <lb ed="#T"/>diffinit <ref xml:id="phsl-t5-Rd1e297"><name>Aristoteles</name></ref> entimema: <pc type="#pilcrow"/>entimema est ex <mentioned>yco<lb ed="#T"/>tibus</mentioned>
             ex et <mentioned>signis</mentioned>. <mentioned>Ycos</mentioned> autem idem est quod propositio
             <choice>
               <sic>de materia</sic>
@@ -145,7 +145,7 @@
             </choice>, uel
             <lb ed="#T"/>necessaria uel probabilis, et hoc est inferendo.
           </p>
-          <p>
+          <p xml:id="phsl-t5-d1e327">
             <pc type="#pilcrow"/>Signum autem secundum quod hic
             <lb ed="#T"/>sumitur <unclear reason="damage">dicit necessitatem</unclear> illationis. <mentioned>Ycos</mentioned> autem dicit probabilitatem
             <lb ed="#T"/>propositionis in se, secundum quam probabilitatem <unclear>materie</unclear> propositio est uera. Vnde
@@ -153,13 +153,13 @@
             <lb ed="#T"/>Vnde secundum quod propositio infferens apparet omnibus esse uera, in pluri<lb ed="#T"/>bus
             <lb ed="#T"/>sic est probabilis, ut quilibet diligit diligentem se.
           </p>
-          <p>
+          <p xml:id="phsl-t5-d1e354">
             <pc type="#pilcrow"/>Secundum
             <lb ed="#T"/>autem quod illa propositio eadem dicit necessitate et infert conclusionem, uero
             <lb ed="#T"/>est signum, et sic eadem propositio est <mentioned>ycos</mentioned> et <mentioned>signum</mentioned>, et hoc secundum aliud et
             <lb ed="#T"/>aliud.
           </p>
-          <p>
+          <p xml:id="phsl-t5-d1e372">
             <pc type="#pilcrow"/>Siquis obiciat quod oportet diffiniri sic: <pc type="#pilcrow"/>entimema
             <lb ed="#T"/>est ex <mentioned>ycote</mentioned> et <mentioned>signo</mentioned> cum non sit nisi propositio ista inferens que
             <cb ed="#T" n="b"/>
@@ -170,14 +170,14 @@
             <lb ed="#T"/>ideo dicit in plurali ex <mentioned>ycotibus</mentioned>, et non ex <mentioned>ycote</mentioned>, et similiter ex
             <lb ed="#T"/><mentioned>signis</mentioned>, et non ex <mentioned>signo</mentioned>.
           </p>
-          <p>
+          <p xml:id="phsl-t5-d1e423">
             <pc type="#pilcrow"/>Sciendum autem quod omne enthi<lb ed="#T"/>mema
             debet reduci ad sillogismum; ergo in quolibet enthimemate
             <lb ed="#T"/>sunt tres termini sicut in sillogismo quorum terminorum duo ponuntur in
             <lb ed="#T"/>conclusione, et sunt extremitates, alius autem est medium, et me<lb ed="#T"/>dium
             nunquam ponitur in conclusione.
           </p>
-          <p>
+          <p xml:id="phsl-t5-d1e437">
             <pc type="#pilcrow"/>Illarum autem extremitatum altera
             <lb ed="#T"/>sumpta est bis in enthimemate, altera semel, ex altera ex<lb ed="#T"/>tremitate
             sumpta semel, et ex medio debet fieri propositio una
@@ -187,7 +187,7 @@
             <lb ed="#T"/>ipsa et medio fiet propositio una <gap extent="2" unit="characters"/> et tunc completus est sillogismus
             <lb ed="#T"/>sic: <mentioned>omne animal currit; omnis homo est animal; ergo omnis homo currit</mentioned>.
           </p>
-          <p>
+          <p xml:id="phsl-t5-d1e477">
             <pc type="#pilcrow"/>Exemplum
             <lb ed="#T"/>est quando per <gap extent="5" unit="characters"/> particulare probatur aliud particulare. Et hoc per <unclear>aliquid</unclear> simile
             <lb ed="#T"/>repertum in ipsis. Vt: <mentioned>legionenses contra astoricenses pug<lb ed="#T"/>nare
@@ -196,16 +196,16 @@
             <lb ed="#T"/>affines.
           </p>
         </div>
-        <div>
-          <head>
+        <div xml:id="phsl-t5-Dd1e502">
+          <head xml:id="phsl-t5-Hd1e504">
             <supplied>De loco in generali</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t5-d1e510">
             <pc type="#pilcrow"/>Argumentum autem per locum confirmatur. Vnde danda est
             <lb ed="#T"/>diffinitio loci pro ut hic sumitur, est enim locus sedes argumenti
             <lb ed="#T"/>uel unde ad propositam questionem conueniens trahitur argumentum.
           </p>
-          <p>
+          <p xml:id="phsl-t5-d1e519">
             <lb ed="#T"/><pc type="#pilcrow"/>Quid sit questio dictum est prius. <pc type="#pilcrow"/>Sciendum tamen quod propositio et questio
             <choice>
               <sic>et et</sic>
@@ -218,13 +218,13 @@
             <lb ed="#T"/>est conclusio. Secundum autem quod ponitur pro alio in premissis est propositio.
             <lb ed="#T"/>Vnde propositio dicitur secundum quod est in premissis ad probandam conclusionem.
           </p>
-          <p>
+          <p xml:id="phsl-t5-d1e555">
             <lb ed="#T"/><pc type="#pilcrow"/>Locus diuiditur in locum maximam et in locum differentiam maxime.
             <lb ed="#T"/>Locus maxima idem est quod maxima ipsa. <pc type="#pilcrow"/>Maxima est propositio qua
             <lb ed="#T"/>altera non est prior, id est, notior, ut: <mentioned>omne totum est maius sua par<lb ed="#T"/>te</mentioned>,
             <mentioned>de quocumque diffinitio et diffinitum</mentioned>, <mentioned>de quocumque predicatur species et genus</mentioned>.
           </p>
-          <p>
+          <p xml:id="phsl-t5-d1e579">
             <lb ed="#T"/><pc type="#pilcrow"/>Locus differentia maxime est illud quo una maxima differt ab
             <lb ed="#T"/>alia. Verbi gratia, iste maxime – <mentioned>de quocumque species et genus</mentioned>, <mentioned>de quocumque
             <lb ed="#T"/>diffinitio et diffinitum</mentioned> – differunt per terminos ex quibus componuntur.
@@ -236,21 +236,21 @@
             fir<pb ed="#T" n="3-v"/><cb ed="#T" n="a"/><lb ed="#T"/>mitudinem rebus naturalibus et conseruat eas inesse,
             <lb ed="#T"/>similiter hic locus conseruat argumentum.
           </p>
-          <p>
+          <p xml:id="phsl-t5-d1e623">
             <pc type="#pilcrow"/>Locus differentia maxime
             <lb ed="#T"/>diuiditur per locum intrinsecum, et extrinsecum, et medium.
           </p>
-          <p>
+          <p xml:id="phsl-t5-d1e630">
             <lb ed="#T"/><pc type="#pilcrow"/>Locus intrinsecus est quando sumitur argumentum ab eis que sunt de
             <lb ed="#T"/>substantia rei, ut a diffinitione.
           </p>
-          <p>
+          <p xml:id="phsl-t5-d1e638">
             <pc type="#pilcrow"/>Locus extrinsecus est quando sumitur
             <lb ed="#T"/>argumentum ab eis que sunt omnino separata a substantia rei, ut ab op<lb ed="#T"/>positis,
             ut si queratur utrum Socrates sit albus, et terminetur sic:
             <lb ed="#T"/><mentioned>Socrates est niger; non ergo est albus</mentioned>.
           </p>
-          <p>
+          <p xml:id="phsl-t5-d1e651">
             <pc type="#pilcrow"/>Locus medius est quando sumitur argumentum ab hiis que partim conueniunt cum terminis in questio<lb ed="#T"/>ne
             positis, partim differunt ab eis, sicut in uniuoco et
             <lb ed="#T"/>denominatiuo, que dicuntur coniungata, ut si queratur utrum iust<lb ed="#T"/>icia
@@ -259,29 +259,29 @@
           <!-- MARIO: is this supposed to be a child de loco in generali or a sibling. If it is a child, then it is correct;
             if it is a sibling, then the above <div> needs to close first. JEFF: This is a child. The idea is that he first says some general
           remarks on topical arguments and then he starts dividing them. So, it is better to look at them as children... -->
-          <div>
-            <head>
+          <div xml:id="phsl-t5-Dd1e669">
+            <head xml:id="phsl-t5-Hd1e671">
               <supplied>De locis intrinsecis</supplied>
             </head>
-            <p>
+            <p xml:id="phsl-t5-d1e677">
               <pc type="#pilcrow"/>Item locus intrinsecus diuiditur per locum a substantia et
               <lb ed="#T"/>per locum a concomitantibus substantiam.
             </p>
-            <div>
-              <head>
+            <div xml:id="phsl-t5-Dd1e684">
+              <head xml:id="phsl-t5-Hd1e686">
                 <supplied>Sequitur de loco a substantia</supplied>
               </head>
-              <p>
+              <p xml:id="phsl-t5-d1e692">
                 <pc type="#pilcrow"/>Locus a substantia est quando
                 <lb ed="#T"/>sumitur argumentum a substantia terminorum positorum in questione. Et diui<lb ed="#T"/>ditur
                 hic locus per locum a diffinitione, et locum a descriptione, et
                 <lb ed="#T"/>locum a nominis interpretatione.
               </p>
-              <div>
-                <head>
+              <div xml:id="phsl-t5-Dd1e703">
+                <head xml:id="phsl-t5-Hd1e705">
                   Sequitur de diffinitione
                 </head>
-                <p>
+                <p xml:id="phsl-t5-d1e708">
                   <lb ed="#T"/><pc type="#pilcrow"/>Diffinitio est oratio quid est esse rei significans. <pc type="#pilcrow"/>Locus
                   <lb ed="#T"/>a diffinitione est habitudo diffinitionis a diffinitum,
                   <lb ed="#T"/>et continet IIII argumenta et IIII maximas. Prius <unclear reason="damage">subici<lb ed="#T"/>endo</unclear>
@@ -289,55 +289,55 @@
                   <lb ed="#T"/><pc type="#pilcrow"/>Tertio subiciendo eam negatiue. Quarto predicando eam
                   <lb ed="#T"/>negatiue.
                 </p>
-                <p>
+                <p xml:id="phsl-t5-d1e731">
                   Exempla horum omnium sunt hec: <mentioned>Animal rationale mortale currit;
                   <lb ed="#T"/>ergo homo currit</mentioned>. Vnde locus, a diffinitione. Maxima: <!--Rule--> quicquid predicatur de
                   <lb ed="#T"/>diffinitione et de diffinito.
                 </p>
-                <p>
+                <p xml:id="phsl-t5-d1e743">
                   <mentioned>Socrates est animal rationale mortale; ergo Socrates est homo</mentioned>.
                   <lb ed="#T"/>Vnde locus, a diffinitione. Maxima: <!--Rule--> de quocumque predicatur diffinitio et diffi<lb ed="#T"/>nitum.
                 </p>
-                <p>
+                <p xml:id="phsl-t5-d1e755">
                   <mentioned>Animal rationale mortale non currit; ergo homo non currit</mentioned>. Vnde locus, a
                   <lb ed="#T"/>diffinitione. Maxima: <!--Rule--> <pc type="#pilcrow"/>quicquid remouetur a diffinitione, et a diffinito.
                 </p>
-                <p>
+                <p xml:id="phsl-t5-d1e768">
                   <lb ed="#T"/><pc type="#pilcrow"/> <mentioned>Lapis non est animal rationale mortale; ergo lapis non est homo</mentioned>. Vnde locus, a
                   <lb ed="#T"/>diffinitione. Maxima: <!--Rule-->a quocumque remouetur diffinitio et diffinitum.
                 </p>
               </div>
-              <div>
-                <head>
+              <div xml:id="phsl-t5-Dd1e782">
+                <head xml:id="phsl-t5-Hd1e784">
                   <supplied>Sequitur de diffinito</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t5-d1e790">
                   <pc type="#pilcrow"/>Lo<lb ed="#T"/>cus
                   a diffinito est habitudo diffiniti ad diffinitione. Et
                   <lb ed="#T"/>continet ut supra IIII maximas, et IIII argumenta.
                 </p>
-                <p>
+                <p xml:id="phsl-t5-d1e799">
                   Primo
                   <lb ed="#T"/>subiciendo sic diffinitum affirmatiue, ut <mentioned>homo currit; ergo animal rationale mortale
                   <lb ed="#T"/>currit</mentioned>. Locus a diffinito. Maxima: <!--Rule.. and everytime "Maxima" appears-->quicquid predicatur de diffinito,
                   <lb ed="#T"/>et de diffinitione.
                 </p>
-                <p>
+                <p xml:id="phsl-t5-d1e813">
                   <pc type="#pilcrow"/>Secundo sic predicando: <mentioned>Socrates est homo; ergo Socrates
                   <lb ed="#T"/>est animal rationale mortale</mentioned>. <pc type="#pilcrow"/>Locus a diffinito. Maxima: de quocumque
                   <lb ed="#T"/>predicatur diffinitum et diffinitio.
                 </p>
-                <p>
+                <p xml:id="phsl-t5-d1e827">
                   <pc type="#pilcrow"/>Tercio subiciendo eum ne<lb ed="#T"/>gatiue
                   sic: <mentioned>homo non currit; ergo animal rationale mortale non currit</mentioned>. <pc type="#pilcrow"/>Locus a
                   <lb ed="#T"/>diffinito. Maxima: quicquid remouetur a diffinito et a diffinitione.
                 </p>
-                <p>
+                <p xml:id="phsl-t5-d1e842">
                   <lb ed="#T"/><pc type="#pilcrow"/>Quarto predicando eum sic: <pc type="#pilcrow"/> <mentioned>lapis non est homo; ergo lapis
                   <lb ed="#T"/>non est animal rationale mortale</mentioned>. <pc type="#pilcrow"/>Locus a diffinito. <pc type="#pilcrow"/>Maxima: a quocum<lb ed="#T"/>que
                   remouetur diffinitum et diffinitio.
                 </p>
-                <p>
+                <p xml:id="phsl-t5-d1e862">
                   <pc type="#pilcrow"/>Et sciendum quod in omnibus
                   <lb ed="#T"/>istis locis denominatur locus ab infferente, et non ab ill<lb ed="#T"/>ato,
                   ut quando diffinitio est infferens, est locus a
@@ -346,16 +346,16 @@
                   <lb ed="#T"/>et non ab illato.
                 </p>
               </div>
-              <div>
-                <head>
+              <div xml:id="phsl-t5-Dd1e880">
+                <head xml:id="phsl-t5-Hd1e882">
                   Sequitur de descriptione
                 </head>
-                <p>
+                <p xml:id="phsl-t5-d1e885">
                   <lb ed="#T"/><pc type="#pilcrow"/>Descriptio est oratio significans esse rei per accidentalia,
                   <lb ed="#T"/>ut <mentioned>animal risibile</mentioned> est descriptio hominis. Vel sic: descriptio est
                   <lb ed="#T"/>oratio constans ex genere et proprio, ut <mentioned>animal risibile</mentioned>.
                 </p>
-                <p>
+                <p xml:id="phsl-t5-d1e901">
                   <pc type="#pilcrow"/>Locus a de<lb ed="#T"/>scriptione
                   est habitudo descriptionis ad descriptum, et continet qua<lb ed="#T"/>tuor
                   argumenta, et IIII maximas sicut locus a diffinitione. Et forman<lb ed="#T"/>tur
@@ -363,18 +363,18 @@
                   ponitur hic descriptio.
                 </p>
               </div>
-              <div>
-                <head>
+              <div xml:id="phsl-t5-Dd1e916">
+                <head xml:id="phsl-t5-Hd1e918">
                   Sequitur de interpretatione
                 </head>
-                <p>
+                <p xml:id="phsl-t5-d1e921">
                   <lb ed="#T"/><pc type="#pilcrow"/>Interpretatio est duplex. Quedam est que non conuertitur, ut <mentioned>ledens
                   <lb ed="#T"/>pedem</mentioned> est interpretatio huius quod dico <mentioned>lapis</mentioned>. Alia autem est que
                   <lb ed="#T"/>conuertitur, ut <mentioned>amator sapientie</mentioned> est interpretatio huius quod dico
                   <lb ed="#T"/><mentioned>philosophus</mentioned>. Et hoc modo sumitur hic, et diffinitur sic: interpretatio
                   <lb ed="#T"/>est diffinitio uel expositio unius nominis per aliud.
                 </p>
-                <p>
+                <p xml:id="phsl-t5-d1e947">
                   <pc type="#pilcrow"/>Locus a nominis
                   <lb ed="#T"/>interpretatione est habitudo interpretationis ad interpretatum, et conti<lb ed="#T"/>net
                   tot argumenta et tot maximas sicut predicta. Vt: <mentioned>ama<lb ed="#T"/>tor
@@ -388,32 +388,32 @@
                 </p>
               </div>
             </div>
-            <div>
-              <head>
+            <div xml:id="phsl-t5-Dd1e984">
+              <head xml:id="phsl-t5-Hd1e986">
                 <supplied>Sequitur de loco a concomitantibus substantiam</supplied>
               </head>
-              <p>
+              <p xml:id="phsl-t5-d1e992">
                 <lb ed="#T"/><pc type="#pilcrow"/>Sequitur de loco a concomitantibus substantiam qui est quando
                 <lb ed="#T"/>sumitur argumentum ab eis que consequuntur terminos positos in questione.
                 <lb ed="#T"/>Et diuiditur quia alius locus a toto, alius a parte, alius a causa,
                 <lb ed="#T"/>alius a generatione, alius a corruptione, alius ab usibus,
                 <lb ed="#T"/>alius a communiter accidentibus.
               </p>
-              <div>
-                <head>
+              <div xml:id="phsl-t5-Dd1e1006">
+                <head xml:id="phsl-t5-Hd1e1008">
                   <supplied>Sequitur de loco a toto</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t5-d1e1014">
                   <pc type="#pilcrow"/>Locus a toto diuiditur sicut totum.
                   <lb ed="#T"/>Est enim quodam totum uniuersale, aliud integrale, aliud est totum in quan<lb ed="#T"/>titate,
                   aliud in modo, aliud in loco, aliud in tempore, et sic diuiditur
                   <lb ed="#T"/>locus a toto.
                 </p>
-                <div>
-                  <head>
+                <div xml:id="phsl-t5-Dd1e1025">
+                  <head xml:id="phsl-t5-Hd1e1027">
                     <supplied>Sequitur de loco a toto uniuersali siue a genere</supplied>
                   </head>
-                  <p>
+                  <p xml:id="phsl-t5-d1e1033">
                     <pc type="#pilcrow"/>Totum uniuersale est ut hic sumitur superius
                     <lb ed="#T"/>et substantiale, sicut in linea predicamentali.  <pc type="#pilcrow"/>Pars subiectiua
                     <lb ed="#T"/>est que est inferius sub uniuersali. <pc type="#pilcrow"/>Locus a toto uniuersali, si<lb ed="#T"/>ue
@@ -423,11 +423,11 @@
                     <lb ed="#T"/>uniuersali, remouetur species, siue pars subiectiua.
                   </p>
                 </div>
-                <div>
-                  <head>
+                <div xml:id="phsl-t5-Dd1e1059">
+                  <head xml:id="phsl-t5-Hd1e1061">
                     <supplied>Sequitur de loco a specie siue a parte subiectiua</supplied>
                   </head>
-                  <p>
+                  <p xml:id="phsl-t5-d1e1067">
                     <pc type="#pilcrow"/>Locus a specie siue
                     <lb ed="#T"/>a parte subiectiua est habitudo ipsius ad suum genus, siue ad suum
                     <lb ed="#T"/>totum, et est semper constructiuus. Et continet duo argumenta. Primo subi<lb ed="#T"/>ciendo
@@ -437,11 +437,11 @@
                     <lb ed="#T"/>species et genus.
                   </p>
                 </div>
-                <div>
-                  <head>
+                <div xml:id="phsl-t5-Dd1e1094">
+                  <head xml:id="phsl-t5-Hd1e1096">
                     <supplied>Sequitur de loco a parte integrali</supplied>
                   </head>
-                  <p>
+                  <p xml:id="phsl-t5-d1e1102">
                     <pc type="#pilcrow"/>Totum integrale est quod est compositum
                     <pb ed="#T" n="4-r"/>
                     <cb ed="#T" n="a"/>
@@ -451,18 +451,18 @@
                     Maxima: posito toto integrali, ponitur quelibet eius
                     <lb ed="#T"/>pars.
                   </p>
-                  <p>
+                  <p xml:id="phsl-t5-d1e1126">
                     <pc type="#pilcrow"/>Locus a parte integrali est habitudo ipsius ad suum
                     <lb ed="#T"/>totum, et est destructiuus, ut <mentioned>paries non est; ergo domus non est</mentioned>. Lo<lb ed="#T"/>cus
                     a parte integrali. Maxima: destructa parte integrali,
                     <lb ed="#T"/>destruitur et suum totum.
                   </p>
                 </div>
-                <div>
-                  <head>
+                <div xml:id="phsl-t5-Dd1e1142">
+                  <head xml:id="phsl-t5-Hd1e1144">
                     Sequitur de loco a toto in quantitate
                   </head>
-                  <p>
+                  <p xml:id="phsl-t5-d1e1147">
                     <lb ed="#T"/>Totum in quantitate est quando uniuersale sumitur uniuersaliter, ut
                     <lb ed="#T"/><mentioned>omnis homo</mentioned>, <mentioned>nullus homo</mentioned>. <pc type="#pilcrow"/>Locus a toto in quantitate est
                     <lb ed="#T"/>habitudo ipsius ad suam partem, et est destructiuus, et constructiuus. Vt:
@@ -473,7 +473,7 @@
                     <lb ed="#T"/>a toto in quantitate, et a qualibet eius parte; uel si uniuersalis est
                     <lb ed="#T"/>uera; quelibet singularis est uera.
                   </p>
-                  <p>
+                  <p xml:id="phsl-t5-d1e1184">
                     <pc type="#pilcrow"/>Locus a parte in quantitate
                     <lb ed="#T"/>est habitudo ipsius ad suum totum, et est constructiuus et destructiuus. Vt:
                     <lb ed="#T"/><mentioned>Socrates currit, Plato currit, et sic de singulis; ergo omnis homo currit</mentioned>. Locus
@@ -485,11 +485,11 @@
                     <lb ed="#T"/>singularis est uera, sua uniuersalis est uera.
                   </p>
                 </div>
-                <div>
-                  <head>
+                <div xml:id="phsl-t5-Dd1e1212">
+                  <head xml:id="phsl-t5-Hd1e1214">
                     <supplied>Sequitur de loco a toto in modo</supplied>
                   </head>
-                  <p>
+                  <p xml:id="phsl-t5-d1e1220">
                     <pc type="#pilcrow"/>Pars in modo
                     <lb ed="#T"/>est uniuersale sumptum cum determinatione non diminuente, ut <mentioned>homo
                     <lb ed="#T"/>albus</mentioned>. <pc type="#pilcrow"/>Totum in modo est uniuersale ipsum sumptum sine determina<lb ed="#T"/>tione,
@@ -498,11 +498,11 @@
                     <lb ed="#T"/>relinquantur.
                   </p>
                 </div>
-                <div>
-                  <head>
+                <div xml:id="phsl-t5-Dd1e1242">
+                  <head xml:id="phsl-t5-Hd1e1244">
                     <supplied>Sequitur de loco a toto in loco</supplied>
                   </head>
-                  <p>
+                  <p xml:id="phsl-t5-d1e1250">
                     <pc type="#pilcrow"/>Totum in loco est dictio comprehendens omnem locum
                     <lb ed="#T"/>aduerbialiter, ut <mentioned>ubique</mentioned>. <pc type="#pilcrow"/>Locus a toto in loco est habitudo
                     <lb ed="#T"/>ipsius ad suam partem, et est constructiuus et destructiuus. Vt: <mentioned>Deus est
@@ -511,18 +511,18 @@
                     <lb ed="#T"/>et quelibet eius pars; uel quicquid remouetur a toto in loco, et a
                     <lb ed="#T"/>qualibet eius parte.
                   </p>
-                  <p>
+                  <p xml:id="phsl-t5-d1e1279">
                     <pc type="#pilcrow"/>Pars in loco est dictio comprehendens unum
                     <lb ed="#T"/>locum aduerbialiter, ut <mentioned>hic</mentioned>, uel <mentioned>ibi</mentioned>. <pc type="#pilcrow"/>Locus a parte in loco
                     <lb ed="#T"/>est habitudo ipsius ad suum totum, ut <mentioned>Cesar non est hic; ergo non
                     <lb ed="#T"/>est ubique</mentioned>. Maxima: <unclear reason="damage">cuicumque</unclear> pars in loco, nec enim totum.
                   </p>
                 </div>
-                <div>
-                  <head>
+                <div xml:id="phsl-t5-Dd1e1306">
+                  <head xml:id="phsl-t5-Hd1e1308">
                     <supplied>Sequitur de loco a toto in tempore</supplied>
                   </head>
-                  <p>
+                  <p xml:id="phsl-t5-d1e1314">
                     <lb ed="#T"/><pc type="#pilcrow"/>Totum in tempore est dictio comprehendens omne tempus aduerbi<lb ed="#T"/>aliter,
                     ut <mentioned>semper</mentioned>, <mentioned>nunquam</mentioned>. <pc type="#pilcrow"/>Pars in tempore est dictio comprehendens
                     <lb ed="#T"/>aliquod tempus aduerbialiter, ut <mentioned>nunc</mentioned>, <mentioned>tunc</mentioned>, <mentioned>hodie</mentioned>, <mentioned>heri</mentioned>. Exempla
@@ -530,20 +530,20 @@
                   </p>
                 </div>
               </div>
-              <div>
-                <head>
+              <div xml:id="phsl-t5-Dd1e1349">
+                <head xml:id="phsl-t5-Hd1e1351">
                   Sequitur de causa
                 </head>
-                <p>
+                <p xml:id="phsl-t5-d1e1354">
                   <lb ed="#T"/><pc type="#pilcrow"/>Causa est <add place="above-line">ad</add> cuius esse sequitur aliud secundum naturam, et diuiditur
                   <cb ed="#T" n="b"/>
                   <lb ed="#T"/>in causam efficientem, materialem, formalem et finalem.
                 </p>
-                <div>
-                  <head>
+                <div xml:id="phsl-t5-Dd1e1367">
+                  <head xml:id="phsl-t5-Hd1e1369">
                     <supplied>Sequitur de causa efficiente</supplied>
                   </head>
-                  <p>
+                  <p xml:id="phsl-t5-d1e1375">
                     <lb ed="#T"/><pc type="#pilcrow"/>Causa efficiens est a quo prius est motus, ut domifi<lb ed="#T"/>cator
                     principium est mouens, et operans, ut domus sit, et faber
                     <lb ed="#T"/>ut cultellus sit. <pc type="#pilcrow"/>Locus a causa efficiente est habitudo ipsius
@@ -556,11 +556,11 @@
                     ab effectu cause efficientis.
                   </p>
                 </div>
-                <div>
-                  <head>
+                <div xml:id="phsl-t5-Dd1e1416">
+                  <head xml:id="phsl-t5-Hd1e1418">
                     <supplied>Sequitur de causa materiali</supplied>
                   </head>
-                  <p>
+                  <p xml:id="phsl-t5-d1e1424">
                     <pc type="#pilcrow"/>Materia est ex qua
                     <lb ed="#T"/>omne alio fit aliquid, et est duplex: quedam enim est permanens ut in cul<lb ed="#T"/>tello
                     ferrum; alia transiens, ut in pane farina,
@@ -573,39 +573,39 @@
                     <lb ed="#T"/><pc type="#pilcrow"/>Locus a causa materiali. Maxima: remota causa materiali permanente
                     <lb ed="#T"/>remouetur eius effectus.
                   </p>
-                  <p>
+                  <p xml:id="phsl-t5-d1e1466">
                     <pc type="#pilcrow"/>Ab effectu sic, et est constructiuus: <mentioned>arma fe<lb ed="#T"/>rrea
                     sunt; ergo ferrum est</mentioned>. Maxima: posito effectu cause materialis
                     <lb ed="#T"/>permanentis ponitur materia permanens.
                   </p>
-                  <p>
+                  <p xml:id="phsl-t5-d1e1478">
                     <pc type="#pilcrow"/>Ab effectu materie transe<lb ed="#T"/>untis
                     sic: <mentioned>vitrum uel panis est; ergo filix uel farina</mentioned>.
                     <lb ed="#T"/>Materia enim transiens non manet sed transubstantiatur in aliam materiam.
                     <lb ed="#T"/>Maxima: posito effectu materie <unclear>transeuntis</unclear> necesse est ipsam prefui<lb ed="#T"/>sse.
                   </p>
                 </div>
-                <div>
-                  <head>
+                <div xml:id="phsl-t5-Dd1e1499">
+                  <head xml:id="phsl-t5-Hd1e1501">
                     <supplied>Sequitur de loco a causa formali</supplied>
                   </head>
-                  <p>
+                  <p xml:id="phsl-t5-d1e1507">
                     <pc type="#pilcrow"/>Forma est que dat esse rei, et conseruat ipsam in esse.
                     <lb ed="#T"/><pc type="#pilcrow"/>Locus a causa formali, est habitudo ipsius ad suum effectum, ut <mentioned>al<lb ed="#T"/>bedo
                     est; ergo album est</mentioned>. <pc type="#pilcrow"/>Locus a causa formali. Maxima: posita causa for<lb ed="#T"/>mali,
                     ponitur eius effectus.
                   </p>
-                  <p>
+                  <p xml:id="phsl-t5-d1e1524">
                     <pc type="#pilcrow"/>Destructiue sic: <mentioned>albedo non
                     <lb ed="#T"/>est; ergo album non est</mentioned>. <pc type="#pilcrow"/>Locus a causa formali. Maxima: remota forma,
                     <lb ed="#T"/>remouetur eius effectus. Econuerso autem est locus ab effectu ipsius.
                   </p>
                 </div>
-                <div>
-                  <head>
+                <div xml:id="phsl-t5-Dd1e1540">
+                  <head xml:id="phsl-t5-Hd1e1542">
                     <supplied>Sequitur de loco a causa finali</supplied>
                   </head>
-                  <p>
+                  <p xml:id="phsl-t5-d1e1548">
                     <pc type="#pilcrow"/>Finis
                     <lb ed="#T"/>est cuius gratia fit aliquid. <pc type="#pilcrow"/>Locus a causa finali est habitudo ipsius
                     <lb ed="#T"/>ad suum effectum, ut <mentioned>beatitudo est bona; ergo uirtus est
@@ -616,11 +616,11 @@
                   </p>
                 </div>
               </div>
-              <div>
-                <head>
+              <div xml:id="phsl-t5-Dd1e1580">
+                <head xml:id="phsl-t5-Hd1e1582">
                   <supplied>Sequitur de loco a generatione</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t5-d1e1588">
                   <lb ed="#T"/><pc type="#pilcrow"/>Generatio est progressus a non esse ad esse. <pc type="#pilcrow"/>Locus a generatio<lb ed="#T"/>ne
                   est habitudo ipsius generationis ad generatum, ut <mentioned>generatio do<lb ed="#T"/>mus
                   est bona; ergo domus est bona</mentioned>. Maxima: cuius generatio
@@ -629,11 +629,11 @@
                   <lb ed="#T"/>et si generatum est malum eius generatio est mala.
                 </p>
               </div>
-              <div>
-                <head>
+              <div xml:id="phsl-t5-Dd1e1614">
+                <head xml:id="phsl-t5-Hd1e1616">
                   <supplied>Sequitur de loco a corruptione</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t5-d1e1622">
                   <pc type="#pilcrow"/>Cor<pb ed="#T" n="4-v"/><cb ed="#T" n="a"/><lb ed="#T"/>ruptio
                   est progressus ab esse in non esse. <pc type="#pilcrow"/>Locus a
                   <lb ed="#T"/>corruptione est habitudo ipsius ad corruptum, ut <mentioned>corrup<lb ed="#T"/>tio
@@ -644,11 +644,11 @@
                   <lb ed="#T"/>a corrupto.
                 </p>
               </div>
-              <div>
-                <head>
+              <div xml:id="phsl-t5-Dd1e1661">
+                <head xml:id="phsl-t5-Hd1e1663">
                   <supplied>Sequitur de loco ab usibus</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t5-d1e1669">
                   <pc type="#pilcrow"/>Vsus ut hic sumitur est operatio rei
                   <lb ed="#T"/>siue exercicium ipsius, ut securis secare, et equi equitare
                   <lb ed="#T"/>est exercicium, siue operatio, siue usus. <pc type="#pilcrow"/>Locus ab usibus
@@ -659,11 +659,11 @@
                   <lb ed="#T"/>sic: <mentioned>occidere est malum; ergo occisor est malus</mentioned>.
                 </p>
               </div>
-              <div>
-                <head>
+              <div xml:id="phsl-t5-Dd1e1713">
+                <head xml:id="phsl-t5-Hd1e1715">
                   A communiter accidentibus
                 </head>
-                <p>
+                <p xml:id="phsl-t5-d1e1718">
                   <lb ed="#T"/><pc type="#pilcrow"/><mentioned>Communiter accidentia</mentioned> sumuntur dupliciter: quedam enim sunt que
                   <lb ed="#T"/>aliquando se consequuntur, et aliquando non, ut <mentioned>comptus</mentioned> et <mentioned>ad<lb ed="#T"/>ulter</mentioned>,
                   et ab hiis non sumitur locus dyalecticus sed sophisticus. Alia
@@ -677,31 +677,31 @@
               </div>
               <!-- Mario: dbcheck here; there was a empty div here that I removed. JEFF: What I intended was this: close the div of 'locus a communiter accidentibus',
             which is a child of de 'locis a concomitantibus substantiae', which is a child of 'de locis intrinsecis'. So I had to close the div in the parents too. I probably lost myself... :) -->
-              <div>
-                <head>
+              <div xml:id="phsl-t5-Dd1e1771">
+                <head xml:id="phsl-t5-Hd1e1773">
                   <supplied>De locis extrinsecis</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t5-d1e1779">
                   <lb ed="#T"/>Quid sit locus extrinsecus dictum est prius. <pc type="#pilcrow"/>Locorum autem
                   <lb ed="#T"/>extrinsecorum, alius ab oppositis, alius a maiori, alius
                   <lb ed="#T"/>a minori, alius a simili, alius a proportione, alius a transumptione,
                   <lb ed="#T"/>alius ab auctoritate.
                 </p>
-                <div>
-                  <head>
+                <div xml:id="phsl-t5-Dd1e1792">
+                  <head xml:id="phsl-t5-Hd1e1794">
                     <supplied>De loco ab oppositis</supplied>
                   </head>
-                  <p>
+                  <p xml:id="phsl-t5-d1e1800">
                     <pc type="#pilcrow"/>Item oppositorum IIII sunt species, scilicet, oppositio re<lb ed="#T"/>latiua,
                     et contrarietas, et oppositio priuatiua, et contradictio. <pc type="#pilcrow"/>Contrarietas est
                     <lb ed="#T"/>contrariorum oppositio, ut albus et niger. Contradictio est oppositio cuius secundum se
                     <lb ed="#T"/>non est medium.
                   </p>
-                  <div>
-                    <head>
+                  <div xml:id="phsl-t5-Dd1e1813">
+                    <head xml:id="phsl-t5-Hd1e1815">
                       <supplied>De loco a relatiue oppositis</supplied>
                     </head>
-                    <p>
+                    <p xml:id="phsl-t5-d1e1821">
                       <pc type="#pilcrow"/>Locus a relatiue oppositis est habitudo
                       <lb ed="#T"/>unius correlatiuorum ad alterum, et est constructiuus et destructiuus. Vt: <mentioned>pater
                       <lb ed="#T"/>est; ergo filius est</mentioned>, et econuerso. Vel: <mentioned>pater non est; ergo filius non est</mentioned>, et
@@ -709,11 +709,11 @@
                       <lb ed="#T"/>ponitur et reliquum.
                     </p>
                   </div>
-                  <div>
-                    <head>
+                  <div xml:id="phsl-t5-Dd1e1844">
+                    <head xml:id="phsl-t5-Hd1e1846">
                       <supplied>De loco a contrariis</supplied>
                     </head>
-                    <p>
+                    <p xml:id="phsl-t5-d1e1852">
                       <pc type="#pilcrow"/>Contrariorum quedam sunt mediata, ut
                       <lb ed="#T"/>album, nigrum, inter que sunt medii colores; quedam immediata, ut
                       <lb ed="#T"/>sanum et egrum circa animal. <pc type="#pilcrow"/>Locus a contrariis est habitudo unius
@@ -726,11 +726,11 @@
                       <lb ed="#T"/>ponitur reliquum manente subiecto.
                     </p>
                   </div>
-                  <div>
-                    <head>
+                  <div xml:id="phsl-t5-Dd1e1897">
+                    <head xml:id="phsl-t5-Hd1e1899">
                       <supplied>De loco a priuatiue oppositis</supplied>
                     </head>
-                    <p>
+                    <p xml:id="phsl-t5-d1e1905">
                       <pc type="#pilcrow"/>Que sunt priuatiue oppo<lb ed="#T"/>sita
                       dictum est prius. <pc type="#pilcrow"/>Locus a priuatiue oppositis est ha<cb ed="#T" n="b"/><lb ed="#T"/>bitudo
                       priuationis ad habitum, uel habitus ad priuatio<lb ed="#T"/>nem,
@@ -742,11 +742,11 @@
                       et puer non dicitur edentulus, nec dentulus ante tempus determin<lb ed="#T"/>atum.
                     </p>
                   </div>
-                  <div>
-                    <head>
+                  <div xml:id="phsl-t5-Dd1e1943">
+                    <head xml:id="phsl-t5-Hd1e1945">
                       <supplied>De loco a contradictorie oppositis</supplied>
                     </head>
-                    <p>
+                    <p xml:id="phsl-t5-d1e1951">
                       <pc type="#pilcrow"/>Locus a contradictorie oppositis est habitudo u<lb ed="#T"/>nius
                       contradictorie oppositorum ad reliquum. Vt: <mentioned>Socrates sedere est
                       <lb ed="#T"/>uerum; ergo Socrates non sedere est falsum</mentioned>. Maxima: si unum contradi<lb ed="#T"/>ctorie
@@ -754,11 +754,11 @@
                     </p>
                   </div>
                 </div>
-                <div>
-                  <head>
+                <div xml:id="phsl-t5-Dd1e1967">
+                  <head xml:id="phsl-t5-Hd1e1969">
                     <supplied>De loco a maiori</supplied>
                   </head>
-                  <p>
+                  <p xml:id="phsl-t5-d1e1975">
                     <lb ed="#T"/><pc type="#pilcrow"/>Maius ut hic sumitur est illud quod subponitur alicui in pote<lb ed="#T"/>state,
                     uel uirtute. Minus autem est quod ei subponitur. <pc type="#pilcrow"/>Locus
                     <lb ed="#T"/>a maiori est habitudo maioris ad minus, et est semper destructiuus,
@@ -767,22 +767,22 @@
                     <lb ed="#T"/>id quod minus.
                   </p>
                 </div>
-                <div>
-                  <head>
+                <div xml:id="phsl-t5-Dd1e1998">
+                  <head xml:id="phsl-t5-Hd1e2000">
                     <supplied>De loco a minori</supplied>
                   </head>
-                  <p>
+                  <p xml:id="phsl-t5-d1e2006">
                     <pc type="#pilcrow"/>Locus a minori est habitudo minoris
                     <lb ed="#T"/>ad maius, et est semper constructiuus, ut <mentioned>miles potest expugnare
                     <lb ed="#T"/>castrum; ergo et rex</mentioned>. <pc type="#pilcrow"/>Locus a minori. Maxima: si id quod minus
                     <lb ed="#T"/>uidetur inesse inest, et id quod maius.
                   </p>
                 </div>
-                <div>
-                  <head>
+                <div xml:id="phsl-t5-Dd1e2024">
+                  <head xml:id="phsl-t5-Hd1e2026">
                     De loco a simili
                   </head>
-                  <p>
+                  <p xml:id="phsl-t5-d1e2029">
                     <lb ed="#T"/><pc type="#pilcrow"/>Locus a simili est habitudo unius similis ad reliquum, ut
                     <lb ed="#T"/><mentioned>sicut inest risibile homini, et hinnibili equo; sed risibile est proprium
                     <lb ed="#T"/>hominis; ergo hinnibile equi</mentioned>. Locus a simili. Maxima: de similibus
@@ -792,11 +792,11 @@
                     <lb ed="#T"/>et reliquum; aut si unum non inest, nec reliquum.
                   </p>
                 </div>
-                <div>
-                  <head>
+                <div xml:id="phsl-t5-Dd1e2058">
+                  <head xml:id="phsl-t5-Hd1e2060">
                     A proportione
                   </head>
-                  <p>
+                  <p xml:id="phsl-t5-d1e2063">
                     <lb ed="#T"/><pc type="#pilcrow"/>Locus a proportione est habitudo unius proportionalium ad reliquum,
                     <lb ed="#T"/>ut <mentioned>sicut se habet retor nauis ad nauem, ita se habet rec<lb ed="#T"/>tor
                     scolarum ad scolas; sed rector nauis est eligendus non
@@ -806,11 +806,11 @@
                     <lb ed="#T"/>accipitur comparatio secundum habitudinem.
                   </p>
                 </div>
-                <div>
-                  <head>
+                <div xml:id="phsl-t5-Dd1e2088">
+                  <head xml:id="phsl-t5-Hd1e2090">
                     A transunptione
                   </head>
-                  <p>
+                  <p xml:id="phsl-t5-d1e2093">
                     <lb ed="#T"/><pc type="#pilcrow"/>Transunptio est duplex: quedam enim est quando nomen uel oratio signifi<lb ed="#T"/>cans
                     unum transumitur ad significandum aliud per similitudinem
                     <lb ed="#T"/>aliqua, ut <mentioned>ridere</mentioned> transumitur ad <mentioned>florere</mentioned> cum dicitur <mentioned>pratum ridet</mentioned>.
@@ -821,7 +821,7 @@
                     <lb ed="#T"/>non inuidet, et fiat translatio ad hec nomen scilicet, <mentioned>sapiens non in<lb ed="#T"/>uidet</mentioned>,
                     et ista pertinet ad dyalecticum.
                   </p>
-                  <p>
+                  <p xml:id="phsl-t5-d1e2135">
                     <pc type="#pilcrow"/>Locus a transuptione est habi<lb ed="#T"/>tudo
                     unius transupti ad aliud, ut <mentioned>sapiens non inuidet; ergo
                     <pb ed="#T" n="5-r"/>
@@ -836,11 +836,11 @@
                     magis uel aliquod aliud per quod facilius probetur propositum.
                   </p>
                 </div>
-                <div>
-                  <head>
+                <div xml:id="phsl-t5-Dd1e2178">
+                  <head xml:id="phsl-t5-Hd1e2180">
                     Ab auctoritate
                   </head>
-                  <p>
+                  <p xml:id="phsl-t5-d1e2183">
                     <lb ed="#T"/><pc type="#pilcrow"/>Auctoritas ut hic sumitur est iudicium sapientis in scientia
                     <lb ed="#T"/>sua. Vnde a <mentioned>rei iudicio</mentioned> solet denominari locus iste. Locus
                     <lb ed="#T"/>ab auctoritate est habitudo ipsius auctoritatis ad id quod per eam probatur, ut
@@ -849,50 +849,50 @@
                   </p>
                 </div>
               </div>
-                  <div>
-                <head>
+                  <div xml:id="phsl-t5-Dd1e2207">
+                <head xml:id="phsl-t5-Hd1e2209">
                   <supplied>Sequitur de locis mediis</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t5-d1e2215">
                   <pc type="#pilcrow"/>Locorum mediorum alius a coniugatis, alius a ca<lb ed="#T"/>sibus,
                   alius a diuisione. Casus autem et coniugata differunt,
                   <lb ed="#T"/>quia uniuocum siue principale, siue abstractum quod idem est cum suo de<lb ed="#T"/>nominatiuo
                   dicitur coniugatum, ut iustitia et iustum. Casus autem
                   <lb ed="#T"/>dicuntur ea que cadunt a principali, ut iustum et iuste a iustitia,
-                  <lb ed="#T"/>et hanc differentiam assignat <ref><name>Aristoteles</name> in <title>Topicis</title></ref>.
+                  <lb ed="#T"/>et hanc differentiam assignat <ref xml:id="phsl-t5-Rd1e2230"><name>Aristoteles</name> in <title>Topicis</title></ref>.
                 </p>
-                <div>
-                  <head>
+                <div xml:id="phsl-t5-Dd1e2238">
+                  <head xml:id="phsl-t5-Hd1e2240">
                     <supplied>De locis a coniugatis</supplied>
                   </head>
-                  <p>
+                  <p xml:id="phsl-t5-d1e2246">
                     <pc type="#pilcrow"/>Locus a coniuga<lb ed="#T"/>tis
                     est habitudo unius coniugatorum ad reliquum, ut iustitia
                     <lb ed="#T"/>est bona; ergo iustum est bonum. Maxima: quod uni coniugatorum
                     <lb ed="#T"/>inest, et reliquo siue si unum coniugatorum inest et reliquum.
                   </p>
                 </div>
-                <div>
-                  <head>
+                <div xml:id="phsl-t5-Dd1e2258">
+                  <head xml:id="phsl-t5-Hd1e2260">
                     <supplied>De locis a casibus</supplied>
                   </head>
-                  <p>
+                  <p xml:id="phsl-t5-d1e2266">
                     <lb ed="#T"/><pc type="#pilcrow"/>Locus a casibus est habitudo unius casus ad alium, ut <mentioned>quod
                     <lb ed="#T"/>iustum est bonum est; ergo quod iuste fit bene fit</mentioned>, et econuerso. Maxima:
                     <lb ed="#T"/><pc type="#pilcrow"/>quod uni casui conuenit, et reliquo.
                   </p>
                 </div>
-                <div>
-                  <head>
+                <div xml:id="phsl-t5-Dd1e2281">
+                  <head xml:id="phsl-t5-Hd1e2283">
                     A diuisione
                   </head>
-                  <p>
+                  <p xml:id="phsl-t5-d1e2286">
                     <lb ed="#T"/><pc type="#pilcrow"/>Diuisionum alia est per negationem, ut <mentioned>Socrates aut est homo
                     <lb ed="#T"/>aut non est homo; sed non est non homo; ergo est homo</mentioned>. <pc type="#pilcrow"/>Loco a diuisio<lb ed="#T"/>ne.
                     Maxima: si aliqua duo condiuidunt aliquid posito uno remouetur
                     <lb ed="#T"/>reliquum, uel remoto uno ponitur reliquum.
                   </p>
-                  <p>
+                  <p xml:id="phsl-t5-d1e2303">
                     Alia autem est diuisio
                     <lb ed="#T"/>que non fit per negationem, et hec diuisio fit VI modis: tribus per se
                     <lb ed="#T"/>et tribus per accidens. Prima est generis in species, ut <mentioned>animalium aliud rationale,
@@ -901,13 +901,13 @@
                     <lb ed="#T"/><pc type="#pilcrow"/>Tertia uocis in significationes, ut <mentioned>canis aliud latrabile, aliud ma<lb ed="#T"/>rinum,
                     aliud celeste sidus</mentioned>.
                   </p>
-                  <p>
+                  <p xml:id="phsl-t5-d1e2329">
                     <pc type="#pilcrow"/>Trium per accidens una est per accidens
                     <lb ed="#T"/>subiecti, ut <mentioned>animalium alia sana, alia egra</mentioned>. Secunda accidentis in subiecta,
                     <lb ed="#T"/>ut <mentioned>sanorum aliud brutum, aliud homo</mentioned>. Tertia accidentis in accidentia,
                     <lb ed="#T"/>ut <mentioned>sanorum aliud calidum, aliud frigidum</mentioned>.
                   </p>
-                  <p>
+                  <p xml:id="phsl-t5-d1e2350">
                     <pc type="#pilcrow"/>Locus
                     <lb ed="#T"/>a diuisione est habitudo unius condiuidentium ad alterum. A di<lb ed="#T"/>uisione
                     uero secundum negationem sic sumitur argumentum: <mentioned>Socrates aut est

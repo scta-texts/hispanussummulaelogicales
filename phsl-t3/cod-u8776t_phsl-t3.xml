@@ -49,17 +49,17 @@
       </div>
     </front>
     <body>
-      <div xml:id="phsl-t1">
-        <div>
-          <head>
+      <div xml:id="phsl-t3">
+        <div xml:id="phsl-t3-Dd1e103">
+          <head xml:id="phsl-t3-Hd1e105">
             <supplied>De quibusdam premittendis</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t3-d1e111">
             <lb ed="#T"/><pc type="#pilcrow"/>Ad cognitionem predicamentorum quedam necessaria premitten<lb ed="#T"/>tes
-            distinguamus cum <ref><name>Aristotele</name></ref> triplicem modum predicandi.
+            distinguamus cum <ref xml:id="phsl-t3-Rd1e118"><name>Aristotele</name></ref> triplicem modum predicandi.
             <lb ed="#T"/>Eorum igitur que predicantur alia sunt equiuoca, alia uniuoca, alia denomin<lb ed="#T"/>atiua.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e127">
             <pc type="#pilcrow"/>Equiuoca sunt quorum solum nomen commune est, et secundum
             <lb ed="#T"/>illud nomen ratio substantie est diuersa, ut cum <mentioned>animal</mentioned> significet animal uerum et animal
             <lb ed="#T"/>pictum, nomen solum est eis commune, et ratio substantie utriusque secundum illud nomen
@@ -69,7 +69,7 @@
             <lb ed="#T"/>sunt tales reges, et de hiis quid ad huc regnant
             <lb ed="#T"/>similiter dicimus hii sunt reges sumendo nomen regis equiuo<lb ed="#T"/>ce.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e152">
             <pc type="#pilcrow"/>Vniuoca sunt quorum nomen est commune et secundum illud nomen
             <lb ed="#T"/>ratio illius substantie est eadem, ut nomen <mentioned>animal</mentioned> est commune homini et bo<lb ed="#T"/>ui,
             et similiter ratio eius secundum illud nomen. Dicimus enim <mentioned>homo est animal</mentioned> et
@@ -78,42 +78,42 @@
             <lb ed="#T"/>ratio eorum secundum illud nomen est eadem. Nichil enim est homo secundum quod est
             <lb ed="#T"/>animal nisi substantia animata sensibilis, et similiter bos.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e184">
             <pc type="#pilcrow"/>Deno<lb ed="#T"/>minatiua
             dicuntur quecumque ab aliquo solo differentia casu secundum illud
             <lb ed="#T"/>nomen habent appellationem, ut a <mentioned>gramatica</mentioned> <mentioned>gramaticus</mentioned>.
             <lb ed="#T"/>Differunt solo casu, id est, sola cadentia que est a parte rei,
             <lb ed="#T"/>et secundum nomen habent appellationem. Nomen enim denominatiuum
             <lb ed="#T"/>debet comunicare cum nomine uniuoco in principio, ut in <mentioned>gramatica</mentioned>
-            <lb ed="#T"/></mentioned>gramaticus</mentioned>, siue <mentioned>albus</mentioned> et <mentioned>albedo</mentioned>.
+            <lb ed="#T"/><mentioned>gramaticus</mentioned>, siue <mentioned>albus</mentioned> et <mentioned>albedo</mentioned>.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e221">
             <pc type="#pilcrow"/>Eorum que dicuntur quedam
             <lb ed="#T"/>dicuntur sine complexione, ut <mentioned>homo</mentioned>, siue <mentioned>currit</mentioned>; quedam cum complexione,
             <lb ed="#T"/>ut <mentioned>homo currit</mentioned>. Sed prius quam alterum membrorum huius diuisionis subdiui<lb ed="#T"/>datur
             distinguendi sunt modi<unclear reason="damage">essendi in</unclear>, quia necessarii sunt ad
             <lb ed="#T"/>sequentem <gap extent="10" unit="characters"/> et ad quedam que postea dicentur.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e249">
             <lb ed="#T"/><pc type="#pilcrow"/>Primus igitur modus dicitur aliquid in aliquo esse sicut pars in suo toto,
             <lb ed="#T"/>ut digitus in manu, paries in domo.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e257">
             <pc type="#pilcrow"/>Secundo autem modo sicut
             <lb ed="#T"/>totum integrale est in suis partibus, ut domus in pariete,
             <lb ed="#T"/>tecto et fundamento.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e266">
             <pc type="#pilcrow"/>Tertio modo dicimus esse in ut
             <lb ed="#T"/>species in genere, ut homo in animali, et uniuersaliter quodlibet inferius in suo
             <lb ed="#T"/>superiori.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e275">
             <pc type="#pilcrow"/>Quartus modus essendi in sicut genus in sua specie,
             <lb ed="#T"/>ut animal in homine, et unumquodque diffiniens in diffinitione, siue in
             <lb ed="#T"/>diffinito.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e284">
             <pc type="#pilcrow"/>Quintus modus essendi in ut forma in materia.
             <lb ed="#T"/>Et iste quintus subdiuiditur, quia est quedam forma substantialis, ut anima est forma
             <lb ed="#T"/>substantialis homini, alia autem est forma accidentalis, ut album homini. Et prima
@@ -121,38 +121,38 @@
             <lb ed="#T"/>autem dicitur esse in ut est accidens in subiecto, ut albedo in pariete,
             <lb ed="#T"/>color in corpore.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e301">
             <pc type="#pilcrow"/>Sextus modus essendi in dicitur sicut aliquod in
             <lb ed="#T"/>efficiente, ut regnum in regnante.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e308">
             <pc type="#pilcrow"/>Septimus modus
             <pb ed="#T" n="5-v"/>
-            <cb ed="#T" n="a">
+            <cb ed="#T" n="a"/>
             <lb ed="#T"/>essendi in est sicut aliquid in fine.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e319">
             <pc type="#pilcrow"/>Octauus
             <lb ed="#T"/>modus essendi in est sicut aliquid in uase, et uniuersaliter sicut lo<lb ed="#T"/>catum
             in loco. Hos autem modos essendi in distinguit
-            <lb ed="#T"/><ref><name>Aristoteles</name></ref>. <ref><name>Boethius</name></ref> autem assignat IX, quia subdiuidit quintum in
+            <lb ed="#T"/><ref xml:id="phsl-t3-Rd1e328"><name>Aristoteles</name></ref>. <ref xml:id="phsl-t3-Rd1e332"><name>Boethius</name></ref> autem assignat IX, quia subdiuidit quintum in
             <lb ed="#T"/>duos quemadmodum dictum est.
           </p>
 
-          <p>
+          <p xml:id="phsl-t3-d1e340">
             <pc type="#pilcrow"/>Eorum que sunt alia
             <lb ed="#T"/>dicuntur de subiecto, in subiecto uero nullo sunt, ut genera et species substantie,
             <lb ed="#T"/>et differentie substantie que omnia dicuntur substantie uniuersales extenso nomine
-            <lb ed="#T"/>substantie, ut <mentioned>homo</mentioned>, <mentioned>animal</mentioned> et <mentioned>rationale</mentioned>. <pc type="#pilcrow"/></mentioned>Dici de subiecto</mentioned> ut hic sumitur
+            <lb ed="#T"/>substantie, ut <mentioned>homo</mentioned>, <mentioned>animal</mentioned> et <mentioned>rationale</mentioned>. <pc type="#pilcrow"/><mentioned>Dici de subiecto</mentioned> ut hic sumitur
             <lb ed="#T"/>est dici de inferiori ut animal de homine, et homo de Socrate,
             <lb ed="#T"/>et color de albedine, et esse in subiecto sumitur secundum quod acci<lb ed="#T"/>dens
             est in subiecto.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e372">
             <pc type="#pilcrow"/>Alia uero neque dicuntur de subiecto, neque sunt in subiecto,
             <lb ed="#T"/>ut indiuidua substantie.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e379">
             <pc type="#pilcrow"/>Alia uero dicuntur de subiecto, et sunt in subiecto,
             <lb ed="#T"/>ut genera et species aliorum
               <choice>
@@ -164,14 +164,14 @@
             <lb ed="#T"/>dicitur de albedine ut de inferiori, et est in corpore ut
             <lb ed="#T"/>in subiecto.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e403">
             <pc type="#pilcrow"/>Alia uero in subiecto sunt, de subiecto autem nullo dicuntur, ut
             <lb ed="#T"/>hec scientia est in anima ut accidens in subiecto et non dicitur de aliquo
             <lb ed="#T"/>inferiori, et iste color est in corpore dicitur de subiecto.
             <lb ed="#T"/>Omnis enim color in corpore est.
           </p>
 
-          <p>
+          <p xml:id="phsl-t3-d1e414">
             <pc type="#pilcrow"/>Quando alterum de altero
             <lb ed="#T"/>predicatur ut de subiecto, quecumque de eo quod predicatur dicuntur omnia et de
             <lb ed="#T"/>subiecto dicuntur, ut si Socrates est homo et homo est animal, ergo Socrates est animal.
@@ -184,11 +184,11 @@
           </p>
         </div>
 
-        <div>
-          <head>
+        <div xml:id="phsl-t3-Dd1e438">
+          <head xml:id="phsl-t3-Hd1e440">
             <supplied>De predicamentis</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t3-d1e446">
             <pc type="#pilcrow"/>Eorum que secundum nullam com<lb ed="#T"/>plexionem
             dicuntur singulum aut significat substantiam, aut quan<lb ed="#T"/>titatem,
             aut qualitatem, aut ad aliquid, aut ubi, aut situm esse,
@@ -199,36 +199,36 @@
             <lb ed="#T"/>esse. <pc type="#pilcrow"/>Facere uero ut secare, urere. Pati ut secari,
             <lb ed="#T"/>uri.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e484">
             <pc type="#pilcrow"/>Hiis autem habitis dicendum est de unoquoque istorum predica<lb ed="#T"/>mentorum,
             et prius de substantia cum sit prior aliis predicamentis.
           </p>
         </div>
 
-        <div>
-          <head>
+        <div xml:id="phsl-t3-Dd1e492">
+          <head xml:id="phsl-t3-Hd1e494">
             <supplied>De substantia</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t3-d1e500">
             <lb ed="#T"/><pc type="#pilcrow"/>Substantia diuiditur per primam substantiam et secundam. Prima substantia est
             <lb ed="#T"/>que proprie et principaliter et maxime dicitur, siue prima substantia est que neque de
             <lb ed="#T"/>subiecto dicitur neque in subiecto est, ut aliquis homo, aliquis equs.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e510">
             <pc type="#pilcrow"/>Secunde substantie
             <lb ed="#T"/> <unclear reason="damage">sunt</unclear> species in quibus sunt prime substantie, et harum specierum genera, ut
             <lb ed="#T"/>homo, animal. Est autem aliquis homo in homine qui est species, sicut homo in anima<lb ed="#T"/>li
             quod est genus.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e524">
             <pc type="#pilcrow"/>Indiuidua substantie dicuntur prime substantie quia primo
             <lb ed="#T"/>substant aliis. Genera uero et species eorum dicuntur secunde substantie quia
-            <cb ed="#T" n="b">
+            <cb ed="#T" n="b"/>
             <lb ed="#T"/>secundo substant. Aliquis homo dicitur <mentioned>gramaticus</mentioned> et <mentioned>currens</mentioned>, et ideo
             <lb ed="#T"/>homo dicitur <mentioned>gramaticus</mentioned> et <mentioned>currens</mentioned> et <mentioned>animal</mentioned>.
           </p>
 
-          <p>
+          <p xml:id="phsl-t3-d1e553">
             <pc type="#pilcrow"/>Item ea que dicuntur de subiecto
             <lb ed="#T"/>omnia predicantur nomine et ratione, ut <mentioned>homo</mentioned> de Socrate. <pc type="#pilcrow"/>Eorum uero que
             <lb ed="#T"/>sunt in subiecto in pluribus quidem neque nomen, neque ratio predicabitur, ut
@@ -236,7 +236,7 @@
             <lb ed="#T"/>aliquando de subiecto, ratione uero impossibile est, ut album de subiecto predicatur, ratio
             <lb ed="#T"/><del rend="expunctuation">nem</del> uero albi numquam de subiecto predicabitur.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e577">
             <pc type="#pilcrow"/>Item secundarum substantiarum
             <lb ed="#T"/>magis est substantia species quam genus, quia species propinquior est prime
             <lb ed="#T"/>substantie quam genus, et etiam quia pluribus substat, quibuscumque enim substat
@@ -245,11 +245,11 @@
           </p>
         </div>
 
-        <div>
-          <head>
+        <div xml:id="phsl-t3-Dd1e591">
+          <head xml:id="phsl-t3-Hd1e593">
             <supplied>De communitatibus et proprietatibus substantie</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t3-d1e599">
             <pc type="#pilcrow"/>Hiis
             <lb ed="#T"/>uisis dicendum est de communitatibus et proprietatibus substantie. <pc type="#pilcrow"/>Commune enim est
             <lb ed="#T"/>substantie in subiecto non esse, quia esse in subiecto solum conuenit accidentia. Hoc
@@ -264,12 +264,12 @@
             <lb ed="#T"/>alius est modus essendi in ut accidens in subiecto, et alius ut pars
             <lb ed="#T"/>in toto, ut prius patuit.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e634">
             <pc type="#pilcrow"/>Item omnibus secundis substantiis et
             <lb ed="#T"/>differentiis substantie conuenit uniuoce predicari. Hec enim omnia predicantur de primis
             <lb ed="#T"/>substantiis nomine et ratione quare uniuoce predicantur.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e643">
             <pc type="#pilcrow"/>Item omnis
             <lb ed="#T"/>prima substantia significat hoc aliquid et indiuiduatum, et unum numero; sed
             <lb ed="#T"/>secunda substantia uidetur hoc aliquid significare eo quod est in prima, et de
@@ -277,11 +277,11 @@
             <lb ed="#T"/>Non enim quod significatur per secundam substantiam est unum, sicut est unum
             <lb ed="#T"/>quod significatur per primam.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e659">
             <pc type="#pilcrow"/>Item substantie nichil est contrarium, et hoc non est proprium substantie quia conuenit omni substantie, et omni quantitati et qui<lb ed="#T"/>busdam
             aliis.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e667">
             <pc type="#pilcrow"/>Item substantia non suscipit magis neque minus.
             <lb ed="#T"/>Non autem dico una substantia non suscipit magis quam alia, sed di<lb ed="#T"/>co
             quod nunquam substantia secundum esse suum intenditur neque remititur,
@@ -289,7 +289,7 @@
             <lb ed="#T"/>magis est homo in uno tempore quam in alio, neque est magis homo
             <lb ed="#T"/>quam Plato.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e683">
             <pc type="#pilcrow"/>Item proprium est substantie secundum sui mutationem esse su<lb ed="#T"/>sceptibile
             contrariorum <unclear>natura</unclear>, ut idem homo aliquando est niger aliquando
             <lb ed="#T"/>est albus, et aliquando calidus et aliquando frigidus, et prauus, et
@@ -298,7 +298,7 @@
             <lb ed="#T"/>hoc est secundum sui mutationem, sed secundum mutationem rei, ut
             <lb ed="#T"/>quia Socrates surgit aut currit.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e707">
             <pc type="#pilcrow"/>Et ideo nota quod uerum et falsum sunt
             <lb ed="#T"/>in rebus ut subiecto, et sunt in oratione ut in signo. Vnde
             <pb ed="#T" n="6-r"/>
@@ -316,11 +316,11 @@
           </p>
         </div>
 
-        <div>
-          <head>
+        <div xml:id="phsl-t3-Dd1e756">
+          <head xml:id="phsl-t3-Hd1e758">
             <supplied>De quantitate</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t3-d1e764">
             <pc type="#pilcrow"/>Quantitas aliud continuum,
             <lb ed="#T"/>aliud discretum. Est autem discreta, ut numerus et oratio. Vnde due
             <lb ed="#T"/>sunt species eius. Non enim est in numero aliquis communis terminus ad quem
@@ -330,7 +330,7 @@
             similiter in oratione sillabe non copulantur ad aliquem terminum,
             <lb ed="#T"/>sed unaque separata est ab alia.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e786">
             <pc type="#pilcrow"/>Quantitatis autem conti<lb ed="#T"/>nue
             alia est linea, alia superficies, alia corpus, alia tempus, alia
             <lb ed="#T"/>locus. Vnde V sunt species eius. Quod autem linea sit continua patet
@@ -341,11 +341,11 @@
           </p>
         </div>
 
-        <div>
-          <head>
+        <div xml:id="phsl-t3-Dd1e806">
+          <head xml:id="phsl-t3-Hd1e808">
             <supplied>De communitatibus substantie</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t3-d1e814">
             <pc type="#pilcrow"/>Hiis uisis uidendum est de communitatibus
             <lb ed="#T"/>quantitatis. Prima communitas est quod quantitati nichil est con<lb ed="#T"/>trarium,
             ut bicubito, tricubito, uel superficiei nichil est con<lb ed="#T"/>trarium,
@@ -353,12 +353,12 @@
             <pc type="#pilcrow"/>Quantitas autem non est qualitas, et propter hoc contrarietas
             <lb ed="#T"/>non est in quantitate.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e832">
             <pc type="#pilcrow"/>Item quantitas non suscipit magis et minus.
             <lb ed="#T"/>Non enim una linea est magis quantitas quam alia, et ternarius
             <lb ed="#T"/>non est magis numerus quam quaternarius.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e841">
             <pc type="#pilcrow"/>Item proprium est quantitatis secundum
             <lb ed="#T"/>eam equale et inequale dici, ut numerus est equalis uel inequa<lb ed="#T"/>lis
             alii numero, et corpus alii corpori et linea alii lin<lb ed="#T"/>ee,
@@ -366,18 +366,18 @@
           </p>
         </div>
 
-        <div>
-          <head>
+        <div xml:id="phsl-t3-Dd1e853">
+          <head xml:id="phsl-t3-Hd1e855">
             Sequitur de relatiuis
           </head>
-          <p>
+          <p xml:id="phsl-t3-d1e858">
             <pc type="#pilcrow"/>Ad aliquid uero talia dicuntur quecumque hoc ipsum quod sunt
             <lb ed="#T"/>aliorum dicuntur, uel quomodolibet aliter ad aliud. <gap extent="12" unit="characters"/>
             <lb ed="#T"/>dii duplum, et dimidiu dupli dimidium, et predicatur filii
             <lb ed="#T"/>pater, et filius patris filius, et maius minore maius, et si<lb ed="#T"/>milis
             simili similis.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e874">
             <pc type="#pilcrow"/>Relatiuorum tres sunt species. Quedam dicuntur secundum
             <lb ed="#T"/>equiparantiam, ut que eodem nomine dicuntur, ut similis simili similis,
             <lb ed="#T"/>et equalis equali equalis, uicinus uicino uicinus. Alia
@@ -389,45 +389,45 @@
           </p>
         </div>
 
-        <div>
-          <head>
+        <div xml:id="phsl-t3-Dd1e895">
+          <head xml:id="phsl-t3-Hd1e897">
             <supplied>De communitatibus relationis</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t3-d1e903">
             <pc type="#pilcrow"/>Post hec autem sequntur communi<lb ed="#T"/>tates
             relationis, et prima est quod contrarietas est in relatione
-            <cb ed="#T" n="b">
+            <cb ed="#T" n="b"/>
             <lb ed="#T"/>ut uirtus est contraria uicio, cum utrumque eorum sit ad aliquid. Hec
             <lb ed="#T"/>autem non conuenit omni relationi. Duplo enim nichil est contrarium
             <lb ed="#T"/>neque triplo.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e919">
             <pc type="#pilcrow"/>Item relatiua suscipiuntur magis et minus, ut simile
             <lb ed="#T"/>dicitur magis et minus simile, et inequale similiter, sed hoc non
             <lb ed="#T"/>conuenit omnibus relatiuis. Duplum enim non dicitur magis
             <lb ed="#T"/>et minus duplum, neque triplum, neque pater non dicitur magis
             <lb ed="#T"/>et minus pater.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e932">
             <pc type="#pilcrow"/>Item omnia relatiua dicuntur ad conuertentiam,
             <lb ed="#T"/>ut si pater est filius est, et econuerso. Et si dominus est, seruus est, et
             <lb ed="#T"/>si duplum est dimidium est.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e941">
             <pc type="#pilcrow"/>Item relatiua uidentur simul
             <lb ed="#T"/>esse natura. Similis enim sunt pater et filius, et duplum et dimidium.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e949">
             <lb ed="#T"/><pc type="#pilcrow"/>Item omnia relatiua posita se ponunt et peremta se
             <lb ed="#T"/>perimunt, ut si duplum non est dimidium non est, et si pater
             <lb ed="#T"/>non est filius non est.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e959">
             <pc type="#pilcrow"/>Item alia diffinitio est talis re<lb ed="#T"/>latiuorum:
             ad aliquid sunt quibus hoc ipsum esse est ad aliud quodamodo
             <lb ed="#T"/>se habere, et hec diffinitio est proprie relatiuorum.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e968">
             <pc type="#pilcrow"/>Item proprium relatiuorum
             <lb ed="#T"/>est quod siquis diffinite nouit unum, nouit et reliqum, ut
             <lb ed="#T"/>siquis nouit diffinite duplum, diffinite nouit cuius est du<lb ed="#T"/>plum.
@@ -435,16 +435,16 @@
           </p>
         </div>
 
-        <div>
-          <head>
+        <div xml:id="phsl-t3-Dd1e982">
+          <head xml:id="phsl-t3-Hd1e984">
             De qualitate
           </head>
-          <p>
+          <p xml:id="phsl-t3-d1e987">
             <lb ed="#T"/><pc type="#pilcrow"/>Qualitas est secundum quam quales dicimur, ut secundum al<lb ed="#T"/>bedinem
             dicimur albi, et secundum colorem colorati,
             <lb ed="#T"/>et secundum iusticiam iusti.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e997">
             <pc type="#pilcrow"/>Qualitatis autem IIII sunt
             <lb ed="#T"/>species. Prima est habitus et dispositio. Differt habitus a dispositione,
             <lb ed="#T"/>quia habitus est permanentior, ut uirtutes et scientie. <pc type="#pilcrow"/>Scientia
@@ -460,7 +460,7 @@
             <lb ed="#T"/>qualitas difficile mobilis; dispositio uero est qualitas facile
             <lb ed="#T"/>mobilis.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1032">
             <pc type="#pilcrow"/>Secunda species qualitatis est naturalis potentia, uel
             <lb ed="#T"/>impotentia aliquid facile faciendi, uel patiendi, ut sanatiuus dicitur
             <lb ed="#T"/>eo quod habet naturalem potentiam ut nichil a quibuslibet patiatur; egro<lb ed="#T"/>tatiuus
@@ -469,24 +469,24 @@
             uero et pugillatores dicuntur similiter non quod exerceant
             <lb ed="#T"/>actus illos, sed quia habent naturalem potentiam hoc facile faciendi.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1050">
             <lb ed="#T"/><pc type="#pilcrow"/>Tertia species qualitatis est passio et passibilis quali<lb ed="#T"/>tas,
             ut ille qualitates que in <unclear reason="damage">sensibus</unclear> efficiunt passi<lb ed="#T"/>ones,
             ut in gustu dulcedo, amaritudo, et consimilia,
             <lb ed="#T"/>uel etiam ille qualitates sunt sub hac specie que ab aliquibus
             <pb ed="#T" n="6-v"/>
-            <cb ed="#T" n="a">
+            <cb ed="#T" n="a"/>
             <lb ed="#T"/>passionibus generantur dificile mobilibus et permanenti<lb ed="#T"/>bus,
             siue enim nigredo ab aliqua passione generetur, siue ab
             <lb ed="#T"/>egritudine, uel ab estu qualitas dicitur.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1077">
             <pc type="#pilcrow"/>Quarta species qua<lb ed="#T"/>litatis
             est forma et circa aliquid constans figura, ut dispositio corporis
             <lb ed="#T"/>et triangulatio et rectitudo, et curuitas.
           </p>
 
-          <p>
+          <p xml:id="phsl-t3-d1e1086">
             <pc type="#pilcrow"/>Qualia uero di<lb ed="#T"/>cuntur
             que secundum hoc denominatiue dicuntur, ut a gramatica gramaticus,
             <lb ed="#T"/>et a iustitia iustus, uel que dicuntur ab aliqua qualitate
@@ -510,29 +510,29 @@
           </p>
         </div>
 
-        <div>
-          <head>
+        <div xml:id="phsl-t3-Dd1e1143">
+          <head xml:id="phsl-t3-Hd1e1145">
             <supplied>De proprietatibus qualitatis</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t3-d1e1151">
             <pc type="#pilcrow"/>Inest autem contrarietas in qualitatibus, ut albedo ni<lb ed="#T"/>gredini,
             iustitia iniustitie contraria sunt. Hoc autem non proprium qua<lb ed="#T"/>litatis
             quia non conuenit omni. <pc type="#pilcrow"/>Figura enim non habet contrarium,
             <lb ed="#T"/>neque aliquis medius color.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1164">
             <pc type="#pilcrow"/>Item si unum contrariorum fuerit quale,
             <lb ed="#T"/>reliqum est quale, ut iustitia iniustitie contrarium est; iu<lb ed="#T"/>stitia
             autem est qualitas; igitur iniustitia est qualitas et iustum
             <lb ed="#T"/>quale; igitur et iniustum quale.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1175">
             <pc type="#pilcrow"/>Item qualitas suscipit magis
             <lb ed="#T"/>et minus. Iustus enim magis et minus dicitur, et gramaticus et albus. Sed
             <lb ed="#T"/>hoc non est propriu qualitatis, quia quadratum non suscipit magis et
             <lb ed="#T"/>minus, neque circulus, siue quadrangulatio et circulatio.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1186">
             <pc type="#pilcrow"/>Item
             <lb ed="#T"/>proprium est qualitatis secundum eam simile uel disimile dici, ut albus albo
             <lb ed="#T"/>similis dicitur, et
@@ -543,11 +543,11 @@
           </p>
         </div>
 
-        <div>
-          <head>
+        <div xml:id="phsl-t3-Dd1e1205">
+          <head xml:id="phsl-t3-Hd1e1207">
             <supplied>De actione</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t3-d1e1213">
             <lb ed="#T"/><pc type="#pilcrow"/>Actio est secundum quam in id quod subicitur agere dicuntur, ut se<lb ed="#T"/>cans
             dicitur aliquis eo quod secat. Vnde sectio est actio, et secundum
             <lb ed="#T"/>sectionem agit secans in eo quod secatur. Et percussio est
@@ -556,7 +556,7 @@
             <lb ed="#T"/>est ei quod est frigidum et facere et calidum fieri et frigefieri,
             <lb ed="#T"/>et delectari et contristari.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1232">
             <pc type="#pilcrow"/>Item recipit magis et minus.
             <lb ed="#T"/>Calefacere enim magis et minus dicitur quod est agere et calefieri
             <cb ed="#T" n="b"/>
@@ -564,29 +564,29 @@
           </p>
         </div>
 
-        <div>
-          <head>
+        <div xml:id="phsl-t3-Dd1e1245">
+          <head xml:id="phsl-t3-Hd1e1247">
             <supplied>De passione</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t3-d1e1253">
             <lb ed="#T"/><pc type="#pilcrow"/>Passio est effectus illatioque actionis, ut calefieri efficitur
             <lb ed="#T"/>et infertur a calefacere.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1261">
             Proprium est passionis primo
             <lb ed="#T"/>inferri ex actione.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1266">
             <pc type="#pilcrow"/>Item passio non est in agente, sed in
             <lb ed="#T"/>patiente. De reliquis autem sufficiant modo dicta prius.
           </p>
         </div>
 
-        <div>
-          <head>
+        <div xml:id="phsl-t3-Dd1e1274">
+          <head xml:id="phsl-t3-Hd1e1276">
             <supplied>De oppositione</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t3-d1e1282">
             <lb ed="#T"/><pc type="#pilcrow"/>Dicitur autem alterum alteri opponi quadrupliciter. Oppositorum enim alia
             <lb ed="#T"/>sunt relatiue opposita, ut pater et filius, duplum et dimi<lb ed="#T"/>dium,
             aut dominus et seruus. <pc type="#pilcrow"/>Alia sunt priuatiue opposita, ut
@@ -594,11 +594,11 @@
             <pc type="#pilcrow"/>Alia sunt contraria ut album et nigrum. <pc type="#pilcrow"/>Alia autem sunt contradic<lb ed="#T"/>torie
             opposita, ut affirmatio et negatio, ut <mentioned>sedet</mentioned>, <mentioned>non sedet</mentioned>.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1311">
             <pc type="#pilcrow"/>Que
             <lb ed="#T"/>autem sunt relatiua dictum est prius.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1318">
             <pc type="#pilcrow"/>Contraria autem sunt que sub eodem
             <lb ed="#T"/>genere posita maxime a se distant, et in eodem susceptibili
             <lb ed="#T"/>uicissim insunt nisi alterum inest a natura, ut albedo in
@@ -618,7 +618,7 @@
             ut in subiecto, sed ut in eo
             <lb ed="#T"/>cui est subicibile.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1358">
             Priuatiue autem opposita sunt que circa idem habent
             <lb ed="#T"/>fieri ordine irregressibili. Ab habitu est deuenire in pri<lb ed="#T"/>uationem
             et non econuerso. Impossibile est enim a priuatione fieri regre<lb ed="#T"/>ssum
@@ -628,34 +628,34 @@
           </p>
         </div>
 
-        <div>
-          <head>
+        <div xml:id="phsl-t3-Dd1e1372">
+          <head xml:id="phsl-t3-Hd1e1374">
             <supplied>De prius</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t3-d1e1380">
             <pc type="#pilcrow"/>Prius autem dicitur quadrupliciter. Primo modo et proprie dicitur aliquid prius
             <lb ed="#T"/>altero secundum tempus, prout aliquid dicitur antiquior ut ueterius altera
             <lb ed="#T"/> sicut homo habens quadraginta annos dicitur antiquior et senior
             <lb ed="#T"/>illo qui habet XX.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1391">
             <pc type="#pilcrow"/>Secundo autem modo dicitur prius quod non conuertitur secundum
             <lb ed="#T"/>subsistendi consequentia, ut unum prius est duobus, duobus enim
             <lb ed="#T"/>existentibus mox consequens est unum esse, ut si duo sunt
             <lb ed="#T"/>unum est, sed non econuerso.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1402">
             <pc type="#pilcrow"/>Tertio autem modo dicitur prius secundum ordi<lb ed="#T"/>nem,
             ut in disciplinis principia priora sunt conclusionibus, et in gramatica
             <lb ed="#T"/>litere priores sunt sillabis, et in ordine proemium est ante narra<lb ed="#T"/>tionem
             per ordinem.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1413">
             <pc type="#pilcrow"/>Quarto modo quod melius et honorabi<lb ed="#T"/>lius
             est dicitur prius. Consueuerunt enim plurimi ut honorabiliores et
             <lb ed="#T"/>magis dilectos dicant priores apud se.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1423">
             Preter IIII pre<lb ed="#T"/>dictos
             modos est alter modus prioris.
             <pc type="#pilcrow"/>Eorum enim que conuertuntur secundum
@@ -671,21 +671,21 @@
           </p>
         </div>
 
-        <div>
-          <head>
+        <div xml:id="phsl-t3-Dd1e1457">
+          <head xml:id="phsl-t3-Hd1e1459">
             <supplied>De simul</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t3-d1e1465">
             <pc type="#pilcrow"/>Simul enim dicitur tribus modis: primo enim dicuntur simul
             <lb ed="#T"/>quorum generatio est in eodem tempore, neuter enim prius, neque post<lb ed="#T"/>erius,
             et hec dicuntur simul tempore.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1474">
             Secundo autem modo dicuntur simul que<lb ed="#T"/>cumque
             conuertuntur, et neutrum est causa alterius ut sit. Vt quelibet re<lb ed="#T"/>latiua,
             ut duplum et dimidium, et sic de aliis.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1481">
             Ter<lb ed="#T"/>tio
             modo dicuntur simul quecumque econtrario condiuidunt aliquod genus,
             <lb ed="#T"/>ut homo, equs, leo et sic de aliis condiuidunt hoc genus animal;
@@ -694,11 +694,11 @@
           </p>
         </div>
 
-        <div>
-          <head>
+        <div xml:id="phsl-t3-Dd1e1496">
+          <head xml:id="phsl-t3-Hd1e1498">
             <supplied>De motu</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t3-d1e1504">
             <lb ed="#T"/><pc type="#pilcrow"/>Motus species sunt sex: generatio, corruptio, augmentum,
             <lb ed="#T"/>diminutio, alteratio, secundum locum mutatio. Generatio
             <lb ed="#T"/>est exitus a non esse ad esse. Corruptio est progressus ab
@@ -709,27 +709,27 @@
             uel in medios colores. <pc type="#pilcrow"/>Motus secundum locum est
             <lb ed="#T"/>mutatio ab uno loco in alterum.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1536">
             <pc type="#pilcrow"/>Motus autem secundum locum
             <lb ed="#T"/>sex sunt species, siue differentie: sursum, deorsum, ante, retro, de<lb ed="#T"/>xtrorsum,
             sinistrorsum. Ad omnes enim has partes fit motus.
           </p>
         </div>
 
-        <div>
-          <head>
+        <div xml:id="phsl-t3-Dd1e1546">
+          <head xml:id="phsl-t3-Hd1e1548">
             <supplied>De habere</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t3-d1e1554">
             <lb ed="#T"/><pc type="#pilcrow"/>Habere autem tribus modis dicitur. Primo modo habere aliquam qua<lb ed="#T"/>litatem,
             ut disciplinam, aut uirtutem.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1562">
             <pc type="#pilcrow"/>Secundo modo
             <lb ed="#T"/>dicitur habere quantitatem, qua contingit ei qui habet magnitudinem, ut bicu<lb ed="#T"/>bitum,
             tricubitum.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1571">
             <pc type="#pilcrow"/>Tertio modo dicitur habere ea que circa corpus
             <lb ed="#T"/>sunt, ut uestimentum, uel tunicam, aut in membro, aut in ma<lb ed="#T"/>nu
             annulum, et habitus isto tercio modo sumptus est unum de sex
@@ -738,21 +738,21 @@
             <lb ed="#T"/>figurantur nomina in aliis, et secundum hanc adiacentiam hec dicuntur habere
             <lb ed="#T"/>illa uero haberi.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1591">
             <pc type="#pilcrow"/>Quarto autem modo habere membrum, ut habere manum uel
             <lb ed="#T"/>pedem.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1599">
             <pc type="#pilcrow"/>Quinto habere contentum ut lagena habet uinum, aut
             <lb ed="#T"/>modius habet grana tritici.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1606">
             <pc type="#pilcrow"/>Sexto habere possessionem ut
             <lb ed="#T"/>domum aut agrum.
           </p>
-          <p>
+          <p xml:id="phsl-t3-d1e1613">
             <pc type="#pilcrow"/>Septimo habere uxorem, et hoc ultimo modo
-            <lb ed="#T"/>dicit <ref><name>Aristoteles</name></ref> quod iste modus alienissimus est in eo quod est habere, et
+            <lb ed="#T"/>dicit <ref xml:id="phsl-t3-Rd1e1619"><name>Aristoteles</name></ref> quod iste modus alienissimus est in eo quod est habere, et
             <lb ed="#T"/>dicit quod modi alii aparebunt facte de eo quod est habere, sed qui
             <lb ed="#T"/>consueuerunt dici omnes pene enumerati sunt.
           </p>

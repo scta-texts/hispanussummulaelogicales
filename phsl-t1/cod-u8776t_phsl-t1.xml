@@ -4,12 +4,11 @@
       <titleStmt>
         <title>Tractatus 1</title>
       	<author>Petrus Hispanus</author>
-        <editor>Joana Gomes</editor>
         <editor>Mário João Correia</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Tractatus 1: De Introductionibus</title>
+          <title>Tractatus 1: De introductionibus</title>
           <date when="2019-06-06">June 5, 2019</date>
         </edition>
       </editionStmt>

@@ -4,7 +4,6 @@
       <titleStmt>
         <title>Tractatus 4</title>
       	<author>Petrus Hispanus</author>
-        <editor>Joana Gomes</editor>
         <editor>Mário João Correia</editor>
       </titleStmt>
       <editionStmt>
@@ -389,7 +388,7 @@
             <lb ed="#T"/>facere de maiori minorem et econuerso.
           </p>
           <p xml:id="phsl-t4-d1e911">
-            <pc type="#pilcrow"/>Vbi ponitur <mentioned>c</mentioned>, significat quod 
+            <pc type="#pilcrow"/>Vbi ponitur <mentioned>c</mentioned>, significat quod
             <lb ed="#T"/>modus intellectus per dictionem illam debet probari per impossibile.
           </p>
         </div>

@@ -50,32 +50,32 @@
     <body>
       <div xml:id="phsl-t9">
 
-        <div>
-          <head>
+        <div xml:id="phsl-t9-Dd1e99">
+          <head xml:id="phsl-t9-Hd1e101">
             <supplied>De personalis subpositione</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t9-d1e107">
             <lb ed="#T"/><pc type="#pilcrow"/>Personalis autem suppositio est acceptio termini comunis pro
             <lb ed="#T"/>suis inferioribus. Cuius alia est confusa, alia determinata
             <lb ed="#T"/>ut prius patuit.
           </p>
-          <p>
+          <p xml:id="phsl-t9-d1e117">
             <pc type="#pilcrow"/>Item personalis subpositionis alia est differentia nam
             <lb ed="#T"/>eius alia est restricta, alia ampliata. Et ideo restrictio et am<lb ed="#T"/>pliatio
             habent fieri circa personalem subpositionem.
           </p>
         </div>
-        <div>
-          <head>
+        <div xml:id="phsl-t9-Dd1e127">
+          <head xml:id="phsl-t9-Hd1e129">
             <supplied>De restrictione et ampliatione</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t9-d1e135">
             <pc type="#pilcrow"/>Restrictio est co<lb ed="#T"/>artatio
             termini comunis a maiori subpositione ad minorem. Vt cum dicitur <mentioned>homo
             <lb ed="#T"/>albus currit</mentioned>, hoc adiuectiuum <mentioned>albus</mentioned> restringit hominem ad subponendum
             <lb ed="#T"/>pro albis.
           </p>
-          <p>
+          <p xml:id="phsl-t9-d1e152">
             <pc type="#pilcrow"/>Ampliatio est extensio termini comunis a minori
             <lb ed="#T"/>subpositione ad maiorem. Vt cum dicitur <mentioned>homo potest esse Antichristus</mentioned>, iste terminus
             <lb ed="#T"/><mentioned>homo</mentioned> subponit non solum pro hiis qui sunt, sed pro hiis qui erunt.
@@ -83,11 +83,11 @@
             <lb ed="#T"/>discretus, ut <mentioned>Socrates</mentioned>, nec restringitur neque ampliatur.
           </p>
         </div>
-        <div>
-          <head>
+        <div xml:id="phsl-t9-Dd1e175">
+          <head xml:id="phsl-t9-Hd1e177">
             <supplied>De ampliationis diuisione</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t9-d1e183">
             <pc type="#pilcrow"/>Am<lb ed="#T"/>pliationum
             autem alia fit per uerbum, ut per hoc uerbum <mentioned>potest</mentioned>,
             <lb ed="#T"/>ut <mentioned>homo potest esse Antichristus</mentioned>; alia per nomen, ut <mentioned>homine esse Antichristum
@@ -102,23 +102,23 @@
           </p>
         </div>
 
-        <div>
-          <head>
+        <div xml:id="phsl-t9-Dd1e236">
+          <head xml:id="phsl-t9-Hd1e238">
             <supplied>Sophisma</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t9-d1e244">
             <pc type="#pilcrow"/>Circa predicta queritur de hoc sophismate: <mentioned>Impossibile
             <lb ed="#T"/>potest esse uerum</mentioned>. Probatio: id quod est uel erit impossibile potest esse
             <lb ed="#T"/>uerum, ut <mentioned>Antichristum non fuisse</mentioned> post tempus eius, et modo potest
             <lb ed="#T"/>esse uerum, quia est uerum; ergo impossibile potest esse uerum.
           </p>
-          <p>
+          <p xml:id="phsl-t9-d1e261">
             <pc type="#pilcrow"/>Contra:
             <lb ed="#T"/>quicquid potest esse uerum est possibile; sed impossibile potest esse uerum; ergo
             <lb ed="#T"/>impossibile est possibile, in tercio prime; sed conclusio est falsa; ergo aliqua
             <lb ed="#T"/>premissarum; non maior; ergo minor; sed hec est prima; ergo est falsa.
           </p>
-          <p>
+          <p xml:id="phsl-t9-d1e272">
             <lb ed="#T"/><pc type="#pilcrow"/>Solutio: prima falsa hec, scilicet, <mentioned>impossibile potest esse uerum</mentioned>. <pc type="#pilcrow"/>Et probatio pec<lb ed="#T"/>cat
             secundum sophismam accidentis, quia cum dico <mentioned>id quod est impossibile</mentioned> duo
             <lb ed="#T"/>dico, scilicet, subiectum ipsius impossibilitatis et ipsam impossibilitatem siue ipsum impossibile. Sed
@@ -131,11 +131,11 @@
           </p>
         </div>
 
-        <div>
-          <head>
+        <div xml:id="phsl-t9-Dd1e317">
+          <head xml:id="phsl-t9-Hd1e319">
             <supplied>De duabus regulis</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t9-d1e325">
             <pc type="#pilcrow"/>De ampliatione
             <lb ed="#T"/>autem que fit ratione subpositorum talis datur regula:<!--RULE--> <pc type="#pilcrow"/>terminus
             <lb ed="#T"/>communis subponens uerbo habenti uim ampliandi a se, uel ab alio
@@ -147,14 +147,14 @@
             ampliandi uerbo cui adiunguntur, ut <mentioned>homo ens est potens esse <add place="above-line">animal</add></mentioned>
             <lb ed="#T"/>uel <mentioned>animal est possibile esse album</mentioned>.
           </p>
-          <p>
+          <p xml:id="phsl-t9-d1e388">
             <pc type="#pilcrow"/>De ampliatione autem que fit
             <lb ed="#T"/>ratione temporis talis datur regula: <!--RULE--><pc type="#pilcrow"/>terminus subponens uel appon<lb ed="#T"/>nens
             uerbo habenti uim ampliandi quod ad tempus subponit pro hiis
             <lb ed="#T"/>que sunt, et que semper erunt. Vt: <mentioned>homo necessario est animal</mentioned>. Tam <mentioned>homo</mentioned> quam <mentioned>animal</mentioned> subponit
             <lb ed="#T"/>pro hiis que sunt, et que semper erunt.
           </p>
-          <p>
+          <p xml:id="phsl-t9-d1e414">
             Et de ampliationibus hec dicta
             <lb ed="#T"/>sufficiant.
           </p>

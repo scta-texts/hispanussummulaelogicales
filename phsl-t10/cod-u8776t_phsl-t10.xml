@@ -50,16 +50,16 @@
     <body>
       <div xml:id="phsl-t10">
 
-        <div>
-          <head>
+        <div xml:id="phsl-t10-Dd1e98">
+          <head xml:id="phsl-t10-Hd1e100">
             <supplied>De appelationis diffinitione</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t10-d1e106">
             <lb ed="#T"/><pc type="#pilcrow"/>Appelatio est acceptio termini <unclear reason="damage">comunis</unclear> pro re existente. <pc type="#pilcrow"/>Di<lb ed="#T"/>co
             autem <mentioned>pro re existente</mentioned> quia terminus significans non ens nichil app<lb ed="#T"/>ellat,
             <lb ed="#T"/>ut <mentioned>Cesar</mentioned>, <mentioned>Antichristus</mentioned>, <mentioned>chimera</mentioned>, et sic de aliis.
           </p>
-          <p>
+          <p xml:id="phsl-t10-d1e136">
             <pc type="#pilcrow"/>Di<lb ed="#T"/>ffert
             autem appellatio a subpositione, et a significatione, quia appellatio
             <lb ed="#T"/>est tantum de re existente. Significatio uero et subpositio est tam de re ex<lb ed="#T"/>istente
@@ -69,11 +69,11 @@
             tantum homines existentes.
           </p>
         </div>
-        <div>
-          <head>
+        <div xml:id="phsl-t10-Dd1e161">
+          <head xml:id="phsl-t10-Hd1e163">
             <supplied>De appellationis diuisione</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t10-d1e169">
             <pc type="#pilcrow"/>Appellationum autem alia
             <cb ed="#T" n="b"/>
             <lb ed="#T"/>est termini communis, ut <mentioned>hominis</mentioned>, alia est termini singularis. Terminus sin<lb ed="#T"/>gularis
@@ -81,11 +81,11 @@
             ut Petrus, uel Iohannes.
           </p>
         </div>
-        <div>
-          <head>
+        <div xml:id="phsl-t10-Dd1e187">
+          <head xml:id="phsl-t10-Hd1e189">
             <supplied>De appellatione termini communis</supplied>
           </head>
-          <p>
+          <p xml:id="phsl-t10-d1e195">
             <pc type="#pilcrow"/>Item appellationis termini
             <lb ed="#T"/>comunis, alia est termini comunis pro ipsa re in comuni, ut quando terminus comunis
             <lb ed="#T"/>habet simplicem subpositionem, ut cum dicitur <mentioned>homo est species</mentioned> uel <mentioned>animal
@@ -93,7 +93,7 @@
             <lb ed="#T"/>ut <mentioned>homo</mentioned> significat hominem in comuni, et subponit pro homine in comuni, et ap<lb ed="#T"/>pellat
             hominem.
           </p>
-          <p>
+          <p xml:id="phsl-t10-d1e220">
             <pc type="#pilcrow"/>Alia autem est terminus comunis pro suis inferioribus
             <lb ed="#T"/>ut quando terminus comunis <del rend="expunctuation">simplicem</del> habet personalem subpositionem, ut cum
             <lb ed="#T"/>dicitur <mentioned>homo currit</mentioned>. Tunc <mentioned>homo</mentioned> non idem significat, et subponit et appellat,

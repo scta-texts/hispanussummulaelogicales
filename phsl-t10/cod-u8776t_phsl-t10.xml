@@ -2,14 +2,13 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Tractatus 1</title>
+        <title>Tractatus 10</title>
       	<author>Petrus Hispanus</author>
-        <editor>Joana Gomes</editor>
-        <editor>Mario</editor>
+        <editor>Mário João Correia</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Tractatus 1</title>
+          <title>Tractatus 10: De appellationibus</title>
           <date when="2019-06-06">June 5, 2019</date>
         </edition>
       </editionStmt>
@@ -22,7 +21,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="T" n="cod-u8776t">Tarragona, Library of the Palacio del Arzobispo, cod 2</witness>
+          <witness xml:id="T" n="cod-u8776t">Tarragona, Arxiu Historic Arxidiocesà, cod 2 (85)</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -45,14 +44,63 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        
+        <pb ed="#T" n="21-v"/><cb ed="#T" n="a"/>
       </div>
     </front>
     <body>
       <div xml:id="phsl-t10">
-        
-        
 
+        <div>
+          <head>
+            <supplied>De appelationis diffinitione</supplied>
+          </head>
+          <p>
+            <lb ed="#T"/><pc type="#pilcrow"/>Appelatio est acceptio termini <unclear reason="damage"/>comunis</unclear> pro re existente. <pc type="#pilcrow"/>Di<lb ed="#T"/>co
+            autem <mentioned>pro re existente</mentioned> quia terminus significans non ens nichil app<lb ed="#T"/>ellat,
+            <lb ed="#T"/>ut <mentioned>Cesar</mentioned>, <mentioned>Antichristus</mentioned>, <mentioned>chimera</mentioned>, et sic de aliis.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Di<lb ed="#T"/>ffert
+            autem appellatio a subpositione, et a significatione, quia appellatio
+            <lb ed="#T"/>est tantum de re existente. Significatio uero et subpositio est tam de re ex<lb ed="#T"/>istente
+            quam non existente, ut <mentioned>Antichristus</mentioned> significat Antichristum, et subpo<lb ed="#T"/>nit
+            pro Antichristo, sed nichil appellat. <mentioned>Homo</mentioned> autem significat hominem, et de natura
+            <lb ed="#T"/>sua subponit tam pro hominibus existentibus quam non existentibus. Et appe<lb ed="#T"/>llat
+            tantum homines existentes.
+          </p>
+        </div>
+        <div>
+          <head>
+            <supplied>De appellationis diuisione</supplied>
+          </head>
+          <p>
+            <pc type="#pilcrow"/>Appellationum autem alia
+            <cb ed="#T" n="b"/>
+            <lb ed="#T"/>est termini communis, ut <mentioned>hominis</mentioned>, alia est termini singularis. Terminus sin<lb ed="#T"/>gularis
+            significat idem et subponit et appellat, quare significat rem ex<lb ed="#T"/>istentem,
+            ut Petrus, uel Iohannes.
+          </p>
+        </div>
+        <div>
+          <head>
+            <supplied>De appellatione termini communis</supplied>
+          </head>
+          <p>
+            <pc type="#pilcrow"/>Item appellationis termini
+            <lb ed="#T"/>comunis, alia est termini comunis pro ipsa re in comuni, ut quando terminus comunis
+            <lb ed="#T"/>habet simplicem subpositionem, ut cum dicitur <mentioned>homo est species</mentioned> uel <mentioned>animal
+            <lb ed="#T"/>est genus</mentioned>. Et tunc terminus comunis idem significat, et subponit, et appellat,
+            <lb ed="#T"/>ut <mentioned>homo</mentioned> significat hominem in comuni, et subponit pro homine in comuni, et ap<lb ed="#T"/>pellat
+            hominem.
+          </p>
+          <p>
+            <pc type="#pilcrow"/>Alia autem est terminus comunis pro suis inferioribus
+            <lb ed="#T"/>ut quando terminus comunis <del rend="expunctuation">simplicem</del> habet personalem subpositionem, ut cum
+            <lb ed="#T"/>dicitur <mentioned>homo currit</mentioned>. Tunc <mentioned>homo</mentioned> non idem significat, et subponit et appellat,
+            <lb ed="#T"/>sed significat hominem in comuni, et subponit pro particularibus hominibus, et
+            <lb ed="#T"/>appellat particulares homines existentes.
+          </p>
+        </div>
       </div>
     </body>
   </text>

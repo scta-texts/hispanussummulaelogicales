@@ -59,10 +59,13 @@
             <lb ed="#T"/>ad aliquid quodammodo se habere, et sic relatiuum est unum de X predi<lb ed="#T"/>camentis.
             <pc type="#pilcrow"/>Alio autem modo relatiuum est rei antelate recordatiuum,
             <lb ed="#T"/>quia ut uult <ref><name>Priscianus</name> in
-            <choice>
-              <sic>maiori</sic>
-              <corr><title>minori</title></ref></corr>
-            </choice>
+              <title>
+                <choice>
+                  <sic>maiori</sic>
+                  <corr>minori</corr>
+                </choice>
+              </title>
+            </ref>
             relatio est antelate rei recordatio,
             <lb ed="#T"/>ut <mentioned>Socrates currit qui disputat</mentioned> - hoc relatiuum qui facit recordationem de Socrate
             <lb ed="#T"/>qui est rei antelata.
@@ -144,10 +147,13 @@
               in loco relatiui, ut <mentioned>homo currit, homo disputat</mentioned>, quia dubium est utrum
               <lb ed="#T"/>de eodem homine dicatur uel non. Sed cum dicitur <mentioned>homo currit, et ille dis<lb ed="#T"/>putat</mentioned>,
               certum est quod de eodem dicitur. Hoc enim patet secundum <ref><name>Priscianus</name> in
-              <choice>
-                <sic>maiori</sic>
-                <corr><title>minori</title></ref></corr>
-              </choice>
+                <title>
+                  <choice>
+                    <sic>maiori</sic>
+                    <corr>minori</corr>
+                  </choice>
+                </title>
+              </ref>
               dicen<lb ed="#T"/>tem
               quod cum dicitur <mentioned>Aiax uenit ad Troiam, Aiax fortiter pugnauit</mentioned>,
               <lb ed="#T"/>dubium est an de eodem intelligatur. Sed si dicatur <mentioned>Aiax ue<lb ed="#T"/>nit
@@ -368,7 +374,7 @@
             </head>
             <p>
               <pc type="#pilcrow"/>Relatiuum autem accidentis dupliciter dicitur, quia aliud est
-              <lb ed="#T"/>relatiuum idemptitatis, ut <mentioned>talis</mentioned>; aliud est relatiuum diuersitatis, ut <mentioned>alterius<lb ed="#T"/>modi.
+              <lb ed="#T"/>relatiuum idemptitatis, ut <mentioned>talis</mentioned>; aliud est relatiuum diuersitatis, ut <mentioned>alterius<lb ed="#T"/>modi</mentioned>.
               <pc type="#pilcrow"/>Relatiuum autem idemptitatis in accidentibus est quod refert idem
               <lb ed="#T"/>in specie, ut <mentioned>talis</mentioned> et <mentioned>tantus</mentioned>. <pc type="#pilcrow"/>Relatiuum autem diuersitatis in acciden<lb ed="#T"/>tibus
               <lb ed="#T"/>est quod refert eandem qualitatem in specie, et subponit pro qualitate
@@ -395,7 +401,7 @@
           </div>
           <div>
             <head type="question-title">
-              <supplied>De his dictionibus <mentioned>talis</mentioned>, <mentioned>tantus</mentioned>, <mentioned>tot</mentioned>, <mentioned>totidem</mentioned> et <mentioned>toties</mentioned>
+              <supplied>De his dictionibus <mentioned>talis</mentioned>, <mentioned>tantus</mentioned>, <mentioned>tot</mentioned>, <mentioned>totidem</mentioned> et <mentioned>toties</mentioned></supplied>
             </head>
             <p>
               <pc type="#pilcrow"/>Sciendum uero quod <mentioned>talis</mentioned>, et <mentioned>tantus</mentioned>, et <mentioned>totidem</mentioned>, et <mentioned>totiens</mentioned>

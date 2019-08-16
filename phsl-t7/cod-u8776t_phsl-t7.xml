@@ -2857,7 +2857,7 @@
                   <pc type="#pilcrow"/>Tercius modus
                   <lb ed="#T"/>econuerso quando uniuersale petitur in particulari, ut si debeat probari quod
                   <lb ed="#T"/>omnium oppositorum eadem est disciplina et sumatur hec: <mentioned>omnium contrariorum
-                  <lb ed="#T"/>eadem est disciplina; omnium priuatiue oppositorum eadem est disciplina;
+                  <lb ed="#T"/>eadem est disciplina; omnium priuatiue oppositorum eadem est disciplina;</mentioned>
                   <lb ed="#T"/>et sic de aliis; ergo omnium oppositorum eadem est disciplina.
                 </p>
               </div>
@@ -2986,7 +2986,7 @@
                   <lb ed="#T"/>autem modus est quando putant conuerti consequentiam propter circunstantias ali<lb ed="#T"/>quas
                   inherentes <unclear>persone</unclear> sicut accidit in rethoricis, ut: <mentioned>si est adulter,
                   <lb ed="#T"/>est comptus uel errabundus de nocte; et sic de aliis circun<lb ed="#T"/>stantiis;
-                  ergo si est comptus uel errabundus de nocte et caetera, est ad<lb ed="#T"/>ulter<mentioned>.
+                  ergo si est comptus uel errabundus de nocte et caetera, est ad<lb ed="#T"/>ulter</mentioned>.
                   Hic est consequens quia si est adulter habet aliquam de circunstantiis
                   <lb ed="#T"/>adulteri, sed non econuerso, sicut <mentioned>si est homo est coloratus</mentioned> et non econuerso.
                   <lb ed="#T"/>Similiter hic: <mentioned>si furatus est non lucratus est illud, neque accepit acom<lb ed="#T"/>odatum;
@@ -3170,8 +3170,8 @@
                   <subst>
                     <del>A</del>
                     <add>E</add>
-                    nuntiatio
                   </subst>
+                  nuntiatio
                 </seg>, propositio, interrogatio, et conclusio sunt idem in substantia.
                 <lb ed="#T"/>Differunt autem propriis rationibus. Verbi gratia, hec oratio <mentioned>omnis homo
                 <lb ed="#T"/>currit</mentioned> secundum quod significat res esse uel non esse dicitur enuntiatio; eadem

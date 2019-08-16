@@ -85,7 +85,7 @@
         </div>
         <div>
           <head>
-            <supplied>De ampliationis diuisione</mentioned>
+            <supplied>De ampliationis diuisione</supplied>
           </head>
           <p>
             <pc type="#pilcrow"/>Am<lb ed="#T"/>pliationum
@@ -94,7 +94,7 @@
             <pb ed="#T" n="21-v"/>
             <cb ed="#T" n="a"/>
             <lb ed="#T"/>est possibile</mentioned>; alia per participium, ut <mentioned>homo est ens potens esse <add place="above-line">Antichristus</add>
-            <lb ed="#T"/><del rend="expunctuation"/>animal</del>; <mentioned>homo</mentioned> enim ampliatur ut non solum pro presenti tempore, sed etiam
+            <lb ed="#T"/><del rend="expunctuation">animal</del></mentioned>; <mentioned>homo</mentioned> enim ampliatur ut non solum pro presenti tempore, sed etiam
             <lb ed="#T"/>pro futuro teneatur. Et ideo sumitur alia diuisio ampliationis,
             <lb ed="#T"/>scilicet, quod ampliationis alia est respectu subpositorum, ut <mentioned>homo potest
             <lb ed="#T"/>esse Antichristus</mentioned>, alia respectu temporis, ut <mentioned>homo necessario est animal</mentioned>, ut dictum

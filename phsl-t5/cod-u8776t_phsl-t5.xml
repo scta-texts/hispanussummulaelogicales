@@ -2,13 +2,13 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Tractatus 5</title>
+        <title>Tractatus V: De locis</title>
       	<author>Petrus Hispanus</author>
         <editor>Mário João Correia</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Tractatus 5: De locis</title><!--In this witness, it is the fourth. Order: I - II - IV - V - III - VI...-->
+          <title>Tractatus V: De locis</title><!--In this witness, it is the fourth. Order: I - II - IV - V - III - VI...-->
           <date when="2019-06-06">June 5, 2019</date>
         </edition>
       </editionStmt>
@@ -95,7 +95,7 @@
           <p xml:id="phsl-t5-d1e186">
             <lb ed="#T"/><pc type="#pilcrow"/>Argumentum est ratio rei dubie faciens fidem, id est, medium
             <lb ed="#T"/>probans conclusionem que debet confirmari per argumentum. Est enim
-            <lb ed="#T"/>conclusio argumento, uel argumentis aprobata propositio. Sed ante<lb ed="#T"/>quam
+            <lb ed="#T"/>conclusio argumento, uel argumentis aprobata propositio. set ante<lb ed="#T"/>quam
             aprobetur est dubitalis, et tunc est questio. <pc type="#pilcrow"/>Questio
             <lb ed="#T"/>enim diffinitur: questio est dubitalis propositio. Medium est quod
             <lb ed="#T"/>habet duo extrema.
@@ -182,7 +182,7 @@
             sumpta semel, et ex medio debet fieri propositio una
             <lb ed="#T"/>secundum exigentiam modi, et fit sillogismus. Verbi gratia, in hoc enthimemate –
             <lb ed="#T"/><mentioned>omne animal currit; ergo omnis homo currit</mentioned> –, <mentioned>homo</mentioned> et <mentioned>currit</mentioned> sunt extremitates, <mentioned>animal</mentioned>
-            <lb ed="#T"/>est medium. Sed hec extremitas, scilicet, <mentioned>homo</mentioned> sumpta est semel; ergo ex
+            <lb ed="#T"/>est medium. set hec extremitas, scilicet, <mentioned>homo</mentioned> sumpta est semel; ergo ex
             <lb ed="#T"/>ipsa et medio fiet propositio una <gap extent="2" unit="characters"/> et tunc completus est sillogismus
             <lb ed="#T"/>sic: <mentioned>omne animal currit; omnis homo est animal; ergo omnis homo currit</mentioned>.
           </p>
@@ -580,7 +580,7 @@
                   <p xml:id="phsl-t5-d1e1478">
                     <pc type="#pilcrow"/>Ab effectu materie transe<lb ed="#T"/>untis
                     sic: <mentioned>vitrum uel panis est; ergo filix uel farina</mentioned>.
-                    <lb ed="#T"/>Materia enim transiens non manet sed transubstantiatur in aliam materiam.
+                    <lb ed="#T"/>Materia enim transiens non manet set transubstantiatur in aliam materiam.
                     <lb ed="#T"/>Maxima: posito effectu materie <unclear>transeuntis</unclear> necesse est ipsam prefui<lb ed="#T"/>sse.
                   </p>
                 </div>
@@ -665,7 +665,7 @@
                 <p xml:id="phsl-t5-d1e1718">
                   <lb ed="#T"/><pc type="#pilcrow"/><mentioned>Communiter accidentia</mentioned> sumuntur dupliciter: quedam enim sunt que
                   <lb ed="#T"/>aliquando se consequuntur, et aliquando non, ut <mentioned>comptus</mentioned> et <mentioned>ad<lb ed="#T"/>ulter</mentioned>,
-                  et ab hiis non sumitur locus dyalecticus sed sophisticus. Alia
+                  et ab hiis non sumitur locus dyalecticus set sophisticus. Alia
                   <lb ed="#T"/>sunt quorum alterum semper consequitur alterum, ut <unclear reason="damage"><mentioned>penitere</mentioned></unclear> sequitur
                   <lb ed="#T"/><mentioned>deliquisse</mentioned>, et ab hiis sumitur dyalecticus, ut <mentioned>penitet; ergo de<lb ed="#T"/>liquit</mentioned>.
                   <pc type="#pilcrow"/>Locus a communiter accidentibus. Maxima: si communiter accidentium
@@ -783,10 +783,10 @@
                   </head>
                   <p xml:id="phsl-t5-d1e2029">
                     <lb ed="#T"/><pc type="#pilcrow"/>Locus a simili est habitudo unius similis ad reliquum, ut
-                    <lb ed="#T"/><mentioned>sicut inest risibile homini, et hinnibili equo; sed risibile est proprium
+                    <lb ed="#T"/><mentioned>sicut inest risibile homini, et hinnibili equo; set risibile est proprium
                     <lb ed="#T"/>hominis; ergo hinnibile equi</mentioned>. Locus a simili. Maxima: de similibus
                     <lb ed="#T"/>idem est iudicium. <pc type="#pilcrow"/>Destructiue sic: <mentioned>sicut inest risibile homini, inest hin<lb ed="#T"/>nibile
-                    equo; sed risibile non inest homini ut genus; ergo hinnibile non inest equo
+                    equo; set risibile non inest homini ut genus; ergo hinnibile non inest equo
                     <lb ed="#T"/>ut genus</mentioned>. <pc type="#pilcrow"/>Locus a simili. Maxima: si unum simile inest
                     <lb ed="#T"/>et reliquum; aut si unum non inest, nec reliquum.
                   </p>
@@ -798,9 +798,9 @@
                   <p xml:id="phsl-t5-d1e2063">
                     <lb ed="#T"/><pc type="#pilcrow"/>Locus a proportione est habitudo unius proportionalium ad reliquum,
                     <lb ed="#T"/>ut <mentioned>sicut se habet retor nauis ad nauem, ita se habet rec<lb ed="#T"/>tor
-                    scolarum ad scolas; sed rector nauis est eligendus non
-                    <lb ed="#T"/>sorte, sed arte; ergo rector scolarum est eligendus non sorte,
-                    <lb ed="#T"/>sed arte</mentioned>. <pc type="#pilcrow"/>Locus a proportione. Maxima: de proportionalibus idem est iudicium.
+                    scolarum ad scolas; set rector nauis est eligendus non
+                    <lb ed="#T"/>sorte, set arte; ergo rector scolarum est eligendus non sorte,
+                    <lb ed="#T"/>set arte</mentioned>. <pc type="#pilcrow"/>Locus a proportione. Maxima: de proportionalibus idem est iudicium.
                     <lb ed="#T"/>Differt autem locus iste a loco a simili, quia in loco a simili
                     <lb ed="#T"/>accipitur comparatio secundum habitudinem.
                   </p>
@@ -831,7 +831,7 @@
                     quia in loco a nominis interpretatione accipitur diffinitio
                     <lb ed="#T"/>siue descriptio nominis, uel expositio, ut <mentioned>philosophus</mentioned> exponitur per hoc quod di<lb ed="#T"/>co
                     <mentioned>amator sapientie</mentioned>. In loco autem a transuptione non acci<lb ed="#T"/>pitur
-                    expositio nominis, sed quod pro uno nomine minus noto sumitur aliquod no<lb ed="#T"/>tum
+                    expositio nominis, set quod pro uno nomine minus noto sumitur aliquod no<lb ed="#T"/>tum
                     magis uel aliquod aliud per quod facilius probetur propositum.
                   </p>
                 </div>
@@ -887,7 +887,7 @@
                   </head>
                   <p xml:id="phsl-t5-d1e2286">
                     <lb ed="#T"/><pc type="#pilcrow"/>Diuisionum alia est per negationem, ut <mentioned>Socrates aut est homo
-                    <lb ed="#T"/>aut non est homo; sed non est non homo; ergo est homo</mentioned>. <pc type="#pilcrow"/>Loco a diuisio<lb ed="#T"/>ne.
+                    <lb ed="#T"/>aut non est homo; set non est non homo; ergo est homo</mentioned>. <pc type="#pilcrow"/>Loco a diuisio<lb ed="#T"/>ne.
                     Maxima: si aliqua duo condiuidunt aliquid posito uno remouetur
                     <lb ed="#T"/>reliquum, uel remoto uno ponitur reliquum.
                   </p>
@@ -910,7 +910,7 @@
                     <pc type="#pilcrow"/>Locus
                     <lb ed="#T"/>a diuisione est habitudo unius condiuidentium ad alterum. A di<lb ed="#T"/>uisione
                     uero secundum negationem sic sumitur argumentum: <mentioned>Socrates aut est
-                    <lb ed="#T"/>homo, aut non est homo; sed non est non homo; ergo est homo</mentioned>. Maxima:
+                    <lb ed="#T"/>homo, aut non est homo; set non est non homo; ergo est homo</mentioned>. Maxima:
                     <lb ed="#T"/>posito uno condiuidentium remouetur aliud, uel remoto uno ponitur aliud.
                     <lb ed="#T"/>Eodem autem modo fiet in aliis constructiue et destructiue. A diuisione
                     <lb ed="#T"/>per se sic sumitur argumentum, ut <mentioned>si Socrates est animal aut est rationale
@@ -918,14 +918,14 @@
                     <note type="marginal-note" place="margin-right"><!-- THIS IS IN THE END OF THE PAGE. I don't know how to encode it. it has a little sign,
                       maybe to refer to some text that is lacking in the middle of the main text, but I can't find it in the regular text...-->
                       <lb ed="#T"/>Disparata sunt que non sunt opposita secundum aliquod genus <unclear>predicte</unclear>
-                      <lb ed="#T"/>oppositionis, sed diuisa sunt sicut homo et asinus, et a talibus
+                      <lb ed="#T"/>oppositionis, set diuisa sunt sicut homo et asinus, et a talibus
                       <lb ed="#T"/>sic sumitur argumentum: <mentioned>Socrates est homo; ergo non est asinus</mentioned>. Maxima: de quo<lb ed="#T"/>cumque
                       dicitur unum disparatorum X quod predicatur abstractiue, ab eodem
-                      <lb ed="#T"/>remouetur reliquum; sed quod abstractiue sumitur dictum est
+                      <lb ed="#T"/>remouetur reliquum; set quod abstractiue sumitur dictum est
                       <lb ed="#T"/>prius, quia si concrete sumeretur non oporteret. Vnde
                       <lb ed="#T"/><unclear>non</unclear> tenet hoc: <mentioned>est album; ergo non est quantum</mentioned>.
                       <lb ed="#T"/>Locus diffinita sunt disparata, et si <unclear>queratur</unclear>
-                      <lb ed="#T"/>unde locus debet responderi a disparatis, sed
+                      <lb ed="#T"/>unde locus debet responderi a disparatis, set
                       <lb ed="#T"/>sequitur hec: <mentioned>est albedo; ergo non est quantitas</mentioned>.
                       <lb ed="#T"/>Sequitur de locis mediis
                       <lb ed="#T"/>quid sit locus me<lb ed="#T"/>dius
@@ -933,7 +933,7 @@
                       <lb ed="#T"/>est prius.
                     </note>
                     <cb ed="#T" n="b"/>
-                    <lb ed="#T"/>aut irrationale; sed non est irrationale; ergo est rationale</mentioned>, et sic de omnibus aliis diuisionibus.
+                    <lb ed="#T"/>aut irrationale; set non est irrationale; ergo est rationale</mentioned>, et sic de omnibus aliis diuisionibus.
                   </p>
                 </div>
               </div>

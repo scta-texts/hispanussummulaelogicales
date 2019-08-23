@@ -2,13 +2,13 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Tractatus 10</title>
+        <title>Tractatus X: De appellationibus</title>
       	<author>Petrus Hispanus</author>
         <editor>Mário João Correia</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Tractatus 10: De appellationibus</title>
+          <title>Tractatus X: De appellationibus</title>
           <date when="2019-06-06">June 5, 2019</date>
         </edition>
       </editionStmt>
@@ -64,7 +64,7 @@
             autem appellatio a subpositione, et a significatione, quia appellatio
             <lb ed="#T"/>est tantum de re existente. Significatio uero et subpositio est tam de re ex<lb ed="#T"/>istente
             quam non existente, ut <mentioned>Antichristus</mentioned> significat Antichristum, et subpo<lb ed="#T"/>nit
-            pro Antichristo, sed nichil appellat. <mentioned>Homo</mentioned> autem significat hominem, et de natura
+            pro Antichristo, set nichil appellat. <mentioned>Homo</mentioned> autem significat hominem, et de natura
             <lb ed="#T"/>sua subponit tam pro hominibus existentibus quam non existentibus. Et appe<lb ed="#T"/>llat
             tantum homines existentes.
           </p>
@@ -97,7 +97,7 @@
             <pc type="#pilcrow"/>Alia autem est terminus comunis pro suis inferioribus
             <lb ed="#T"/>ut quando terminus comunis <del rend="expunctuation">simplicem</del> habet personalem subpositionem, ut cum
             <lb ed="#T"/>dicitur <mentioned>homo currit</mentioned>. Tunc <mentioned>homo</mentioned> non idem significat, et subponit et appellat,
-            <lb ed="#T"/>sed significat hominem in comuni, et subponit pro particularibus hominibus, et
+            <lb ed="#T"/>set significat hominem in comuni, et subponit pro particularibus hominibus, et
             <lb ed="#T"/>appellat particulares homines existentes.
           </p>
         </div>

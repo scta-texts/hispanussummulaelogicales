@@ -2,14 +2,13 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Tractatus 11</title>
+        <title>Tractatus XI: De restrictionibus</title>
       	<author>Petrus Hispanus</author>
-        <editor>Joana Gomes</editor>
-        <editor>Mario</editor>
+        <editor>Mário João Correia</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Tractatus 11</title>
+          <title>Tractatus XI: De restrictionibus</title>
           <date when="2019-06-06">June 5, 2019</date>
         </edition>
       </editionStmt>
@@ -22,7 +21,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="T" n="cod-u8776t">Tarragona, Library of the Palacio del Arzobispo, cod 2</witness>
+          <witness xml:id="T" n="cod-u8776t">Tarragona, Arxiu Historic Arxidiocesà, cod 2 (85)</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -45,14 +44,351 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        
+        <pb ed="#T" n="21-v"/><cb ed="#T" n="b"/>
       </div>
     </front>
     <body>
       <div xml:id="phsl-t11">
-        
-        
-
+        <div>
+          <head>
+            <supplied>De restrictionis diffinitione</supplied>
+          </head>
+          <p>
+            <pc type="#pilcrow"/>Dicto de
+            <lb ed="#T"/>appellationibus, et ampliationibus, dicendum est de restrictionibus. <pc type="#pilcrow"/>Re<lb ed="#T"/>strictio
+            est coartatio termini comunis a maiori subpositione ad mi<lb ed="#T"/>norem,
+            ut dictum est prius.
+          </p>
+        </div>
+        <div>
+          <head>
+            <supplied>De restrictionis diuisione</supplied>
+          </head>
+          <p>
+            <pc type="#pilcrow"/>Restrictionum autem alia fit per nomen,
+            <lb ed="#T"/>ut cum dicitur <mentioned>homo albus</mentioned>, iste terminus <mentioned>homo</mentioned> non subponit pro nigris, neque
+            <lb ed="#T"/>pro medio colore coloratis, set restringitur ad albos. <pc type="#pilcrow"/>Alia
+            <lb ed="#T"/>fit per uerbum, ut cum dicitur <mentioned>homo currit</mentioned>, iste terminus <mentioned>homo</mentioned> subponit pro pre<lb ed="#T"/>sentibus.
+            Alia fit per participium, ut cum dicitur <mentioned>homo currens dispu<lb ed="#T"/>tat</mentioned>,
+            iste terminus <mentioned>homo</mentioned> subponit pro currentibus. <pc type="#pilcrow"/>Alia per implicationem,
+            <lb ed="#T"/>ut cum dicitur <mentioned>homo qui est albus currit</mentioned>, hec implicatio <mentioned>qui est albus</mentioned>
+            <lb ed="#T"/>restringit hominem ad albos.
+          </p>
+          <div>
+            <head type="question-title">
+              <supplied>De restrictione facta per nomen</supplied>
+            </head>
+            <p>
+              <pc type="#pilcrow"/>Item restrictionis facte per nomen
+              <lb ed="#T"/><pc type="#pilcrow"/>alia fit per inferius appositum superiori, ut cum dicitur <mentioned>animal homo</mentioned>,
+              <lb ed="#T"/>iste terminus <mentioned>animal<mentioned> subponit tantum pro animalibus que sunt homines. <pc type="#pilcrow"/>Alia fit per
+              <lb ed="#T"/>differentiam aduenientem generi que est essentialis cum sit constitu<lb ed="#T"/>tiua
+              speciei, ut cum dicitur <mentioned>animal rationale</mentioned>; <pc type="#pilcrow"/>hic enim <mentioned>animal</mentioned> subponit pro rationalibus.
+              <lb ed="#T"/><pc type="#pilcrow"/>Alia fit per adiectiuum accidentis, ut cum dicitur <mentioned>homo albus</mentioned>, iste
+              <lb ed="#T"/>terminus <mentioned>homo</mentioned> subponit pro albis.
+            </p>
+          </div>
+          <div>
+            <head type="question-title">
+              <supplied>De quadam regula circa restrictionem factam per nomen</supplied>
+            </head>
+            <p>
+              <pc type="#pilcrow"/>De restrictione facta per nomen
+              <lb ed="#T"/>comuniter sumpta talis datur regula: <!--RULE--><pc type="#pilcrow"/>Omne nomen non dimi<lb ed="#T"/>nuens
+              nec habens naturam ampliandi adiunctum ex eadem
+              <lb ed="#T"/>parte non magis comuni restringit ipsum pro hiis ad que exigit
+              <lb ed="#T"/>sua significatio, ut patet in exemplis supradictis, quia <mentioned>homo</mentioned> per suam significationem
+              <lb ed="#T"/>restringit <mentioned>animal</mentioned> tantum ad animalia que sunt homines, cum dicitur <mentioned>animal homo</mentioned>.
+              <lb ed="#T"/>Et <mentioned>albus</mentioned> restringit hominem per suam significationem ad homines albos,
+              <lb ed="#T"/>cum dicitur <mentioned>homo est albus</mentioned>.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Dico autem <mentioned>non diminuens</mentioned> ad remouendum
+              <lb ed="#T"/>nomina diminuentia ratione adiuncti, ut <mentioned>mortuus</mentioned> et <mentioned>corrup<lb ed="#T"/>tus</mentioned>,
+              et consimilia que non restringunt, set potius destruunt ad<lb ed="#T"/>iunctum.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Dico autem <mentioned>non habens uim ampliandi</mentioned> ad remouendum
+              <lb ed="#T"/>dictionis ampliatiuas, ut <mentioned>possibile</mentioned> et <mentioned>potens</mentioned>, et consimilia que non restri<lb ed="#T"/>ngunt
+              set potius ampliant.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Et sciendum quod minus comune re<lb ed="#T"/>stringit
+              semper maigs comune, ut cum dicitur <mentioned>homo albus</mentioned>, quia <mentioned>homo</mentioned> reperitur in
+              <lb ed="#T"/>hominibus albis, et nigris, et medio colore coloratis. Albus
+              <lb ed="#T"/>autem non, quo ad hoc <mentioned>homo</mentioned> erit magis comune, et <mentioned>album</mentioned> minus comune
+              <lb ed="#T"/>et sic <mentioned>album</mentioned> restringit <mentioned>hominem</mentioned>. set secundum quod album reperitur
+              <pb ed="#T" n="22-r"/>
+              <cb ed="#T" n="a"/>
+              <lb ed="#T"/>in hominibus et in brutis, et lapidibus; <mentioned>homo</mentioned> autem non, sic <mentioned>album</mentioned> est
+              <lb ed="#T"/>magis comune, et <mentioned>homo</mentioned> minus comune, et sic <mentioned>homo</mentioned> coartat <mentioned>album</mentioned> ad al<lb ed="#T"/>bedinem
+              existentem in hominibus cum dicitur <mentioned>homo albus</mentioned>. Et sic <mentioned>homo</mentioned> tantum
+              <lb ed="#T"/>subponit pro hominibus albis, et <mentioned>album</mentioned> coartat ad albedinem que
+              <lb ed="#T"/>est in hominibus albis. Et sic utrumque coartat alterum secundum diuersa.
+            </p>
+          </div>
+          <div>
+            <head type="question-title">
+              <supplied>De quadam regula circa terminum restrictum</supplied>
+            </head>
+            <p>
+              <pc type="#pilcrow"/>Item
+              <lb ed="#T"/>de terminus restricto talis datur regula: <!--RULE--><pc type="#pilcrow"/>si signum uniuersale adue<lb ed="#T"/>niat
+              termino restricto non distribuit ipsum nisi pro hiis ad que
+              <lb ed="#T"/>restringitur. Vt cum dicitur <mentioned>omnis homo albus currit</mentioned>, quia <mentioned>homo</mentioned> restringitur
+              <lb ed="#T"/>ad albos non potest distribui nisi pro albis.
+            </p>
+          </div>
+          <div>
+            <head type="question-title">
+              <supplied>De quadam alia regula circa restrictionem</supplied>
+            </head>
+            <p>
+              <pc type="#pilcrow"/>Item de restrictione
+              <lb ed="#T"/>alia datur regula: <!--RULE--><pc type="#pilcrow"/>nichil positum a parte predicati potest restrin<lb ed="#T"/>gere
+              terminum comunem positum a parte subiecti quo ad principalem si<lb ed="#T"/>gnificationem.
+              <pc type="#pilcrow"/>Quia cum dicitur <mentioned>homo est albus</mentioned>, iste terminus <mentioned>albus</mentioned> in predicato po<lb ed="#T"/>situs
+              non potest restringere <mentioned>hominem</mentioned> in subiecto positum ad albos, quia si
+              <lb ed="#T"/>si restringeretur ad albos, ergo per regulam precedentem si <unclear>signum</unclear>
+              <lb ed="#T"/>uniuersale adueniat ei solum distribuit ipsum pro albis, et sic istius
+              <lb ed="#T"/><mentioned>omnis homo est albus</mentioned> sensus est <mentioned>omnis homo albus est albus</mentioned>. Ergo si una
+              <lb ed="#T"/>erit uera, reliqua est uera, et si una est falsa, reliqua est falsa, quod est
+              <lb ed="#T"/>falsum. Ergo cum dicitur <mentioned>homo est albus</mentioned> iste terminus <mentioned>homo</mentioned> non restringitur ad
+              <lb ed="#T"/>albos. Et sic patet ista regula.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Dico autem quo ad principalem si<lb ed="#T"/>gnificationem
+              quia predicatum restringit subiectum quo ad consignificationem, ut cum dicitur
+              <lb ed="#T"/><mentioned><unclear>ciuis</unclear> est albus</mentioned>, iste terminus <mentioned>ciuis</mentioned> restringitur ad mares, et ad
+              <lb ed="#T"/>albos. Et sic albus restringit ipsum quo ad consignificationem que
+              <lb ed="#T"/>est genus, et non quo ad significationem suam.
+            </p>
+          </div>
+          <div>
+            <head type="question-title">
+              <supplied>De duabus regulis circa restrictionem factam per implicationem</supplied>
+            </head>
+            <p>
+              <pc type="#pilcrow"/>Item de restrictione
+              <lb ed="#T"/>facta per implicationem talis datur regula: <!--RULE--><pc type="#pilcrow"/> omnis implicatio
+              <lb ed="#T"/>adiuncta immediate termino comuni restringit ipsum sicut suum adiectiuum.
+              <lb ed="#T"/>Vt cum dicitur <mentioned>homo qui est albus currit</mentioned>, iste terminus <mentioned>homo</mentioned> restringitur ad albos
+              <lb ed="#T"/>per hanc implicationem, scilicet, <mentioned>qui est albus</mentioned>.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Item de eadem restric<lb ed="#T"/>tione
+              <lb ed="#T"/>talis datur regula: <!--RULE--><pc type="#pilcrow"/>Quocienscumque signum uniuersale, et implicatio
+              <lb ed="#T"/>ponuntur in eadem locutione duplex est oratio eo quod signum potest procedere im<lb ed="#T"/>plicationem.
+              <lb ed="#T"/>Et sic distribuit terminum comunem pro quolibet suo sub<lb ed="#T"/>posito,
+              ut <mentioned>omnis homo currit qui est albus</mentioned>. <pc type="#pilcrow"/>Item implicatio potest prius adue<lb ed="#T"/>nire
+              et restringere terminum comunem, et tunc signum postea adiue<lb ed="#T"/>niens
+              non distribuit terminum nisi pro eis ad que restringitur, ut
+              <lb ed="#T"/><mentioned>omnis homo qui est albus currit</mentioned>. Et tunc equipollet huic: <mentioned>omnis homo albus currit</mentioned>.
+            </p>
+          </div>
+          <div>
+            <head type="question-title">
+              <supplied>De quibusdam regulis circa restrictionem factam per uerbum</supplied>
+            </head>
+            <p>
+              <lb ed="#T"/><pc type="#pilcrow"/>Sequitur de restrictione facta per uerbum de quam dantur plures regule.
+              <lb ed="#T"/><pc type="#pilcrow"/>Prima talis est: <!--RULE-->terminus comunis supponens uel apponens uerbo presentis
+              <lb ed="#T"/>temporis simpliciter sumpto non habenti uim ampliandi nec ex se, nec ex
+              <lb ed="#T"/>alio restringitur ad subponendum pro hiis que sunt sub forma termini sub<lb ed="#T"/>ponentis.
+              <pc type="#pilcrow"/>Dico autem <mentioned>termini comunis</mentioned> quia terminus discretus non restrin<lb ed="#T"/>gitur
+              nec ampliatur. <pc type="#pilcrow"/>Dico autem <mentioned>presentis temporis</mentioned> ad remouendum uerba
+              <lb ed="#T"/>aliorum temporum, quia terminus comunis aliam habet subpositionem cum eis.
+              <lb ed="#T"/><pc type="#pilcrow"/>Dico autem simpliciter sumpto ad remouendum uerba diminutiua, ut
+              <lb ed="#T"/><mentioned>est <unclear>impossibile</unclear></mentioned>. <pc type="#pilcrow"/>Dico autem <mentioned>non habenti uim ampliandi</mentioned> ad remouendum uerba
+              <lb ed="#T"/>ampliatiua, ut <mentioned>potest</mentioned>. <pc type="#pilcrow"/>Dico autem <mentioned>nec ex se, nec ex alio</mentioned> quia cum
+              <cb ed="#T" n="b"/>
+              <lb ed="#T"/>dicitur <mentioned>est potens</mentioned> uel <mentioned>est possibile</mentioned>, licet hoc uerbum <mentioned>est</mentioned> non ampliet
+              <lb ed="#T"/>de se, tum habet uim ampliandi per adiuncta. <pc type="#pilcrow"/>Dico autem <mentioned>termini sub<lb ed="#T"/>ponentis</mentioned>
+              quia <mentioned>homo</mentioned> subponit pro eis que sunt sub humanitate, et <mentioned>animal</mentioned>
+              <lb ed="#T"/>pro eis que sunt sub animalitate, ut cum dicitur <mentioned>homo est animal</mentioned>.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Item alia
+              <lb ed="#T"/>datur regula talis: <!--RULE-->terminus comunis subponens uel apponens uerbo
+              <lb ed="#T"/>de preterito simpliciter sumpto non habenti uim ampliandi restringitur
+              <lb ed="#T"/>ad subponendum pro hiis que sunt, uel fuerunt sub forma termini subpo<lb ed="#T"/>nentis.
+              Vt cum dicitur <mentioned>homo fuit animal</mentioned>, iste terminus <mentioned>homo</mentioned> subponit pro
+              <lb ed="#T"/>hiis qui sunt, uel fuerunt homines, si illi qui sunt homines fue<lb ed="#T"/>runt
+              in preterito; et <mentioned>animal</mentioned> pro hiis que sunt, uel fuerunt animalia.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Item
+              <lb ed="#T"/>alia est regula: <!--RULE-->terminus comunis subponens uel apponens uerbo
+              <lb ed="#T"/>de futuro, etc, subponit pro hiis que sunt, uel erunt sub forma
+              <lb ed="#T"/>termini subponentis si ea que sunt erunt in futuro. Vt <mentioned>homo erit
+              <lb ed="#T"/>animal</mentioned>.
+            </p>
+            <p>
+              <pc type="#pilcrow"/>Ex predictis patet quod uerbum restringit quo ad consignificationem que est
+              <lb ed="#T"/>tempus, et non quo ad suam significationem.
+            </p>
+            <div>
+              <head type="question-title">
+                <supplied>Sophisma</supplied>
+              </head>
+              <p>
+                <pc type="#pilcrow"/>Secundum predicta queritur de
+                <lb ed="#T"/>hoc sophismate: <pc type="#pilcrow"/><mentioned>Omne animal fuit in arca Noe</mentioned>. <pc type="#pilcrow"/>Probatio: homo fu<lb ed="#T"/>it
+                in arca Noe, equs, et bos, et sic de aliis; ergo omne animal fuit
+                <lb ed="#T"/>in arca Noe.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Contra omne animal fuit in arca Noe; set Ce<lb ed="#T"/>sar
+                fuit animal; ergo Cesar fuit in arca Noe, quod falsumo est;
+                <lb ed="#T"/>ergo altera premissarum; non minor; ergo maior. <pc type="#pilcrow"/>Quod autem prima
+                <lb ed="#T"/>sit falsa probatio: <pc type="#pilcrow"/>quia quedam regula dicit quod terminus comunis sub<lb ed="#T"/>ponens
+                uerbo de preterito, et cetera, restringitur ad subponendum pro
+                <lb ed="#T"/>hiis que sunt, uel fuerunt sub forma termini comunis. <pc type="#pilcrow"/>Set alia
+                <lb ed="#T"/>regula est quod si signum uniuersale adueniat termino restrictiuo distri<lb ed="#T"/>buit
+                ipsum pro omnibus ad que restringitur. Ergo cum dicitur <mentioned>omne
+                <lb ed="#T"/>animal fuit in arca Noe</mentioned>, iste terminus <mentioned>animal</mentioned> subponit pro omni animali
+                <lb ed="#T"/>quod fuit in preterito; set multa alia animalia fuerunt in preterito
+                <lb ed="#T"/>que non fuerunt in archa Noe; ergo prima est falsa.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Item ad
+                <lb ed="#T"/>idem in ista propositione - <mentioned>omne animal quod fuit, fuit in archa Noe</mentioned> -
+                <lb ed="#T"/>magis restringitur iste terminus <mentioned>animal</mentioned> quam in ista <mentioned>omne animal fuit
+                <lb ed="#T"/>in archa Noe</mentioned>, quia in hac <mentioned>omne animal <del rend="erasure">quod fuit</del> fuit in ar<lb ed="#T"/>cha
+                Noe</mentioned>, iste terminus <mentioned>animal</mentioned> restringitur ad ea que fuerunt in
+                <lb ed="#T"/>preterito simpliciter. In alia restringitur ad ea que fuerunt in
+                <lb ed="#T"/>illo preterito tantum per implicationem ibi positam. Ergo cum solum illa
+                <lb ed="#T"/>que fuerunt in illo preterito fuerunt in archa Noe, et non
+                <lb ed="#T"/>plura oportet quod hec sit falsa: <pc type="#pilcrow"/><mentioned>omne animal fuerit in archa Noe</mentioned>,
+                <lb ed="#T"/>cum in alia subponatur.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Solutio: quidam dicunt quod hec est
+                <lb ed="#T"/>duplex: <mentioned>omne animal fuit in archa Noe</mentioned> eo quod potest distri<lb ed="#T"/>butio
+                fieri pro singulis generum, uel pro generibus singulorum, et primo
+                <lb ed="#T"/>modo est falsa, secundo modo est uera, quia quando fit distributio pro singulis
+                <lb ed="#T"/>generum, tunc est distributio pro omnibus indiuiduis que sunt sub eodem
+                <lb ed="#T"/>genere, et sub eadem specie. Et tunc oporteret quod omnia indiuidua
+                <lb ed="#T"/>que contenta fuerunt sub <mentioned>animali</mentioned> fuissent in archa Noe, quod
+                <lb ed="#T"/>falsum est. <pc type="#pilcrow"/>Set quando fit distributio pro generibus singulorum
+                <pb ed="#T" n="22-v"/>
+                <cb ed="#T" n="a"/>
+                <lb ed="#T"/>tunc solum est distributio pro generibus, siue pro speciebus; set non
+                <lb ed="#T"/>fuit aliqua species animalis que non fuerit in archa Noe
+                <lb ed="#T"/>et isto modo prima uera est.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Set huic solutioni non ad<lb ed="#T"/>quiesco,
+                quia species animalis non fuerunt per se in archa Noe
+                <lb ed="#T"/>set tantum indiuidua. Vnde in tempore illo non habuit ueritatem
+                <lb ed="#T"/>nisi pro singulis generum, hoc est pro indiuiduis; et non pro
+                <lb ed="#T"/>generibus singulorum. <pc type="#pilcrow"/>Vnde dico quod prima est simpliciter falsa, et
+                <lb ed="#T"/>concedo rationes ad hoc. <pc type="#pilcrow"/>Probatio autem peccat secundum consequens ab in<lb ed="#T"/>sufficienti
+                quia non accipit omnes partes distributionis que est in
+                <lb ed="#T"/>subiecto, id est, huius propositionis <mentioned>omne animal fuit in archa Noe</mentioned>.
+              </p>
+            </div>
+            <div>
+              <head type="questio-title">
+                <supplied>Questio</supplied>
+              </head>
+              <p>
+                <pc type="#pilcrow"/>So<lb ed="#T"/>let
+                autem queri utrum termini restringantur similiter in propositione
+                <lb ed="#T"/>negatiua, sicut in affirmatiua. <pc type="#pilcrow"/>Dicunt enim quod <mentioned>esse</mentioned> restringit ad exi<lb ed="#T"/>tens;
+                ergo <mentioned>non esse</mentioned> ad non existens; ergo non pro eodem fit restri<lb ed="#T"/>ctiuo
+                in affirmatiua et negatiua.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Item uidetur quod omnis ne<lb ed="#T"/>gatiua
+                in qua negatur <mentioned>esse</mentioned> quod simpliciter est falsa si similiter restringatur
+                <lb ed="#T"/>in affirmatiua et negatiua, quia in hac <mentioned>rosa est</mentioned>, iste terminus <mentioned>ro<lb ed="#T"/>sa</mentioned>
+                restringitur ad existens; tunc est sensus <mentioned>rosa que est non est</mentioned>; set
+                <lb ed="#T"/>hec est falsa; ergo et hec <mentioned>rosa non est</mentioned>. Et sic quelibet negatiua in qua
+                <lb ed="#T"/>negatur <mentioned>esse</mentioned> simpliciter est falsa, quod falsum est. Et sic uidetur quod non
+                <lb ed="#T"/>similiter restringantur termini in affirmatiua et negatiua.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Probatio
+                <lb ed="#T"/>quod similiter, quia si in hac <mentioned>homo est</mentioned>, iste terminus <mentioned>homo</mentioned> restringitur ad existens,
+                <lb ed="#T"/>et in hac <mentioned>nullus homo est</mentioned> restringitur ad non existens, ergo utraque
+                <lb ed="#T"/>est uera, quia de existentibus uere
+                <choice>
+                  <sic>prima</sic>
+                  <corr>predicatur</corr>
+                </choice>
+                <mentioned>esse</mentioned>, et a non existentibus
+                <lb ed="#T"/>uere remouetur. Ergo dictione contradictorie sunt simul uere, quod est impossibile.
+                <lb ed="#T"/>Ergo id ex quo sequitur est impossibile, scilicet, quod non restringantur similiter termini in aff<lb ed="#T"/>irmatiua
+                et negatiua.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Item regula est quod omne uerbum simpliciter
+                <lb ed="#T"/>sumptum non habens uim ampliandi nec ex se, nec ex alio,
+                <lb ed="#T"/>restringit terminum sibi subpositum quo ad consignificationem que est tempus
+                <lb ed="#T"/>et non quo ad suam significationem. Ergo tempus est causa illius restrictionis;
+                <lb ed="#T"/>set idem tempus manet in affirmatiua et negatiua sibi opposita, ut
+                <lb ed="#T"/><mentioned>rosa est</mentioned>, <mentioned>rosa non est</mentioned>; ergo eadem est causa restrictionis in utraque;
+                <lb ed="#T"/>ergo pro eisdem fit restrictio in utraque. <pc type="#pilcrow"/>Et hec argumenta concedo.
+              </p>
+              <p>
+                <lb ed="#T"/><pc type="#pilcrow"/>Ad illud autem quod primo obicitur, dicendum quod <mentioned>esse</mentioned> non restringit ad existentes
+                <lb ed="#T"/>sicut nec hoc uerbum <mentioned>currit</mentioned> ad currentes, quia nullum uerbum restringit ter<lb ed="#T"/>minum
+                sibi subponente quo ad suam significationem, set quo ad consignificationem que
+                <lb ed="#T"/>est tempus. Vnde non restringit ad subposita existentia, set ad subposita
+                <lb ed="#T"/>presentia. <unclear reason="damage">Subposita</unclear> autem presentia possunt esse in quibusdam terminis tam
+                <lb ed="#T"/>existentibus quam non existentibus, ut cum dicitur <mentioned>enuntiabile est</mentioned>, iste terminus <mentioned>enuntiabile</mentioned>
+                <lb ed="#T"/>subponit tam pro enuntiabilibus existentibus quam non existentibus. Omnia autem
+                <lb ed="#T"/>enuntiabilia que sunt <unclear reason="damage">falsa in presenti sunt presentia, set non sunt existentia, quia
+                <lb ed="#T"/>nullum <unclear reason="damage">falsum est</unclear>. Et sic <mentioned>esse</mentioned> non restringit ad existens, set ad pre<lb ed="#T"/>sentia
+                cum idem tempus sit utrobique quod est causa restrictionis.
+              </p>
+              <p>
+                <pc type="#pilcrow"/>Ad
+                <lb ed="#T"/>aliud autem dico quod duplex est forma termini comunis: quedam est que saluatur tantum
+                <lb ed="#T"/>in rebus existentibus, ut <mentioned>humanitas</mentioned> que est forma hominis, et <mentioned>anima<cb ed="#T" n="b"/><lb ed="#T"/>litas</mentioned>
+                animalis. Et in talibus terminis omnia subposita presentia sunt
+                <lb ed="#T"/>existentia. Alia autem est forma termini comunis que saluatur tam in rebus
+                <lb ed="#T"/>existentibus quam non existentibus, ut <mentioned>enuntiabilitas</mentioned> que est forma enuntiabilis, quia quedam
+                <lb ed="#T"/>enuntiabilia sunt existentia, ut <mentioned>Deum esse</mentioned>, et omnia uera, et alia non existentia,
+                <lb ed="#T"/>ut <mentioned>homo esse asinum</mentioned>, et omnia falsa. Et in talibus cum restringatur
+                <lb ed="#T"/>terminus comunis ad presentia, restringitur tam ad existentia quam ad
+                <lb ed="#T"/>non existentia. Vnde istius propositionis <mentioned>rosa non est</mentioned>, non est sensus <mentioned>rosa que est
+                <lb ed="#T"/>non est</mentioned>, set his est sensus: <mentioned>rosa presentialiter sumpta non est</mentioned>.
+              </p>
+            </div>
+          </div> <!--This closes De quibusdam regulis circa restrictionem factam per uerbum-->
+          <div>
+            <head type="question-title">
+              <supplied>De restrictione que fit ab usu</supplied>
+            </head>
+            <p>
+              <pc type="#pilcrow"/>So<lb ed="#T"/>let
+              autem poni quod quedam restrictio fit ab usu, ut cum dicitur <mentioned>nichil est in archa</mentioned>, quamuis sit plena aere, quia iste terminus <mentioned>nichil</mentioned> subponit ab
+              <lb ed="#T"/>usu pro rebus solidis, siue firmis. Et <mentioned>rex uenit</mentioned> pro rege pa<lb ed="#T"/>trie,
+              et <mentioned>magister legit</mentioned> pro magistro proprio.
+            </p>
+          </div>
+          <div>
+            <head type="question-title">
+              <supplied>De restrictione que fit per transitionem uerbi</supplied>
+            </head>
+            <p>
+              <pc type="#pilcrow"/>Solent etiam ponere
+              <lb ed="#T"/>quod fit restrictio alia per transitionem uerbi, ut cum dicitur <mentioned>Socrates pas<lb ed="#T"/>cit
+              hominem</mentioned>, restringitur iste terminus <mentioned>hominem</mentioned> pro alio a se uirtute tra<lb ed="#T"/>nsitionis
+              uerbi, quia dans et recipiens per se sunt diuersa. Vnde
+              <lb ed="#T"/>pascens et qui pascitur oportet esse diuersa. Vnde si aliquando sunt eadem
+              <lb ed="#T"/>hoc est per accidens, quia per hoc quod idem est subiectum utriusque sicut idem est
+              <lb ed="#T"/>dux et episcopus secundum accidens. Vnde dicunt quod non sequitur <mentioned>Socrates pascit se, et
+              <lb ed="#T"/>ipse est homo; ergo pascit hominem</mentioned>, quia est sophisma accidentis, quia hoc
+              <lb ed="#T"/>pronomen <mentioned>se</mentioned> non potest subponere pro diuersis a Socrate; set <mentioned>homo</mentioned> potest.
+            </p>
+            <p>
+              <lb ed="#T"/>Et de restrictionibus dicta sufficiant.
+            </p>
+          </div>
+        </div> <!--This closes De restrictionis diuisione-->
       </div>
     </body>
   </text>

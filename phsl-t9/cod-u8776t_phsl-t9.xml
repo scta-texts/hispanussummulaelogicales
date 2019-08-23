@@ -2,13 +2,13 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Tractatus 9</title>
+        <title>Tractatus IX: De ampliationibus</title>
       	<author>Petrus Hispanus</author>
         <editor>Mário João Correia</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Tractatus 9: De ampliationibus</title>
+          <title>Tractatus IX: De ampliationibus</title>
           <date when="2019-06-06">June 5, 2019</date>
         </edition>
       </editionStmt>
@@ -78,7 +78,7 @@
           <p xml:id="phsl-t9-d1e152">
             <pc type="#pilcrow"/>Ampliatio est extensio termini comunis a minori
             <lb ed="#T"/>subpositione ad maiorem. Vt cum dicitur <mentioned>homo potest esse Antichristus</mentioned>, iste terminus
-            <lb ed="#T"/><mentioned>homo</mentioned> subponit non solum pro hiis qui sunt, sed pro hiis qui erunt.
+            <lb ed="#T"/><mentioned>homo</mentioned> subponit non solum pro hiis qui sunt, set pro hiis qui erunt.
             <lb ed="#T"/>Vnde ampliatur ad futuros. Dico autem termini comunis, quia terminus
             <lb ed="#T"/>discretus, ut <mentioned>Socrates</mentioned>, nec restringitur neque ampliatur.
           </p>
@@ -94,7 +94,7 @@
             <pb ed="#T" n="21-v"/>
             <cb ed="#T" n="a"/>
             <lb ed="#T"/>est possibile</mentioned>; alia per participium, ut <mentioned>homo est ens potens esse <add place="above-line">Antichristus</add>
-            <lb ed="#T"/><del rend="expunctuation">animal</del></mentioned>; <mentioned>homo</mentioned> enim ampliatur ut non solum pro presenti tempore, sed etiam
+            <lb ed="#T"/><del rend="expunctuation">animal</del></mentioned>; <mentioned>homo</mentioned> enim ampliatur ut non solum pro presenti tempore, set etiam
             <lb ed="#T"/>pro futuro teneatur. Et ideo sumitur alia diuisio ampliationis,
             <lb ed="#T"/>scilicet, quod ampliationis alia est respectu subpositorum, ut <mentioned>homo potest
             <lb ed="#T"/>esse Antichristus</mentioned>, alia respectu temporis, ut <mentioned>homo necessario est animal</mentioned>, ut dictum
@@ -114,17 +114,17 @@
           </p>
           <p xml:id="phsl-t9-d1e261">
             <pc type="#pilcrow"/>Contra:
-            <lb ed="#T"/>quicquid potest esse uerum est possibile; sed impossibile potest esse uerum; ergo
-            <lb ed="#T"/>impossibile est possibile, in tercio prime; sed conclusio est falsa; ergo aliqua
-            <lb ed="#T"/>premissarum; non maior; ergo minor; sed hec est prima; ergo est falsa.
+            <lb ed="#T"/>quicquid potest esse uerum est possibile; set impossibile potest esse uerum; ergo
+            <lb ed="#T"/>impossibile est possibile, in tercio prime; set conclusio est falsa; ergo aliqua
+            <lb ed="#T"/>premissarum; non maior; ergo minor; set hec est prima; ergo est falsa.
           </p>
           <p xml:id="phsl-t9-d1e272">
             <lb ed="#T"/><pc type="#pilcrow"/>Solutio: prima falsa hec, scilicet, <mentioned>impossibile potest esse uerum</mentioned>. <pc type="#pilcrow"/>Et probatio pec<lb ed="#T"/>cat
             secundum sophismam accidentis, quia cum dico <mentioned>id quod est impossibile</mentioned> duo
-            <lb ed="#T"/>dico, scilicet, subiectum ipsius impossibilitatis et ipsam impossibilitatem siue ipsum impossibile. Sed
+            <lb ed="#T"/>dico, scilicet, subiectum ipsius impossibilitatis et ipsam impossibilitatem siue ipsum impossibile. Set
             <lb ed="#T"/>ei quod est impossibile accidit impossibilitas siue possibilitas, unde id quod est etc,
             <lb ed="#T"/>est res subiecta, et impossibile accidit ei. Et <mentioned>posse esse uerum</mentioned> assignatur
-            <lb ed="#T"/>inesse utrique, sicut hic - <mentioned>Antichristus non fuisse est possibile; sed Antichristum
+            <lb ed="#T"/>inesse utrique, sicut hic - <mentioned>Antichristus non fuisse est possibile; set Antichristum
             <lb ed="#T"/>non fuisse potest esse uerum; ergo impossibile potest esse uerum</mentioned> -, quia <mentioned>Anti<lb ed="#T"/>christum
             non fuisse</mentioned> est res subiecta, et impossibile est accidens eius, et <mentioned>po<lb ed="#T"/>sse
             esse uerum</mentioned> assignatur inesse utrique.
@@ -141,7 +141,7 @@
             <lb ed="#T"/>communis subponens uerbo habenti uim ampliandi a se, uel ab alio
             <lb ed="#T"/>ampliatur ad ea que possunt esse sub forma termini subponentis.
             <lb ed="#T"/>Vt: <mentioned>homo potest esse albus</mentioned>. Hic iste terminus <mentioned>homo</mentioned> subponit non solum pro presen<lb ed="#T"/>tibus,
-            sed etiam ampliatur ad omnes qui erunt. <pc type="#pilcrow"/>Dico autem <mentioned>de se</mentioned> quia
+            set etiam ampliatur ad omnes qui erunt. <pc type="#pilcrow"/>Dico autem <mentioned>de se</mentioned> quia
             <lb ed="#T"/>hoc uerbum <mentioned>potest</mentioned> de se habet naturam ampliandi. <pc type="#pilcrow"/>Dico autem <mentioned>ab
             <lb ed="#T"/>alio</mentioned>, quia hoc participium <mentioned>potens</mentioned>, et hoc nomen <mentioned>possibile</mentioned> dant uirtu<lb ed="#T"/>tem
             ampliandi uerbo cui adiunguntur, ut <mentioned>homo ens est potens esse <add place="above-line">animal</add></mentioned>

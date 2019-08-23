@@ -2,13 +2,13 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Tractatus 4</title>
+        <title>Tractatus IV: De sillogismis</title>
       	<author>Petrus Hispanus</author>
         <editor>Mário João Correia</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Tractatus 4: De sillogismis</title>
+          <title>Tractatus IV: De sillogismis</title>
           <date when="2019-06-06">June 5, 2019</date>
         </edition>
       </editionStmt>
@@ -200,7 +200,7 @@
             nichil sequitur.
           </p>
           <p xml:id="phsl-t4-d1e414">
-            <pc type="#pilcrow"/>In secunda figura semper concluditur negatiue, sed hec
+            <pc type="#pilcrow"/>In secunda figura semper concluditur negatiue, set hec
             <lb ed="#T"/>tercia regula potest intelligi per secundam.
           </p>
           <p xml:id="phsl-t4-d1e422">

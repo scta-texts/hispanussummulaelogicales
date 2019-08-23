@@ -2,13 +2,13 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Tractatus 3</title>
+        <title>Tractatus III: De predicamentis</title>
       	<author>Petrus Hispanus</author>
         <editor>Mário João Correia</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Tractatus 3: De predicamentis</title> <!--In this witness, it is the fifht: I - II - IV - V - III - VI...-->
+          <title>Tractatus III: De predicamentis</title> <!--In this witness, it is the fifht: I - II - IV - V - III - VI...-->
           <date when="2019-06-06">June 5, 2019</date>
         </edition>
       </editionStmt>
@@ -89,7 +89,7 @@
           <p xml:id="phsl-t3-d1e221">
             <pc type="#pilcrow"/>Eorum que dicuntur quedam
             <lb ed="#T"/>dicuntur sine complexione, ut <mentioned>homo</mentioned>, siue <mentioned>currit</mentioned>; quedam cum complexione,
-            <lb ed="#T"/>ut <mentioned>homo currit</mentioned>. Sed prius quam alterum membrorum huius diuisionis subdiui<lb ed="#T"/>datur
+            <lb ed="#T"/>ut <mentioned>homo currit</mentioned>. set prius quam alterum membrorum huius diuisionis subdiui<lb ed="#T"/>datur
             distinguendi sunt modi<unclear reason="damage">essendi in</unclear>, quia necessarii sunt ad
             <lb ed="#T"/>sequentem <gap extent="10" unit="characters"/> et ad quedam que postea dicentur.
           </p>
@@ -239,7 +239,7 @@
             <pc type="#pilcrow"/>Item secundarum substantiarum
             <lb ed="#T"/>magis est substantia species quam genus, quia species propinquior est prime
             <lb ed="#T"/>substantie quam genus, et etiam quia pluribus substat, quibuscumque enim substat
-            <lb ed="#T"/>genus, eisdem substat species, et etiam ipsi generi, sed species speciali<lb ed="#T"/>ssime
+            <lb ed="#T"/>genus, eisdem substat species, et etiam ipsi generi, set species speciali<lb ed="#T"/>ssime
             equaliter sunt substantie, ut homo, equs, et consimilia.
           </p>
         </div>
@@ -256,8 +256,8 @@
             <lb ed="#T"/>autem patet inductione et sillogismo. <pc type="#pilcrow"/>Inductione sic: homo non est in
             <lb ed="#T"/>subiecto; equs non est in subiecto; neque animal, et sic de aliis; ergo nulla
             <lb ed="#T"/>substantia est in subiecto. Sillogismo sic: nichil eorum que sunt in subiecto predicatur nomine
-            <lb ed="#T"/>et ratione, sed omnis secunda substantia predicatur nomine et ratione; ergo nulla secunda
-            <lb ed="#T"/>substantia est in subiecto. Hoc autem non est proprium substantie, sed etiam differentie conuenit.
+            <lb ed="#T"/>et ratione, set omnis secunda substantia predicatur nomine et ratione; ergo nulla secunda
+            <lb ed="#T"/>substantia est in subiecto. Hoc autem non est proprium substantie, set etiam differentie conuenit.
             <lb ed="#T"/>Et hoc intelligitur de differentiis substantie. Neque enim est instantia
             <lb ed="#T"/>de partibus substantie que sunt in toto, et ideo uidentur esse in subiecto, quia
             <lb ed="#T"/>alius est modus essendi in ut accidens in subiecto, et alius ut pars
@@ -270,9 +270,9 @@
           </p>
           <p xml:id="phsl-t3-d1e643">
             <pc type="#pilcrow"/>Item omnis
-            <lb ed="#T"/>prima substantia significat hoc aliquid et indiuiduatum, et unum numero; sed
+            <lb ed="#T"/>prima substantia significat hoc aliquid et indiuiduatum, et unum numero; set
             <lb ed="#T"/>secunda substantia uidetur hoc aliquid significare eo quod est in prima, et de
-            <lb ed="#T"/>essentia eius. Non tamen significat hoc aliquid, sed potius significat aliquod commune.
+            <lb ed="#T"/>essentia eius. Non tamen significat hoc aliquid, set potius significat aliquod commune.
             <lb ed="#T"/>Non enim quod significatur per secundam substantiam est unum, sicut est unum
             <lb ed="#T"/>quod significatur per primam.
           </p>
@@ -282,7 +282,7 @@
           </p>
           <p xml:id="phsl-t3-d1e667">
             <pc type="#pilcrow"/>Item substantia non suscipit magis neque minus.
-            <lb ed="#T"/>Non autem dico una substantia non suscipit magis quam alia, sed di<lb ed="#T"/>co
+            <lb ed="#T"/>Non autem dico una substantia non suscipit magis quam alia, set di<lb ed="#T"/>co
             quod nunquam substantia secundum esse suum intenditur neque remititur,
             <lb ed="#T"/>ut album quandoque est magis album quandoque minus; Socrates autem non
             <lb ed="#T"/>magis est homo in uno tempore quam in alio, neque est magis homo
@@ -294,7 +294,7 @@
             <lb ed="#T"/>est albus, et aliquando calidus et aliquando frigidus, et prauus, et
             <lb ed="#T"/>studiosus. Neque enim est instantia de oratione, quia licet eadem oratio,
             <lb ed="#T"/>ut hec oratio <mentioned>Socrates sedet</mentioned> aliquando sit uera, aliquando falsa, non tamen
-            <lb ed="#T"/>hoc est secundum sui mutationem, sed secundum mutationem rei, ut
+            <lb ed="#T"/>hoc est secundum sui mutationem, set secundum mutationem rei, ut
             <lb ed="#T"/>quia Socrates surgit aut currit.
           </p>
           <p xml:id="phsl-t3-d1e707">
@@ -311,7 +311,7 @@
               <choice>
                 <sic>ratione</sic>
                 <corr>oratione</corr>
-              </choice>sed substantie soli.
+              </choice>set substantie soli.
           </p>
         </div>
 
@@ -324,10 +324,10 @@
             <lb ed="#T"/>aliud discretum. Est autem discreta, ut numerus et oratio. Vnde due
             <lb ed="#T"/>sunt species eius. Non enim est in numero aliquis communis terminus ad quem
             <lb ed="#T"/>partes numeri copulentur. Ut in X, V et V, aut tria et
-            <lb ed="#T"/>septem ad nullum terminum copulantur, sed semper discreta sunt et
+            <lb ed="#T"/>septem ad nullum terminum copulantur, set semper discreta sunt et
             <lb ed="#T"/>separata. <pc type="#pilcrow"/>Est autem numerus multitudo ex unitatibus aggrega<lb ed="#T"/>ta,
             similiter in oratione sillabe non copulantur ad aliquem terminum,
-            <lb ed="#T"/>sed unaque separata est ab alia.
+            <lb ed="#T"/>set unaque separata est ab alia.
           </p>
           <p xml:id="phsl-t3-d1e786">
             <pc type="#pilcrow"/>Quantitatis autem conti<lb ed="#T"/>nue
@@ -348,7 +348,7 @@
             <pc type="#pilcrow"/>Hiis uisis uidendum est de communitatibus
             <lb ed="#T"/>quantitatis. Prima communitas est quod quantitati nichil est con<lb ed="#T"/>trarium,
             ut bicubito, tricubito, uel superficiei nichil est con<lb ed="#T"/>trarium,
-            quia contrarietas primo inest qualitatibus, et non omnibus, sed qui<lb ed="#T"/>busdam.
+            quia contrarietas primo inest qualitatibus, et non omnibus, set qui<lb ed="#T"/>busdam.
             <pc type="#pilcrow"/>Quantitas autem non est qualitas, et propter hoc contrarietas
             <lb ed="#T"/>non est in quantitate.
           </p>
@@ -402,7 +402,7 @@
           </p>
           <p xml:id="phsl-t3-d1e919">
             <pc type="#pilcrow"/>Item relatiua suscipiuntur magis et minus, ut simile
-            <lb ed="#T"/>dicitur magis et minus simile, et inequale similiter, sed hoc non
+            <lb ed="#T"/>dicitur magis et minus simile, et inequale similiter, set hoc non
             <lb ed="#T"/>conuenit omnibus relatiuis. Duplum enim non dicitur magis
             <lb ed="#T"/>et minus duplum, neque triplum, neque pater non dicitur magis
             <lb ed="#T"/>et minus pater.
@@ -453,7 +453,7 @@
             non de facili permutantur. Dispositiones autem di<lb ed="#T"/>cuntur
             que de facili permutantur, ut calor frigiditas,
             <lb ed="#T"/>egritudo sanitas, et consimilia. Tamen habitus possunt dici dis<lb ed="#T"/>positiones,
-            sed non econuerso. Illi uero qui habitum habent quodammodo dis<lb ed="#T"/>positi
+            set non econuerso. Illi uero qui habitum habent quodammodo dis<lb ed="#T"/>positi
             sunt, uel melius, uel peius ad ea que habent. Dispositiones
             <lb ed="#T"/>autem non sunt habitus. Vnde habitus sic potest diffiniri: habitus est
             <lb ed="#T"/>qualitas difficile mobilis; dispositio uero est qualitas facile
@@ -466,7 +466,7 @@
             uero quod habet naturalem impotentiam patiendi, ut du<lb ed="#T"/>rum
             habet naturalem potentiam non cito seccandi. Curs<lb ed="#T"/>sores
             uero et pugillatores dicuntur similiter non quod exerceant
-            <lb ed="#T"/>actus illos, sed quia habent naturalem potentiam hoc facile faciendi.
+            <lb ed="#T"/>actus illos, set quia habent naturalem potentiam hoc facile faciendi.
           </p>
           <p xml:id="phsl-t3-d1e1050">
             <lb ed="#T"/><pc type="#pilcrow"/>Tertia species qualitatis est passio et passibilis quali<lb ed="#T"/>tas,
@@ -496,15 +496,15 @@
             <lb ed="#T"/>dicitur cursor ab arte currendi, et pugillator ab arte
             <lb ed="#T"/> pugillatoria. Et sic sunt in primo genere qualitatis, quia iste
             <lb ed="#T"/> artes habitus sunt qui sunt sub primo genere qualitatis. <pc type="#pilcrow"/>Alio
-            <lb ed="#T"/> autem modo dicitur cursor non quod habeat artem currendi, sed quia habet
+            <lb ed="#T"/> autem modo dicitur cursor non quod habeat artem currendi, set quia habet
             <lb ed="#T"/> naturalem potentiam facile currendi, et pugillator non quod habeat
-            <lb ed="#T"/>artem pugillatoriam, sed quia habet naturalem potentiam ad
+            <lb ed="#T"/>artem pugillatoriam, set quia habet naturalem potentiam ad
             <lb ed="#T"/>actum pugillandi, et isto modo dicuntur <unclear reason="damage">qualitates</unclear> istis na<lb ed="#T"/>turalibus
-            potentiis, sed non denominatiue eo quod nomine uero sunt
+            potentiis, set non denominatiue eo quod nomine uero sunt
             <lb ed="#T"/>posita istis naturalibus potentiis a quibus dicuntur qualia, et
             <lb ed="#T"/>sic cursor et pugillator sunt in secundo genere qualitatis. Alia
             <lb ed="#T"/>autem dicuntur qualia non denominatiue quando nomen est impositum qualitati,
-            <lb ed="#T"/>sed quod dicitur quale secundum eam non participat id nomen, ut studio<lb ed="#T"/>sus
+            <lb ed="#T"/>set quod dicitur quale secundum eam non participat id nomen, ut studio<lb ed="#T"/>sus
             a uirtute. Et sic sunt tres modi sumendi quale a qua<lb ed="#T"/>litate.
           </p>
         </div>
@@ -527,7 +527,7 @@
           </p>
           <p xml:id="phsl-t3-d1e1175">
             <pc type="#pilcrow"/>Item qualitas suscipit magis
-            <lb ed="#T"/>et minus. Iustus enim magis et minus dicitur, et gramaticus et albus. Sed
+            <lb ed="#T"/>et minus. Iustus enim magis et minus dicitur, et gramaticus et albus. set
             <lb ed="#T"/>hoc non est propriu qualitatis, quia quadratum non suscipit magis et
             <lb ed="#T"/>minus, neque circulus, siue quadrangulatio et circulatio.
           </p>
@@ -576,7 +576,7 @@
             <lb ed="#T"/>inferri ex actione.
           </p>
           <p xml:id="phsl-t3-d1e1266">
-            <pc type="#pilcrow"/>Item passio non est in agente, sed in
+            <pc type="#pilcrow"/>Item passio non est in agente, set in
             <lb ed="#T"/>patiente. De reliquis autem sufficiant modo dicta prius.
           </p>
         </div>
@@ -604,7 +604,7 @@
             <lb ed="#T"/>cigno, et nigredo in coruo. Caliditas autem non est in ig<lb ed="#T"/>ne
             ut accidens in subiecto, immo ut substantiale in eo cui est substantiale,
             <lb ed="#T"/>sicut sunt que cadunt in diffinitione alicuius non secundum predica<lb ed="#T"/>tionem,
-            sed potius ut principium, ut punctus in diffinitione linee, et
+            set potius ut principium, ut punctus in diffinitione linee, et
             <lb ed="#T"/>unitas in diffinitione numeri. Et iste modus essendi in continetur
             <lb ed="#T"/>sub quarto modo, secundum quod unaqueque pars diffinitionis est in
             <lb ed="#T"/>diffinitione, et in diffiniente, et sic ignis non est subiectum ca<lb ed="#T"/>liditatis
@@ -614,7 +614,7 @@
                 <sic>uero</sic>
                 <corr>non</corr>
               </choice>
-            ut in subiecto, sed ut in eo
+            ut in subiecto, set ut in eo
             <lb ed="#T"/>cui est subicibile.
           </p>
           <p xml:id="phsl-t3-d1e1358">
@@ -641,7 +641,7 @@
             <pc type="#pilcrow"/>Secundo autem modo dicitur prius quod non conuertitur secundum
             <lb ed="#T"/>subsistendi consequentia, ut unum prius est duobus, duobus enim
             <lb ed="#T"/>existentibus mox consequens est unum esse, ut si duo sunt
-            <lb ed="#T"/>unum est, sed non econuerso.
+            <lb ed="#T"/>unum est, set non econuerso.
           </p>
           <p xml:id="phsl-t3-d1e1402">
             <pc type="#pilcrow"/>Tertio autem modo dicitur prius secundum ordi<lb ed="#T"/>nem,
@@ -752,7 +752,7 @@
           <p xml:id="phsl-t3-d1e1613">
             <pc type="#pilcrow"/>Septimo habere uxorem, et hoc ultimo modo
             <lb ed="#T"/>dicit <ref xml:id="phsl-t3-Rd1e1619"><name>Aristoteles</name></ref> quod iste modus alienissimus est in eo quod est habere, et
-            <lb ed="#T"/>dicit quod modi alii aparebunt facte de eo quod est habere, sed qui
+            <lb ed="#T"/>dicit quod modi alii aparebunt facte de eo quod est habere, set qui
             <lb ed="#T"/>consueuerunt dici omnes pene enumerati sunt.
           </p>
         </div>

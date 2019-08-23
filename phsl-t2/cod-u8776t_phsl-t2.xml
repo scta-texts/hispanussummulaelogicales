@@ -2,13 +2,13 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Tractatus 2</title>
+        <title>Tractatus II: De predicabilibus</title>
       	<author>Petrus Hispanus</author>
         <editor>Mário João Correia</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Tractatus 2: De predicabilibus</title>
+          <title>Tractatus II: De predicabilibus</title>
           <date when="2019-06-06">June 5, 2019</date>
         </edition>
       </editionStmt>
@@ -61,7 +61,7 @@
             <lb ed="#T"/><pc type="pilcrow"/>Predicabile quandoque sumitur proprie, et sic solum dicitur
             <lb ed="#T"/>predicabile quod de pluribus predicatur. Quandoque sumitur communiter et sic dicitur
             <lb ed="#T"/>predicabile quod de uno solo, siue de pluribus predicatur. Vnde predicabile
-            <lb ed="#T"/>proprie sumptum et uniuersale idem sunt, sed differunt in hoc quod predicabile di<lb ed="#T"/>ffinitur
+            <lb ed="#T"/>proprie sumptum et uniuersale idem sunt, set differunt in hoc quod predicabile di<lb ed="#T"/>ffinitur
             per dici, et uniuersale per esse. Est enim predicabile quod aptum na<lb ed="#T"/>tum
             est de pluribus dici. Vniuersale autem quod aptum natum est esse
             <lb ed="#T"/>in pluribus. Predicabile autem siue uniuersale diuiditur per differentiam, genus,
@@ -136,7 +136,7 @@
             <lb ed="#T"/>actio, passio, situs, quando, ubi, habitus. Hec autem X dicuntur
             <lb ed="#T"/>generalissima quia nullum genus habent supra se. Licet enim ens
             <lb ed="#T"/>dicatur de istis X, equiuoce siue multipliciter dicitur de ipsis, et ideo non est
-            <lb ed="#T"/>genus. De hiis autem X nichil modo dicemus, sed in <ref xml:id="phsl-t2-Rd1e317"><title>Predicamentis</title></ref> determinabitur
+            <lb ed="#T"/>genus. De hiis autem X nichil modo dicemus, set in <ref xml:id="phsl-t2-Rd1e317"><title>Predicamentis</title></ref> determinabitur
             <lb ed="#T"/>de ipsis.
           </p>
           <p xml:id="phsl-t2-d1e325">

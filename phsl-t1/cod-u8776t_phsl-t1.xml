@@ -2,13 +2,13 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Tractatus 1</title>
+        <title>Tractatus I: De introductionibus</title>
       	<author>Petrus Hispanus</author>
         <editor>Mário João Correia</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Tractatus 1: De introductionibus</title>
+          <title>Tractatus I: De introductionibus</title>
           <date when="2019-06-06">June 5, 2019</date>
         </edition>
       </editionStmt>
@@ -70,7 +70,7 @@
           <p xml:id="phsl-t1-d1e143">
             Dicitur autem dyaletica a <mentioned>dya</mentioned> quod est duo, <unclear reason="damage">et</unclear> <mentioned>log<lb ed="#T"/>os</mentioned>
           quod est sermo, uel <mentioned>lexis</mentioned> quod est ratio quasi <unclear reason="damage">duorum sermo</unclear> uel
-            <lb ed="#T"/>ratio, scilicet opponentis et respondentis disputando. <unclear reason="damage">Sed</unclear> quia
+            <lb ed="#T"/>ratio, scilicet opponentis et respondentis disputando. <unclear reason="damage">set</unclear> quia
             <lb ed="#T"/>disputatio non potest haberi nisi mediante sermone, sermo
             <lb ed="#T"/>nisi mediante uoce, omnis autem sermo est <unclear>uox</unclear>, omnis uox
             <lb ed="#T"/>est sonus, ideo a sono tanquam a priori inchoandum est.
@@ -141,11 +141,11 @@
           <p xml:id="phsl-t1-d1e353">
             <mentioned>Finita</mentioned>
             <lb ed="#T"/>ponitur ad differentiam nominis infiniti, ut <mentioned>non homo</mentioned>, quod non est nomen secundum dyaleticum,
-            <lb ed="#T"/>sed est nomen infinitum.
+            <lb ed="#T"/>set est nomen infinitum.
           </p>
           <p xml:id="phsl-t1-d1e367">
             <pc type="#pilcrow"/><mentioned>Recta</mentioned> ponitur ad differentiam nominum obliquorum, ut <mentioned>Ca<lb ed="#T"/>tonis, -ni</mentioned>,
-            et sic de aliis que non sunt nomina secundum dyaleticos, sed casus
+            et sic de aliis que non sunt nomina secundum dyaleticos, set casus
             <lb ed="#T"/>nominum sunt, et obliqui.
           </p>
           <p xml:id="phsl-t1-d1e381">
@@ -160,9 +160,9 @@
             <lb ed="#T"/>nulla pars significat separata, finita, recta. <mentioned>Cum tempore</mentioned>
             <lb ed="#T"/>ponitur in diffinitione uerbi ad differentiam nominis quod significat sine tempore.
             <lb ed="#T"/><mentioned>Finita</mentioned> ponitur ad <unclear reason="damage">differentiam</unclear> uerbi infiniti, ut <mentioned><unclear reason="damage">non</unclear> currit</mentioned>, quod
-            <cb ed="#T" n="b"/> <lb ed="#T"/>non est uerbum <unclear reason="damage">secundum</unclear> dyaleticos, <unclear reason="damage">sed</unclear> est uerbum infinitum, ut <mentioned>non la<lb ed="#T"/>borat</mentioned>,
+            <cb ed="#T" n="b"/> <lb ed="#T"/>non est uerbum <unclear reason="damage">secundum</unclear> dyaleticos, <unclear reason="damage">set</unclear> est uerbum infinitum, ut <mentioned>non la<lb ed="#T"/>borat</mentioned>,
             <unclear>etc</unclear>. <pc type="#pilcrow"/><mentioned>Recta</mentioned> ponitur ad differentiam uerborum obliquorum, ut
-            <lb ed="#T"/><mentioned>currebat</mentioned>, <mentioned>cucurrit</mentioned>, <mentioned>curret</mentioned>, que non appellat dyaleticus uerba, sed uer<lb ed="#T"/>ba
+            <lb ed="#T"/><mentioned>currebat</mentioned>, <mentioned>cucurrit</mentioned>, <mentioned>curret</mentioned>, que non appellat dyaleticus uerba, set uer<lb ed="#T"/>ba
             obliqua. Solum enim uerbum presentis indicatiui modi dicitur esse uerbum.
             <lb ed="#T"/>Reliqua omnia eisdem modi, et aliorum modorum dicuntur esse obliquorum. Omnis
             <lb ed="#T"/>autem alie differentie ponuntur ibi eidem ratione qua in nomine.
@@ -360,13 +360,13 @@
           </p>
           <p xml:id="phsl-t1-d1e1095">
             <pc type="#pilcrow"/>Conuersio per accidens est quando de subiecto fit predicatus
-            <lb ed="#T"/>et econuerso <unclear reason="damage">manente</unclear> qualitate, sed quantitate mutata. Et sic con<lb ed="#T"/>uertitur
+            <lb ed="#T"/>et econuerso <unclear reason="damage">manente</unclear> qualitate, set quantitate mutata. Et sic con<lb ed="#T"/>uertitur
             uniuersalis affimatiua in particularem affirmatiuam, ut <mentioned>omnis homo est
             <lb ed="#T"/>animal</mentioned>, <mentioned>quodam animal est homo</mentioned>.
           </p>
           <p xml:id="phsl-t1-d1e1117">
             <pc type="#pilcrow"/>Conuersio <unclear reason="damage">per</unclear> contrapositionem est facere de subiecto
-            <lb ed="#T"/>predicatum manente eadem qualitate et <unclear reason="damage">quantitate</unclear> propositionis, sed terminis
+            <lb ed="#T"/>predicatum manente eadem qualitate et <unclear reason="damage">quantitate</unclear> propositionis, set terminis
             <lb ed="#T"/>finitis mutatis in terminos <unclear reason="damage">infinitos</unclear>. Et hoc modo conuertitur uniuersalis
             <lb ed="#T"/>affirmatiua et particularis negatiua, ut <mentioned><unclear reason="damage">omnis homo</unclear> est animal</mentioned>, <mentioned>omne non animal
             <lb ed="#T"/>est non homo</mentioned>; <pc type="#pilcrow"/><mentioned>quidam homo non est lapis</mentioned>, <mentioned>quidam non lapis est
@@ -430,7 +430,7 @@
           <p xml:id="phsl-t1-d1e1320">
             <pc type="#pilcrow"/>Ad ueritatem disiunctiue sufficit
             <lb ed="#T"/>alteram partem esse ueram, ut <mentioned>homo est animal, uel equs est lapis</mentioned>,
-            <lb ed="#T"/>et permittitur enim quod utraque pars sit uera, sed non ita proprie, ut <mentioned>homo
+            <lb ed="#T"/>et permittitur enim quod utraque pars sit uera, set non ita proprie, ut <mentioned>homo
             <lb ed="#T"/>est animal, uel equs est hinnibilis</mentioned>.
           </p>
           <p xml:id="phsl-t1-d1e1337">
@@ -452,7 +452,7 @@
             <lg>
             <l><pc type="#pilcrow"/>Prius contradictio, post contra, <unclear>prepostque</unclear> <gap extent="11" unit="characters"/></l>
             <l><pc type="#pilcrow"/>Non omnis, quidam non, omnis non, quasi nullus.</l>
-            <l><pc type="#pilcrow"/>Non nullus, quidam, sed nullus non, ualet omnis.</l>
+            <l><pc type="#pilcrow"/>Non nullus, quidam, set nullus non, ualet omnis.</l>
             <l><pc type="#pilcrow"/>Non aliquis, nullus, non quidam non, ualet omnis.</l>
             <l><pc type="#pilcrow"/>Non alter, neuter, neuter non, prestat utrunque.</l>
             </lg>
@@ -493,7 +493,7 @@
           </head>
           <p xml:id="phsl-t1-d1e1564">
             <lb ed="#T"/><pc type="#pilcrow"/>Modus est adiacens rei determinatio, et habet fieri per adiectiuum.
-            <lb ed="#T"/>Sed quia adiectiuum est duplex – est enim quodam nominis, quodam uerbi;
+            <lb ed="#T"/>set quia adiectiuum est duplex – est enim quodam nominis, quodam uerbi;
             <lb ed="#T"/>nominis, ut <mentioned>albus</mentioned>, <mentioned>niger</mentioned>, et consimilia; uerbi, ut aduerbia; secundum
             <lb ed="#T"/>enim <ref xml:id="phsl-t1-Rd1e1582"><name>Priscianum</name></ref>, aduerbium est ut uerbi <unclear reason="damage">adiectiuum</unclear> – ideo duplex est modus: unus no<lb ed="#T"/>minalis
             qui fit per adiectiuum nominis; alius aduerbialis qui fit per
@@ -510,7 +510,7 @@
           </p>
 
           <p xml:id="phsl-t1-d1e1646">
-            Sed omissis omnibus de illis
+            set omissis omnibus de illis
             <lb ed="#T"/>modis qui compositionem determinant est dicendum, ut sunt ista: <mentioned>necessario</mentioned>, <mentioned>contingenter</mentioned>,
             <lb ed="#T"/>etc. Cum enim dicitur <mentioned>homo necessario est</mentioned>, hic significatur quod compositio ista sit
             <lb ed="#T"/>necessaria. Cum autem dicitur <mentioned>homo currit bene</mentioned> uel <mentioned>uelociter</mentioned>, significatur quod cursus

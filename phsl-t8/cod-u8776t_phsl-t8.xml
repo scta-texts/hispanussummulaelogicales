@@ -2,13 +2,13 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Tractatus 8</title>
+        <title>Tractatus VIII: De relatiuis</title>
       	<author>Petrus Hispanus</author>
         <editor>Mário João Correia</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Tractatus 8: De relatiuis</title>
+          <title>Tractatus VIII: De relatiuis</title>
           <date when="2019-06-06">June 5, 2019</date>
         </edition>
       </editionStmt>
@@ -112,9 +112,9 @@
               <pc type="#pilcrow"/>Relatiuorum
               <lb ed="#T"/>idemptitatis quedam sunt reciproca, ut <mentioned>sui</mentioned>, <mentioned>sibi</mentioned>, <mentioned>se</mentioned>, <mentioned>a se</mentioned>. Alia uero non
               <lb ed="#T"/>reciproca, ut <mentioned>qui</mentioned>, <mentioned>ille</mentioned>, <mentioned>idem</mentioned>. Reciprocum autem dicitur non quod sit pa<lb ed="#T"/>tiens,
-              sed quia ponit modum patientis supra se agentem, quia aliud
+              set quia ponit modum patientis supra se agentem, quia aliud
               <lb ed="#T"/>est patiens, et aliud est modus patientis quod patet per hoc quod nominatiuus
-              <lb ed="#T"/>potest esse patiens, ut <mentioned>Socrates percutitur</mentioned>, sed non potest habere modum pa<lb ed="#T"/>tientis.
+              <lb ed="#T"/>potest esse patiens, ut <mentioned>Socrates percutitur</mentioned>, set non potest habere modum pa<lb ed="#T"/>tientis.
               Vnde modus patientis semper est in obliquis, et sic patet quod
               <lb ed="#T"/>aliud est patiens, et aliud est modus patientis.
             </p>
@@ -135,7 +135,7 @@
               <pc type="#pilcrow"/>Item
               <lb ed="#T"/>si queratur quare hoc pronomen <mentioned>sui, sibi, se, a se</mentioned> careat nominatiuo
               <lb ed="#T"/>dicendum quod solutio iam patet ex predictis, quia agens non potest significari ut pa<lb ed="#T"/>tiens
-              sub modo patientis, nisi in obliquis. Sed nominatiuus dicit modum agen<lb ed="#T"/>tis,
+              sub modo patientis, nisi in obliquis. Set nominatiuus dicit modum agen<lb ed="#T"/>tis,
               et natura nominatiui repugnat nature huius pronominis <mentioned>sui, sibi</mentioned>. Et ideo
               <lb ed="#T"/>non potest habere nominatiuum agentem.
             </p>
@@ -145,7 +145,7 @@
               <lb ed="#T"/>et referunt, et subponunt pro eodem in numero. Et ex hoc patet
               <lb ed="#T"/>quod maior est certitudo per relatiuum idemptitatis quam per suum antecedens po<lb ed="#T"/>situm
               in loco relatiui, ut <mentioned>homo currit, homo disputat</mentioned>, quia dubium est utrum
-              <lb ed="#T"/>de eodem homine dicatur uel non. Sed cum dicitur <mentioned>homo currit, et ille dis<lb ed="#T"/>putat</mentioned>,
+              <lb ed="#T"/>de eodem homine dicatur uel non. Set cum dicitur <mentioned>homo currit, et ille dis<lb ed="#T"/>putat</mentioned>,
               certum est quod de eodem dicitur. Hoc enim patet secundum <ref xml:id="phsl-t8-Rd1e387"><name>Priscianus</name> in
                 <title>
                   <choice>
@@ -156,7 +156,7 @@
               </ref>
               dicen<lb ed="#T"/>tem
               quod cum dicitur <mentioned>Aiax uenit ad Troiam, Aiax fortiter pugnauit</mentioned>,
-              <lb ed="#T"/>dubium est an de eodem intelligatur. Sed si dicatur <mentioned>Aiax ue<lb ed="#T"/>nit
+              <lb ed="#T"/>dubium est an de eodem intelligatur. Set si dicatur <mentioned>Aiax ue<lb ed="#T"/>nit
               ad Troiam, et idem fortiter pugnauit</mentioned> de eodem intelligitur.
               <lb ed="#T"/>Et sic patet quod maior est certitudo per relatiuum idemptitatis quam per suum
               <lb ed="#T"/>antecedens, loco relatiui positum.
@@ -175,7 +175,7 @@
               <lb ed="#T"/>assignari comuniter equiuocatio.
             </p>
             <p xml:id="phsl-t8-d1e459">
-              <pc type="#pilcrow"/>Sed contra: hoc nomen <mentioned>qui</mentioned> secundum quod est relatiuum
+              <pc type="#pilcrow"/>Set contra: hoc nomen <mentioned>qui</mentioned> secundum quod est relatiuum
               <lb ed="#T"/>significat rem unam equaliter se habentem ad omne illud quod significat per modum
               <lb ed="#T"/>substantie, ut <mentioned>homo qui currit</mentioned>, <mentioned>color qui est in corpore</mentioned>, <mentioned>locus qui continet rem lo<lb ed="#T"/>catam</mentioned>,
               et sic de aliis. Ergo, deceptio ex diuersa relatione non
@@ -183,7 +183,7 @@
             </p>
             <p xml:id="phsl-t8-d1e485">
               <pc type="#pilcrow"/>Item hoc nomen <mentioned>qui</mentioned> secundum quod est relatiuum significat substantiam infi<lb ed="#T"/>nitam;
-              sed illa substantia apta nata tam finiri per unum antecedens quam
+              set illa substantia apta nata tam finiri per unum antecedens quam
               <lb ed="#T"/>per aliud; cum ergo illa substantia infinite sumpta in se sit una, potens
               <lb ed="#T"/>referre quodlibet antecedens, ergo significatio huius dictionis <mentioned>qui</mentioned> erit una; ergo
               <lb ed="#T"/>non equiuocatio.
@@ -205,9 +205,9 @@
               quod quodlibet uniuocum esset equiuocum, ut <mentioned>animal</mentioned> secundum quod est homo, et secundum
               <lb ed="#T"/>quod est in homine habet aliam rationem, et secundum quod est equs, uel secundum quod est
               <lb ed="#T"/>in equo, aliam. Et sic hoc nomen <mentioned>animal</mentioned> est comune, et tamen non est equiuocum,
-              <lb ed="#T"/>sed uniuocum. Vnde soluendum est breuiter quod sicut uniuoca dicuntur habere ean<lb ed="#T"/>dem
-              rationem non secundum se, sed <unclear>uniuocande</unclear>, ut <mentioned>homo</mentioned>, et <mentioned>bos</mentioned>, et consimilia in animali, similiter
-              <lb ed="#T"/>omnia relatiua debent habere eandem rationem non secundum se, sed in referente siue
+              <lb ed="#T"/>set uniuocum. Vnde soluendum est breuiter quod sicut uniuoca dicuntur habere ean<lb ed="#T"/>dem
+              rationem non secundum se, set <unclear>uniuocande</unclear>, ut <mentioned>homo</mentioned>, et <mentioned>bos</mentioned>, et consimilia in animali, similiter
+              <lb ed="#T"/>omnia relatiua debent habere eandem rationem non secundum se, set in referente siue
               <lb ed="#T"/>in suo relatiuo, et etiam habent idem nomen. Et ideo uniuoca uniuocantur in
               <lb ed="#T"/>eo. Ille obiciebat de rationibus relatiuorum secundum se, unde predictas obiec<lb ed="#T"/>tiones
               ab ista concedimus. Et ideo concedo quod deceptio facta ex diuer<lb ed="#T"/>sa
@@ -224,13 +224,13 @@
               <lb ed="#T"/>quo ad primum modum; quo ad secundum in hac <mentioned>litus aratur</mentioned>; quo ad tercium
               <lb ed="#T"/>in hac <mentioned>scit seculum</mentioned>. Et sic patet inducendo per omnes modos am<lb ed="#T"/>phibolie,
               quia ubicumque est amphibolia est constructio unius cum uno tantum;
-              <lb ed="#T"/>sed ubicumque est diuersa relatio non est constructio unius cum uno tantum, immo
+              <lb ed="#T"/>set ubicumque est diuersa relatio non est constructio unius cum uno tantum, immo
               <lb ed="#T"/>unius cum diuersis. Ergo deceptio ex diuersa relatione non facit am<lb ed="#T"/>phiboliam
               quod concedimus.
             </p>
             <p xml:id="phsl-t8-d1e635">
               <pc type="#pilcrow"/>Item ubicumque est deceptio ex eo quod
-              <lb ed="#T"/>aliqua dictio potest referri ad diuersa est compositio, uel diuisio. Sed deceptio
+              <lb ed="#T"/>aliqua dictio potest referri ad diuersa est compositio, uel diuisio. Set deceptio
               <lb ed="#T"/>ex diversa relatione est ex eo quod dictio aliqua potest referri ad di<lb ed="#T"/>uersa.
               Ergo deceptio ex diuersa relatione est compositio, uel diuisio, et hec iterum
               <lb ed="#T"/>concedimus.
@@ -281,7 +281,7 @@
               </choice>
               et ille disputat</mentioned>, hoc
               <lb ed="#T"/>relatiuum <mentioned>ille</mentioned> habet respectum ad hoc antecedens <mentioned>homo</mentioned> propter dependentiam
-              <lb ed="#T"/>sue relationis. Sed cum negatio adueniat propositioni inchoante a re<lb ed="#T"/>latiuo
+              <lb ed="#T"/>sue relationis. Set cum negatio adueniat propositioni inchoante a re<lb ed="#T"/>latiuo
               dicendo sic: <mentioned>ille non disputat</mentioned>, tunc illa negatio negat
               <lb ed="#T"/>uerbum quod sequitur, et non negat respectum relationis quod habet antecedens. Ergo
               <lb ed="#T"/>negatio non negat quicquid affirmat affirmatio; ergo non contradicit; ergo cum
@@ -294,7 +294,7 @@
               <supplied>Obiectiones</supplied>
             </head>
             <p xml:id="phsl-t8-d1e814">
-              <pc type="#pilcrow"/>Sed contra hoc obicitur: quicquid con<lb ed="#T"/>tingit
+              <pc type="#pilcrow"/>Set contra hoc obicitur: quicquid con<lb ed="#T"/>tingit
               negare contingit et affirmare de quolibet subposito. Set
               <lb ed="#T"/>uerbum contingit negare de quolibet subposito, et affirmare ergo de
               <lb ed="#T"/>subposito que est dictio relatiua; ergo quelibet propositio inchoata a relatiuo habet
@@ -302,7 +302,7 @@
             </p>
             <p xml:id="phsl-t8-d1e827">
               Item quelibet propositio siue enuntiatio que est
-              <lb ed="#T"/>una habet contradictoriam. Sed omnis propositio inchoata a relatiuo dum
+              <lb ed="#T"/>una habet contradictoriam. Set omnis propositio inchoata a relatiuo dum
               <lb ed="#T"/>non sit in ea dictio aliqua equiuoca, nec plura subiciantur, uel predicentur
               <lb ed="#T"/><del rend="expunctuation">uel predicentur</del> est una; ergo omnis propositio inchoata a relatiuo <del rend="expunctuation">est</del>
               <lb ed="#T"/>habet contradictoriam.
@@ -324,7 +324,7 @@
               tantummodo relatiui ad uerbum cui subicitur, et non per comparationem
               <lb ed="#T"/>relatiui ad antecedens. Et sic non oportet negare respectum que habet relatiuum
               <lb ed="#T"/>ad antecedens, quia respectus non est ibi per negationem affirmationis, nec propter de<lb ed="#T"/>pendentiam
-              subiecti in quantum est subiectum, sed propter dependentiam eius quod est subiectum,
+              subiecti in quantum est subiectum, set propter dependentiam eius quod est subiectum,
               <lb ed="#T"/>quia aliud est subiectum et id quod est subiectum, sicut aliud est predicatum et id quod est
               <lb ed="#T"/>predicatum. Et sic quicquid est affirmatum in propositione inchoata a relatiuo
               <lb ed="#T"/>negatur. Contradictoria istius - <mentioned>ille disputat</mentioned> - est illa: <mentioned>non ille
@@ -365,7 +365,7 @@
             <pc type="#pilcrow"/>Alia autem
             <lb ed="#T"/>datur differentia eorundem quod relatiuum substantie refert idem in numero, relatiuum autem
             <lb ed="#T"/>accidentis refert idem semper in specie, ut <mentioned>Socrates est albus et talis est Plato</mentioned>. Et
-            <lb ed="#T"/>ideo idem accidens in numero non potest esse in diuersis substantiis, sed
+            <lb ed="#T"/>ideo idem accidens in numero non potest esse in diuersis substantiis, set
             <lb ed="#T"/>idem accidens in specie.
           </p>
           <div xml:id="phsl-t8-Dd1e1018">
@@ -385,7 +385,7 @@
               <lb ed="#T"/>autem relatiuum idemptitatis substantie a relatiuo idemptitatis in accidentibus, quia
               <lb ed="#T"/>relatiuum idemptitatis substantie refert substantiam eandem in numero. <pc type="#pilcrow"/>Relatiuum
               <lb ed="#T"/>autem idempitatis in accidentibus non refert idem accidens in numero
-              <lb ed="#T"/>sed idem accidens in specie.
+              <lb ed="#T"/>set idem accidens in specie.
             </p>
           </div>
           <div xml:id="phsl-t8-Dd1e1081">
@@ -409,7 +409,7 @@
               dicantur demonstratiua sunt, ut cum dicimus demonstrantes mare
               <lb ed="#T"/><mentioned>talis est Nilus</mentioned>, et demonstrantes Erculem <mentioned>talis est Plato</mentioned>, et sic de
               <lb ed="#T"/>aliis. Si autem non dicantur ad presentes, siue per demonstrationem rerum
-              <lb ed="#T"/>presentium, tunc sunt relatiua, uel reditiua. Sed proprie reditiua sunt
+              <lb ed="#T"/>presentium, tunc sunt relatiua, uel reditiua. Set proprie reditiua sunt
               <lb ed="#T"/>quando reduntur interrogationi precedenti, ut <mentioned>qualis est Socrates? Talis
               <lb ed="#T"/>qualis est Plato</mentioned>. Relatiua autem sunt quando sine interrogatione proferuntur,
               <lb ed="#T"/>ut <mentioned>qualis est Socrates talis est Plato</mentioned>. Et quando ad nomina adiectiua dicuntur

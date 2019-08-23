@@ -55,12 +55,12 @@
             <supplied>De appelationis diffinitione</supplied>
           </head>
           <p xml:id="phsl-t10-d1e106">
-            <lb ed="#T"/><pc type="#pilcrow"/>Appelatio est acceptio termini <unclear reason="damage">comunis</unclear> pro re existente. <pc type="#pilcrow"/>Di<lb ed="#T"/>co
+            <lb ed="#T"/><pc type="pilcrow"/>Appelatio est acceptio termini <unclear reason="damage">comunis</unclear> pro re existente. <pc type="pilcrow"/>Di<lb ed="#T"/>co
             autem <mentioned>pro re existente</mentioned> quia terminus significans non ens nichil app<lb ed="#T"/>ellat,
             <lb ed="#T"/>ut <mentioned>Cesar</mentioned>, <mentioned>Antichristus</mentioned>, <mentioned>chimera</mentioned>, et sic de aliis.
           </p>
           <p xml:id="phsl-t10-d1e136">
-            <pc type="#pilcrow"/>Di<lb ed="#T"/>ffert
+            <pc type="pilcrow"/>Di<lb ed="#T"/>ffert
             autem appellatio a subpositione, et a significatione, quia appellatio
             <lb ed="#T"/>est tantum de re existente. Significatio uero et subpositio est tam de re ex<lb ed="#T"/>istente
             quam non existente, ut <mentioned>Antichristus</mentioned> significat Antichristum, et subpo<lb ed="#T"/>nit
@@ -74,7 +74,7 @@
             <supplied>De appellationis diuisione</supplied>
           </head>
           <p xml:id="phsl-t10-d1e169">
-            <pc type="#pilcrow"/>Appellationum autem alia
+            <pc type="pilcrow"/>Appellationum autem alia
             <cb ed="#T" n="b"/>
             <lb ed="#T"/>est termini communis, ut <mentioned>hominis</mentioned>, alia est termini singularis. Terminus sin<lb ed="#T"/>gularis
             significat idem et subponit et appellat, quare significat rem ex<lb ed="#T"/>istentem,
@@ -86,7 +86,7 @@
             <supplied>De appellatione termini communis</supplied>
           </head>
           <p xml:id="phsl-t10-d1e195">
-            <pc type="#pilcrow"/>Item appellationis termini
+            <pc type="pilcrow"/>Item appellationis termini
             <lb ed="#T"/>comunis, alia est termini comunis pro ipsa re in comuni, ut quando terminus comunis
             <lb ed="#T"/>habet simplicem subpositionem, ut cum dicitur <mentioned>homo est species</mentioned> uel <mentioned>animal
             <lb ed="#T"/>est genus</mentioned>. Et tunc terminus comunis idem significat, et subponit, et appellat,
@@ -94,7 +94,7 @@
             hominem.
           </p>
           <p xml:id="phsl-t10-d1e220">
-            <pc type="#pilcrow"/>Alia autem est terminus comunis pro suis inferioribus
+            <pc type="pilcrow"/>Alia autem est terminus comunis pro suis inferioribus
             <lb ed="#T"/>ut quando terminus comunis <del rend="expunctuation">simplicem</del> habet personalem subpositionem, ut cum
             <lb ed="#T"/>dicitur <mentioned>homo currit</mentioned>. Tunc <mentioned>homo</mentioned> non idem significat, et subponit et appellat,
             <lb ed="#T"/>set significat hominem in comuni, et subponit pro particularibus hominibus, et

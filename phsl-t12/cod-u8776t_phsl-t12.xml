@@ -49,115 +49,115 @@
     </front>
     <body>
       <div xml:id="phsl-t12">
-        <div>
-          <head>
+        <div xml:id="phsl-t12-Dd1e98">
+          <head xml:id="phsl-t12-Hd1e100">
             <supplied>De distributionis diffinitione</supplied>
           </head>
-          <p>
-            <lb ed="#T"/><pc type="#pilcrow"/>Distributio est multiplicatio termini comunis per signum
+          <p xml:id="phsl-t12-d1e106">
+            <lb ed="#T"/><pc type="pilcrow"/>Distributio est multiplicatio termini comunis per signum
             <lb ed="#T"/>uniuersale facta. Vt cum dicitur <mentioned>omnis homo</mentioned>, iste terminus <mentioned>homo</mentioned> distribuitur
             <lb ed="#T"/>siue confunditur pro quolibet suo inferiori per hoc signum <mentioned>omnis</mentioned>. Et
             <lb ed="#T"/>sic est ibi multiplicatio termini comunis.
           </p>
-          <p>
-            <pc type="#pilcrow"/>Dico autem <mentioned>termini comunis</mentioned> quia terminus
+          <p xml:id="phsl-t12-d1e128">
+            <pc type="pilcrow"/>Dico autem <mentioned>termini comunis</mentioned> quia terminus
             <lb ed="#T"/>singularis non potest distribui. Vnde dicitur sic incongrue <mentioned>omnis Socrates</mentioned>, <mentioned>omnis
             <lb ed="#T"/>Plato</mentioned>, et sic de aliis. E est soloecismus per partes orationis.
           </p>
         </div>
-        <div>
-          <head>
+        <div xml:id="phsl-t12-Dd1e147">
+          <head xml:id="phsl-t12-Hd1e149">
             <supplied>De signis uniuersalibus</supplied>
           </head>
-          <p>
-            <pc type="#pilcrow"/>Item
+          <p xml:id="phsl-t12-d1e155">
+            <pc type="pilcrow"/>Item
             <lb ed="#T"/>signorum autem uniuersalium alia sunt distributiua substantie, ut <mentioned>omnis</mentioned>, <mentioned>nullus</mentioned>, et consi<lb ed="#T"/>milia.
-            <pc type="#pilcrow"/>Alia uero sunt distributiua accidentis, ut <mentioned>quantumcumque</mentioned>, <mentioned>qualiscumque</mentioned>.
+            <pc type="pilcrow"/>Alia uero sunt distributiua accidentis, ut <mentioned>quantumcumque</mentioned>, <mentioned>qualiscumque</mentioned>.
           </p>
-          <p>
-            <lb ed="#T"/><pc type="#pilcrow"/>Signum autem distributiuum substantie est quando distribuit res se
+          <p xml:id="phsl-t12-d1e179">
+            <lb ed="#T"/><pc type="pilcrow"/>Signum autem distributiuum substantie est quando distribuit res se
             <lb ed="#T"/>habentes per modum <del rend="expunctuation">substantie</del> eius qui est quid, ut <mentioned>omnis</mentioned>, <mentioned>nullus</mentioned>; ut cum dicitur
             <lb ed="#T"/><mentioned>omnis albedo</mentioned>, <mentioned>omnis nigredo</mentioned>. Vnde <mentioned>substantia</mentioned> sumitur comuniter ad res cuius<lb ed="#T"/>libet
             generis cum dicitur <mentioned>singum distributiuum substantie</mentioned>.
           </p>
-          <p>
-            <pc type="#pilcrow"/>Signum autem
+          <p xml:id="phsl-t12-d1e212">
+            <pc type="pilcrow"/>Signum autem
             <lb ed="#T"/>accidentis est quando distribuit res se habentes per modum accidentis,
             <lb ed="#T"/>ut per modum qualis, uel quanti, ut <mentioned>qualiscumque</mentioned>, <mentioned>quantuscumque</mentioned>.
           </p>
         </div>
-        <div>
-          <head>
+        <div xml:id="phsl-t12-Dd1e228">
+          <head xml:id="phsl-t12-Hd1e230">
             <supplied>De signis distributiuis substantie</supplied>
           </head>
-          <p>
-            <pc type="#pilcrow"/>Item signorum
+          <p xml:id="phsl-t12-d1e236">
+            <pc type="pilcrow"/>Item signorum
             <lb ed="#T"/>distributiuorum substantie, alia sunt distributiua partium integralium, ut <mentioned>totus</mentioned>;
-            <lb ed="#T"/>alia sunt distributiua partium subiectiuarum, ut <mentioned>omnis</mentioned>, <mentioned>nullus</mentioned>, <mentioned>uterque</mentioned>. <pc type="#pilcrow"/>Item
+            <lb ed="#T"/>alia sunt distributiua partium subiectiuarum, ut <mentioned>omnis</mentioned>, <mentioned>nullus</mentioned>, <mentioned>uterque</mentioned>. <pc type="pilcrow"/>Item
             <lb ed="#T"/>signorum distributiuorum partium subiectiuarum alia sunt distributiua
-            <lb ed="#T"/>duorum, ut <mentioned>uterque</mentioned>, <mentioned>neuter</mentioned>, et consimilia; <pc type="#pilcrow"/>alia uero distributiua pluri<lb ed="#T"/>um,
+            <lb ed="#T"/>duorum, ut <mentioned>uterque</mentioned>, <mentioned>neuter</mentioned>, et consimilia; <pc type="pilcrow"/>alia uero distributiua pluri<lb ed="#T"/>um,
             ut <mentioned>nullus</mentioned>, <mentioned>omnis</mentioned>, et consimilia.
           </p>
-          <div>
-            <head type="question-title">
+          <div xml:id="phsl-t12-Dd1e281">
+            <head xml:id="phsl-t12-Hd1e283" type="question-title">
               <supplied>De hoc signo <mentioned>omnis</mentioned></supplied>
             </head>
-            <p>
-              <pc type="#pilcrow"/>Horum autem primo dicendum est de si<lb ed="#T"/>gnis
+            <p xml:id="phsl-t12-d1e291">
+              <pc type="pilcrow"/>Horum autem primo dicendum est de si<lb ed="#T"/>gnis
               distributiuis substante, et inter hec primo de hoc signo <mentioned>omnis</mentioned>.
             </p>
-            <p>
-              <lb ed="#T"/><pc type="#pilcrow"/>Sciendum ergo quod in plurali numero dupliciter sumitur. Quandoque enim sumitur colle<lb ed="#T"/>ctionem,
+            <p xml:id="phsl-t12-d1e301">
+              <lb ed="#T"/><pc type="pilcrow"/>Sciendum ergo quod in plurali numero dupliciter sumitur. Quandoque enim sumitur colle<lb ed="#T"/>ctionem,
               ut hic: <mentioned>omnes apostoli sunt duodecim</mentioned>. Et tunc non sequitur
               <lb ed="#T"/><mentioned>ergo isti apostoli <add place="under-line">sunt</add> duodecim</mentioned> demonstratis aliquibus de ipsis. Quandoque
-              <pb ed="#T"/ n="23-r"/>
-              <cb ed="#T"/ n="a">
+              <pb ed="#T" n="23-r"/>
+              <cb ed="#T" n="a"/>
               <lb ed="#T"/>autem sumitur diuisiue, uel distributiue, ut hic: <mentioned>omnes ho<lb ed="#T"/>mines
               natura scire desiderant</mentioned>.
             </p>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t12-Dd1e331">
+              <head xml:id="phsl-t12-Hd1e333" type="question-title">
                 <supplied>Quid significet</supplied>
               </head>
-              <p>
+              <p xml:id="phsl-t12-d1e339">
                 Et tunc queritur quid significet hoc signum
-                <lb ed="#T"/><mentioned>omnis</mentioned>. <pc type="#pilcrow"/>Et uidetur quod nichil, quia omnis res aut est uniuersalis, aut singularis;
+                <lb ed="#T"/><mentioned>omnis</mentioned>. <pc type="pilcrow"/>Et uidetur quod nichil, quia omnis res aut est uniuersalis, aut singularis;
                 <lb ed="#T"/>set hoc signum <mentioned>omnis</mentioned> non significat rem uniuersalem nec singularem; ergo hoc
                 <lb ed="#T"/>signum <mentioned>omnis</mentioned> nullam rem significat.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Item ad idem, <mentioned>omnis</mentioned> non
+              <p xml:id="phsl-t12-d1e359">
+                <pc type="pilcrow"/>Item ad idem, <mentioned>omnis</mentioned> non
                 <lb ed="#T"/>est predicabile de uno, nec de pluribus; ergo non est uniuersale, nec singulare.
                 <lb ed="#T"/>Et ita nichil significat.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Set contra ab eo quod res est uel non est oratio uera aut
+              <p xml:id="phsl-t12-d1e371">
+                <pc type="pilcrow"/>Set contra ab eo quod res est uel non est oratio uera aut
                 <lb ed="#T"/>falsa dicitur; ergo si <mentioned>omnis</mentioned> nichil significat per appositionem uel remotionem ipsius
                 <lb ed="#T"/>non causabitur ueritas uel falsitas in oratione. Set hec est uera: <mentioned>animal est
                 <lb ed="#T"/>homo</mentioned>; ergo et hec: <mentioned>omne animal est homo</mentioned>, quod falsum est; ergo primum, scilicet, quod <mentioned>omnis</mentioned>
                 <lb ed="#T"/>nichil significat.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Solutio ad primum dicendum quod <mentioned>omnis</mentioned> significat quoniam uniuersaliter quia
-                <lb ed="#T"/>significat terminum comunem sumi pro omni, et significat <del rend="expunctuation">supra omnis</del> rem aliquam. <pc type="#pilcrow"/>Set
+              <p xml:id="phsl-t12-d1e397">
+                <pc type="pilcrow"/>Solutio ad primum dicendum quod <mentioned>omnis</mentioned> significat quoniam uniuersaliter quia
+                <lb ed="#T"/>significat terminum comunem sumi pro omni, et significat <del rend="expunctuation">supra omnis</del> rem aliquam. <pc type="pilcrow"/>Set
                 <lb ed="#T"/>res est dupliciter, quia quedam est subicibilis uel predicabilis, ut <mentioned>homo</mentioned> uel <mentioned>animal currit</mentioned>, uel <mentioned>di<lb ed="#T"/>sputat</mentioned>;
                 et de hac re obicit primo et uerum est quod <mentioned>omnis</mentioned> nichil significat
                 <lb ed="#T"/>quia omnis talis res aut est uniuersalis aut singularis, et <mentioned>omnis</mentioned> non significat
-                <lb ed="#T"/>uniuersale nec singulare. <pc type="#pilcrow"/>Alia autem est res que est dispositio rei subicibilis
+                <lb ed="#T"/>uniuersale nec singulare. <pc type="pilcrow"/>Alia autem est res que est dispositio rei subicibilis
                 <lb ed="#T"/>uel predicabilis, et talem rem significat hoc signum <mentioned>omnis</mentioned>, et tam ab ista
                 <lb ed="#T"/>re quam ab illa causatur ueritas et falsitas in oratione.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Obicitur autem
+              <p xml:id="phsl-t12-d1e447">
+                <pc type="pilcrow"/>Obicitur autem
                 <lb ed="#T"/>quod <mentioned>omnis</mentioned> non significat dispositionem subiecti quia in omni sillogismo debet medium
                 <lb ed="#T"/><add place="margin left">iterari</add> cum suis dispositionibus in minori propositione. Ergo sic debemus sillo<lb ed="#T"/>gizare:
                 <mentioned>omnis homo est animal; Socrates est omnis homo; ergo Socrates est animal</mentioned>, quia <mentioned>omnis</mentioned>
                 <lb ed="#T"/>est dispositio subiecti in maiori extremitate; ergo debet <unclear>intuiri</unclear> in minore, quod
                 <lb ed="#T"/>falsum est; non ergo <mentioned>omnis</mentioned> est dispositio subiecti.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Solutio: sicut <mentioned>pater</mentioned> duo, scilicet, id
-                <lb ed="#T"/>quod est pater, et pater inquantum pater, <pc type="#pilcrow"/>similiter subiectum duo dicit, scilicet, id quod est
+              <p xml:id="phsl-t12-d1e480">
+                <pc type="pilcrow"/>Solutio: sicut <mentioned>pater</mentioned> duo, scilicet, id
+                <lb ed="#T"/>quod est pater, et pater inquantum pater, <pc type="pilcrow"/>similiter subiectum duo dicit, scilicet, id quod est
                 <lb ed="#T"/>subiectum et subiectum inquantum subiectum. Et secundum hoc duplex est dispositio subiecti quia quedam
                 <lb ed="#T"/>est eius quod est subiectum, ut <mentioned>albus</mentioned>, <mentioned>niger</mentioned>, et sic de aliis dispositionibus
                 <lb ed="#T"/>absolutis; et iste debent <add place="margin-left">iterari</add> in minori propositione cum medio. Alia
@@ -171,38 +171,38 @@
                 <lb ed="#T"/>albus currit; Socrates est homo albus et currit</mentioned>. Non ergo <mentioned>Socrates est <add place="above-line">omnis</add> homo albus et currit</mentioned>.
               </p>
             </div>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t12-Dd1e551">
+              <head xml:id="phsl-t12-Hd1e553" type="question-title">
                 <supplied>Vtrum exigat tria appellata</supplied>
               </head>
-              <p>
-                <lb ed="#T"/><pc type="#pilcrow"/>Habito quid significat hoc signum <mentioned>omnis</mentioned>, et cuiusmodi dispositionem si<lb ed="#T"/>gnificet,
+              <p xml:id="phsl-t12-d1e559">
+                <lb ed="#T"/><pc type="pilcrow"/>Habito quid significat hoc signum <mentioned>omnis</mentioned>, et cuiusmodi dispositionem si<lb ed="#T"/>gnificet,
                 consequenter queritur utrum exigat tria appellata. Et uidetur
-                <lb ed="#T"/>quod sic, quia omnis perfectio est in tribus, ut est in principio <ref><title>Celi et mundi</title></ref>;
+                <lb ed="#T"/>quod sic, quia omnis perfectio est in tribus, ut est in principio <ref xml:id="phsl-t12-Rd1e571"><title>Celi et mundi</title></ref>;
                 <lb ed="#T"/><add place="margin-left">est in tribus</add> ergo perfectum; set omne et perfectum sunt idem, ut est ibidem; ergo omne est
                 <lb ed="#T"/>in tribus; ergo <mentioned>omnis</mentioned> uult habere tria appellata.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Item ad idem dicit <ref><name>Aristoteles</name></ref>
+              <p xml:id="phsl-t12-d1e586">
+                <pc type="pilcrow"/>Item ad idem dicit <ref xml:id="phsl-t12-Rd1e590"><name>Aristoteles</name></ref>
                 <lb ed="#T"/>in eodem loco quod de duobus uiris non dicimus <mentioned>omnes uiri</mentioned>; ergo <mentioned>omnis</mentioned>
                 <lb ed="#T"/><del rend="expunctuation">non</del> uult habere tria appellata.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Set contra in qualibet demonstratione sunt
+              <p xml:id="phsl-t12-d1e608">
+                <pc type="pilcrow"/>Set contra in qualibet demonstratione sunt
                 <lb ed="#T"/>omnes propositiones uniuersales; set demonstrationes fiunt de sole et de luna;
                 <lb ed="#T"/>ergo oportet dicere <mentioned>omnis sol</mentioned>, et <mentioned>omnis luna</mentioned>; set <mentioned>sol</mentioned> habet nisi unicum
-                <cb ed="#T"/ n="b"/>
+                <cb ed="#T" n="b"/>
                 <lb ed="#T"/>subpositum; similiter et luna; ergo <mentioned>omnis</mentioned> non uult habere tria appe<lb ed="#T"/>llata.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Item ad idem, <mentioned>omne priuatum lumine a terre obiectu de<lb ed="#T"/>ficit</mentioned>.
+              <p xml:id="phsl-t12-d1e636">
+                <pc type="pilcrow"/>Item ad idem, <mentioned>omne priuatum lumine a terre obiectu de<lb ed="#T"/>ficit</mentioned>.
                 Hec propositio est concessa ab omnibus cum habeatur ab auctoritate
                 <lb ed="#T"/>et est uniuersalis; set <mentioned>priuatum lumine a terre obiectu</mentioned> non
                 <lb ed="#T"/>habet nisi unicum subpositum, scilicet, hanc lunam singularem; ergo <mentioned>omnis</mentioned> non
                 <lb ed="#T"/>exigitur tria appellata semper.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Item ad idem, <mentioned>omnis</mentioned> significat quoniam uniuersaliter;
+              <p xml:id="phsl-t12-d1e660">
+                <pc type="pilcrow"/>Item ad idem, <mentioned>omnis</mentioned> significat quoniam uniuersaliter;
                 <lb ed="#T"/>set hoc quod dico <mentioned>uniuersaliter</mentioned> est modus proprius uniuersalis; proprium autem diuersifi<lb ed="#T"/>catur
                 secundum diuersificationem sui subiecti, ut si <mentioned>homo</mentioned> est simpliciter, et <mentioned>risibile</mentioned> est
                 <lb ed="#T"/>simpliciter, et si <mentioned>homo</mentioned> diminutus, et <mentioned>risibile</mentioned> diminutum, et si <mentioned>homo</mentioned> mortuus,
@@ -211,8 +211,8 @@
                 in pluribus, aliquando in uno. Ergo <mentioned>omnis</mentioned> aliquando uult habere tria
                 <lb ed="#T"/>appellata, aliquando unum solum.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Item duplex est forma, quia quedam est
+              <p xml:id="phsl-t12-d1e726">
+                <pc type="pilcrow"/>Item duplex est forma, quia quedam est
                 <lb ed="#T"/>que est forma materie, ut anima mea est forma corporis mei, et tua corporis
                 <lb ed="#T"/>tui. Et ita forma est pars, et non predicatur de eo cuius est forma. Alia autem
                 <lb ed="#T"/>est forma que est forma predicabilis, et sic omnia superiora, ut genera, et species,
@@ -228,15 +228,15 @@
                 <lb ed="#T"/>appellata habere. Quando autem coniungitur termino uniuersali habenti unicum solum in<lb ed="#T"/>diuiduum
                 non exigit nisi unum.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Ad illud autem quod obicitur
+              <p xml:id="phsl-t12-d1e800">
+                <pc type="pilcrow"/>Ad illud autem quod obicitur
                 <choice>
                   <sic>primum</sic>
                   <corr>primo,</corr>
                 </choice>
                 <lb ed="#T"/>quod perfectio uniuscuiusque est in tribus, dicendum quod uerum est. Et hec tria
                 <lb ed="#T"/>sunt substantia rei, et uirtus eius, et operatio eius. Et hec tria tangit
-                <lb ed="#T"/><ref><name>Aristoteles</name></ref> hiis uerbis: <quote>natura apta nata sic facit</quote>. Per hoc enim quod dicit
+                <lb ed="#T"/><ref xml:id="phsl-t12-Rd1e818"><name>Aristoteles</name></ref> hiis uerbis: <quote xml:id="phsl-t12-Qd1e823">natura apta nata sic facit</quote>. Per hoc enim quod dicit
                 <lb ed="#T"/><mentioned>apta nata</mentioned> tangit uiertutem ipsius, et per hoc enim quod dicit <mentioned>natura</mentioned>,
                 <lb ed="#T"/>tangit substantiam rei; per hoc autem quod dicit <mentioned>facit sic</mentioned> tangit opera<lb ed="#T"/>tionem
                 ei debitam. Vnde perfectus dicitur homo cum habet substantiam hominis, et
@@ -244,8 +244,8 @@
                 <lb ed="#T"/><mentioned>omnis</mentioned> habet substantiam signi uniuersalis, et uirtutem eius quia est distrib<lb ed="#T"/>utiuum,
                 et operationem eius quando distribuit. Et in hiis tribus est eius per<lb ed="#T"/>fectio.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Ad secundum dicendum quod <mentioned>homo</mentioned> et <mentioned>homines</mentioned> differunt quia <mentioned>homo</mentioned> dicit
+              <p xml:id="phsl-t12-d1e852">
+                <pc type="pilcrow"/>Ad secundum dicendum quod <mentioned>homo</mentioned> et <mentioned>homines</mentioned> differunt quia <mentioned>homo</mentioned> dicit
                 <lb ed="#T"/>ipsam speciem secundum se que est predicabilis de pluribus; set <mentioned>homines</mentioned> in
                 <lb ed="#T"/>plurali nominat speciem non secundum se set multiplicatam in actu
                 <lb ed="#T"/>per materias indiuiduorum numero diuersas. Vnde <mentioned>omnis</mentioned> in plurali numero ratione
@@ -253,20 +253,20 @@
                 <lb ed="#T"/>tria appellata; set <mentioned>omnis</mentioned> in singulari quia respicit speciem secundum
                 <lb ed="#T"/>se, et non materia indiuiduorum, ideo solum exigit essentiam aptam
                 <lb ed="#T"/>natam predicari de pluribus, siue actu participetur a pluribus, siue
-                <pb ed="#T"/ n="23-v">
-                <cb ed="#T"/ n="a">
+                <pb ed="#T" n="23-v"/>
+                <cb ed="#T" n="a"/>
                 <lb ed="#T"/>ab uno solo. Et ideo aliquando exigit tria appellata, aliquando
                 <lb ed="#T"/>unum solum secundum naturam illius cui adiungitur uniuersalis.
               </p>
             </div>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t12-Dd1e902">
+              <head xml:id="phsl-t12-Hd1e904" type="question-title">
                 <supplied>De quadam regula circa predicta</supplied>
               </head>
-              <p>
-                <pc type="#pilcrow"/>Quidam
+              <p xml:id="phsl-t12-d1e910">
+                <pc type="pilcrow"/>Quidam
                 <lb ed="#T"/>tamen dicunt quod <mentioned>omnis</mentioned> tria uult semper habere appellata
-                <lb ed="#T"/>ad minus, et dant talem regulam: <!--RULE--><pc type="#pilcrow"/>quociens<lb ed="#T"/>cumque
+                <lb ed="#T"/>ad minus, et dant talem regulam: <!--RULE--><pc type="pilcrow"/>quociens<lb ed="#T"/>cumque
                 signum uniuersale affirmatiuum additur termino comuni non habenti
                 <lb ed="#T"/>subficientiam appellatorum recurrit ad non ens. Vt cum dicitur <mentioned>omnis
                 <lb ed="#T"/>fenix</mentioned>, quia iste terminus <mentioned>fenix</mentioned> non habet nisi unicum subpositum quod
@@ -278,21 +278,21 @@
                 <lb ed="#T"/>fenix qui est, et in affirmatiua subponunt duo fenices qui
                 <lb ed="#T"/>non sunt. Et sic non est idem subiectum in utraque.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Hoc autem potest multi<lb ed="#T"/>pliciter
+              <p xml:id="phsl-t12-d1e969">
+                <pc type="pilcrow"/>Hoc autem potest multi<lb ed="#T"/>pliciter
                 destrui. Primo quia hec inconuenientia sequntur ex falso quod sup<lb ed="#T"/>ponunt
                 quod <mentioned>omnis</mentioned> uelit habere tria appellata quod ostensum est
                 <lb ed="#T"/>superius esse falsum.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Preterea uult <ref><name>Aristoteles</name></ref> quod illa propositio subicibilis
+              <p xml:id="phsl-t12-d1e983">
+                <pc type="pilcrow"/>Preterea uult <ref xml:id="phsl-t12-Rd1e987"><name>Aristoteles</name></ref> quod illa propositio subicibilis
                 <lb ed="#T"/>uniuersale uniuersaliter sumptum alicui predicato contradicit illi propositioni in qua subicitur
                 <lb ed="#T"/>idem uniuersale non uniuersaliter sumptum eidem predicato. Set iste sunt tales: <mentioned>omnis
                 <lb ed="#T"/>fenix est</mentioned>, <mentioned>quidam fenix non est</mentioned>. Ergo sunt contradictorie quod ipsi
                 <lb ed="#T"/>negant. Et sic regula eorum est falsa.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Item ad idem regula
+              <p xml:id="phsl-t12-d1e1007">
+                <pc type="pilcrow"/>Item ad idem regula
                 <lb ed="#T"/>est talis: <!--RULE-->terminus comunis subponens uel apponens uerbo presentis <unclear reason="damage">tem<lb ed="#T"/>poris</unclear>
                 simpliciter sumpto non habenti uim ampliandi nec ex se,
                 <lb ed="#T"/>nec ex alio restringitur ad subponendum pro hiis qui sunt sub
@@ -304,28 +304,28 @@
                 <lb ed="#T"/>sic regula eorum est falsa, et supra falsum fundatur, quod concedimus.
               </p>
             </div> <!--This closes De quadam regula circa predicta-->
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t12-Dd1e1046">
+              <head xml:id="phsl-t12-Hd1e1048" type="question-title">
                 <supplied>Sophisma</supplied>
               </head>
-              <p>
-                <lb ed="#T"/><pc type="#pilcrow"/>Secundum predictam queritur de hoc sophismate: <mentioned>omnis homo est; et
+              <p xml:id="phsl-t12-d1e1054">
+                <lb ed="#T"/><pc type="pilcrow"/>Secundum predictam queritur de hoc sophismate: <mentioned>omnis homo est; et
                 <lb ed="#T"/>quodlibet differens ab illo est non homo</mentioned>. Probatio: hec est quedam copula<lb ed="#T"/>tiua
                 cuius utraque pars est uera; ergo et ipsa tota est uera.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Contra:
+              <p xml:id="phsl-t12-d1e1067">
+                <pc type="pilcrow"/>Contra:
                 <lb ed="#T"/><mentioned>omnis homo est, et quodlibet differens ab illo est non homo; ergo Socrates est,
                 <lb ed="#T"/>et quodlibet differens ab illo est non homo</mentioned>, quod falsum est, quia hec est co<lb ed="#T"/>pulatiua
                 cuius altera pars est falsa; ergo et ipsa tota est falsa.
               </p>
-              <p>
-                <pc type="#pilcrow"/>So<lb ed="#T"/>lutio:
+              <p xml:id="phsl-t12-d1e1080">
+                <pc type="pilcrow"/>So<lb ed="#T"/>lutio:
                 <mentioned>differens ab omni homine</mentioned> in minus est quam <mentioned>differens a
                 <lb ed="#T"/>Socrate</mentioned>, quia <mentioned>differens ab omni homine</mentioned> subponit tantum pro rebus aliis
                 <lb ed="#T"/>ab homine, set <mentioned>differens a Socrate</mentioned> subponit pro eisdem et etiam pro
                 <lb ed="#T"/>aliis hominibus a Socrate. Vnde bene sequitur <mentioned>differens ab omni homine; ergo
-                <lb ed="#T"/>differens a Socrate</mentioned>, et est locus a specie, siue a parte subiectiua. <pc type="#pilcrow"/>Vnde
+                <lb ed="#T"/>differens a Socrate</mentioned>, et est locus a specie, siue a parte subiectiua. <pc type="pilcrow"/>Vnde
                 <lb ed="#T"/>si apponatur signum uniuersale est processus ab inferiori ad superius
                 <lb ed="#T"/>cum distributione. Et sic incidit sophisma consequentis in improbatione secundum
                 <lb ed="#T"/>processum unum, quia duplex est processus in improbatione, quia bene sequitur
@@ -336,39 +336,39 @@
                 <lb ed="#T"/>omne animal</mentioned>.
               </p>
             </div>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t12-Dd1e1142">
+              <head xml:id="phsl-t12-Hd1e1144" type="question-title">
                 <supplied>Aliud sophisma</supplied>
               </head>
-              <p>
-                <pc type="#pilcrow"/>Item queritur de hoc sophismate: <mentioned>omnis homo et
+              <p xml:id="phsl-t12-d1e1150">
+                <pc type="pilcrow"/>Item queritur de hoc sophismate: <mentioned>omnis homo et
                 <lb ed="#T"/>alius homo sunt</mentioned>. Probatio: Socrates et alius homo sunt; Plato et alius homo sunt;
                 <lb ed="#T"/>et sic de aliis; ergo omnis homo et alius homo sunt.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Contra:
+              <p xml:id="phsl-t12-d1e1162">
+                <pc type="pilcrow"/>Contra:
                 <lb ed="#T"/><mentioned>alius</mentioned> est relatiuum diuersitatis; ergo subponit pro alio diuerso ab
                 <lb ed="#T"/>omni homine; set non est homo alius ab omni homine; ergo prima
                 <lb ed="#T"/>est falsa.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Solutio: prima est falsa, et probatio peccat figuram
+              <p xml:id="phsl-t12-d1e1175">
+                <pc type="pilcrow"/>Solutio: prima est falsa, et probatio peccat figuram
                 <lb ed="#T"/>dictionis a pluribus determinatis subponentibus ad unam determinatam,
                 <lb ed="#T"/>quia iste terminus <mentioned>alius</mentioned> determinatam habet subpositionem in premissis, et in
-                <lb ed="#T"/>conclusione. <pc type="#pilcrow"/>Item probatio peccat secundum sophisma accidentis quia licet
+                <lb ed="#T"/>conclusione. <pc type="pilcrow"/>Item probatio peccat secundum sophisma accidentis quia licet
                 <lb ed="#T"/>Socrates, Plato, et Sicero inferant omnem hominem secundum se, tamen sub
                 <lb ed="#T"/>hac copulatione que est <mentioned>et alius homo</mentioned> non potest inferre <mentioned>omnem ho<lb ed="#T"/>minem</mentioned>
                 cum dicitur <mentioned>ergo omnis homo et alius homo sunt</mentioned>, sicut <mentioned>ego cognosco
                 <lb ed="#T"/>Coriscum</mentioned> hoc secundum se non tamen sub hoc accidente quod est <mentioned>uenire</mentioned>.
               </p>
             </div>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t12-Dd1e1217">
+              <head xml:id="phsl-t12-Hd1e1219" type="question-title">
                 <supplied>De quadam regula</supplied>
               </head>
-              <p>
-                <pc type="#pilcrow"/>Vnde
-                <lb ed="#T"/>talis datur regula: <!--RULE--><pc type="#pilcrow"/>Quocienscumque aliquid sequitur ad aliud conuersim, siue
+              <p xml:id="phsl-t12-d1e1225">
+                <pc type="pilcrow"/>Vnde
+                <lb ed="#T"/>talis datur regula: <!--RULE--><pc type="pilcrow"/>Quocienscumque aliquid sequitur ad aliud conuersim, siue
                 <lb ed="#T"/>non conuersim, si aliquid conueniat uni rei non alteri, et per illud cui conuenit
                 <lb ed="#T"/>inferuntur de eo cui non conuenit semper est fallacia accidentis. Verbi gratia,
                 <lb ed="#T"/>bene sequitur: <mentioned>si homo est, substantia est</mentioned>. Et species conuenit homini ita quod non substantie. Vnde
@@ -378,74 +378,74 @@
                 ut <mentioned>homo</mentioned> et <mentioned>risibile</mentioned>; quedam uero non.
               </p>
             </div>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t12-Dd1e1273">
+              <head xml:id="phsl-t12-Hd1e1275" type="question-title">
                 <supplied>Aliud sophisma</supplied>
               </head>
-              <p>
-                <pc type="#pilcrow"/>Item queritur de hoc so<lb ed="#T"/>phismate:
+              <p xml:id="phsl-t12-d1e1281">
+                <pc type="pilcrow"/>Item queritur de hoc so<lb ed="#T"/>phismate:
                 <mentioned>omnis homo est omnis homo</mentioned>. Probatio: Socrates est Socrates; Plato est Plato;
-                <lb ed="#T"/>Cicero est Cicero; et sic de aliis; ergo omnis homo est omnis homo. <pc type="#pilcrow"/>Vel
-                <lb ed="#T"/>sic: dicit <ref><name>Boecius</name></ref> quod nulla propositio est uerior illa in qua idem predicatur de se;
+                <lb ed="#T"/>Cicero est Cicero; et sic de aliis; ergo omnis homo est omnis homo. <pc type="pilcrow"/>Vel
+                <lb ed="#T"/>sic: dicit <ref xml:id="phsl-t12-Rd1e1297"><name>Boecius</name></ref> quod nulla propositio est uerior illa in qua idem predicatur de se;
                 <lb ed="#T"/>set in hac <mentioned>omnis homo est omnis homo</mentioned> idem predicatur de se; ergo nulla propositio
                 <lb ed="#T"/>est uerior hac.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Contra: sua contractoria est uera hec, scilicet, <mentioned>quidam
-                <lb ed="#T"/>homo non est omnis homo</mentioned>; ergo ipsa est falsa. <pc type="#pilcrow"/>Ad idem <mentioned>omnis homo est omnis
+              <p xml:id="phsl-t12-d1e1309">
+                <pc type="pilcrow"/>Contra: sua contractoria est uera hec, scilicet, <mentioned>quidam
+                <lb ed="#T"/>homo non est omnis homo</mentioned>; ergo ipsa est falsa. <pc type="pilcrow"/>Ad idem <mentioned>omnis homo est omnis
                 <lb ed="#T"/>homo; set Socrates est homo; ergo Socrates est omnis homo</mentioned>. Sillogismus in tercio prime; set conclusio
                 <lb ed="#T"/>est falsa; ergo et prima ex qua sequitur simpliciter erit falsa.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Solutio prima
+              <p xml:id="phsl-t12-d1e1328">
+                <pc type="pilcrow"/>Solutio prima
                 <lb ed="#T"/>falsa. Et probatio peccat secundum consequens ab insufficienti quia cum illis quas
                 <lb ed="#T"/>sumit debet sumere has a parte subiecti - <mentioned>Socrates est omnis homo</mentioned>, <mentioned>Plato est
-                <lb ed="#T"/>omnis homo</mentioned>, et sic de aliis -, <del rend="expunctuation"/>ut</del> et istas a parte predicati - <mentioned>omnis homo
+                <lb ed="#T"/>omnis homo</mentioned>, et sic de aliis -, <del rend="expunctuation">ut</del> et istas a parte predicati - <mentioned>omnis homo
                 <lb ed="#T"/>est Socrates</mentioned>, <mentioned>omnis homo est Plato</mentioned>, et sic de singulis quas omnes dimitit.
                 <lb ed="#T"/>Et sic peccat ab insufficienti.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Ad aliud dicendum quod non predicatur
+              <p xml:id="phsl-t12-d1e1359">
+                <pc type="pilcrow"/>Ad aliud dicendum quod non predicatur
                 <lb ed="#T"/>idem de se, set predicatur <mentioned>omnis homo</mentioned> de homine sumpto pro qualibet sui parte.
               </p>
             </div>
           </div> <!--This closes De hoc signo omnis-->
 
-          <div>
-            <head type="question-title">
+          <div xml:id="phsl-t12-Dd1e1373">
+            <head xml:id="phsl-t12-Hd1e1375" type="question-title">
               <supplied>De hoc signo <mentioned>nullus</mentioned></supplied>
             </head>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t12-Dd1e1383">
+              <head xml:id="phsl-t12-Hd1e1385" type="question-title">
                 <supplied>Quid significet</supplied>
               </head>
-              <p>
-                <lb ed="#T"/><pc type="#pilcrow"/>Sequitur de hoc signo <mentioned>nullus</mentioned>, quod significat negatiue quoniam
+              <p xml:id="phsl-t12-d1e1391">
+                <lb ed="#T"/><pc type="pilcrow"/>Sequitur de hoc signo <mentioned>nullus</mentioned>, quod significat negatiue quoniam
                 <lb ed="#T"/>uniuersaliter. Vnde significat idem quod hoc signum <mentioned>omnis</mentioned> cum negatione. Et ideo <mentioned>omnis
                 <lb ed="#T"/>non</mentioned> et <mentioned>nullus</mentioned> equipollent.
               </p>
             </div>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t12-Dd1e1415">
+              <head xml:id="phsl-t12-Hd1e1417" type="question-title">
                 <supplied>De quadam regula</supplied>
               </head>
-              <p>
-                <pc type="#pilcrow"/>De hoc signo <mentioned>nullus</mentioned> talis datur
-                <lb ed="#T"/>regula: <pc type="#pilcrow"/>quocienscumque hoc signum <mentioned>nullus</mentioned> immediate adiungitur
+              <p xml:id="phsl-t12-d1e1423">
+                <pc type="pilcrow"/>De hoc signo <mentioned>nullus</mentioned> talis datur
+                <lb ed="#T"/>regula: <pc type="pilcrow"/>quocienscumque hoc signum <mentioned>nullus</mentioned> immediate adiungitur
                 <lb ed="#T"/>termino comuni confundit ipsum mobiliter et distributiue, et similiter terminum cui
                 <lb ed="#T"/>adiungitur mediate. Vt <mentioned>nullus homo est asinus</mentioned>. Vnde potest fieri de<pb ed="#T" n="24-r"/><cb ed="#T" n="a"/><lb ed="#T"/>census
                 sub subiecto sic: <mentioned>ergo Socrates non est asinus, nec Plato</mentioned>, et sic de aliis. Et sub predicato sic: <mentioned>nullus homo est asinus; ergo nullus homo est
                 <lb ed="#T"/>Brunellus, nec Fanellus</mentioned>; et sic de aliis.
               </p>
             </div>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t12-Dd1e1460">
+              <head xml:id="phsl-t12-Hd1e1462" type="question-title">
                 <supplied>Sophisma</supplied>
               </head>
-              <p>
-                <pc type="#pilcrow"/>Secundum predicta queritur
+              <p xml:id="phsl-t12-d1e1468">
+                <pc type="pilcrow"/>Secundum predicta queritur
                 <lb ed="#T"/>de hoc sophismate: <mentioned>nullus homo est omnis homo</mentioned>. Probatio: Socrates non est omnis homo,
-                <lb ed="#T"/>Plato non est omnis homo, et sic de aliis; ergo nullus homo est omnis homo. <pc type="#pilcrow"/>Vel
+                <lb ed="#T"/>Plato non est omnis homo, et sic de aliis; ergo nullus homo est omnis homo. <pc type="pilcrow"/>Vel
                 <lb ed="#T"/>sic:
                 <choice>
                   <sic>sua contradictoria est falsa; ergo et ipsa est uera hec, scilicet, <mentioned>aliquis homo est
@@ -453,12 +453,12 @@
                   <corr>sua contradictoria est falsa hec, scilicet, <mentioned>aliquis homo est omnis homo</mentioned>; ergo et ipsa est uera.</corr>
                 </choice>
               </p>
-              <p>
-                <pc type="#pilcrow"/>Contra: ibi predicatur oppositum de opposito, quia <mentioned>omnis</mentioned> et <mentioned>nullus</mentioned> sunt
+              <p xml:id="phsl-t12-d1e1501">
+                <pc type="pilcrow"/>Contra: ibi predicatur oppositum de opposito, quia <mentioned>omnis</mentioned> et <mentioned>nullus</mentioned> sunt
                 <lb ed="#T"/>opposita; ergo loqutio est falsa.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Solutio prima est uera simpliciter. Ad im<lb ed="#T"/>probationem
+              <p xml:id="phsl-t12-d1e1514">
+                <pc type="pilcrow"/>Solutio prima est uera simpliciter. Ad im<lb ed="#T"/>probationem
                 respondendum per intereptionem quia ibi non predicatur oppositum de
                 <lb ed="#T"/>opposito, set remouetur <mentioned>esse omnem hominem</mentioned> ab <mentioned>omni homine</mentioned> pro quolibet suo
                 <lb ed="#T"/>subposito, et hoc est uerum.
@@ -466,55 +466,55 @@
             </div>
           </div> <!--This closes De hoc signo nullus-->
 
-          <div>
-            <head type="question-title">
+          <div xml:id="phsl-t12-Dd1e1537">
+            <head xml:id="phsl-t12-Hd1e1539" type="question-title">
               <supplied>De hoc signo <mentioned>nichil</mentioned></supplied>
             </head>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t12-Dd1e1547">
+              <head xml:id="phsl-t12-Hd1e1549" type="question-title">
                 <supplied>Quid significet</supplied>
               </head>
-              <p>
-                <pc type="#pilcrow"/>Sequitur de hoc signo <mentioned>nichil</mentioned>,
+              <p xml:id="phsl-t12-d1e1555">
+                <pc type="pilcrow"/>Sequitur de hoc signo <mentioned>nichil</mentioned>,
                 <lb ed="#T"/>quia significat idem quod hoc signum <mentioned>nullus</mentioned>. Et preterea recipientem eius
                 <lb ed="#T"/>distributionem terminum, quia <mentioned>nichil</mentioned> nullam rem significat. <mentioned>Nichil</mentioned> enim est signum uniuersale
                 <lb ed="#T"/>cum negatione; <mentioned>res</mentioned> uero est terminus recipiens eius distributionem.
               </p>
             </div>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t12-Dd1e1583">
+              <head xml:id="phsl-t12-Hd1e1585" type="question-title">
                 <supplied>Sophisma</supplied>
               </head>
-              <p>
-                <pc type="#pilcrow"/>Secundum
-                <lb ed="#T"/>hoc queritur de hoc sophismate: <mentioned>nichil uidens est aliquid uidens</mentioned>. Probatio: <pc type="#pilcrow"/>non
+              <p xml:id="phsl-t12-d1e1591">
+                <pc type="pilcrow"/>Secundum
+                <lb ed="#T"/>hoc queritur de hoc sophismate: <mentioned>nichil uidens est aliquid uidens</mentioned>. Probatio: <pc type="pilcrow"/>non
                 <lb ed="#T"/>hanc rem uidens est aliquid uidens, quia non uidens Platonem est
                 <lb ed="#T"/>uidens Socratem, non illam rem uidens est aliquid uidens, et sic de
                 <lb ed="#T"/>aliis; ergo nichil uidens est aliquid uidens.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Contra: predicatur oppositum
+              <p xml:id="phsl-t12-d1e1610">
+                <pc type="pilcrow"/>Contra: predicatur oppositum
                 <lb ed="#T"/>de opposito, quia <mentioned>aliquid uidere</mentioned> de eo quod est <mentioned>nichil uidere</mentioned>; ergo oratio impossibilis.
               </p>
-              <p>
-                <lb ed="#T"/><pc type="#pilcrow"/>Quidam distingunt hanc <mentioned>nichil uidens est aliquid uidens</mentioned>, eo quod
+              <p xml:id="phsl-t12-d1e1623">
+                <lb ed="#T"/><pc type="pilcrow"/>Quidam distingunt hanc <mentioned>nichil uidens est aliquid uidens</mentioned>, eo quod
                 <lb ed="#T"/>hec dictio <mentioned>nichil</mentioned> potest esse accusatiui casus, et est sensus <mentioned>nullam rem uidens est
                 <lb ed="#T"/>aliquid uidens</mentioned>, uel potest esse nominatiui casus, et est sensus <mentioned>nulla res
                 <lb ed="#T"/>uidens est uidens aliquid</mentioned>. Et secundum hoc ponunt ibi amphiboliam ex di<lb ed="#T"/>uersitate
                 casus. set hoc non soluit sophisma, quia utroque sensu est
                 <lb ed="#T"/>falsa.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Alii distingunt hanc <mentioned>nichil uidens est aliquid uidens</mentioned>, eo quod
+              <p xml:id="phsl-t12-d1e1652">
+                <pc type="pilcrow"/>Alii distingunt hanc <mentioned>nichil uidens est aliquid uidens</mentioned>, eo quod
                 <lb ed="#T"/>negatio existens in hoc termino <mentioned>nichil</mentioned> potest negare participium primo positum, et
                 <lb ed="#T"/>tunc est sensus <mentioned>quamlibet rem non uidens est uidens aliquid</mentioned>, et sic est diuisa.
-                <lb ed="#T"/><pc type="#pilcrow"/>Vel potest negare hoc uerbum <mentioned>est</mentioned>, et est sensus <mentioned>quamlibet rem uidens non
+                <lb ed="#T"/><pc type="pilcrow"/>Vel potest negare hoc uerbum <mentioned>est</mentioned>, et est sensus <mentioned>quamlibet rem uidens non
                 <lb ed="#T"/>est uidens aliquid</mentioned>, et sic est composita, quia negatio fertur ad situm ma<lb ed="#T"/>gis
                 debitum. Set hoc non soluit quia utroque sensu est falsa, cum
                 <lb ed="#T"/>opposita ponantur circa idem.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Vnde dicendum quod prima est falsa simpliciter.
+              <p xml:id="phsl-t12-d1e1688">
+                <pc type="pilcrow"/>Vnde dicendum quod prima est falsa simpliciter.
                 <lb ed="#T"/>Et probatio peccat secundum fallaciam figure dictionis a pluribus determinatis
                 <lb ed="#T"/>ad unam determinatam huius termini <mentioned>uidens</mentioned>, quia in premissis habet determina<lb ed="#T"/>tam
                 subpositionem. Et in conclusione similiter, cum tam premisse quam conclusio
@@ -527,65 +527,65 @@
                 <lb ed="#T"/>uidens</mentioned>. Vnde totum accidit partibus ut hic est, et <mentioned>uidere</mentioned> assignatur
                 <lb ed="#T"/>inesse utrique.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Sciendum autem quod omnes premisse sunt duplices, quia
-                <lb ed="#T"/>negatio potest determinare uerbum, uel participium ut dictum est prius. <pc type="#pilcrow"/>Vnde antiqui
+              <p xml:id="phsl-t12-d1e1730">
+                <pc type="pilcrow"/>Sciendum autem quod omnes premisse sunt duplices, quia
+                <lb ed="#T"/>negatio potest determinare uerbum, uel participium ut dictum est prius. <pc type="pilcrow"/>Vnde antiqui
                 <lb ed="#T"/>posuerunt premissas esse duplices, conclusionem autem non propter
-                <lb ed="#T"/>quandam regulam quam dabant talem: <!--RULE--><pc type="#pilcrow"/>quocienscumque negatio et distributio
+                <lb ed="#T"/>quandam regulam quam dabant talem: <!--RULE--><pc type="pilcrow"/>quocienscumque negatio et distributio
                 <lb ed="#T"/>includuntur in uno termino ad quicquid potest ferri unum, et reliqum.
-                <lb ed="#T"/><pc type="#pilcrow"/>Vnde cum distributio posita in obliquo non possit in predicta oratione
+                <lb ed="#T"/><pc type="pilcrow"/>Vnde cum distributio posita in obliquo non possit in predicta oratione
                 <lb ed="#T"/>atingere uerbum, nec negatio.
               </p>
             </div>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t12-Dd1e1755">
+              <head xml:id="phsl-t12-Hd1e1757" type="question-title">
                 <supplied>Quedam alia sophismata</supplied>
               </head>
-              <p>
-                <pc type="#pilcrow"/>Item idem est iudicium de hiis
-                <cb ed="#T"/ n="b">
+              <p xml:id="phsl-t12-d1e1763">
+                <pc type="pilcrow"/>Item idem est iudicium de hiis
+                <cb ed="#T" n="b"/>
                 <lb ed="#T"/>sophismatibus: <mentioned>nullum capud habens est aliquod capud habens</mentioned>; <mentioned>a nullo
-                <lb ed="#T"/>homine differens est ab aliquo homine differens</mentioned>; <pc type="#pilcrow"/><mentioned>nullum oculum
-                <lb ed="#T"/>habens est aliquem oculum habens</mentioned>; <pc type="#pilcrow"/><mentioned>tu es quilibet uel differens a
-                <lb ed="#T"/>quolibet</mentioned>; <pc type="#pilcrow"/><mentioned>tu es homo uel differens ab homine</mentioned>.
+                <lb ed="#T"/>homine differens est ab aliquo homine differens</mentioned>; <pc type="pilcrow"/><mentioned>nullum oculum
+                <lb ed="#T"/>habens est aliquem oculum habens</mentioned>; <pc type="pilcrow"/><mentioned>tu es quilibet uel differens a
+                <lb ed="#T"/>quolibet</mentioned>; <pc type="pilcrow"/><mentioned>tu es homo uel differens ab homine</mentioned>.
               </p>
             </div>
           </div> <!--This closes De hoc signo nichil-->
 
-          <div>
-            <head type="question-title">
+          <div xml:id="phsl-t12-Dd1e1801">
+            <head xml:id="phsl-t12-Hd1e1803" type="question-title">
               <supplied>De signis distributiuis duorum</supplied>
             </head>
-            <p>
-              <pc type="#pilcrow"/>Sequitur de
+            <p xml:id="phsl-t12-d1e1809">
+              <pc type="pilcrow"/>Sequitur de
               <lb ed="#T"/>signis distributiuis duorum, et talia sunt <mentioned>uterque</mentioned>, et <mentioned>neuter</mentioned> et con<lb ed="#T"/>similia.
               Et hec differunt a predictis, quia predicta ut <mentioned>omnis</mentioned>, <mentioned>nullus</mentioned>, di<lb ed="#T"/>stribuunt
               pro omnibus indiuiduis termini comunis; set <mentioned>uterque</mentioned> et <mentioned>neuter</mentioned>
               <lb ed="#T"/>distribuunt solummodo pro duobus per demonstrationem ostensis, ut
               <lb ed="#T"/><mentioned>uterque istorum</mentioned>, uel <mentioned>neuter istorum</mentioned>.
             </p>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t12-Dd1e1849">
+              <head xml:id="phsl-t12-Hd1e1851" type="question-title">
                 <supplied>Sophisma</supplied>
               </head>
-              <p>
-                <pc type="#pilcrow"/>Secundum predicta queritur de hoc
+              <p xml:id="phsl-t12-d1e1857">
+                <pc type="pilcrow"/>Secundum predicta queritur de hoc
                 <lb ed="#T"/>sophismate: <mentioned>ab utroque istorum enuntiatum est uerum</mentioned>, posito quod Socrates di<lb ed="#T"/>cat
                 <mentioned>Deum esse</mentioned>, Plato autem <mentioned>hominem esse animal</mentioned>, et ambo insimul dicant <mentioned>hominem
                 <lb ed="#T"/>esse asinum</mentioned>, et illi duo demonstrantur per hoc pronomen <mentioned>istorum</mentioned>. Probatio prime:
                 <lb ed="#T"/>a Socrate enuntiatum est uerum; a Platone enuntiatum est uerum; ergo ab utroque
                 <lb ed="#T"/>istorum enuntiatum est uerum.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Contra: ab utroque istorum enuntiatum
+              <p xml:id="phsl-t12-d1e1888">
+                <pc type="pilcrow"/>Contra: ab utroque istorum enuntiatum
                 <lb ed="#T"/>est uerum; set nichil est enuntiatum ab utroque istorum nisi <mentioned>hominem esse asinum</mentioned>;
                 <lb ed="#T"/>ergo <mentioned>hominem esse asinum</mentioned> est uerum.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Solutio prima uera, et improbatio peccat
-                <lb ed="#T"/>secundum fallaciam accidentis, quia sicut hec propositio ponitur esse uera ab <ref><name>Aristotele</name></ref>, scilicet, <mentioned>omnium
+              <p xml:id="phsl-t12-d1e1903">
+                <pc type="pilcrow"/>Solutio prima uera, et improbatio peccat
+                <lb ed="#T"/>secundum fallaciam accidentis, quia sicut hec propositio ponitur esse uera ab <ref xml:id="phsl-t12-Rd1e1909"><name>Aristotele</name></ref>, scilicet, <mentioned>omnium
                 <lb ed="#T"/>contrariorum eadem est disciplina</mentioned>, et tamen nulla disciplina particularis
-                <lb ed="#T"/>est disciplina omnium contrariorum, set disciplina comuniter. <pc type="#pilcrow"/>Vnde hic
+                <lb ed="#T"/>est disciplina omnium contrariorum, set disciplina comuniter. <pc type="pilcrow"/>Vnde hic
                 <lb ed="#T"/>est fallacia accidentis: <mentioned>omnium contrariorum eadem est disciplina; set nulla
                 <lb ed="#T"/>est disciplina nisi hec, uel hec, et sic de aliis; ergo omnium contrariorum
                 <lb ed="#T"/>est hec disciplina, uel illa</mentioned>, quod falsum est. Et sic est hic: <mentioned>homo est
@@ -598,36 +598,36 @@
                 superiori, et <mentioned>esse uerum</mentioned> assignatur inesse utrique, et appello <mentioned>su<lb ed="#T"/>perius</mentioned>
                 esse in comune quod est maius, siue essentiale, siue accidentale.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Quidam
+              <p xml:id="phsl-t12-d1e1974">
+                <pc type="pilcrow"/>Quidam
                 <lb ed="#T"/>autem dicunt quod prius est simpliciter falsa, et dicunt quod <mentioned>enuntiatum</mentioned> tenetur
                 <lb ed="#T"/>pro enuntiato ab utroque; et similiter <mentioned>uerum</mentioned> pro particulari uero. Et probatio peccat
                 <lb ed="#T"/>secundum figuram dictionis a pluribus determinatis ad unam huius termini <mentioned>enuntiatum</mentioned>
                 <lb ed="#T"/>et huius termini <mentioned>uerum</mentioned>.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Set prior solutio melior est, et subtilior.
+              <p xml:id="phsl-t12-d1e2001">
+                <pc type="pilcrow"/>Set prior solutio melior est, et subtilior.
               </p>
             </div>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t12-Dd1e2007">
+              <head xml:id="phsl-t12-Hd1e2009" type="question-title">
                 <supplied>Aliud sophisma</supplied>
               </head>
-              <p>
-                <lb ed="#T"/><pc type="#pilcrow"/>Item queritur de hoc sophismate: <pc type="#pilcrow"/><mentioned>neutrum oculum habendo tu po<lb ed="#T"/>tes
+              <p xml:id="phsl-t12-d1e2015">
+                <lb ed="#T"/><pc type="pilcrow"/>Item queritur de hoc sophismate: <pc type="pilcrow"/><mentioned>neutrum oculum habendo tu po<lb ed="#T"/>tes
                 uidere</mentioned>. Probatio: destrum oculum non habendo tu potes uidere;
                 <lb ed="#T"/>sinistrum oculum non habendo tu potes uidere; ergo neutrum oculum
                 <lb ed="#T"/>habendo tu potes uidere.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Contra: <mentioned>neutrum</mentioned> etc.; ergo dum ne<lb ed="#T"/>utrum
+              <p xml:id="phsl-t12-d1e2031">
+                <pc type="pilcrow"/>Contra: <mentioned>neutrum</mentioned> etc.; ergo dum ne<lb ed="#T"/>utrum
                 oculum habes, uel si neutrum oculum habes, uel quia
                 <lb ed="#T"/>neutrum oculum habes tu potes uidere, quod falsum est. Gerundi<lb ed="#T"/>uum
                 enim in <mentioned>-do</mentioned> habet exponi per <mentioned>dum</mentioned>, uel per <mentioned>quia</mentioned>, uel per <mentioned>si</mentioned>; set
                 <lb ed="#T"/>utroque modo est falsa; ergo et prima est falsa simpliciter.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Solutio prima est falsa
+              <p xml:id="phsl-t12-d1e2060">
+                <pc type="pilcrow"/>Solutio prima est falsa
                 <lb ed="#T"/>simpliciter, et probatio peccat secundum accidens, quia potentia uidendi conuenit
                 <lb ed="#T"/>partibus secundum se prout sunt diuise, et non conuenit eis pro ut sunt
                 <pb ed="#T" n="24-v"/>
@@ -641,32 +641,32 @@
             </div>
           </div> <!--This closes De signis distributiuis duorum-->
 
-          <div>
-            <head type="question-title">
+          <div xml:id="phsl-t12-Dd1e2088">
+            <head xml:id="phsl-t12-Hd1e2090" type="question-title">
               <supplied>Utrum negatio habeat uim distribuendi</supplied>
             </head>
-            <p>
-              <pc type="#pilcrow"/>Habito de signis distributiuis parti<lb ed="#T"/>um
+            <p xml:id="phsl-t12-d1e2096">
+              <pc type="pilcrow"/>Habito de signis distributiuis parti<lb ed="#T"/>um
               subiectiuarum, postea queritur utrum negatio habeat uim distri<lb ed="#T"/>buendi,
-              siue confundendi. <pc type="#pilcrow"/>Et uidetur quod sic, quia dicit <ref><name>Aristoteles</name> in
+              siue confundendi. <pc type="pilcrow"/>Et uidetur quod sic, quia dicit <ref xml:id="phsl-t12-Rd1e2106"><name>Aristoteles</name> in
               <lb ed="#T"/><title>Peryhermenias</title></ref> quod iste due contradicunt: <mentioned>homo est iustus</mentioned>; <mentioned>non homo est iustus</mentioned>.
               <lb ed="#T"/>Ergo altera est uniuersalis, cum subiciatur terminus comunis. Set non nisi hec: <mentioned>non homo
               <lb ed="#T"/>est iustus</mentioned>. Ergo iste terminus <mentioned>homo</mentioned> distribuitur, set non est ibi aliquid a quo distri<lb ed="#T"/>buatur
               nisi negatio. Ergo distribuitur a negatione.
             </p>
-            <p>
-              <pc type="#pilcrow"/>Set contra si
+            <p xml:id="phsl-t12-d1e2134">
+              <pc type="pilcrow"/>Set contra si
               <lb ed="#T"/>negatio habeat uim confundendi, ergo sicut hec est incongrua - <mentioned>omnis Socrates</mentioned> -,
               <lb ed="#T"/>similiter <mentioned>non Socrates</mentioned>, quod falsum est, quia quamuis signum distributiuum non
               <lb ed="#T"/>possit addi termino singulari, tamen negatio bene potest addi ipsi.
             </p>
-            <p>
-              <lb ed="#T"/><pc type="#pilcrow"/>Item ubicumque est distributio ibi est terminus comunis sumptus uniuersaliter. Ergo oportet
+            <p xml:id="phsl-t12-d1e2152">
+              <lb ed="#T"/><pc type="pilcrow"/>Item ubicumque est distributio ibi est terminus comunis sumptus uniuersaliter. Ergo oportet
               <lb ed="#T"/>quod ibi sit dictio significans quoniam uniuersaliter. Set signum uniuersale significat <unclear reason="damage">quoniam uniuersaliter</unclear>,
               <lb ed="#T"/>negatio non. Ergo negatio habet uim distribuendi.
             </p>
-            <p>
-              <pc type="#pilcrow"/>Quod concedimus
+            <p xml:id="phsl-t12-d1e2165">
+              <pc type="pilcrow"/>Quod concedimus
               <lb ed="#T"/>dicentes quod negatio non confundit, set negat quod inuenit.
               Vnde cum adiungitur termino comuni negat ipsum, set negato super<lb ed="#T"/>iori
               consequitur remotio cuiuslibet inferioris, eo quod destructo su<lb ed="#T"/>periori
@@ -674,47 +674,47 @@
               quelibet eius species. Et sic negatio non confundit, set negat
               <lb ed="#T"/>quod inuneit, siue sit uniuersale, siue singulare.
             </p>
-            <p>
-              <pc type="#pilcrow"/>Solutio autem
+            <p xml:id="phsl-t12-d1e2182">
+              <pc type="pilcrow"/>Solutio autem
               <lb ed="#T"/>ad id quod obicit patet quia quod hec est uniuersalis - <mentioned>non homo est iustus</mentioned> -, hoc
               <lb ed="#T"/>non est propter naturam distributionis existentis in negatione, set hoc est
               <lb ed="#T"/>quia negatur <mentioned>homo</mentioned> in comuni quo remoto remouetur quodlibet inferius.
             </p>
           </div>
-          <div>
-            <head type="question-title">
+          <div xml:id="phsl-t12-Dd1e2201">
+            <head xml:id="phsl-t12-Hd1e2203" type="question-title">
               <supplied>De distributione aptitudinis</supplied>
             </head>
-            <p>
-              <pc type="#pilcrow"/>Item so<lb ed="#T"/>let
+            <p xml:id="phsl-t12-d1e2209">
+              <pc type="pilcrow"/>Item so<lb ed="#T"/>let
               poni distributio aptitudinis, ut <mentioned>omnis homo timet in mari</mentioned>,
               <lb ed="#T"/>id est, <mentioned>aptus natus est timere in mari</mentioned>.
             </p>
           </div>
-          <div>
-            <head type="question-title">
+          <div xml:id="phsl-t12-Dd1e2226">
+            <head xml:id="phsl-t12-Hd1e2228" type="question-title">
               <supplied>De distributione acomoda</supplied>
             </head>
-            <p>
-              <pc type="#pilcrow"/>Item solet poni distri<lb ed="#T"/>butio
+            <p xml:id="phsl-t12-d1e2234">
+              <pc type="pilcrow"/>Item solet poni distri<lb ed="#T"/>butio
               acomoda, ut <mentioned>celum regit omnia</mentioned>, id est, omnia alia corpora a
               <lb ed="#T"/>se; et <mentioned>Deus creauit omnia</mentioned>, id est, omnia a se.
             </p>
-            <p>
+            <p xml:id="phsl-t12-d1e2249">
               Set ista duo ge<lb ed="#T"/>nera
               <lb ed="#T"/>distributionum non sunt ita propria sicut predicta.
             </p>
           </div>
 
-          <div>
-            <head type="question-title">
+          <div xml:id="phsl-t12-Dd1e2257">
+            <head xml:id="phsl-t12-Hd1e2259" type="question-title">
               <supplied>De hoc signo <mentioned>totus</mentioned></supplied>
             </head>
-            <p>
-              <pc type="#pilcrow"/>Sequitur de hoc
+            <p xml:id="phsl-t12-d1e2267">
+              <pc type="pilcrow"/>Sequitur de hoc
               <lb ed="#T"/>signo <mentioned>totus</mentioned> quod est distributiuum partium integralium, ut patet hic:
               <lb ed="#T"/><mentioned>totus Socrates est albus</mentioned>, et est sensus <mentioned>Socrates secundum quamlibet sui partem est albus</mentioned>.
-              <lb ed="#T"/>Vnde ad istam <mentioned>totus Socrates est albus</mentioned> <del rend="expunctuation"/>etc.</del>, imediate sequitur ista: <mentioned>Socrates secundum
+              <lb ed="#T"/>Vnde ad istam <mentioned>totus Socrates est albus</mentioned> <del rend="expunctuation">etc.</del>, imediate sequitur ista: <mentioned>Socrates secundum
               <lb ed="#T"/>quamlibet sui partem est albus</mentioned>; et ad hanc <mentioned>Socrates secundum quamlibet sui partem est
               <lb ed="#T"/>albus</mentioned> sequitur hec: <mentioned>quelibet pars Socratis</mentioned>, etc. Probatio: in hac enim propositione <mentioned>totus
               <lb ed="#T"/>Socrates est albus</mentioned>, <mentioned>Socrates</mentioned> subicitur albedini secundum se, et partes non secundum se,
@@ -722,8 +722,8 @@
               <lb ed="#T"/>albedini nichil per totum; ergo per prius sequitur hec: <mentioned>Socrates secundum quamlibet sui partem
               <lb ed="#T"/>est albus</mentioned>. Et per posterius illa: <mentioned>quelibet pars Socratis</mentioned>, etc.
             </p>
-            <p>
-              <pc type="#pilcrow"/>Item in hac
+            <p xml:id="phsl-t12-d1e2327">
+              <pc type="pilcrow"/>Item in hac
               <lb ed="#T"/><mentioned>totus Socrates est albus</mentioned>, subicitur albedini <mentioned>totum</mentioned> in rectitudine; pars autem
               <lb ed="#T"/>in obliquitate, quia in eo quod est totum partes intelliguntur obl<lb ed="#T"/>ique;
               et in eo quod est pars totum sumitur oblique. Quod <unclear reason="damage">patet</unclear> per di<lb ed="#T"/>ffinitionem
@@ -734,29 +734,29 @@
               <lb ed="#T"/>sequitur hec: <mentioned>Socrates secundum quamlibet sui partem</mentioned> etc., et mediate hac sequitur ista: <mentioned>quelibet
               <lb ed="#T"/>pars Socratis est alba</mentioned>.
             </p>
-            <p>
-              <pc type="#pilcrow"/>Item ad idem: id quod est pars non habet esse
+            <p xml:id="phsl-t12-d1e2369">
+              <pc type="pilcrow"/>Item ad idem: id quod est pars non habet esse
               <lb ed="#T"/>nisi ab eo quod est totum, quia non habet perfectionem nisi ab eo. Ergo
               <lb ed="#T"/>non subicitur alicui nisi per totum. Ergo totum primo; ergo ad hanc <mentioned>to<lb ed="#T"/>tus
               Socrates</mentioned>, etc. immediate sequitur ista: <mentioned>Socrates secundum quamlibet sui partem</mentioned> etc.;
               <lb ed="#T"/>ergo per posterius illa <mentioned>quelibet pars Socratis</mentioned> etc..
             </p>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t12-Dd1e2392">
+              <head xml:id="phsl-t12-Hd1e2394" type="question-title">
                 <supplied>Sophisma</supplied>
               </head>
-              <p>
-                <pc type="#pilcrow"/>Secundum predictam queritur
+              <p xml:id="phsl-t12-d1e2400">
+                <pc type="pilcrow"/>Secundum predictam queritur
                 <lb ed="#T"/>de hoc sophismate: <mentioned>totus Socrates est minor Socrate</mentioned>. Probatio: quelibet pars Socratis
                 <lb ed="#T"/>est minor Socrate; ergo Socrates secundum quamlibet sui partem est minor Socrate; ergo totus Socrates
                 <lb ed="#T"/>est minor Socrate.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Contra: totus Socrates est minor Socrate; ergo est minor Socrate, quod
+              <p xml:id="phsl-t12-d1e2414">
+                <pc type="pilcrow"/>Contra: totus Socrates est minor Socrate; ergo est minor Socrate, quod
                 <lb ed="#T"/>falsum est.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Solutio prima uera, hec, scilicet, <mentioned>Totus Socrates est minor Socrate</mentioned>. <pc type="#pilcrow"/>Improbatio
+              <p xml:id="phsl-t12-d1e2421">
+                <pc type="pilcrow"/>Solutio prima uera, hec, scilicet, <mentioned>Totus Socrates est minor Socrate</mentioned>. <pc type="pilcrow"/>Improbatio
                 <lb ed="#T"/>peccat secundum accidens, quia in ista <mentioned>totus Socrates est minor Socrate</mentioned>, <mentioned>esse minor
                 <lb ed="#T"/>Socrate</mentioned> atribuitur partibus quibus uere conuenit, toti autem Socrati non con<lb ed="#T"/>uenit,
                 <lb ed="#T"/>et ideo hec est simpliciter falsa: <mentioned>Socrates est minor Socrate</mentioned>. Et ideo si per
@@ -769,20 +769,20 @@
                 <lb ed="#T"/>conclusionem, ergo <mentioned>Socrates est minor Socrate</mentioned> peccat secundum quid et simpliciter, sicut
                 <lb ed="#T"/>hic: <mentioned>Socrates secundum pedem est minor Socrate; ergo Socrates est minor Socrate</mentioned>.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Item cum
+              <p xml:id="phsl-t12-d1e2491">
+                <pc type="pilcrow"/>Item cum
                 <lb ed="#T"/>in quibusdam sequatur <mentioned>totus Socrates; ergo Socrates</mentioned>, ut <mentioned>totus Socrates est albus; ergo Socrates
                 <lb ed="#T"/>est albus</mentioned>, et in quibusdam non, queritur in quibus hoc est.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Et dicendum quod
+              <p xml:id="phsl-t12-d1e2507">
+                <pc type="pilcrow"/>Et dicendum quod
                 <lb ed="#T"/>sunt quedam accidentia que indiferenter conueniunt toti et parti, ut <mentioned>album</mentioned>, <mentioned>ni<lb ed="#T"/>grum</mentioned>,
                 <mentioned>calidum</mentioned>, <mentioned>frigidum</mentioned>, <mentioned>augeri</mentioned>, <mentioned>minui</mentioned>, et consimilia. Et in ta<lb ed="#T"/>libus
                 bene sequitur <mentioned>totus Socrates; ergo Socrates</mentioned>, ut <mentioned>totus Socrates est albus; ergo Socrates est
                 <lb ed="#T"/>albus</mentioned>, et sic de aliis.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Alia autem sunt que conueniunt partibus et non
+              <p xml:id="phsl-t12-d1e2545">
+                <pc type="pilcrow"/>Alia autem sunt que conueniunt partibus et non
                 <lb ed="#T"/>toti, uel econuerso toti et non parti, ut <mentioned>totalitas</mentioned>, <mentioned>maioritas</mentioned>, <mentioned>parui<lb ed="#T"/>tas</mentioned>,
                 <mentioned>minoritas</mentioned>. Et in talibus non sequitur <mentioned>totus Socrates; ergo Socrates</mentioned>, nec econuerso.
               </p>
@@ -790,43 +790,43 @@
           </div> <!--This closes De hoc signo totus-->
         </div> <!--This closes De signis distributiuis substantie-->
 
-        <div>
-          <head>
+        <div xml:id="phsl-t12-Dd1e2577">
+          <head xml:id="phsl-t12-Hd1e2579">
             <supplied>De signis distributiuis accidentium</supplied>
           </head>
-          <p>
-            <lb ed="#T"/><pc type="#pilcrow"/>Sequitur de signis distributiuis accidentium inter que primo dicendum
+          <p xml:id="phsl-t12-d1e2585">
+            <lb ed="#T"/><pc type="pilcrow"/>Sequitur de signis distributiuis accidentium inter que primo dicendum
             <lb ed="#T"/>est de signis distributiuis qualitatis.
           </p>
-          <div>
-            <head type="question-title">
+          <div xml:id="phsl-t12-Dd1e2593">
+            <head xml:id="phsl-t12-Hd1e2595" type="question-title">
               <supplied>De signis distributiuis qualitatis</supplied>
             </head>
-            <p>
-              <pc type="#pilcrow"/>Dicitur autem signum distributiuum
+            <p xml:id="phsl-t12-d1e2601">
+              <pc type="pilcrow"/>Dicitur autem signum distributiuum
               <lb ed="#T"/>qualitatis quod distribuit rem se habentem per modum qualitatis, ut <mentioned>qualelibet</mentioned>
               <lb ed="#T"/>cuius particulare est <mentioned>aliquale</mentioned>.
             </p>
-            <p>
-              <pc type="#pilcrow"/>Set obicitur quod accidens multiplicatur
+            <p xml:id="phsl-t12-d1e2616">
+              <pc type="pilcrow"/>Set obicitur quod accidens multiplicatur
               <lb ed="#T"/>multiplicato subiecto. Ergo cum signa distributiua substantie distribuant
               <lb ed="#T"/>siue multiplicent subiectum, oportet quod distribuant, siue multiplicent
               <lb ed="#T"/>ipsum accidens. Ergo signa distributiua accidentium superfluunt.
             </p>
-            <p>
-              <pc type="#pilcrow"/>Et
+            <p xml:id="phsl-t12-d1e2627">
+              <pc type="pilcrow"/>Et
               <lb ed="#T"/>dicendum quod multiplicatio accidentis est duplex, quia quandoque multiplicatur
               <lb ed="#T"/>secundum numerum, et hec multiplicatio fit per signa distributiua substantie, ut <mentioned>omnis homo
               <lb ed="#T"/>albus</mentioned>. Alia autem fit multiplicatio accidentis secundum speciem, et fit per signa
               <lb ed="#T"/>distributiua accidentis, ut <mentioned>qualelibet currit</mentioned>, id est, res habens quamlibet qualitatem
               <lb ed="#T"/>currit.
             </p>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t12-Dd1e2649">
+              <head xml:id="phsl-t12-Hd1e2651" type="question-title">
                 <supplied>Sophisma</supplied>
               </head>
-              <p>
-                <pc type="#pilcrow"/>Secundum predictam queritur de hoc sophismate: <mentioned>quodlibet qualelibet
+              <p xml:id="phsl-t12-d1e2657">
+                <pc type="pilcrow"/>Secundum predictam queritur de hoc sophismate: <mentioned>quodlibet qualelibet
                 <lb ed="#T"/>de quolibet tali scit ipsum esse tale quale ipsum est</mentioned>, posito quod
                 <pb ed="#T" n="25-r"/>
                 <cb ed="#T" n="a"/>
@@ -836,17 +836,17 @@
                 <lb ed="#T"/>sciant se habere, et de aliis nichil sciant; set alii sciant de se, et de
                 <lb ed="#T"/>istis; et non sint plures homines nec qualitates.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Probatio prime: hoc qualelibet de
+              <p xml:id="phsl-t12-d1e2682">
+                <pc type="pilcrow"/>Probatio prime: hoc qualelibet de
                 <lb ed="#T"/>quolibet tali scit ipsum esse tale; et illud qualelibet etc; et sic de tercio, et
                 <lb ed="#T"/>non sunt plura; ergo quodlibet qualelibet de quolibet tali etc.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Contra:
+              <p xml:id="phsl-t12-d1e2691">
+                <pc type="pilcrow"/>Contra:
                 <lb ed="#T"/>quodlibet qualelibet etc; ergo quodlibet gramaticum de quolibet tali etc.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Solutio
+              <p xml:id="phsl-t12-d1e2698">
+                <pc type="pilcrow"/>Solutio
                 <lb ed="#T"/>prima uera, et improbatio peccat secundum consequens ab inferiori ad superius cum di<lb ed="#T"/>stributione,
                 quia <mentioned>qualelibet</mentioned> subponit tantum pro tribus, set <mentioned>gramaticus</mentioned> subponit
                 <lb ed="#T"/>pro eisdem, et etiam pro illo qui habet solam gramaticam; et <mentioned>gramaticus</mentioned> est in pluri<lb ed="#T"/>bus
@@ -857,32 +857,32 @@
               </p>
             </div>
           </div> <!--This closes De signis distributiuis qualitatis-->
-          <div>
-            <head type="question-title">
+          <div xml:id="phsl-t12-Dd1e2744">
+            <head xml:id="phsl-t12-Hd1e2746" type="question-title">
               <supplied>De signis distributiuis quantitatis</supplied>
             </head>
-            <p>
-              <pc type="#pilcrow"/>Sequitur de signis distributiuis quantitatis
+            <p xml:id="phsl-t12-d1e2752">
+              <pc type="pilcrow"/>Sequitur de signis distributiuis quantitatis
               <lb ed="#T"/>que distribuunt rem se habentem per modum quantitatis.
             </p>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t12-Dd1e2759">
+              <head xml:id="phsl-t12-Hd1e2761" type="question-title">
                 <supplied>Sophisma</supplied>
               </head>
-              <p>
-                <pc type="#pilcrow"/>Et queritur de
-                <lb ed="#T"/>hoc sophismate: <pc type="#pilcrow"/><mentioned>quocienscumque fuisti Parisius fuisti homo</mentioned>. Probatio: una
+              <p xml:id="phsl-t12-d1e2767">
+                <pc type="pilcrow"/>Et queritur de
+                <lb ed="#T"/>hoc sophismate: <pc type="pilcrow"/><mentioned>quocienscumque fuisti Parisius fuisti homo</mentioned>. Probatio: una
                 <lb ed="#T"/>uice fuisti Parisius et illa fuisti homo; alia uice fuisti Parisius
                 <lb ed="#T"/>et illa fuisti homo; et sic de aliis; ergo prima uera.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Contra: quo<lb ed="#T"/>cienscumque
+              <p xml:id="phsl-t12-d1e2782">
+                <pc type="pilcrow"/>Contra: quo<lb ed="#T"/>cienscumque
                 fuisti Parisius fuisti homo; set bis fuisti Parisius; ergo bis
                 <lb ed="#T"/>fuisti homo, quod falsum est quia hec dictio <mentioned>bis</mentioned> ponit interruptionem eius
                 <lb ed="#T"/>cui adiungitur; set actus essendi hominem non fui interruptus.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Solutio prima falsa. Ad probationem autem slouendum per interpretationem
+              <p xml:id="phsl-t12-d1e2796">
+                <pc type="pilcrow"/>Solutio prima falsa. Ad probationem autem slouendum per interpretationem
                 <lb ed="#T"/>quia secunda pars copulatiue est falsa, hec, scilicet, <mentioned>illa uice fuisti homo</mentioned> quia
                 <lb ed="#T"/>ad huc nulla fuisti homo eo quod uita tua non fuit
                 <lb ed="#T"/>terminata ut inciperes uiuere et postea terminaretur. Et hec exige<lb ed="#T"/>retur
@@ -890,18 +890,18 @@
                 <lb ed="#T"/>ad hoc ut aliquis currat bis.
               </p>
             </div>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t12-Dd1e2816">
+              <head xml:id="phsl-t12-Hd1e2818" type="question-title">
                 <supplied>De hac dictione <mentioned>bis</mentioned></supplied>
               </head>
-              <p>
-                <pc type="#pilcrow"/>Et nota quod <mentioned>bis</mentioned> non importat
+              <p xml:id="phsl-t12-d1e2826">
+                <pc type="pilcrow"/>Et nota quod <mentioned>bis</mentioned> non importat
                 <lb ed="#T"/>interruptionem, set terminum illius actus cui adiungitur; ad
                 <lb ed="#T"/>terminum autem sequitur interruptio.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Si autem formaretur sic paralogismus:
-                <lb ed="#T"/><pc type="#pilcrow"/><mentioned>quandocumque fuisti Parisius fuisti homo; set bis fuisti Parisius;
+              <p xml:id="phsl-t12-d1e2838">
+                <pc type="pilcrow"/>Si autem formaretur sic paralogismus:
+                <lb ed="#T"/><pc type="pilcrow"/><mentioned>quandocumque fuisti Parisius fuisti homo; set bis fuisti Parisius;
                 <lb ed="#T"/>ergo bis fuisti homo</mentioned>, tunc prima est uera; et improbatio peccat secundum figuram
                 <lb ed="#T"/>dictionis ex <gap extent="4" unit="characters"/> predicamenti, quia
                 <choice>
@@ -912,55 +912,55 @@
               </p>
             </div>
           </div> <!--This closes De signis distributiuis quantitatis-->
-          <div>
-            <head type="question-title">
+          <div xml:id="phsl-t12-Dd1e2877">
+            <head xml:id="phsl-t12-Hd1e2879" type="question-title">
               <supplied>De nomine <mentioned>infinitum</mentioned></supplied>
             </head>
-            <p>
-              <pc type="#pilcrow"/>Sequitur de hoc nomine <mentioned>in<lb ed="#T"/>finitum</mentioned>,
+            <p xml:id="phsl-t12-d1e2887">
+              <pc type="pilcrow"/>Sequitur de hoc nomine <mentioned>in<lb ed="#T"/>finitum</mentioned>,
               quod dicitur V modis.
             </p>
-            <p>
-              <pc type="#pilcrow"/>Vno enim modo dicitur <mentioned>infinitum</mentioned> quod non
+            <p xml:id="phsl-t12-d1e2897">
+              <pc type="pilcrow"/>Vno enim modo dicitur <mentioned>infinitum</mentioned> quod non
               <lb ed="#T"/>potest pertransiri. Vnde uox dicitur infinita quo ad uisum quia est inui<lb ed="#T"/>sibilis,
               quia non est apta nata uideri.
             </p>
-            <p>
-              <pc type="#pilcrow"/>Alio autem modo dicitur <mentioned>infi<lb ed="#T"/>nitum</mentioned>
+            <p xml:id="phsl-t12-d1e2909">
+              <pc type="pilcrow"/>Alio autem modo dicitur <mentioned>infi<lb ed="#T"/>nitum</mentioned>
               quod habet transitum imperfectum, eo quod nondum est determinatum ap<lb ed="#T"/>tum
               natum terminari, ut cum aliquis transit spacium et nondum uenit
               <lb ed="#T"/>ad finem eius.
             </p>
-            <p>
-              <pc type="#pilcrow"/>Tercio autem modo dicitur <mentioned>infinitum</mentioned> secundum appositionem,
+            <p xml:id="phsl-t12-d1e2923">
+              <pc type="pilcrow"/>Tercio autem modo dicitur <mentioned>infinitum</mentioned> secundum appositionem,
               <lb ed="#T"/>ut numerus augmento est infinitum appositione unitatis, uel alterius numeri.
             </p>
-            <p>
-              <lb ed="#T"/><pc type="#pilcrow"/>Quarto autem modo secundum diuisionem, ut continuum. Omne enim continuum
-              <lb ed="#T"/>est diuisibile in infinitum. Vnde diffinitur ab <ref><name>Aristotele</name> in <title>VI Phisicorum</title></ref>
-              <lb ed="#T"/>sic: <quote>continuum est diuisibile in semper diuisibilia</quote>.
+            <p xml:id="phsl-t12-d1e2934">
+              <lb ed="#T"/><pc type="pilcrow"/>Quarto autem modo secundum diuisionem, ut continuum. Omne enim continuum
+              <lb ed="#T"/>est diuisibile in infinitum. Vnde diffinitur ab <ref xml:id="phsl-t12-Rd1e2941"><name>Aristotele</name> in <title>VI Phisicorum</title></ref>
+              <lb ed="#T"/>sic: <quote xml:id="phsl-t12-Qd1e2950">continuum est diuisibile in semper diuisibilia</quote>.
             </p>
-            <p>
-              <pc type="#pilcrow"/>Quinto autem modo
+            <p xml:id="phsl-t12-d1e2954">
+              <pc type="pilcrow"/>Quinto autem modo
               <cb ed="#T" n="b"/>
               <lb ed="#T"/>dicitur <mentioned>infinitum</mentioned> utroque modo secundum appositionem et diuisionem, ut tempus
               <lb ed="#T"/>cum sit continuum est diuisibile in infinitum, et sic est infinitum diuisione;
               <lb ed="#T"/>et cum post unum tempus ueniat aliud sic est infinitum per appositionem
               <lb ed="#T"/>unius temporis ad aliud est infinitum appositione.
             </p>
-            <p>
+            <p xml:id="phsl-t12-d1e2973">
               Et quo ad tres significationes iam
-              <lb ed="#T"/>dictas <mentioned>infinitum</mentioned> diffinitur sic: <pc type="#pilcrow"/>infinitum est cuius quantitatem ac<lb ed="#T"/>cipientibus
+              <lb ed="#T"/>dictas <mentioned>infinitum</mentioned> diffinitur sic: <pc type="pilcrow"/>infinitum est cuius quantitatem ac<lb ed="#T"/>cipientibus
               semper est aliquid sumere extra, ut si post unam partem linee ac<lb ed="#T"/>cipiatur
               alia, et post illam tercia, et nunquam posset contingi tempus eius;
               <lb ed="#T"/>tunc oportet dicere linea est infinita.
             </p>
-            <p>
-              <pc type="#pilcrow"/>Solet autem poni quod <mentioned>infinitum</mentioned>
+            <p xml:id="phsl-t12-d1e2990">
+              <pc type="pilcrow"/>Solet autem poni quod <mentioned>infinitum</mentioned>
               <lb ed="#T"/>quandoque sumitur pro termino comuni, et tunc hec probatio <mentioned>infinita sunt finita</mentioned>
               <lb ed="#T"/>equipollet huic <mentioned>aliqua infinita</mentioned>; quandoque autem sumitur pro signo distri<lb ed="#T"/>butiuo,
               et tunc equipollet huic quo ad distributionem, scilicet, <mentioned>quodlibet plura sunt
-              <lb ed="#T"/>finita</mentioned>. <pc type="#pilcrow"/>Et probatur sic: uno plura sunt finita, duobus plura
+              <lb ed="#T"/>finita</mentioned>. <pc type="pilcrow"/>Et probatur sic: uno plura sunt finita, duobus plura
               <lb ed="#T"/>sunt finita; tribus plura sunt finita; et sic de aliis; ergo quodlibet plura
               <lb ed="#T"/>sunt finita. Et dicitur facere interscalarem distributionem, uel interruptam
               <lb ed="#T"/>uel discontinuam, quia hec dictio <mentioned>plura</mentioned> in prima propositione subponit pro duobus
@@ -969,48 +969,48 @@
               interscalarem, quia pro aliis subponit hoc quod dico <mentioned>quotlibet</mentioned>
               <lb ed="#T"/>et pro aliis hoc quod dico <mentioned>plura</mentioned> secundum numerum ascendendo, ut dictum est.
             </p>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t12-Dd1e3046">
+              <head xml:id="phsl-t12-Hd1e3048" type="question-title">
                 <supplied>Sophisma</supplied>
               </head>
-              <p>
-                <lb ed="#T"/><pc type="#pilcrow"/>Secundum predicta queritur de hoc sophismate: <mentioned>infinita sunt finita</mentioned>. Probatio:
+              <p xml:id="phsl-t12-d1e3054">
+                <lb ed="#T"/><pc type="pilcrow"/>Secundum predicta queritur de hoc sophismate: <mentioned>infinita sunt finita</mentioned>. Probatio:
                 <lb ed="#T"/>duo sunt finita, tria sunt finita, et sic in infinitum; ergo in<lb ed="#T"/>finita
                 sunt finita.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Contra: ibi predicatur oppositum de opposito;
+              <p xml:id="phsl-t12-d1e3067">
+                <pc type="pilcrow"/>Contra: ibi predicatur oppositum de opposito;
                 <lb ed="#T"/>ergo locutio est impossibilis.
               </p>
-              <p>
+              <p xml:id="phsl-t12-d1e3074">
                 Potest etiam probare sic: quotlibet plura sunt finita;
                 <lb ed="#T"/>ergo infinita sunt finita.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Solutio: quidam distingunt quod <mentioned>infinitum</mentioned>
+              <p xml:id="phsl-t12-d1e3079">
+                <pc type="pilcrow"/>Solutio: quidam distingunt quod <mentioned>infinitum</mentioned>
                 <lb ed="#T"/>equiuocatur ad infinitum quo ad nos, et ad infinitum simpliciter.
-                <lb ed="#T"/><pc type="#pilcrow"/>Vnde si sumatur <mentioned>infinitum</mentioned> quo ad nos prima est uera, et non predicatur oppositum
+                <lb ed="#T"/><pc type="pilcrow"/>Vnde si sumatur <mentioned>infinitum</mentioned> quo ad nos prima est uera, et non predicatur oppositum
                 <lb ed="#T"/>de opposito, quia infinita quo ad nos, ut stelle, uel arene, sunt
-                <lb ed="#T"/>simpliciter finita. <pc type="#pilcrow"/>Si autem sumatur <mentioned>infinitum</mentioned> simpliciter sic prima
+                <lb ed="#T"/>simpliciter finita. <pc type="pilcrow"/>Si autem sumatur <mentioned>infinitum</mentioned> simpliciter sic prima
                 <lb ed="#T"/>est falsa, et predicatur oppositum de opposito.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Alii distingunt eo quod
+              <p xml:id="phsl-t12-d1e3108">
+                <pc type="pilcrow"/>Alii distingunt eo quod
                 <lb ed="#T"/><mentioned>infinitum</mentioned> potest esse terminus comunis, et sic prima est falsa, uel potest esse dictio sinchategorematica
                 <lb ed="#T"/>importans in se distributionem sicut dictum est. Et sic ponunt ipsam esse
                 <lb ed="#T"/>ueram.
               </p>
-              <p>
-                <pc type="#pilcrow"/>Set neuter istarum solutionum ualet quia si remoueatur utraque
+              <p xml:id="phsl-t12-d1e3121">
+                <pc type="pilcrow"/>Set neuter istarum solutionum ualet quia si remoueatur utraque
                 <lb ed="#T"/>distinctio, et sumatur infinitum simpliciter secundum quod est terminus comunis <unclear>adhuc</unclear>
-                <lb ed="#T"/>remanet probatio et improbatio sophismatis. <pc type="#pilcrow"/>Vnde dicendum quod prima est simpliciter
+                <lb ed="#T"/>remanet probatio et improbatio sophismatis. <pc type="pilcrow"/>Vnde dicendum quod prima est simpliciter
                 <lb ed="#T"/>falsa, et probatio peccat secundum quid et simpliciter, quia infinitum appositione est infi<lb ed="#T"/>nitum
-                <lb ed="#T"/>quodammodo et non simpliciter. <pc type="#pilcrow"/>Vnde cum accipiat partes numeri secundum
+                <lb ed="#T"/>quodammodo et non simpliciter. <pc type="pilcrow"/>Vnde cum accipiat partes numeri secundum
                 <lb ed="#T"/>appositionem, ut duo, tria, non accipit <mentioned>infinitum</mentioned> simpliciter.
                 <lb ed="#T"/>Et ita cum ex infinito secundum quid concludat infinitum simpliciter peccat
                 <lb ed="#T"/>secundum quid et simpliciter.
               </p>
-              <p>
+              <p xml:id="phsl-t12-d1e3154">
                 Et de distributionibus dicta sufficiant.
               </p>
             </div>

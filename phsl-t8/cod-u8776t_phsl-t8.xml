@@ -55,9 +55,9 @@
             <supplied>De duplici relatiuo</supplied>
           </head>
           <p xml:id="phsl-t8-d1e107">
-            <lb ed="#T"/><pc type="#pilcrow"/>Relatiuum est duplex. Vno enim modo relatiuum est cuius esse est
+            <lb ed="#T"/><pc type="pilcrow"/>Relatiuum est duplex. Vno enim modo relatiuum est cuius esse est
             <lb ed="#T"/>ad aliquid quodammodo se habere, et sic relatiuum est unum de X predi<lb ed="#T"/>camentis.
-            <pc type="#pilcrow"/>Alio autem modo relatiuum est rei antelate recordatiuum,
+            <pc type="pilcrow"/>Alio autem modo relatiuum est rei antelate recordatiuum,
             <lb ed="#T"/>quia ut uult <ref xml:id="phsl-t8-Rd1e121"><name>Priscianus</name> in
               <title>
                 <choice>
@@ -71,7 +71,7 @@
             <lb ed="#T"/>qui est rei antelata.
           </p>
           <p xml:id="phsl-t8-d1e146">
-            <pc type="#pilcrow"/>Obmissis autem relatiuis secundum primum modum, de
+            <pc type="pilcrow"/>Obmissis autem relatiuis secundum primum modum, de
             <lb ed="#T"/>relatiuis secundo modo intendimus hic.
           </p>
         </div>
@@ -81,16 +81,16 @@
             <supplied>De relatiuis substantie</supplied>
           </head>
           <p xml:id="phsl-t8-d1e162">
-            <pc type="#pilcrow"/>Relatiuorum autem quedam sunt relatiua
+            <pc type="pilcrow"/>Relatiuorum autem quedam sunt relatiua
             <lb ed="#T"/>substante, ut <mentioned>qui</mentioned>, <mentioned>ille</mentioned>; quedam uero relatiua accidentis, ut <mentioned>talis</mentioned>, <mentioned>tantum</mentioned>.
           </p>
           <p xml:id="phsl-t8-d1e182">
-            <pc type="#pilcrow"/>Relatiuum
+            <pc type="pilcrow"/>Relatiuum
             <lb ed="#T"/>autem substantie est quod refert rem eandem numero cum suo antecedente, ut
             <lb ed="#T"/><mentioned>qui</mentioned> et <mentioned>ille</mentioned>.
           </p>
           <p xml:id="phsl-t8-d1e196">
-            <pc type="#pilcrow"/>Item relatiuorum substantie quedam sunt relatiua idemptitatis,
+            <pc type="pilcrow"/>Item relatiuorum substantie quedam sunt relatiua idemptitatis,
             <lb ed="#T"/>ut <mentioned>qui</mentioned>, <mentioned>ille</mentioned>; quedam diuersitatis, ut <mentioned>alter</mentioned>, <mentioned>relicus</mentioned>, et consimilia.
           </p>
           <div xml:id="phsl-t8-Dd1e216">
@@ -105,11 +105,11 @@
               <lb ed="#T"/>pro Socrate.
             </p>
             <p xml:id="phsl-t8-d1e243">
-              <pc type="#pilcrow"/>Relatiuorum idemptitatis quedam sunt nomina, ut <mentioned>qui</mentioned>, <mentioned>quod</mentioned>;
+              <pc type="pilcrow"/>Relatiuorum idemptitatis quedam sunt nomina, ut <mentioned>qui</mentioned>, <mentioned>quod</mentioned>;
               <lb ed="#T"/>quedam uero sunt pronomina, ut <mentioned>ille</mentioned>, <mentioned>idem</mentioned>, et consimilia.
             </p>
             <p xml:id="phsl-t8-d1e263">
-              <pc type="#pilcrow"/>Relatiuorum
+              <pc type="pilcrow"/>Relatiuorum
               <lb ed="#T"/>idemptitatis quedam sunt reciproca, ut <mentioned>sui</mentioned>, <mentioned>sibi</mentioned>, <mentioned>se</mentioned>, <mentioned>a se</mentioned>. Alia uero non
               <lb ed="#T"/>reciproca, ut <mentioned>qui</mentioned>, <mentioned>ille</mentioned>, <mentioned>idem</mentioned>. Reciprocum autem dicitur non quod sit pa<lb ed="#T"/>tiens,
               set quia ponit modum patientis supra se agentem, quia aliud
@@ -124,15 +124,15 @@
               <supplied>Questiones</supplied>
             </head>
             <p xml:id="phsl-t8-d1e318">
-              <pc type="#pilcrow"/>Si queratur quid
+              <pc type="pilcrow"/>Si queratur quid
               <lb ed="#T"/>addit supra patiens per reciprocum, dicendum quod addit idemptita<lb ed="#T"/>tem
               substantie agentis, et ponit eam sub modo patientis, ut <mentioned>Socrates ui<lb ed="#T"/>det
               se</mentioned>. Substantia enim que prius erat sub modo agentis ponitur in modo pa<lb ed="#T"/>tientis,
-              ut in hoc pronomine <mentioned>se</mentioned>. Vnde reciprocum potest sic diffiniri: <pc type="#pilcrow"/>Re<lb ed="#T"/>ciprocum
+              ut in hoc pronomine <mentioned>se</mentioned>. Vnde reciprocum potest sic diffiniri: <pc type="pilcrow"/>Re<lb ed="#T"/>ciprocum
               est quod significat substantiam agentem sub modo patientis.
             </p>
             <p xml:id="phsl-t8-d1e342">
-              <pc type="#pilcrow"/>Item
+              <pc type="pilcrow"/>Item
               <lb ed="#T"/>si queratur quare hoc pronomen <mentioned>sui, sibi, se, a se</mentioned> careat nominatiuo
               <lb ed="#T"/>dicendum quod solutio iam patet ex predictis, quia agens non potest significari ut pa<lb ed="#T"/>tiens
               sub modo patientis, nisi in obliquis. Set nominatiuus dicit modum agen<lb ed="#T"/>tis,
@@ -140,7 +140,7 @@
               <lb ed="#T"/>non potest habere nominatiuum agentem.
             </p>
             <p xml:id="phsl-t8-d1e364">
-              <pc type="#pilcrow"/>Ex predictis autem patet quod omnia
+              <pc type="pilcrow"/>Ex predictis autem patet quod omnia
               <lb ed="#T"/>relatiua idemptitatis referunt substantiam eandem cum suo antecedente
               <lb ed="#T"/>et referunt, et subponunt pro eodem in numero. Et ex hoc patet
               <lb ed="#T"/>quod maior est certitudo per relatiuum idemptitatis quam per suum antecedens po<lb ed="#T"/>situm
@@ -167,7 +167,7 @@
               <supplied>Dubitationes</supplied>
             </head>
             <p xml:id="phsl-t8-d1e431">
-              <pc type="#pilcrow"/>Solet autem dubitari circa relatiua idem<lb ed="#T"/>ptitatis,
+              <pc type="pilcrow"/>Solet autem dubitari circa relatiua idem<lb ed="#T"/>ptitatis,
               utrum deceptio facta ex diuersa relatione sit secundum equiuo<lb ed="#T"/>cationem,
               uel secundum aliam fallaciam. Vt cum dicituer <mentioned>homo uidet asinum qui est
               <lb ed="#T"/>rationalis</mentioned>. Hoc relatiuum <mentioned>qui</mentioned> potest referi ad hunc nominatiuum <mentioned>homo</mentioned>, uel ad
@@ -175,21 +175,21 @@
               <lb ed="#T"/>assignari comuniter equiuocatio.
             </p>
             <p xml:id="phsl-t8-d1e459">
-              <pc type="#pilcrow"/>Set contra: hoc nomen <mentioned>qui</mentioned> secundum quod est relatiuum
+              <pc type="pilcrow"/>Set contra: hoc nomen <mentioned>qui</mentioned> secundum quod est relatiuum
               <lb ed="#T"/>significat rem unam equaliter se habentem ad omne illud quod significat per modum
               <lb ed="#T"/>substantie, ut <mentioned>homo qui currit</mentioned>, <mentioned>color qui est in corpore</mentioned>, <mentioned>locus qui continet rem lo<lb ed="#T"/>catam</mentioned>,
               et sic de aliis. Ergo, deceptio ex diuersa relatione non
               <lb ed="#T"/>est equiuocatio.
             </p>
             <p xml:id="phsl-t8-d1e485">
-              <pc type="#pilcrow"/>Item hoc nomen <mentioned>qui</mentioned> secundum quod est relatiuum significat substantiam infi<lb ed="#T"/>nitam;
+              <pc type="pilcrow"/>Item hoc nomen <mentioned>qui</mentioned> secundum quod est relatiuum significat substantiam infi<lb ed="#T"/>nitam;
               set illa substantia apta nata tam finiri per unum antecedens quam
               <lb ed="#T"/>per aliud; cum ergo illa substantia infinite sumpta in se sit una, potens
               <lb ed="#T"/>referre quodlibet antecedens, ergo significatio huius dictionis <mentioned>qui</mentioned> erit una; ergo
               <lb ed="#T"/>non equiuocatio.
             </p>
             <p xml:id="phsl-t8-d1e505">
-              <pc type="#pilcrow"/>Item ratio cuiuslibet antecedentis secundum quod est in
+              <pc type="pilcrow"/>Item ratio cuiuslibet antecedentis secundum quod est in
               <lb ed="#T"/>relato est una hec, scilicet, <add place="under-line">res</add> antelata recordatio.
               <cb ed="#T" n="b"/>
               <lb ed="#T"/>Ergo omnia antecedentia relatiui, secundum hoc unum relatiuum participabunt
@@ -198,10 +198,10 @@
               <lb ed="#T"/>in quantum sunt recordatiua suorum antecedentium non sunt equiuoca.
             </p>
             <p xml:id="phsl-t8-d1e536">
-              <lb ed="#T"/><pc type="#pilcrow"/>Si quis obiciat quod hoc relatiuum <mentioned>qui</mentioned> alterius est rationis secundum quod fi<lb ed="#T"/>nitur
+              <lb ed="#T"/><pc type="pilcrow"/>Si quis obiciat quod hoc relatiuum <mentioned>qui</mentioned> alterius est rationis secundum quod fi<lb ed="#T"/>nitur
               in hoc antecedente <mentioned>homo</mentioned>, et alterius cum finitur in hoc antece<lb ed="#T"/>dente
               <mentioned>asinus</mentioned>, ut in predicta oratione, ergo nomen est comune, et rationes habet
-              <lb ed="#T"/>diuersas, ergo est equiuocum - dicendum quod argumentum non ualet. <pc type="#pilcrow"/>Similiter possent proba<lb ed="#T"/>re
+              <lb ed="#T"/>diuersas, ergo est equiuocum - dicendum quod argumentum non ualet. <pc type="pilcrow"/>Similiter possent proba<lb ed="#T"/>re
               quod quodlibet uniuocum esset equiuocum, ut <mentioned>animal</mentioned> secundum quod est homo, et secundum
               <lb ed="#T"/>quod est in homine habet aliam rationem, et secundum quod est equs, uel secundum quod est
               <lb ed="#T"/>in equo, aliam. Et sic hoc nomen <mentioned>animal</mentioned> est comune, et tamen non est equiuocum,
@@ -214,7 +214,7 @@
               relatione non est secundum equiuocationem.
             </p>
             <p xml:id="phsl-t8-d1e597">
-              <pc type="#pilcrow"/>Item ista deceptio est in ordina<lb ed="#T"/>tione dictionum inter se; ergo est in oratione quia ordinatio dictionum nichil aliud est
+              <pc type="pilcrow"/>Item ista deceptio est in ordina<lb ed="#T"/>tione dictionum inter se; ergo est in oratione quia ordinatio dictionum nichil aliud est
               <lb ed="#T"/>nisi oratio; ergo non equiuocum, cum equiuocatio sit solum in unica so<lb ed="#T"/>la
               dictione.
             </p>
@@ -229,7 +229,7 @@
               quod concedimus.
             </p>
             <p xml:id="phsl-t8-d1e635">
-              <pc type="#pilcrow"/>Item ubicumque est deceptio ex eo quod
+              <pc type="pilcrow"/>Item ubicumque est deceptio ex eo quod
               <lb ed="#T"/>aliqua dictio potest referri ad diuersa est compositio, uel diuisio. Set deceptio
               <lb ed="#T"/>ex diversa relatione est ex eo quod dictio aliqua potest referri ad di<lb ed="#T"/>uersa.
               Ergo deceptio ex diuersa relatione est compositio, uel diuisio, et hec iterum
@@ -242,7 +242,7 @@
               <supplied>De relatiuis diuersitatis</supplied>
             </head>
             <p xml:id="phsl-t8-d1e657">
-              <pc type="#pilcrow"/>Sequitur de relatiuis diuersitatis. <pc type="#pilcrow"/>Relatiuum di<lb ed="#T"/>uersitatis
+              <pc type="pilcrow"/>Sequitur de relatiuis diuersitatis. <pc type="pilcrow"/>Relatiuum di<lb ed="#T"/>uersitatis
               est quod subponit pro alio ab eo quod refert, ut <mentioned>Socrates currit, et
               <lb ed="#T"/>alius disputat</mentioned>. Hoc relatiuum <mentioned>alius</mentioned> refert Socratem et subponit pro alio
               <lb ed="#T"/>a Socrate, quia sensus est <mentioned>Socrates currit, et alius a Socrate disputat</mentioned>. Et ita facit
@@ -255,7 +255,7 @@
             </head>
             <p xml:id="phsl-t8-d1e691">
               De relatiuo autem diuersitatis talis datur
-              <lb ed="#T"/>regula: <!--RULE--><pc type="#pilcrow"/>si relatiuum diuersitatis addatur superiori et inferiori
+              <lb ed="#T"/>regula: <!--RULE--><pc type="pilcrow"/>si relatiuum diuersitatis addatur superiori et inferiori
               <lb ed="#T"/>quod additur superiori fit inferius, et quod additur inferiori fit superius.
               <lb ed="#T"/>Verbi gratia, cum dicitur <mentioned>aliud ab animali; ergo aliud ab homine</mentioned>, hic est locus a
               <lb ed="#T"/>specie, quia in hac <mentioned>aliud ab animali</mentioned> relatiuum diuersitatis, scilicet, <mentioned>aliud</mentioned> additur
@@ -269,11 +269,11 @@
               <supplied>De quadam regula antiquorum circa relatiuum idemptitatis</supplied>
             </head>
             <p xml:id="phsl-t8-d1e748">
-              <pc type="#pilcrow"/>De relatiuo
+              <pc type="pilcrow"/>De relatiuo
               <lb ed="#T"/>autem idemptitatis solet dari talis regula ab antiquis:
               <pb ed="#T" n="21-r"/>
               <cb ed="#T" n="a"/>
-              <lb ed="#T"/><pc type="#pilcrow"/><!--RULE-->nulla propositio inchoata a relatiuo habet contradictoriam. Et assig<lb ed="#T"/>nant
+              <lb ed="#T"/><pc type="pilcrow"/><!--RULE-->nulla propositio inchoata a relatiuo habet contradictoriam. Et assig<lb ed="#T"/>nant
               <lb ed="#T"/>talem rationem. Cum dicitur <mentioned>omnis homo
               <choice>
                 <sic>est</sic>
@@ -294,7 +294,7 @@
               <supplied>Obiectiones</supplied>
             </head>
             <p xml:id="phsl-t8-d1e814">
-              <pc type="#pilcrow"/>Set contra hoc obicitur: quicquid con<lb ed="#T"/>tingit
+              <pc type="pilcrow"/>Set contra hoc obicitur: quicquid con<lb ed="#T"/>tingit
               negare contingit et affirmare de quolibet subposito. Set
               <lb ed="#T"/>uerbum contingit negare de quolibet subposito, et affirmare ergo de
               <lb ed="#T"/>subposito que est dictio relatiua; ergo quelibet propositio inchoata a relatiuo habet
@@ -308,7 +308,7 @@
               <lb ed="#T"/>habet contradictoriam.
             </p>
             <p xml:id="phsl-t8-d1e843">
-              <pc type="#pilcrow"/>Item dicit <ref xml:id="phsl-t8-Rd1e847"><name>Aristoteles</name> in <title>primo Peryhermenias</title></ref> quod cuilibet
+              <pc type="pilcrow"/>Item dicit <ref xml:id="phsl-t8-Rd1e847"><name>Aristoteles</name> in <title>primo Peryhermenias</title></ref> quod cuilibet
               <lb ed="#T"/>affirmationi negatio est opposita, et econuerso. Ergo affirmationi inchoanti a
               <lb ed="#T"/>relatiuo. Quod concedimus dicentes predictam regulam esse falsam.
             </p>
@@ -336,7 +336,7 @@
               <supplied>De quadam regula circa relatiuum idemptitatis</supplied>
             </head>
             <p xml:id="phsl-t8-d1e910">
-              <pc type="#pilcrow"/>De relatiuo idemptitatis alia
+              <pc type="pilcrow"/>De relatiuo idemptitatis alia
               <lb ed="#T"/>datur regula talis: <!--RULE-->omne relatiuum idemptitatis non reciprocum habet eandem sub<lb ed="#T"/>positionem
               quam habet suum antecedens. Vt cum dicitur <mentioned>omnis homo currit, et ille est Socrates</mentioned>,
               <lb ed="#T"/>hoc relatiuum <mentioned>ille</mentioned> subponit pro omni homine, et est sensus <mentioned>ille est
@@ -352,17 +352,17 @@
             <supplied>De relatiuius accidentis</supplied>
           </head>
           <p xml:id="phsl-t8-d1e966">
-            <pc type="#pilcrow"/>Habito de relatiuis substantie dicendum est de relatiuis accident<lb ed="#T"/>tium:
-            <lb ed="#T"/><pc type="#pilcrow"/>Relatiuum autem accidentis est quod refert rem eandem per modum deno<lb ed="#T"/>minationis,
+            <pc type="pilcrow"/>Habito de relatiuis substantie dicendum est de relatiuis accident<lb ed="#T"/>tium:
+            <lb ed="#T"/><pc type="pilcrow"/>Relatiuum autem accidentis est quod refert rem eandem per modum deno<lb ed="#T"/>minationis,
             ut <mentioned>tale</mentioned>, <mentioned>quale</mentioned>, et consimilia. Vnde hec est differentia relatiui
             <lb ed="#T"/>substantie ad relatiuum accidentis quod relatiuum substantie refert rem unitam siue
             <cb ed="#T" n="b"/>
             <lb ed="#T"/>per modum eius quod est quid, ut albedo que est in pariete, color
-            <lb ed="#T"/>qui est in corpore, et sic de aliis. <pc type="#pilcrow"/>Relatiuum autem accidentis refert rem
+            <lb ed="#T"/>qui est in corpore, et sic de aliis. <pc type="pilcrow"/>Relatiuum autem accidentis refert rem
             <lb ed="#T"/>per modum denominationis, ut <mentioned>Socrates est albus et talis est Plato</mentioned>.
           </p>
           <p xml:id="phsl-t8-d1e1001">
-            <pc type="#pilcrow"/>Alia autem
+            <pc type="pilcrow"/>Alia autem
             <lb ed="#T"/>datur differentia eorundem quod relatiuum substantie refert idem in numero, relatiuum autem
             <lb ed="#T"/>accidentis refert idem semper in specie, ut <mentioned>Socrates est albus et talis est Plato</mentioned>. Et
             <lb ed="#T"/>ideo idem accidens in numero non potest esse in diuersis substantiis, set
@@ -373,17 +373,17 @@
               <supplied>De diuisione relatiui accidentis</supplied>
             </head>
             <p xml:id="phsl-t8-d1e1026">
-              <pc type="#pilcrow"/>Relatiuum autem accidentis dupliciter dicitur, quia aliud est
+              <pc type="pilcrow"/>Relatiuum autem accidentis dupliciter dicitur, quia aliud est
               <lb ed="#T"/>relatiuum idemptitatis, ut <mentioned>talis</mentioned>; aliud est relatiuum diuersitatis, ut <mentioned>alterius<lb ed="#T"/>modi</mentioned>.
-              <pc type="#pilcrow"/>Relatiuum autem idemptitatis in accidentibus est quod refert idem
-              <lb ed="#T"/>in specie, ut <mentioned>talis</mentioned> et <mentioned>tantus</mentioned>. <pc type="#pilcrow"/>Relatiuum autem diuersitatis in acciden<lb ed="#T"/>tibus
+              <pc type="pilcrow"/>Relatiuum autem idemptitatis in accidentibus est quod refert idem
+              <lb ed="#T"/>in specie, ut <mentioned>talis</mentioned> et <mentioned>tantus</mentioned>. <pc type="pilcrow"/>Relatiuum autem diuersitatis in acciden<lb ed="#T"/>tibus
               <lb ed="#T"/>est quod refert eandem qualitatem in specie, et subponit pro qualitate
               <lb ed="#T"/>diuersa in specie, ut <mentioned>Socrates est albus et alteriusmodi est Plato</mentioned>.
             </p>
             <p xml:id="phsl-t8-d1e1064">
-              <pc type="#pilcrow"/>Differt
+              <pc type="pilcrow"/>Differt
               <lb ed="#T"/>autem relatiuum idemptitatis substantie a relatiuo idemptitatis in accidentibus, quia
-              <lb ed="#T"/>relatiuum idemptitatis substantie refert substantiam eandem in numero. <pc type="#pilcrow"/>Relatiuum
+              <lb ed="#T"/>relatiuum idemptitatis substantie refert substantiam eandem in numero. <pc type="pilcrow"/>Relatiuum
               <lb ed="#T"/>autem idempitatis in accidentibus non refert idem accidens in numero
               <lb ed="#T"/>set idem accidens in specie.
             </p>
@@ -393,8 +393,8 @@
               <supplied>De relatiuis idemptitatis in accidentibus</supplied>
             </head>
             <p xml:id="phsl-t8-d1e1089">
-              <pc type="#pilcrow"/>Item relatiuorum idemptitatis in accidentibus
-              <lb ed="#T"/>aliud est relatiuum quantitatis continue, ut <mentioned>tantus</mentioned>; aliud numeri, ut <mentioned>tot</mentioned>. <pc type="#pilcrow"/>Item
+              <pc type="pilcrow"/>Item relatiuorum idemptitatis in accidentibus
+              <lb ed="#T"/>aliud est relatiuum quantitatis continue, ut <mentioned>tantus</mentioned>; aliud numeri, ut <mentioned>tot</mentioned>. <pc type="pilcrow"/>Item
               <lb ed="#T"/>relatiuorum numeri quedam sunt nomina, ut <mentioned>tot</mentioned>, <mentioned>totidem</mentioned>; quedam aduerbia, ut
               <lb ed="#T"/><mentioned>totiens</mentioned>.
             </p>
@@ -404,7 +404,7 @@
               <supplied>De his dictionibus <mentioned>talis</mentioned>, <mentioned>tantus</mentioned>, <mentioned>tot</mentioned>, <mentioned>totidem</mentioned> et <mentioned>toties</mentioned></supplied>
             </head>
             <p xml:id="phsl-t8-d1e1141">
-              <pc type="#pilcrow"/>Sciendum uero quod <mentioned>talis</mentioned>, et <mentioned>tantus</mentioned>, et <mentioned>totidem</mentioned>, et <mentioned>totiens</mentioned>
+              <pc type="pilcrow"/>Sciendum uero quod <mentioned>talis</mentioned>, et <mentioned>tantus</mentioned>, et <mentioned>totidem</mentioned>, et <mentioned>totiens</mentioned>
               <lb ed="#T"/>possunt esse relatiua et demonstratiua et reditiua, eo quod si ad pre<lb ed="#T"/>sentes
               dicantur demonstratiua sunt, ut cum dicimus demonstrantes mare
               <lb ed="#T"/><mentioned>talis est Nilus</mentioned>, et demonstrantes Erculem <mentioned>talis est Plato</mentioned>, et sic de

@@ -655,7 +655,7 @@
             <lb ed="#T"/>in hac figura:
           </p>
           <p xml:id="phsl-t1-d1e2113">
-            <graphic url="figure2.jpb"><desc>Figure</desc></graphic>
+            <lb ed="#T"/><graphic url="figure2.jpb"><desc>Figure</desc></graphic>
             <!-- >>>>>FIGURA DAS PROPOSIÇÕES MODAIS<<<<<<<<< -->
           </p>
         </div>

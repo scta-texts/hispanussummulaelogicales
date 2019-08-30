@@ -188,7 +188,8 @@
             <lb ed="#T"/>est illa que perfectum sensum generat in animo auditoris, ut <mentioned>homo currit</mentioned>.
           </p>
           <p xml:id="phsl-t1-d1e507">
-            <lb ed="#T"/><pc type="pilcrow"/>Imperfecta est illa que imperfectum sensum generat in animo auditoris, ut <mentioned>homo albus</mentioned>.
+            <lb ed="#T"/><pc type="pilcrow"/>Imperfecta est illa que imperfectum sensum generat in animo auditoris, 
+            <lb ed="#T"/>ut <mentioned>homo albus</mentioned>.
           </p>
           <p xml:id="phsl-t1-d1e516">
             <pc type="pilcrow"/>Orationum perfectarum, alia indicatiua, ut <mentioned>homo currit</mentioned>.
@@ -303,7 +304,7 @@
             <lb ed="#T"/>negatiua. Quod patet in sequenti figura:
           </p>
           <p xml:id="phsl-t1-d1e939">
-            <graphic url="figure1.jpg"/><!-- FIGURA: quadrado das oposições -->
+            <lb ed="#T"/><graphic url="figure1.jpg"><desc>Figure</desc></graphic><!-- FIGURA: quadrado das oposições -->
           </p>
           <p xml:id="phsl-t1-d1e945">
             <lb ed="#T"/><pc type="pilcrow"/>Propositionum triplex est materia, scilicet, naturalis, contingens
@@ -446,19 +447,19 @@
             <lb ed="#T"/><pc type="pilcrow"/>Sequitur de equipollentiis, de quibus tales assignantur:
           </p>
           <p xml:id="phsl-t1-d1e1362">
-            <pb ed="#T" n="2-r"/>
+            <pb ed="#T" n="2A-r"/>
             <cb ed="#T" n="a"/>
-            <lb ed="#T"/>
+            
             <lg>
-            <l><pc type="pilcrow"/>Prius contradictio, post contra, <unclear>prepostque</unclear> <gap extent="11" unit="characters"/></l>
-            <l><pc type="pilcrow"/>Non omnis, quidam non, omnis non, quasi nullus.</l>
-            <l><pc type="pilcrow"/>Non nullus, quidam, set nullus non, ualet omnis.</l>
-            <l><pc type="pilcrow"/>Non aliquis, nullus, non quidam non, ualet omnis.</l>
-            <l><pc type="pilcrow"/>Non alter, neuter, neuter non, prestat utrunque.</l>
+              <lb ed="#T"/><l><pc type="pilcrow"/>Prius contradictio, post contra, <unclear>prepostque</unclear> <gap extent="11" unit="characters"/></l>
+              <lb ed="#T"/><l><pc type="pilcrow"/>Non omnis, quidam non, omnis non, quasi nullus.</l>
+              <lb ed="#T"/><l><pc type="pilcrow"/>Non nullus, quidam, set nullus non, ualet omnis.</l>
+              <lb ed="#T"/><l><pc type="pilcrow"/>Non aliquis, nullus, non quidam non, ualet omnis.</l>
+              <lb ed="#T"/><l><pc type="pilcrow"/>Non alter, neuter, neuter non, prestat utrunque.</l>
             </lg>
           </p>
           <p xml:id="phsl-t1-d1e1398">
-            <pc type="pilcrow"/>Idem habetur per has regulas: <!--RULES start here-->si alicui signo prepo<lb ed="#T"/>natur
+            <lb ed="#T"/><pc type="pilcrow"/>Idem habetur per has regulas: <!--RULES start here-->si alicui signo prepo<lb ed="#T"/>natur
             negatio equipollet suo contradictorio. Et ideo equipollent iste:
             <lb ed="#T"/><mentioned>non omnis homo currit</mentioned>; <mentioned>quidam homo non currit</mentioned>; <mentioned>non nullus homo currit</mentioned>; <mentioned><unclear reason="damage">quidam</unclear> homo
             <lb ed="#T"/>currit</mentioned>; et sic de aliis.
@@ -607,7 +608,7 @@
             <lb ed="#T"/>et de impossibili equipollent uerbo similiter se habente, et modo <unclear reason="damage">dissimiliter</unclear>. Et
             <lb ed="#T"/>omnes propositiones de possibili et necesse, uerbo et modo dissimiliter se habentibus.
             <lb ed="#T"/><pc type="pilcrow"/>Et omnes de impossibili et necesse uerbo dissimiliter se habentes
-            <pb ed="#T" n="2-v"/>
+            <pb ed="#T" n="2A-v"/>
             <cb ed="#T" n="a"/>
             <lb ed="#T"/>modo similiter se habente.
           </p>

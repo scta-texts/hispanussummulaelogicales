@@ -44,7 +44,7 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-      <pb ed="#T" n="2A-r"/><cb ed="#T" n="a"/>
+      <pb ed="#T" n="2-r"/><cb ed="#T" n="a"/>
       </div>
     </front>
     <body>
@@ -57,10 +57,9 @@
           </head>
           <p xml:id="phsl-t4-d1e115">
           <!--lacks the beginning: the torn folio.-->
-            <pb ed="#T" n="2A-r"/>
+            <pb ed="#T" n="2-r"/>
             <cb ed="#T" n="a"/>
-            <lb ed="#T"/>
-            titate et qualitate.
+            <lb ed="#T" n="1"/>titate et qualitate.
           </p>
         </div>
 
@@ -279,7 +278,7 @@
             <lb ed="#T"/>particulari affirmatiua et uniuersali affirmatiua particularem affirmatiuam con<lb ed="#T"/>cludentibus.
             Vt: <mentioned>quidam homo est substantia; omnis homo est animal; ergo quodam
             <lb ed="#T"/>animal est substantia</mentioned>. Et reducitur ad tercium prime maiori et
-            <pb ed="#T" n="2A-v"/>
+            <pb ed="#T" n="2-v"/>
             <cb ed="#T" n="a"/>
             <lb ed="#T"/>conclusione conuersa et per transpositionem.
           </p>

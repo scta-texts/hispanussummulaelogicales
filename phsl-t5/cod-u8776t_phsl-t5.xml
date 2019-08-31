@@ -44,7 +44,7 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        <pb ed="#T" n="2A-v"/>
+        <pb ed="#T" n="2-v"/>
         <cb ed="#T" n="b"/>
       </div>
     </front>
@@ -74,7 +74,7 @@
           <p xml:id="phsl-t5-d1e147">
             <pc type="pilcrow"/>Alio autem modo idem est quod forma materie, ut
             <lb ed="#T"/>in cultello ferrum est materia, dispositio sic inducta in
-            <pb ed="#T" n="3r"/>
+            <pb ed="#T" n="3-r"/>
             <cb ed="#T" n="a"/>
             <lb ed="#T"/>ferrum est forma.
           </p>

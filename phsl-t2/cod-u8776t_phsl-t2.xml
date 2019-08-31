@@ -44,7 +44,8 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        <pb ed="#T" n="2-v"/><cb ed="#T" n="a"/>
+        <pb ed="#T" n="2A-v"/>
+        <cb ed="#T" n="a"/>
       </div>
     </front>
     <body>
@@ -56,9 +57,7 @@
             <supplied>De predicabili</supplied>
           </head>
           <p xml:id="phsl-t2-d1e115">
-            <pb ed="#T" n="2-v"/>
-            <cb ed="#T" n="a"/>
-            <lb ed="#T"/><pc type="pilcrow"/>Predicabile quandoque sumitur proprie, et sic solum dicitur
+            <lb ed="#T" n="23"/><pc type="pilcrow"/>Predicabile quandoque sumitur proprie, et sic solum dicitur
             <lb ed="#T"/>predicabile quod de pluribus predicatur. Quandoque sumitur communiter et sic dicitur
             <lb ed="#T"/>predicabile quod de uno solo, siue de pluribus predicatur. Vnde predicabile
             <lb ed="#T"/>proprie sumptum et uniuersale idem sunt, set differunt in hoc quod predicabile di<lb ed="#T"/>ffinitur

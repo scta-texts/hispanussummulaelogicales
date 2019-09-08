@@ -364,7 +364,8 @@
             </head>
             <p xml:id="phsl-t11-d1e1168">
               <pc type="pilcrow"/>So<lb ed="#T"/>let
-              autem poni quod quedam restrictio fit ab usu, ut cum dicitur <mentioned>nichil est in archa</mentioned>, quamuis sit plena aere, quia iste terminus <mentioned>nichil</mentioned> subponit ab
+              autem poni quod quedam restrictio fit ab usu, ut cum dicitur <mentioned>nichil 
+              <lb ed="#T"/>est in archa</mentioned>, quamuis sit plena aere, quia iste terminus <mentioned>nichil</mentioned> subponit ab
               <lb ed="#T"/>usu pro rebus solidis, siue firmis. Et <mentioned>rex uenit</mentioned> pro rege pa<lb ed="#T"/>trie,
               et <mentioned>magister legit</mentioned> pro magistro proprio.
             </p>

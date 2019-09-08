@@ -59,7 +59,7 @@
               they are indicated above in the "starts-on" div
               <pb ed="#T" n="2A-v"/>
             <cb ed="#T" n="b"/>-->
-            <lb ed="#T"/><pc type="pilcrow"/>Ratio multipliciter dicitur. Vno enim modo idem est quod diffinitio, uel
+            <lb ed="#T" n="82"/><pc type="pilcrow"/>Ratio multipliciter dicitur. Vno enim modo idem est quod diffinitio, uel
             <lb ed="#T"/><unclear>descriptio</unclear>, ut hic: <mentioned>uniuoca dicuntur quorum nomen est commune
             <lb ed="#T"/>ratio substantie secundum illud nomen est eadem</mentioned> <!--This is a quote, but he doesn't say it is... Aristoteles, Categoriae, 1, 1a8-9-->
           </p>
@@ -914,23 +914,23 @@
                     <lb ed="#T"/>posito uno condiuidentium remouetur aliud, uel remoto uno ponitur aliud.
                     <lb ed="#T"/>Eodem autem modo fiet in aliis constructiue et destructiue. A diuisione
                     <lb ed="#T"/>per se sic sumitur argumentum, ut <mentioned>si Socrates est animal aut est rationale
-                    <lb ed="#T"/>
+                    <!--<lb ed="#T"/>-->
                     <note type="marginal-note" place="margin-right"><!-- THIS IS IN THE END OF THE PAGE. I don't know how to encode it. it has a little sign,
                       maybe to refer to some text that is lacking in the middle of the main text, but I can't find it in the regular text...-->
-                      <lb ed="#T"/>Disparata sunt que non sunt opposita secundum aliquod genus <unclear>predicte</unclear>
-                      <lb ed="#T"/>oppositionis, set diuisa sunt sicut homo et asinus, et a talibus
-                      <lb ed="#T"/>sic sumitur argumentum: <mentioned>Socrates est homo; ergo non est asinus</mentioned>. Maxima: de quo<lb ed="#T"/>cumque
+                      <!--<lb ed="#T"/>-->Disparata sunt que non sunt opposita secundum aliquod genus <unclear>predicte</unclear>
+                      <!--<lb ed="#T"/>-->oppositionis, set diuisa sunt sicut homo et asinus, et a talibus
+                      <!--<lb ed="#T"/>-->sic sumitur argumentum: <mentioned>Socrates est homo; ergo non est asinus</mentioned>. Maxima: de quo<!--<lb ed="#T"/>-->cumque
                       dicitur unum disparatorum X quod predicatur abstractiue, ab eodem
-                      <lb ed="#T"/>remouetur reliquum; set quod abstractiue sumitur dictum est
-                      <lb ed="#T"/>prius, quia si concrete sumeretur non oporteret. Vnde
-                      <lb ed="#T"/><unclear>non</unclear> tenet hoc: <mentioned>est album; ergo non est quantum</mentioned>.
-                      <lb ed="#T"/>Locus diffinita sunt disparata, et si <unclear>queratur</unclear>
-                      <lb ed="#T"/>unde locus debet responderi a disparatis, set
-                      <lb ed="#T"/>sequitur hec: <mentioned>est albedo; ergo non est quantitas</mentioned>.
-                      <lb ed="#T"/>Sequitur de locis mediis
-                      <lb ed="#T"/>quid sit locus me<lb ed="#T"/>dius
+                      <!--<lb ed="#T"/>-->remouetur reliquum; set quod abstractiue sumitur dictum est
+                      <!--<lb ed="#T"/>-->prius, quia si concrete sumeretur non oporteret. Vnde
+                      <!--<lb ed="#T"/>--><unclear>non</unclear> tenet hoc: <mentioned>est album; ergo non est quantum</mentioned>.
+                      <!--<lb ed="#T"/>-->Locus diffinita sunt disparata, et si <unclear>queratur</unclear>
+                      <!--<lb ed="#T"/>-->unde locus debet responderi a disparatis, set
+                      <!--<lb ed="#T"/>-->sequitur hec: <mentioned>est albedo; ergo non est quantitas</mentioned>.
+                      <!--<lb ed="#T"/>-->Sequitur de locis mediis
+                      <!--<lb ed="#T"/>-->quid sit locus me<!--<lb ed="#T"/>-->dius
                       dictum
-                      <lb ed="#T"/>est prius.
+                      <!--<lb ed="#T"/>-->est prius.
                     </note>
                     <cb ed="#T" n="b"/>
                     <lb ed="#T"/>aut irrationale; set non est irrationale; ergo est rationale</mentioned>, et sic de omnibus aliis diuisionibus.

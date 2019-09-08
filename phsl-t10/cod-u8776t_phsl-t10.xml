@@ -49,13 +49,12 @@
     </front>
     <body>
       <div xml:id="phsl-t10">
-
         <div xml:id="phsl-t10-Dd1e98">
           <head xml:id="phsl-t10-Hd1e100">
             <supplied>De appelationis diffinitione</supplied>
           </head>
           <p xml:id="phsl-t10-d1e106">
-            <lb ed="#T"/><pc type="pilcrow"/>Appelatio est acceptio termini <unclear reason="damage">comunis</unclear> pro re existente. <pc type="pilcrow"/>Di<lb ed="#T"/>co
+            <lb ed="#T" n="36"/><pc type="pilcrow"/>Appelatio est acceptio termini <unclear reason="damage">comunis</unclear> pro re existente. <pc type="pilcrow"/>Di<lb ed="#T"/>co
             autem <mentioned>pro re existente</mentioned> quia terminus significans non ens nichil app<lb ed="#T"/>ellat,
             <lb ed="#T"/>ut <mentioned>Cesar</mentioned>, <mentioned>Antichristus</mentioned>, <mentioned>chimera</mentioned>, et sic de aliis.
           </p>

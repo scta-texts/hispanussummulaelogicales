@@ -58,7 +58,7 @@
               <supplied>De disputationis diffinitione</supplied>
             </head>
             <p xml:id="phsl-t7-d1e117">
-              <lb ed="#T" n="45"/><pc type="pilcrow"/>Disputatio est actus sillogisticus unius ad alterum
+              <lb ed="#T" n="44"/><pc type="pilcrow"/>Disputatio est actus sillogisticus unius ad alterum
               <cb ed="#T" n="b"/>
               <lb ed="#T"/>ad propositum ostendendum.
             </p>
@@ -2280,19 +2280,19 @@
                   <mentioned>Omnis domus est artificialis; set omnis domus est ex
                   <lb ed="#T"/>lapidibus et lignis; ergo lapides et ligna sunt artifi<lb ed="#T"/>cialia.</mentioned>
                 </p>
-                <p>
+                <p xml:id="phsl-t7-d1e6522">
                   In primo enim <mentioned>substantia</mentioned> accidit <mentioned>homini</mentioned>, et <mentioned>species</mentioned> assignatur
                   <lb ed="#T"/>inesse utrique ut subiecto suo primo, et sic similiter. Et ideo est sophisma
                   <lb ed="#T"/>accidentis. In secunda autem figura accidit <mentioned>triangulo</mentioned> secundum quod habere
                   <lb ed="#T"/>tres et cum assignatur utrique inesse ut subiecto proprio adequa<lb ed="#T"/>to
                   et sic similiter.
                 </p>
-                <p>
+                <p xml:id="phsl-t7-d1e6546">
                   In alio autem <mentioned>homo</mentioned> accidit <mentioned>Socrati</mentioned>. Omnis enim
                   <lb ed="#T"/>motus et omnis operationes circa singularia sunt. Vnde me<lb ed="#T"/>dicus
                   non sanat hominem nisi secundum accidens, set Socratem uel Platonem.
                 </p>
-                <p>
+                <p xml:id="phsl-t7-d1e6559">
                   <pc type="pilcrow"/>In alio autem <mentioned>esse monachum</mentioned> accidit Socrati, et <mentioned>album</mentioned> assi<lb ed="#T"/>gnatur
                   inesse utrique. <mentioned>Monachum</mentioned> autem accidens est commune, et
                   <lb ed="#T"/>sic habet rationem consequentis. Et sic consequens accidit antecedenti. Similiter
@@ -2316,7 +2316,7 @@
                   <lb ed="#T"/>ergo risibile est species.</mentioned> <mentioned>Homo</mentioned> enim subicitur speciei secundum suam essentiam,
                   <lb ed="#T"/>et non ratione qua est risibile, et sic <mentioned>risibile</mentioned> accidit <mentioned>homini</mentioned> respectu huius predicati.
                 </p>
-                <p>
+                <p xml:id="phsl-t7-d1e6649">
                   <lb ed="#T"/><pc type="pilcrow"/>Item: <mentioned>risibile est proprium; ergo homo est proprium.</mentioned> Nam <mentioned>homo</mentioned> accidit <mentioned>risibili</mentioned>, quia risibile
                   <lb ed="#T"/>ita est subiectum huius intentionis proprium quod non ratione hominis, et sic <mentioned>homo</mentioned>
                   <lb ed="#T"/>accidit risibili, et sic conuertibile accidit conuertibili. Similiter hic: <mentioned>pater est
@@ -2330,7 +2330,7 @@
                   <lb ed="#T"/><mentioned>pater</mentioned> est accidens rei subiecte, et <mentioned>esse natura prius filio</mentioned> assig<lb ed="#T"/>natur
                   inesse utrique.
                 </p>
-                <p>
+                <p xml:id="phsl-t7-d1e6721">
                   <pc type="pilcrow"/>Et nota quod differt hec conuertibi<lb ed="#T"/>litas
                   a predictis quia <mentioned>pater</mentioned> conuertitur cum <mentioned>eo quod est pater</mentioned>, siue
                   <lb ed="#T"/>cum subiecto paternitatis, sicut relatio cum proprio subiecto in quo habet esse
@@ -2339,11 +2339,11 @@
                   <lb ed="#T"/>predictorum modorum, set sicut correlatiuorum cum altero. Plures enim
                   <lb ed="#T"/>et diuerse sunt cause conuertibilitatis.
                 </p>
-                <p>
+                <p xml:id="phsl-t7-d1e6758">
                   <pc type="pilcrow"/>Ex predictis iam patet
                   <lb ed="#T"/>quod unum conuertibile accidit suo conuertibili respectu alicuius tercii.
                 </p>
-                <p>
+                <p xml:id="phsl-t7-d1e6766">
                   <pc type="pilcrow"/>Et
                   <lb ed="#T"/>nota quod ubicumque est figura dictionis ibi est semper accidens, et non econuerso,
                   <cb ed="#T" n="b"/>
@@ -2370,7 +2370,7 @@
                   in hiis que sunt ad finem, et non econuerso, quare secundum ratione
                   <lb ed="#T"/>rei non potest esse ratio dictionis.
                 </p>
-                <p>
+                <p xml:id="phsl-t7-d1e6835">
                   <pc type="pilcrow"/>Nota etiam quod ubicumque est
                   <lb ed="#T"/>sophisma accidentis dico medium siue illud de quod uere dicitur
                   <lb ed="#T"/>quod assignatur inesse utrique esse rem subiectam. Et minorem ex<lb ed="#T"/>tremitatem
@@ -2379,7 +2379,7 @@
                   <lb ed="#T"/>siue non, et maiorem extremitatem siue quod est a parte maioris
                   <lb ed="#T"/>extremitatis dico esse quod assignatur inesse utrique et hic
                   <lb ed="#T"/>accidens alterum quod est non necessarium in consequendo. Nec est contrarium
-                  <lb ed="#T"/>quod dicit <ref><name>Aristoteles</name> in <title>secundo Elenchorum</title></ref> quod quinque illud quod inese accidenti
+                  <lb ed="#T"/>quod dicit <ref xml:id="phsl-t7-Rd1e6856"><name>Aristoteles</name> in <title>secundo Elenchorum</title></ref> quod quinque illud quod inese accidenti
                   <lb ed="#T"/>dicunt de re subiecta. Et sic uidetur quod non solum per rem subiectam
                   <lb ed="#T"/>ostendimus aliquid sophistice de re subiecta. Dico enim quod para<lb ed="#T"/>logismorum
                   accidentis alii concludunt tantum unam partem contradictionis
@@ -2390,12 +2390,12 @@
                   <lb ed="#T"/>aliam uero a parte accidentis. Cum autem dico: <mentioned>cognosco Coriscum;
                   <lb ed="#T"/>non cognosco uenientem; ergo eundem cognosco et non cogno<lb ed="#T"/>sco</mentioned>,
                   ibi est contradictio explicite, et in istis qui habent utrumque par<lb ed="#T"/>tem
-                  contradictionem est quod dicit <ref><name>Aristoteles</name></ref>. Vnde ipse dicit ibidem quod in quibusdam
+                  contradictionem est quod dicit <ref xml:id="phsl-t7-Rd1e6893"><name>Aristoteles</name></ref>. Vnde ipse dicit ibidem quod in quibusdam
                   <lb ed="#T"/>uidetur et dicunt sic, in quibusdam autem non. In aliis autem qui concludunt
                   <lb ed="#T"/>unam partem contradictionis ostenditur semper per rem subiectam aliquid conuenire
                   <lb ed="#T"/>accidenti siue sumantur termini secundum predicationem, siue natura.
                 </p>
-                <p>
+                <p xml:id="phsl-t7-d1e6905">
                   <pb ed="#T" n="17-r"/>
                   <cb ed="#T" n="a"/>
                   <lb ed="#T"/><pc type="pilcrow"/>Posset etiam solui et credo quod melius licet illud uerum sit
@@ -2425,11 +2425,11 @@
             <head xml:id="phsl-t7-Hd1e6661" type="question-title">
               Sequitur de fallacia secundum quid
             </head>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t7-Dd1e6993">
+              <head xml:id="phsl-t7-Hd1e6995" type="question-title">
                 <supplied>De horum terminorum diffinitione</supplied>
               </head>
-              <p>
+              <p xml:id="phsl-t7-d1e7001">
                 <lb ed="#T"/><pc type="pilcrow"/>Sequitur de fallacia secundum quid et simpliciter. Primo igitur nota quod <mentioned>secundum
                 <lb ed="#T"/>quid</mentioned> dicitur dupliciter, quia uno modo diminuit quid secundum suum totum, ut
                 <lb ed="#T"/><mentioned>albus pedem</mentioned> diminuit <mentioned>album</mentioned> simpliciter, et <mentioned>homo mortuus</mentioned> <mentioned>hominem</mentioned>.
@@ -2449,7 +2449,7 @@
                 ipsum simpliciter, et tale secundum quid sumitur hic. Non autem illud aliud quod non
                 <lb ed="#T"/>diminuit.
               </p>
-              <p>
+              <p xml:id="phsl-t7-d1e7076">
                 <pc type="pilcrow"/>Ex predictis autem patet quod <mentioned>secundum quid</mentioned> prout hc sumitur dicitur
                 <lb ed="#T"/>determinatio diminuens rationem eius cui adiungitur. Simpliciter autem
                 <lb ed="#T"/>appellaur res non diminuta, siue sit accidens, siue substantia,
@@ -2457,47 +2457,47 @@
               </p>
             </div> <!--This closes De horum terminorum diffinitione-->
 
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t7-Dd1e7106">
+              <head xml:id="phsl-t7-Hd1e7108" type="question-title">
                 <supplied>De causis et modis fallacie secundum quid</supplied>
               </head>
-              <p>
+              <p xml:id="phsl-t7-d1e7114">
                 Causa autem motiua huius fallacie est
                 <lb ed="#T"/>idemptitas in parte ipsius secundum quid diminuentis ad ipsum simpliciter
                 <lb ed="#T"/>dictum. Causa uero non existentie est diuersitas eorumdem. Fit
                 <lb ed="#T"/>autem hic fallacia tot modis, quot modis contingit addere alicui determina<lb ed="#T"/>tionem
                 diminuentem ipsum.
               </p>
-              <div>
-                <head type="question-title">
+              <div xml:id="phsl-t7-Dd1e7125">
+                <head xml:id="phsl-t7-Hd1e7127" type="question-title">
                   <supplied>De primo modo fallacie secundum quid</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t7-d1e7133">
                   Primo secundum partem in modo diminuentem,
                   <lb ed="#T"/>ut: <mentioned>est homo mortuus; ergo est homo</mentioned>. Non sequitur quia mortuum dimi<cb ed="#T" n="b"/><lb ed="#T"/>nuit
                   rationem hominis. Et: <mentioned>chimera est opinabilis; ergo chimera est</mentioned>.
                   <lb ed="#T"/><mentioned>Opinabile</mentioned> enim dimiuit esse. Et: <mentioned>animal pictum, uel oculus pictus; ergo
-                  <lb ed="#T"/>animal, uel oculus</mentioned>. <mentioned>Pictum</mentioned> enim diminuit rationem horum. <ref><name>Aristoteles</name></ref> autem
+                  <lb ed="#T"/>animal, uel oculus</mentioned>. <mentioned>Pictum</mentioned> enim diminuit rationem horum. <ref xml:id="phsl-t7-Rd1e7159"><name>Aristoteles</name></ref> autem
                   <lb ed="#T"/>sic format paralogismos istos: <mentioned>quod non est, est opinabile ut chimera; ergo quod non
                   <lb ed="#T"/>est, est</mentioned>. Similiter tu potes formare omnes alios, ut: <mentioned>quod non est homo, est homo
                   <lb ed="#T"/>mortuus; ergo, quod non est homo, est homo.</mentioned> Et: <mentioned>quod non est animal, est animal pictum;
                   <lb ed="#T"/>ergo quod non est animal, est animal</mentioned>.
                 </p>
               </div>
-              <div>
-                <head type="question-title">
+              <div xml:id="phsl-t7-Dd1e7183">
+                <head xml:id="phsl-t7-Hd1e7185" type="question-title">
                   <supplied>De secundo modo fallacie secundum quid</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t7-d1e7191">
                   Secundo secundum partem integralem, ut: <mentioned>Ethiops est
                   <lb ed="#T"/>albus pedem; ergo Ethiops est albus.</mentioned>
                 </p>
               </div>
-              <div>
-                <head type="question-title">
+              <div xml:id="phsl-t7-Dd1e7200">
+                <head xml:id="phsl-t7-Hd1e7202" type="question-title">
                   <supplied>De tercio modo fallacie secundum quid</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t7-d1e7208">
                   Tercio in hiis que sunt ad aliquid, ut:
                   <lb ed="#T"/><mentioned>diuitie non sunt bone insipienti, uel non recte tenenti; ergo di<lb ed="#T"/>uicie
                   non sunt bone.</mentioned> Licet enim non sint bone comparate ad aliquid
@@ -2505,11 +2505,11 @@
                   <lb ed="#T"/>Omnis est potentia ad aliquid est quia ad actum quo perficitur.
                 </p>
               </div>
-              <div>
-                <head type="question-title">
+              <div xml:id="phsl-t7-Dd1e7226">
+                <head xml:id="phsl-t7-Hd1e7228" type="question-title">
                   <supplied>De quarto modo fallacie secundum quid</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t7-d1e7234">
                   Qua<lb ed="#T"/>rto
                   secundum locum, ut: <mentioned>bonum est mactare patrem in triualis; ergo bonum
                   <lb ed="#T"/>est mactare patrem.</mentioned> Et: <mentioned>bonum est uti dieta in locis egrotatiuis;
@@ -2517,16 +2517,16 @@
                   <lb ed="#T"/>expedit.
                 </p>
               </div>
-              <div>
-                <head type="question-title">
+              <div xml:id="phsl-t7-Dd1e7252">
+                <head xml:id="phsl-t7-Hd1e7254" type="question-title">
                   <supplied>De quinto modo fallacie secundum quid</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t7-d1e7260">
                   <pc type="pilcrow"/>Quinto secundum quando, ut: <mentioned>iste ieiunat in Quadragesima;
                   <lb ed="#T"/>ergo isto ieiunat.</mentioned> Et: <mentioned>expedit medicari alicui quando egro<lb ed="#T"/>tat;
                   ergo expedit medicari.</mentioned>
                 </p>
-                <p>
+                <p xml:id="phsl-t7-d1e7275">
                   <pc type="pilcrow"/>Et sciendum quod ubicumque est secundum
                   <lb ed="#T"/>quid et simpliciter intelligitur uel est duplex contradictio: una in conclusione que est
                   <lb ed="#T"/><unclear reason="damage">uera</unclear> contradictio, et altera in premissis que est contradictio diminuta. Respondens
@@ -2535,12 +2535,12 @@
                   <lb ed="#T"/>secundum quid infert ueram contradictionem, sic: <mentioned>ergo Ethiops est albus, et non
                   <lb ed="#T"/>est albus</mentioned>. Et ideo peccat secundum quid et simpliciter, quia uera contradictio
                   <lb ed="#T"/>non sequitur ex contradictione secundum quid, et similiter in omnibus aliis. Et
-                  <lb ed="#T"/>ideo dat <ref><name>Aristoteles</name></ref> uniuersalem solutione ad omnes paralogismos huius fallacie,
+                  <lb ed="#T"/>ideo dat <ref xml:id="phsl-t7-Rd1e7301"><name>Aristoteles</name></ref> uniuersalem solutione ad omnes paralogismos huius fallacie,
                   <lb ed="#T"/>scilicet, considerare conclusionem ad contradictionem, id est, considerare contradictionem conclusionis
                   <lb ed="#T"/>que est recta ad contradictionem in premissis que est contradictio secundum quid
                   <lb ed="#T"/>et ideo una non sequitur ex altera.
                 </p>
-                <p>
+                <p xml:id="phsl-t7-d1e7313">
                   <pc type="pilcrow"/>Et nota quid eadem fallacia
                   <lb ed="#T"/>ab ipso secundum quid ad ipsum simpliciter, et ab ipso simpliciter negatiue
                   <lb ed="#T"/>sumpto ad ipsum secundum quid negatiuum quantum est a parte terminorum, ut:
@@ -2549,7 +2549,7 @@
                   ipsum quid, neque ipsum simpliciter, set conuenientia in parte unius ad
                   <lb ed="#T"/>alterum.
                 </p>
-                <p>
+                <p xml:id="phsl-t7-d1e7336">
                   <pc type="pilcrow"/>Nota etiam quod illa in quibus uidentur contraria equaliter
                   <lb ed="#T"/>inesse secundum partes diuersas non debes denominare ab altero con<lb ed="#T"/>trariorum,
                   ut si scuti medietas est alba, et medietas est nigra, non de<lb ed="#T"/>bes
@@ -2577,15 +2577,15 @@
             </div> <!--This closes De causis et modis fallacie secundum quid-->
           </div> <!--This closes De fallacia secundum quid-->
 
-          <div>
-            <head type="question-title">
+          <div xml:id="phsl-t7-Dd1e7408">
+            <head xml:id="phsl-t7-Hd1e7410" type="question-title">
               <supplied>Sequitur de ignorantia elenchi</supplied>
             </head>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t7-Dd1e7416">
+              <head xml:id="phsl-t7-Hd1e7418" type="question-title">
                 <supplied>De elencho</supplied>
               </head>
-              <p>
+              <p xml:id="phsl-t7-d1e7424">
                 <lb ed="#T"/><pc type="pilcrow"/>Elenchus est sillogismus contradictionis unius et eiusdem, non nominis
                 <lb ed="#T"/>solum, set rei et nominis, non sinonimi, set eiusdem, ex
                 <lb ed="#T"/>hiis que data sunt de necessitate, non connumerato quod erat
@@ -2599,7 +2599,7 @@
                 <lb ed="#T"/>ponuntur ratione sillogismi, quedam autem ratione contradictionis, quedam uero ratione
                 <lb ed="#T"/>utriusque.
               </p>
-              <p>
+              <p xml:id="phsl-t7-d1e7457">
                 <pc type="pilcrow"/>Ratione quidem sillogismi ponuntur hec: <mentioned>ex hiis que data
                 <lb ed="#T"/>sunt de necessitate</mentioned>; <mentioned>non consumato eo quod erat in principio</mentioned>; per
                 <lb ed="#T"/>quod remouetur petitio eius quod est in principio ut postea patebit. Ratione
@@ -2626,11 +2626,11 @@
               </p>
             </div>
 
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t7-Dd1e7545">
+              <head xml:id="phsl-t7-Hd1e7547" type="question-title">
                 <supplied>De ignorantia</supplied>
               </head>
-              <p>
+              <p xml:id="phsl-t7-d1e7553">
                 <pc type="pilcrow"/><mentioned>Ignorantia</mentioned> dicitur
                 <cb ed="#T" n="b"/>
                 <lb ed="#T"/>multipliciter. Quedam enim est ignorantia negationis, et hoc modo
@@ -2638,12 +2638,12 @@
                 <lb ed="#T"/>dicitur hec ignorantia negationis quia nichil ponit; qui enim hanc habet
                 <lb ed="#T"/>nichil nouit.
               </p>
-              <p>
+              <p xml:id="phsl-t7-d1e7571">
                 <pc type="pilcrow"/>Alia autem est que dicitur ignorantia dispositionis, et hec
                 <lb ed="#T"/>est cum iam de re aliquis nouit aliquid non tamen nouit rem prout
                 <lb ed="#T"/>est. Et hec iterum dicitur dupliciter, quia quedam dicitur simpliciter, et est illla que est
                 <lb ed="#T"/>circa principia, uel premissas propositiones; alia uero dicitur composita, siue
-                <lb ed="#T"/>plures, et hec est circa conclusiones. Et sic distinguit <ref><name>Aristoteles</name> igno<lb ed="#T"/>rantiam
+                <lb ed="#T"/>plures, et hec est circa conclusiones. Et sic distinguit <ref xml:id="phsl-t7-Rd1e7584"><name>Aristoteles</name> igno<lb ed="#T"/>rantiam
                 in <title>primo Posteriorum</title></ref> cum agit de falsigrapho sillogismo. Set in<lb ed="#T"/>tellige
                 ulterius quod utraque istarum, scilicet, simplex ignorantia, et
                 <lb ed="#T"/>illa que est composita siue plures est adhuc duplex, quia ignorantia
@@ -2657,11 +2657,11 @@
               </p>
             </div>
 
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t7-Dd1e7617">
+              <head xml:id="phsl-t7-Hd1e7619" type="question-title">
                 <supplied>De ignorantia elenchi</supplied>
               </head>
-              <p>
+              <p xml:id="phsl-t7-d1e7625">
                 <pc type="pilcrow"/>Viso quid sit
                 <lb ed="#T"/>elenchus et quot modis dicatur ignorantia, sciendum quod ignorantia
                 <lb ed="#T"/>elenchi sumitur hic non negationis, set dispositionis, et iterum non ig<lb ed="#T"/>norantia
@@ -2676,43 +2676,43 @@
                 <lb ed="#T"/>cum decipitur per eam respondens sophistice arguendo.
               </p>
             </div>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t7-Dd1e7669">
+              <head xml:id="phsl-t7-Hd1e7671" type="question-title">
                 <supplied>De causis et modis fallacie elenchi</supplied>
               </head>
-              <p>
+              <p xml:id="phsl-t7-d1e7677">
                 Causa
                 <lb ed="#T"/>apparentie huius fallacie est conuenientia duorum secundum quid sumptorum
                 <lb ed="#T"/>ad duo sumpta simpliciter. <pc type="pilcrow"/>Causa uero falsitatis est diuersi<lb ed="#T"/>tas
                 eorumdem. <pc type="pilcrow"/>Modi autem huius fallacie sunt IIII.
               </p>
-              <div>
-                <head type="question-title">
+              <div xml:id="phsl-t7-Dd1e7690">
+                <head xml:id="phsl-t7-Hd1e7692" type="question-title">
                   <supplied>De primo modo fallacie elenchi</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t7-d1e7698">
                   Primus
                   <lb ed="#T"/>est contra hanc particulam <mentioned>ad idem</mentioned>, ut: <mentioned>duo sunt unius duplum;
                   <lb ed="#T"/>trium autem non duplum; ergo idem est duplum et non duplum</mentioned>.
                   <lb ed="#T"/>Non sequitur quia <mentioned>duplum</mentioned> non sumitur ad idem in utraque premissarum.
                 </p>
               </div>
-              <div>
-                <head type="question-title">
+              <div xml:id="phsl-t7-Dd1e7717">
+                <head xml:id="phsl-t7-Hd1e7719" type="question-title">
                   <supplied>De secundo modo fallacie elenchi</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t7-d1e7725">
                   <lb ed="#T"/>Secundus peccat contra <mentioned>secundum idem</mentioned>, ut: <mentioned>hoc est duplum illi secundum lon<lb ed="#T"/>gitudinem;
                   non est duplum secundum latitudinem; ergo est dup<lb ed="#T"/>lum
                   et non duplum</mentioned>. Non sequitur cum non sumatur secundum idem, licet respectu eiusdem
                   <lb ed="#T"/>dicatur duplum.
                 </p>
               </div>
-              <div>
-                <head type="question-title">
+              <div xml:id="phsl-t7-Dd1e7743">
+                <head xml:id="phsl-t7-Hd1e7745" type="question-title">
                   <supplied>De tercio modo fallacie elenchi</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t7-d1e7751">
                   <pc type="pilcrow"/>Tercius est contra hanc particulam, scilicet, <mentioned>similiter</mentioned>,
                   <lb ed="#T"/>ut: <mentioned>homo est species; nullus est species; ergo idem est species et non species</mentioned>.
                   <lb ed="#T"/>Non est enim contradictio in premissis, quia iste terminus <mentioned>homo</mentioned>non sumitur
@@ -2720,18 +2720,18 @@
                   <lb ed="#T"/>set pro se.
                 </p>
               </div>
-              <div>
-                <head type="question-title">
+              <div xml:id="phsl-t7-Dd1e7776">
+                <head xml:id="phsl-t7-Hd1e7778" type="question-title">
                   <supplied>De quarto modo fallacie elenchi</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t7-d1e7784">
                   Quartus est contra hanc particulam, scilicet, <mentioned>in eodem tempore</mentioned>,
                   <lb ed="#T"/>ut: <mentioned>manus mea est clausa in uno tempore et non est clausa in
                   <pb ed="#T" n="18-r"/>
                   <cb ed="#T" n="a"/>
                   <lb ed="#T"/>alio; ergo est clausa et non clausa.</mentioned>
                 </p>
-                <p>
+                <p xml:id="phsl-t7-d1e7801">
                   <pc type="pilcrow"/>Et nota quod licet
                   <lb ed="#T"/>in hac fallacia sit una uera contradictio in conclusione, et sit altera
                   <lb ed="#T"/>contradictio in premissis que est apparens sicut dicebatur in fallacia
@@ -2740,12 +2740,12 @@
                   <lb ed="#T"/>ut patet in paralogismis huius fallacie. Set fallacia secundum quid et simpliciter
                   <lb ed="#T"/>habet contradictionem apparentem que peccat tantum in altera parte contradictionis
                   <lb ed="#T"/>et per hoc etiam differt solo istius a solutione illius, quia ad utramque
-                  <lb ed="#T"/>docet <ref><name>Aristoteles</name></ref> soluere considerando conclusionem ad contradictionem, id est, consi<lb ed="#T"/>derando
+                  <lb ed="#T"/>docet <ref xml:id="phsl-t7-Rd1e7822"><name>Aristoteles</name></ref> soluere considerando conclusionem ad contradictionem, id est, consi<lb ed="#T"/>derando
                   contradictionem ueram conclusionis ad contradictionem apparentem que
                   <lb ed="#T"/>est in premissis. Set hic ad apparentem propter diminutionem
                   <lb ed="#T"/>utriusque partis, ibi uero ad apparentem propter diminutionem alterius tantum.
                 </p>
-                <p>
+                <p xml:id="phsl-t7-d1e7834">
                   <lb ed="#T"/><pc type="pilcrow"/>Siquis obiciat quod quid et simpliciter debet esse pars huius fallacie quia
                   <lb ed="#T"/>ibi fit processus ab uno secundum quid sumpto ad unum simpliciter, hic autem
                   <lb ed="#T"/>fit processus a duobus secundum quid sumptis ad duo simpliciter
@@ -2755,19 +2755,19 @@
                   <lb ed="#T"/>non sunt fallacie secundum quid et simpliciter, set habitudo unius ad alterum
                   <lb ed="#T"/>sicut species et genus non sunt locus, set habitudo unius ad alterum.
                 </p>
-                <p>
+                <p xml:id="phsl-t7-d1e7857">
                   <lb ed="#T"/><pc type="pilcrow"/>Vnde licet <mentioned>homo</mentioned> non faciat numerum cum <mentioned>animali</mentioned>, cum sit pars eius tamen habi<lb ed="#T"/>tudines
                   faciunt numerum inter se. Vna enim harum habitudi<lb ed="#T"/>num
                   est locus a genere, alia est locus a specie.
                 </p>
-                <p>
+                <p xml:id="phsl-t7-d1e7874">
                   <pc type="pilcrow"/>Similiter habitudo
                   <lb ed="#T"/>unius secundum quid sumpti ad unum simpliciter, alia est ab habitudine
                   <lb ed="#T"/>duorum secundum quid sumptorum ad duo simpliciter, quamuis <unclear>unum</unclear> secundum
                   <lb ed="#T"/>quid sit pars duorum, et unum simpliciter sit pars duorum, et sic
                   <lb ed="#T"/>erunt due fallacie specie differentes.
                 </p>
-                <p>
+                <p xml:id="phsl-t7-d1e7891">
                   <pc type="pilcrow"/>Similiter licet medietas li<lb ed="#T"/>nee
                   non faciat numerum cum tota linea cum sit pars eius
                   <lb ed="#T"/>tamen habitudines faciunt, habitudo enim tocius linee ad me<lb ed="#T"/>dietatem
@@ -2778,21 +2778,21 @@
             </div> <!--This closes De causis et modis fallacie elenchi-->
           </div> <!--This closes Sequitur de ignorantia elenchi-->
 
-          <div>
-            <head type="question-title">
+          <div xml:id="phsl-t7-Dd1e7913">
+            <head xml:id="phsl-t7-Hd1e7915" type="question-title">
               Sequitur de fallacia petitionis
             </head>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t7-Dd1e7918">
+              <head xml:id="phsl-t7-Hd1e7920" type="question-title">
                 <supplied>De diffinitione petitionis</supplied>
               </head>
-              <p>
+              <p xml:id="phsl-t7-d1e7926">
                 <lb ed="#T"/><pc type="pilcrow"/>De petitione siquidem eius quod erat in principio secundum uerita<lb ed="#T"/>tem
-                determinatur in <ref><title>libro Posteriorum secundo</title></ref>, secundum oppinionem uero
-                <lb ed="#T"/>in <ref><title>octauo Topicorum</title></ref>, et hoc modo secundo intendimus hic de peti<lb ed="#T"/>tione
+                determinatur in <ref xml:id="phsl-t7-Rd1e7933"><title>libro Posteriorum secundo</title></ref>, secundum oppinionem uero
+                <lb ed="#T"/>in <ref xml:id="phsl-t7-Rd1e7939"><title>octauo Topicorum</title></ref>, et hoc modo secundo intendimus hic de peti<lb ed="#T"/>tione
                 eius quod est in principio.
               </p>
-              <p>
+              <p xml:id="phsl-t7-d1e7947">
                 <pc type="pilcrow"/>Sciendum ergo quod petere id quod est in principio
                 <lb ed="#T"/>prout hic sumitur est quando conclusio que debet probari petitur in premissis,
                 <lb ed="#T"/>cum ergo idem sub eodem nomine non possit se ipso probari
@@ -2804,7 +2804,7 @@
                 <lb ed="#T"/>argumentatio ridiculosa est, et non cadit in artem, et est
                 <lb ed="#T"/>ibi petitio principii.
               </p>
-              <p>
+              <p xml:id="phsl-t7-d1e7974">
                 <pc type="pilcrow"/>Aliud est enim petere principium, et aliud petere
                 <cb ed="#T" n="b"/>
                 <lb ed="#T"/>id quod est in principio, quia petere principium est quando idem petitur
@@ -2813,24 +2813,24 @@
                 neque secundum apparentiam.
               </p>
             </div>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t7-Dd1e7994">
+              <head xml:id="phsl-t7-Hd1e7996" type="question-title">
                 <supplied>De causis et modis fallacie petitionis</supplied>
               </head>
-              <p>
+              <p xml:id="phsl-t7-d1e8002">
                 <pc type="pilcrow"/>Causa apparentie petitionis
                 <lb ed="#T"/>eius quod est in principio est apparens diuersitas conclusionis a premissis.
                 <lb ed="#T"/><pc type="pilcrow"/>Causa uero falsitatis est idemptitas eorumdem.
               </p>
-              <p>
+              <p xml:id="phsl-t7-d1e8012">
                 <pc type="pilcrow"/>Petitur id
-                <lb ed="#T"/>quod est in principio V modis ut est iuxta finem <ref><title>octaui Topicorum</title></ref>.
+                <lb ed="#T"/>quod est in principio V modis ut est iuxta finem <ref xml:id="phsl-t7-Rd1e8018"><title>octaui Topicorum</title></ref>.
               </p>
-              <div>
-                <head type="question-title">
+              <div xml:id="phsl-t7-Dd1e8023">
+                <head xml:id="phsl-t7-Hd1e8025" type="question-title">
                   <supplied>De primo modo fallacie petitionis</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t7-d1e8031">
                   <lb ed="#T"/><pc type="pilcrow"/>Primo quando diffinitum petitur in diffinitione, uel econuerso, ut si dubi<lb ed="#T"/>tetur
                   utrum homo currat et sumatur hic: <mentioned>animal rationale mortale currit; ergo homo
                   <lb ed="#T"/>currit</mentioned>. Hic nulla est probatio, quia cum horum alterum dubitetur, necesse est
@@ -2838,22 +2838,22 @@
                   <lb ed="#T"/>illo.
                 </p>
               </div>
-              <div>
-                <head type="question-title">
+              <div xml:id="phsl-t7-Dd1e8049">
+                <head xml:id="phsl-t7-Hd1e8051" type="question-title">
                   <supplied>De secundo modo fallacie petitionis</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t7-d1e8057">
                   <pc type="pilcrow"/>Secundus modus quando particulare petitur in uniuersali, ut si debeat proba<lb ed="#T"/>ri
                   quod omnium contrariorum eadem est disciplina, et assumat istam:
                   <lb ed="#T"/><mentioned>omnium oppositorum eadem est disciplina; ergo omnium contrariorum eadem est
                   <lb ed="#T"/>disciplina</mentioned>. Hic petit conclusionem in premissa.
                 </p>
               </div>
-              <div>
-                <head type="question-title">
+              <div xml:id="phsl-t7-Dd1e8072">
+                <head xml:id="phsl-t7-Hd1e8074" type="question-title">
                   <supplied>De tercio modo fallacie petitionis</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t7-d1e8080">
                   <pc type="pilcrow"/>Tercius modus
                   <lb ed="#T"/>econuerso quando uniuersale petitur in particulari, ut si debeat probari quod
                   <lb ed="#T"/>omnium oppositorum eadem est disciplina et sumatur hec: <mentioned>omnium contrariorum
@@ -2861,33 +2861,33 @@
                   <lb ed="#T"/>et sic de aliis; ergo omnium oppositorum eadem est disciplina.
                 </p>
               </div>
-              <div>
-                <head type="question-title">
+              <div xml:id="phsl-t7-Dd1e8097">
+                <head xml:id="phsl-t7-Hd1e8099" type="question-title">
                   <supplied>De quarto modo fallacie petitionis</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t7-d1e8105">
                   <lb ed="#T"/><pc type="pilcrow"/>Quartus modus fit quando coniunctum petitur in diuisis, ut si
                   <lb ed="#T"/>debeat probari quod medicina est sani et egri, et sumantur
                   <lb ed="#T"/>iste: <mentioned>medicina est sani; medicina est egri; ergo medicina
                   <lb ed="#T"/>est sani et egri</mentioned>.
                 </p>
               </div>
-              <div>
-                <head type="question-title">
+              <div xml:id="phsl-t7-Dd1e8121">
+                <head xml:id="phsl-t7-Hd1e8123" type="question-title">
                   <supplied>De quinto modo fallacie petitionis</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t7-d1e8129">
                   <pc type="pilcrow"/>Quintus modus est quando correlatiuum petitur
                   <lb ed="#T"/>in altero, ut si debeat probari quod Socrates sit pater Platonis, et
                   <lb ed="#T"/>sumatur hec: <mentioned>Plato est filius Socratis; ergo Socrates est pater Platonis</mentioned>. Hic
                   <lb ed="#T"/>petitur quod debet probari.
                 </p>
-                <p>
+                <p xml:id="phsl-t7-d1e8143">
                   <pc type="pilcrow"/>Et sciendum quod fallacia ista non impedit
                   <lb ed="#T"/>sillogismum inferentem, set probantem. Nam sillogismorum alius est inferens
                   <lb ed="#T"/>tantum, alius est inferens et probans.
                 </p>
-                <p>
+                <p xml:id="phsl-t7-d1e8152">
                   <pc type="pilcrow"/>Item sciendum quod duplex est uia cognos<lb ed="#T"/>cendi,
                   una a prioribus secundum intellectum ad posteriora secundum intellectum,
                   <lb ed="#T"/>et hec uia dicitur intellectiua; alia est uia cognoscendi a prioribus
@@ -2906,26 +2906,26 @@
             </div> <!--This closes De causis et modis fallacie petitionis-->
           </div> <!--This closes Sequitur de fallacia petitionis-->
 
-          <div>
-            <head type="question-title">
+          <div xml:id="phsl-t7-Dd1e8193">
+            <head xml:id="phsl-t7-Hd1e8195" type="question-title">
               Sequitur de fallacia consequentis
             </head>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t7-Dd1e8198">
+              <head xml:id="phsl-t7-Hd1e8200" type="question-title">
                 <supplied>De consequentia</supplied>
               </head>
-              <p>
+              <p xml:id="phsl-t7-d1e8206">
                 <lb ed="#T"/><pc type="pilcrow"/>Consequentiarum alia est simplex, alia composita. Sim<lb ed="#T"/>plex,
                 ut: <mentioned>si homo est, animal est</mentioned> uel <mentioned>si est adulter, est cop<lb ed="#T"/>tus
                 uel errabundus de nocte</mentioned>, et sic de aliis circumstan<lb ed="#T"/>tiis.
                 Composita uero est que est secundum oppositiones, et hec est
                 <pb ed="#T" n="18-v"/>
                 <cb ed="#T" n="a"/>
-                <lb ed="#T"/>in contrariis uel in contradictoriis, ut est in <ref><title>secundo To<lb ed="#T"/>picorum</title></ref>.
+                <lb ed="#T"/>in contrariis uel in contradictoriis, ut est in <ref xml:id="phsl-t7-Rd1e8230"><title>secundo To<lb ed="#T"/>picorum</title></ref>.
                 Et ista consequentia que est composita, siue secundum oppositiones habet
                 <lb ed="#T"/>duas species, quia quedam est in ipso et alia econtrario.
               </p>
-              <p>
+              <p xml:id="phsl-t7-d1e8239">
                 <pc type="pilcrow"/>Consequentia
                 <lb ed="#T"/>autem in ipso est quando ex opposito antecedentis sequitur oppositum conse<lb ed="#T"/>quentis,
                 ut: <mentioned>si iustitia est, et si iniustitia est, uicium est</mentioned>. Hic
@@ -2936,7 +2936,7 @@
                 <lb ed="#T"/>homo</mentioned>. Hic enim ex opposito consequentis, scilicet, <mentioned>non animal</mentioned>, sequitur oppositum antecedentis,
                 <lb ed="#T"/>scilicet, <mentioned>non homo</mentioned>. In contradictoriis autem non potest esse nisi consequentia econtrario.
               </p>
-              <p>
+              <p xml:id="phsl-t7-d1e8280">
                 <pc type="pilcrow"/>Item simplicis consequentie due sunt species. Quedam enim est ratione habi<lb ed="#T"/>tudinum
                 localium, ut: <mentioned>si homo est, animal est</mentioned>. Hic enim est habitudo a specie.
                 <lb ed="#T"/>Alia autem est ratione circunstantiarum que atenduntur in rethoricis.
@@ -2948,25 +2948,25 @@
               </p>
             </div>
 
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t7-Dd1e8304">
+              <head xml:id="phsl-t7-Hd1e8306" type="question-title">
                 <supplied>De causis et modis fallacie consequentis</supplied>
               </head>
-              <p>
+              <p xml:id="phsl-t7-d1e8312">
                 <pc type="pilcrow"/>Principium autem moutiuum consequentis est conuenien<lb ed="#T"/>tia
                 recte consequentie ad suam conuersam. Principium autem defectus est falsi<lb ed="#T"/>tas
-                conuerse, et hanc duplicem causam tangit <ref><name>Aristoteles</name></ref> dicens <quote>eo
+                conuerse, et hanc duplicem causam tangit <ref xml:id="phsl-t7-Rd1e8320"><name>Aristoteles</name></ref> dicens <quote xml:id="phsl-t7-Qd1e8324">eo
                 <lb ed="#T"/>quod putant consequentiam conuerti</quote>. Per hoc enim quod dicit <mentioned>consequentiam</mentioned> tangit
                 <lb ed="#T"/>rectam consequentiam que est principium motiuum ad credendum suam conuersam.
                 <lb ed="#T"/>Per hoc autem quod dicit conuerti, tangit causam eius conuersam, et hec est
                 <lb ed="#T"/>falsa consequentia que est principium defectus. <pc type="pilcrow"/>Modos autem consequentis
-                <lb ed="#T"/>innuit <ref><name>Aristoteles</name></ref> tres.
+                <lb ed="#T"/>innuit <ref xml:id="phsl-t7-Rd1e8344"><name>Aristoteles</name></ref> tres.
               </p>
-              <div>
-                <head type="question-title">
+              <div xml:id="phsl-t7-Dd1e8349">
+                <head xml:id="phsl-t7-Hd1e8351" type="question-title">
                   <supplied>De primo modo fallacie consequentis</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t7-d1e8357">
                   Primus est cum conuertitur consequentia facta secundum loca<lb ed="#T"/>les
                   habitudines, ut: <mentioned>si est homo, est animal; ergo si est animal, est homo</mentioned> et est
                   <lb ed="#T"/>a positione consequentis, unde est ibi consequens. Similiter hic: <mentioned>Si non est animal non est homo;
@@ -2977,11 +2977,11 @@
                   <lb ed="#T"/>consequentiam conuerti que non conuertitur. Et ideo peccat secundum consequens.
                 </p>
               </div>
-              <div>
-                <head type="question-title">
+              <div xml:id="phsl-t7-Dd1e8387">
+                <head xml:id="phsl-t7-Hd1e8389" type="question-title">
                   <supplied>De secundo modo fallacie consequentis</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t7-d1e8395">
                   <pc type="pilcrow"/>Secundus
                   <lb ed="#T"/>autem modus est quando putant conuerti consequentiam propter circunstantias ali<lb ed="#T"/>quas
                   inherentes <unclear>persone</unclear> sicut accidit in rethoricis, ut: <mentioned>si est adulter,
@@ -2994,17 +2994,17 @@
                   est illud</mentioned>. Non sequitur. Putant enim consequentia conuerti que non conuer<lb ed="#T"/>titur.
                 </p>
               </div>
-              <div>
-                <head type="question-title">
+              <div xml:id="phsl-t7-Dd1e8434">
+                <head xml:id="phsl-t7-Hd1e8436" type="question-title">
                   <supplied>De tercio modo fallacie consequentis</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t7-d1e8442">
                   <pc type="pilcrow"/>Tertius autem modus consequentis fit quando putant conuerti con<lb ed="#T"/>sequentiam
                   secundum oppositiones factam, ut: <mentioned>si est factum habet principium;
                   <cb ed="#T" n="b"/>
                   <lb ed="#T"/>ergo si non est factum non habet principium; set mundus non est
                   <lb ed="#T"/>factus, id est, generatus; ergo mundus non habet principium; ergo mundus est infinitus
-                  <lb ed="#T"/>duratione; ergo mundus est ab eterno</mentioned>. <ref><name>Melissus</name></ref> enim peccabat
+                  <lb ed="#T"/>duratione; ergo mundus est ab eterno</mentioned>. <ref xml:id="phsl-t7-Rd1e8459"><name>Melissus</name></ref> enim peccabat
                   <lb ed="#T"/>secundum consequens. In prima illatione recta enim est illa consequentia <mentioned>si est
                   <lb ed="#T"/>factum habet principium</mentioned>, quia quicquid generatur habet principium, quoniam ex nichilo
                   <lb ed="#T"/>non fit aliquid; ergo si fit aliquid fit ex aliquo; ergo si est factum habet
@@ -3016,29 +3016,29 @@
                   <lb ed="#T"/>animal</mentioned> a destructione antecedentis. Vnde est ibi consequentia in ipso in contradi<lb ed="#T"/>ctoriis
                   quod non licet.
                 </p>
-                <p>
+                <p xml:id="phsl-t7-d1e8498">
                   <pc type="pilcrow"/>Ex predictis patet quod ubicumque est consequens
-                  <lb ed="#T"/>semper est duplex consequentia. Et hoc patet per hoc quod ubicumque <ref><name>Aristoteles</name></ref> lo<lb ed="#T"/>quitur
+                  <lb ed="#T"/>semper est duplex consequentia. Et hoc patet per hoc quod ubicumque <ref xml:id="phsl-t7-Rd1e8504"><name>Aristoteles</name></ref> lo<lb ed="#T"/>quitur
                   de consequente semper format orationes in duplici consequentia, ut:
                   <lb ed="#T"/><mentioned>si hoc est, illud est, et cum illud est putant hoc esse</mentioned>.
                 </p>
-                <p>
+                <p xml:id="phsl-t7-d1e8515">
                   <pc type="pilcrow"/>Item de substantia
                   <lb ed="#T"/>cuiuslibet paralogismi est principium motiuum, et principium defectus tam in falaciis in
                   <lb ed="#T"/>dictione quam extra dictionem. Ergo si in fallacia consequentis recta conse<lb ed="#T"/>quentia
                   est principium motiuum, et fallacia consequentia est principium defectus,
                   <lb ed="#T"/>necesse est ubicumque est paralogismus consequentis esse duplicem consequentiam.
                 </p>
-                <p>
+                <p xml:id="phsl-t7-d1e8528">
                   <pc type="pilcrow"/>Item
                   <lb ed="#T"/>ad idem. Impossibile est consequentiam aliquam conuerti nisi sint ibi due consequen<lb ed="#T"/>tie,
                   quia si conuertitur consequentia, est ibi consequentia que conuertitur.
                   <lb ed="#T"/>Ergo necesse est esse duplicem consequentiam ubicumque est consequens, si rec<lb ed="#T"/>ta
-                  est causa quam assignat <ref><name>Aristoteles</name></ref>.
+                  est causa quam assignat <ref xml:id="phsl-t7-Rd1e8541"><name>Aristoteles</name></ref>.
                 </p>
-                <p>
+                <p xml:id="phsl-t7-d1e8547">
                   <pc type="pilcrow"/>Item istud euidenter probatur
-                  <lb ed="#T"/>per solutionem quam ponit <ref><name>Aristoteles</name> in <title>secundo Elenchorum</title></ref> ad paralogismos con<lb ed="#T"/>sequentis.
+                  <lb ed="#T"/>per solutionem quam ponit <ref xml:id="phsl-t7-Rd1e8553"><name>Aristoteles</name> in <title>secundo Elenchorum</title></ref> ad paralogismos con<lb ed="#T"/>sequentis.
                   Dicit enim esse ibi duplicem consequentiam: unam cum ad particulare
                   <lb ed="#T"/>sequitur uniuersale, ut: <mentioned>si est homo, est animal.</mentioned> Et hanc dicebamus prius sim<lb ed="#T"/>plicem;
                   aliam autem dicit esse secundum oppositiones, quam nos uocamus compo<lb ed="#T"/>sitam,
@@ -3055,15 +3055,15 @@
             </div> <!--This closes De causis et modis fallacie consequentis-->
           </div> <!--This closes Sequitur de fallacia consequentis-->
 
-          <div>
-            <head type="question-title">
+          <div xml:id="phsl-t7-Dd1e8603">
+            <head xml:id="phsl-t7-Hd1e8605" type="question-title">
               Sequitur de fallacia eius quod est non causa ut causa
             </head>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t7-Dd1e8608">
+              <head xml:id="phsl-t7-Hd1e8610" type="question-title">
                 <supplied>De duplici sillogismo</supplied>
               </head>
-              <p>
+              <p xml:id="phsl-t7-d1e8616">
                 <lb ed="#T"/><pc type="pilcrow"/>Duplex est sillogismus, scilicet, ostensiuus et ad impossibile. Osten<lb ed="#T"/>siuus
                 est qui habet unam solam conclusionem. Sillogismus autem
                 <lb ed="#T"/>ad impossibile est quando sillogistice ducitur ad aliquod impossibile, et propter
@@ -3075,11 +3075,11 @@
               </p>
             </div>
 
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t7-Dd1e8644">
+              <head xml:id="phsl-t7-Hd1e8646" type="question-title">
                 <supplied>De fallacia secundum non causam ut causam</supplied>
               </head>
-              <p>
+              <p xml:id="phsl-t7-d1e8652">
                 <pc type="pilcrow"/>Sciendum autem quod non causa
                 <pb ed="#T" n="19-r"/>
                 <cb ed="#T" n="a"/>
@@ -3095,11 +3095,11 @@
               </p>
             </div>
 
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t7-Dd1e8691">
+              <head xml:id="phsl-t7-Hd1e8693" type="question-title">
                 <supplied>De causis fallacie secundum non causam ut causam</supplied>
               </head>
-              <p>
+              <p xml:id="phsl-t7-d1e8699">
                 Causa
                 <lb ed="#T"/>apparentie est conuenientia eius quod apparet esse causa et non est
                 <lb ed="#T"/>cum eo quod est causa propter conueniantiam aliquam in aliquo termino
@@ -3110,10 +3110,10 @@
                 <lb ed="#T"/>non causa sumitur ut causa, quare conuenientia non esse ad id quod est
                 <lb ed="#T"/>causa in aliquo tercio est principium motiuum in hac fallacia.
               </p>
-              <p>
+              <p xml:id="phsl-t7-d1e8719">
                 <pc type="pilcrow"/>Causa uero falsi<lb ed="#T"/>tatis
                 siue principium defectus est diuersitas propositionis que est non causa ad
-                <lb ed="#T"/>causam ipsius conclusionis. Ponit autem <ref><name>Aristoteles</name></ref> exemplum huius fallacie <mentioned>sunt
+                <lb ed="#T"/>causam ipsius conclusionis. Ponit autem <ref xml:id="phsl-t7-Rd1e8727"><name>Aristoteles</name></ref> exemplum huius fallacie <mentioned>sunt
                 <lb ed="#T"/>ne anima et uita idem</mentioned> quo concesso, contra: <mentioned>mors et uita sunt contraria;
                 <lb ed="#T"/>generatio et corruptio sunt contraria; set mors est corruptio; ergo uita
                 <lb ed="#T"/>est generatio, quare uiuere generari</mentioned>. Hoc autem impossibile, quia qui uiuit non
@@ -3124,13 +3124,13 @@
                 <lb ed="#T"/>non est causa apparet esse causa, quia comunicat in terminis cum aliis
                 <lb ed="#T"/>propositionibus ex quibus est impossibile.
               </p>
-              <p>
+              <p xml:id="phsl-t7-d1e8764">
                 <pc type="pilcrow"/>Ex predictis patet quod ista fallacia non accidit
                 <lb ed="#T"/>in sillogismo ostensiuo. Vnde hic – <mentioned>omnis homo currit; Socrates est homo et sol est in
                 <lb ed="#T"/>Cancro; ergo Socrates currit.</mentioned> – non est non causa ut causa, quia hec propositio <mentioned>Sol est in Can<lb ed="#T"/>cro</mentioned>
                 est non causa, et non potest esse causa.
               </p>
-              <p>
+              <p xml:id="phsl-t7-d1e8781">
                 <pc type="pilcrow"/>Et nota quod hec est duplex:
                 <lb ed="#T"/><mentioned>mors et uita sunt contraria</mentioned>. Tamen utroque sensu est fallacia. Mors enim uno
                 <lb ed="#T"/>modo est motus per quem disoluitur anima a corpore, et hoc modo mors et
@@ -3144,7 +3144,7 @@
                 opposita, irregressibili ordine circa idem, sicut uisus et ce<lb ed="#T"/>citas
                 circa oculum, et sic utroque modo predicta propositio falsa est.
               </p>
-              <p>
+              <p xml:id="phsl-t7-d1e8815">
                 <pc type="pilcrow"/>Item hec
                 <lb ed="#T"/>est duplex – <mentioned>mors est corruptio</mentioned> – quia si sumatur mors pro primo
                 <lb ed="#T"/>modo, uera est, cum enim disoluitur anima a corpore corrumpitur homo.
@@ -3156,15 +3156,15 @@
             </div> <!--This closes De causis fallacie secundum non causam...-->
           </div> <!--This closes Sequitur de fallacia eius quod est non causa ut causa-->
 
-          <div>
-            <head type="question-title">
+          <div xml:id="phsl-t7-Dd1e8842">
+            <head xml:id="phsl-t7-Hd1e8844" type="question-title">
               <supplied>De fallacia secundum plures interrogationes ut unam</supplied>
             </head>
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t7-Dd1e8850">
+              <head xml:id="phsl-t7-Hd1e8852" type="question-title">
                 <supplied>De enuntiatione, propositione, interrogatione et conclusione</supplied>
               </head>
-              <p>
+              <p xml:id="phsl-t7-d1e8858">
                 <pc type="pilcrow"/>
                 <seg type="correction">  <!--I don't know if this is correct-->
                   <subst>
@@ -3179,7 +3179,7 @@
                 <lb ed="#T"/>autem eadem oratio secundum quod additur ei modus interrogandi interrogatio est,
                 <lb ed="#T"/>ut <mentioned>currit ne omnis homo</mentioned>. Set secundum quod eadem oratio per aliud probatur conclusio est.
               </p>
-              <p>
+              <p xml:id="phsl-t7-d1e8894">
                 <pc type="pilcrow"/>Et quantum ad has intentiones proprias sic potest diffiniri: en<lb ed="#T"/>untiatio
                 est oratio indicatiua secundum quod significat res esse, uel non esse. Propositio
                 <lb ed="#T"/>est oratio indicatiua alterius probatiua. Interrogatio est oratio indicatiua sub
@@ -3195,25 +3195,25 @@
                 <lb ed="#T"/>hoc subdiuiditur per V partes, quia huius unius quodam est quod est unum
                 <lb ed="#T"/>proportione, et illud quod est dictum secundum prius et posterius, ut <mentioned>ens</mentioned> de omnibus
                 <lb ed="#T"/>entibus, et <mentioned>sanum</mentioned> de omnibus sanis, et <mentioned>bonum</mentioned> de omnibus bonis,
-                <lb ed="#T"/>ut patet in <ref><title>primo Ethicorum</title></ref>.
+                <lb ed="#T"/>ut patet in <ref xml:id="phsl-t7-Rd1e8945"><title>primo Ethicorum</title></ref>.
               </p>
-              <p>
+              <p xml:id="phsl-t7-d1e8950">
                 <pc type="pilcrow"/>Secundus modus est unum genere, ut est animal
                 <lb ed="#T"/>uel color.
               </p>
-              <p>
+              <p xml:id="phsl-t7-d1e8957">
                 <pc type="pilcrow"/>Tercius modus est unum specie, ut homo, albedo.
               </p>
-              <p>
+              <p xml:id="phsl-t7-d1e8963">
                 <pc type="pilcrow"/>Quartus
                 <lb ed="#T"/>modus est unum numero, ut Socrates, uel Plato.
               </p>
-              <p>
+              <p xml:id="phsl-t7-d1e8970">
                 <pc type="pilcrow"/>Quintus et ultimus est unum
                 <lb ed="#T"/>accidente, et unum accidente dico unum accidens, sicut unum genere,
                 <lb ed="#T"/>unum genus, et unum specie, unam speciem.
               </p>
-              <p>
+              <p xml:id="phsl-t7-d1e8979">
                 Dico ergo quod unitas
                 <lb ed="#T"/>comuniter sumpta ad omnes istos modos unitatis facit enuntia<lb ed="#T"/>tionem
                 unam, et propositionem unam cum subicitur aliqua istarum uni<lb ed="#T"/>tatum
@@ -3235,7 +3235,7 @@
                 <lb ed="#T"/>qua est enuntiatio una est unitas simpliciter. Et sic patet
                 <lb ed="#T"/>quando est una interrogatio.
               </p>
-              <p>
+              <p xml:id="phsl-t7-d1e9033">
                 <pc type="pilcrow"/>Interrogatio autem plures est quando
                 <lb ed="#T"/>interrogatione manet unitas modi interrogandi, et defi<lb ed="#T"/>cit
                 unitas que facit propositionem unam que erat unitas simpliciter.
@@ -3247,11 +3247,11 @@
               </p>
             </div>
 
-            <div>
-              <head type="question-title">
+            <div xml:id="phsl-t7-Dd1e9056">
+              <head xml:id="phsl-t7-Hd1e9058" type="question-title">
                 <supplied>De causis et modis fallacie secundum plures interrogationes ut unam</supplied>
               </head>
-              <p>
+              <p xml:id="phsl-t7-d1e9064">
                 <pc type="pilcrow"/>Viso qualiter conuenient et qualiter di<lb ed="#T"/>fferunt
                 enuntiatio, proposito, interrogatio, et conclusio, et quot
                 <lb ed="#T"/>modis unum dicitur simpliciter, et quando est enuntiatio una uel plures
@@ -3259,22 +3259,22 @@
                 <lb ed="#T"/><pc type="pilcrow"/>consequenter dicendum est de causis et modis secundum interrogationem plures
                 <lb ed="#T"/>ut unam.
               </p>
-              <p>
+              <p xml:id="phsl-t7-d1e9081">
                 <pc type="pilcrow"/>Causa uero apparentie, siue principium motiuum huius
                 <lb ed="#T"/>fallacie est unitas modi interrogandi. <pc type="pilcrow"/>Causa uero falsitatis
                 <lb ed="#T"/>est defectus siue priuatio unitatis propositionis unius. Vnitas
                 <lb ed="#T"/>enim secundum quid precedit unitatem simpliciter, et sic celat defectum
                 <lb ed="#T"/>et facit apparere quod non est.
               </p>
-              <p>
+              <p xml:id="phsl-t7-d1e9097">
                 <pc type="pilcrow"/>Modi autem huius fallacie sunt
                 <lb ed="#T"/>duo.
               </p>
-              <div>
-                <head type="question-title">
+              <div xml:id="phsl-t7-Dd1e9104">
+                <head xml:id="phsl-t7-Hd1e9106" type="question-title">
                   <supplied>De primo modo huius fallacie</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t7-d1e9112">
                   Primus quidem est quando in singulari numero plura subiciuntur,
                   <lb ed="#T"/>uel predicantur, ut <mentioned>est ne hic et hic homo</mentioned> demonstrato Socrate et Brunello.
                   <lb ed="#T"/>Si sic, ergo Brunellus est homo; si autem non, ergo Socrates non est homo. Non enim
@@ -3282,18 +3282,18 @@
                   <lb ed="#T"/>plures; set debuit respondere: <mentioned>uerum est pro uno, falsum est pro alio</mentioned>.
                 </p>
               </div>
-              <div>
-                <head type="question-title">
+              <div xml:id="phsl-t7-Dd1e9132">
+                <head xml:id="phsl-t7-Hd1e9134" type="question-title">
                   <supplied>De secundo modo huius fallacie</supplied>
                 </head>
-                <p>
+                <p xml:id="phsl-t7-d1e9140">
                   Se<lb ed="#T"/>cundus
                   modus prouenit quando plura subiciuntur uel predicantur in plurali numero, ut
                   <lb ed="#T"/><mentioned>sunt ne ista bona</mentioned> demonstrato uno bono et alio malo. Si bona
                   <lb ed="#T"/>ergo malum est bonum; si non, ergo bonum non est bonum. Debuit enim
                   <lb ed="#T"/>respondere: <mentioned>bonum est bonum, et malum non est bonum</mentioned>.
                 </p>
-                <p>
+                <p xml:id="phsl-t7-d1e9156">
                   <pc type="pilcrow"/>Si autem
                   <lb ed="#T"/>aliquis concedat simili modo diffinitiones dari in plurali, sicut in singulari,
                   <lb ed="#T"/>ut <mentioned>cecum est aptum natum uidere et non uidens</mentioned>, et <mentioned>ceca sunt
@@ -3311,15 +3311,15 @@
           </div> <!--This closes De fallacia secundum plures interrogationes...-->
         </div> <!--This closes De fallaciis extra dictionem-->
 
-        <div>
-          <head>
+        <div xml:id="phsl-t7-Dd1e9205">
+          <head xml:id="phsl-t7-Hd1e9207">
             <supplied>De reductione omnium fallaciarum</supplied>
           </head>
-          <div>
-            <head type="question-title">
+          <div xml:id="phsl-t7-Dd1e9213">
+            <head xml:id="phsl-t7-Hd1e9215" type="question-title">
               <supplied>De duplici ignorantia elenchi</supplied>
             </head>
-            <p>
+            <p xml:id="phsl-t7-d1e9221">
               <lb ed="#T"/><pc type="pilcrow"/>Fieri quidem solet duplex distinctio ignorantie elenchi secundum
               <lb ed="#T"/>quod est una est specialis de tresdecim fallaciis, et secundum quod
               <lb ed="#T"/>est generalis ad quam omnes tresdecim fallacie reducuntur. Vno modo di<lb ed="#T"/>stinguntur
@@ -3333,7 +3333,7 @@
               <lb ed="#T"/>comuniter ab ignorantia omnium differentiarum in diffinitione elenchi po<lb ed="#T"/>sitarum
               ita est generalis, et sic ad ipsam omnis fallacie reducun<lb ed="#T"/>tur.
             </p>
-            <p>
+            <p xml:id="phsl-t7-d1e9257">
               <pc type="pilcrow"/>Alio autem modo distinguntur sic quod ignorantia elenchi
               <lb ed="#T"/>semper est contra omnes differentias elenchi, set differt sic quia uno
               <lb ed="#T"/>modo est secundum se, et alio modo est ex consequenti, et primo modo est unum
@@ -3345,7 +3345,7 @@
               <lb ed="#T"/>et per consequens sillogismum unum. Et per hoc ultimus elenchum unum, et
               <lb ed="#T"/>sic ignorantia elenchi est ex consequenti.
             </p>
-            <p>
+            <p xml:id="phsl-t7-d1e9283">
               <pc type="pilcrow"/>Alio autem modo igno<lb ed="#T"/>ratur
               elenchus secundum se, et partes eius ex consequenti, quando primo cre<lb ed="#T"/>ditur
               esse elenchus cum non sit, et quia credit esse elenchum
@@ -3355,7 +3355,7 @@
               ut a genere e differentiis in diffinitum, et alio modo econuerso
               <lb ed="#T"/>a diffinito in diffinientia.
             </p>
-            <p>
+            <p xml:id="phsl-t7-d1e9305">
               <pc type="pilcrow"/>Set licet secunda distinctio sit
               <lb ed="#T"/>subtilior quam prima, tamen prima probabilior est, et magis
               <lb ed="#T"/>credo ipsam esse ueram. Reductio autem tam paralogismorum quam
@@ -3363,18 +3363,18 @@
               <lb ed="#T"/>quia una est generalis, et altera specialis.
             </p>
           </div>
-          <div>
-            <head type="question-title">
+          <div xml:id="phsl-t7-Dd1e9319">
+            <head xml:id="phsl-t7-Hd1e9321" type="question-title">
               <supplied>De reductione generali</supplied>
             </head>
-            <p>
+            <p xml:id="phsl-t7-d1e9327">
               <pc type="pilcrow"/>Generalis enim reductio
               <lb ed="#T"/>est in eo quod omnes sunt immodificati. Set duplex est immodi<lb ed="#T"/>ficatio
               quia duplex est suum oppositum, scilicet, modificatio; sicut duplex
               <lb ed="#T"/>est necessitas sillogismorum, quia est quedam necessitas sillogismi causata a quan<lb ed="#T"/>titate,
               et qualitate, et ordine propositionum, et terminorum sillogismi. Et similiter
               <lb ed="#T"/>modificatio secundum quod modi sllogismorum determinantur in prioribus, et immodifi<lb ed="#T"/>catio
-              opposita huic modificationi debet determinari in libro <ref><title>Priorum</title></ref>
+              opposita huic modificationi debet determinari in libro <ref xml:id="phsl-t7-Rd1e9344"><title>Priorum</title></ref>
               <lb ed="#T"/>et appellatur <mentioned>inutilis coniugatio</mentioned>. <pc type="pilcrow"/>Alia autem est necessitas si<lb ed="#T"/>llogismi
               que causatur in sillogismo speciali. Et hec iterum necessitas est duplex, quia que<lb ed="#T"/>dam
               causatur a localibus habitudinibus sicut in sillogismo dialectico, et alia
@@ -3383,9 +3383,9 @@
               <lb ed="#T"/>nisi necessitas inferendi per locales habitudines quo ad sillogismum
               <lb ed="#T"/>dialecticum, uel per comparationem cause ad effectum quo ad sillogismum de<lb ed="#T"/>monstratiuum.
               Et immodificatio opposita modificationi causate per loca<lb ed="#T"/>les
-              habitudines debetur libro <ref><title>Elenchorum</title></ref>, quia alia immodifica<lb ed="#T"/>cio
+              habitudines debetur libro <ref xml:id="phsl-t7-Rd1e9373"><title>Elenchorum</title></ref>, quia alia immodifica<lb ed="#T"/>cio
               que est per comparationem cause ad effectum, uel econuerso debetur li<lb ed="#T"/>bro
-              <ref><title>Posteriorum</title></ref>, eo quod est falsigraphi sillogismi. Vnde cum dicit <ref><name>Aristoteles</name></ref> quod
+              <ref xml:id="phsl-t7-Rd1e9381"><title>Posteriorum</title></ref>, eo quod est falsigraphi sillogismi. Vnde cum dicit <ref xml:id="phsl-t7-Rd1e9386"><name>Aristoteles</name></ref> quod
               <lb ed="#T"/>omnes sunt immodificati intelligendum est de immodificatione que est
               <lb ed="#T"/>contra modificationem causatam per locales habitudines, et non de
               <pb ed="#T" n="20-r"/>
@@ -3393,11 +3393,11 @@
               <lb ed="#T"/>alia.
             </p>
           </div>
-          <div>
-            <head type="question-title">
+          <div xml:id="phsl-t7-Dd1e9402">
+            <head xml:id="phsl-t7-Hd1e9404" type="question-title">
               <supplied>De reductione speciali</supplied>
             </head>
-            <p>
+            <p xml:id="phsl-t7-d1e9410">
               <pc type="pilcrow"/>Specialis autem reductio est ostendere qualiter per unum<lb ed="#T"/>quemque
               locum sophisticum ignorantur differentie comunes sillogismi et contradictionis, uel
               <lb ed="#T"/>differentie proprie utriusque. Et hoc elenchus uterius ignoratur, quia
@@ -3407,10 +3407,10 @@
               <lb ed="#T"/>et contradictionis, aut propria huius, uel propria illius. Et ideo per igno<lb ed="#T"/>rantiam
               earum habetur ignorantia elenchi.
             </p>
-            <p>
+            <p xml:id="phsl-t7-d1e9430">
               <pc type="pilcrow"/>Reducit autem
-              <lb ed="#T"/><ref><name>Aristoteles</name></ref> primo apparentes sillogismos et elenchos ad ignorantiam
-              <lb ed="#T"/>elenchi dicens: <quote>equiuocatio, et oratio, e similis figuratio in eo quod
+              <lb ed="#T"/><ref xml:id="phsl-t7-Rd1e9435"><name>Aristoteles</name></ref> primo apparentes sillogismos et elenchos ad ignorantiam
+              <lb ed="#T"/>elenchi dicens: <quote xml:id="phsl-t7-Qd1e9441">equiuocatio, et oratio, e similis figuratio in eo quod
               <lb ed="#T"/>duplex</quote>. Duplex enim ponit defectum in termino et in sillogismo, et in contradictione,
               <lb ed="#T"/>et in elencho. Qualiter autem sit duplex in figura dictionis dictum est. De equiuocatione
               <lb ed="#T"/>et de amphibolia patet cuilibet. <pc type="pilcrow"/>Compositio autem, et diuisio, et accentus redu<lb ed="#T"/>cuntur
@@ -3418,9 +3418,9 @@
               <lb ed="#T"/>enim eandem esse orationem quemadmodum et rem si debeat elenchus, uel
               <lb ed="#T"/>sillogismus fieri.
             </p>
-            <p>
+            <p xml:id="phsl-t7-d1e9460">
               <pc type="pilcrow"/>Consequenter autem reducit apparentes sillogismos et elen<lb ed="#T"/>chos
-              ad ignorantiam elenchi dicens: <quote>qui uero sunt secundum accidens di<lb ed="#T"/>ffinito
+              ad ignorantiam elenchi dicens: <quote xml:id="phsl-t7-Qd1e9466">qui uero sunt secundum accidens di<lb ed="#T"/>ffinito
               sillogismo manifesti sunt</quote>. Ponunt enim defectum huius particulare,
               <lb ed="#T"/>scilicet, <mentioned>ex necessitate accidere</mentioned>, que ponitur in diffinitione sillogismi, et ita patet
               <lb ed="#T"/>defectus accidentis. Secundum hanc enim fallaciam artifices et oratio sci<lb ed="#T"/>entes
@@ -3429,22 +3429,22 @@
               <lb ed="#T"/>eodem affirmatio, uel negatio, ut: <mentioned>Ethiops est albus dentes; Ethiops
               <lb ed="#T"/>non est albus</mentioned>.
             </p>
-            <p>
+            <p xml:id="phsl-t7-d1e9493">
               Deinde reducit eos que sunt secundum ignorantiam elenchi
-              <lb ed="#T"/>prout est specialis dicens: <quote>manifestissimi autem omnium sunt qui prius dicti
+              <lb ed="#T"/>prout est specialis dicens: <quote xml:id="phsl-t7-Qd1e9497">manifestissimi autem omnium sunt qui prius dicti
               <lb ed="#T"/>sunt secundum elenchi ignorantiam quare nuncupati sunt sic</quote>.
             </p>
-            <p>
+            <p xml:id="phsl-t7-d1e9504">
               <pc type="pilcrow"/>Consequen<lb ed="#T"/>ter
-              reducit dicens: <quote>illi paralogismi qui fiunt in eo quod sumitur quod
+              reducit dicens: <quote xml:id="phsl-t7-Qd1e9510">illi paralogismi qui fiunt in eo quod sumitur quod
               <lb ed="#T"/>erat in principio, et non causa ut causa ponitur, manifesti sunt per difi<lb ed="#T"/>nitionem.</quote><!-- don't know if quote ends here -->
               Oportet enim conclusionem accidere ex necessitate eo quod hec sunt, quod
               <lb ed="#T"/>non erat in non causis. <pc type="pilcrow"/>Et rursum non numerato hoc quod erat
               <lb ed="#T"/>in principio quod habent qui sunt secundum petitionem eius quod est in principio.
             </p>
-            <p>
+            <p xml:id="phsl-t7-d1e9526">
               <pc type="pilcrow"/>Postea
-              <lb ed="#T"/>autem reducit eos qui sunt secundum consequens dicens: <quote>qui uero sunt secundum consequens redu<lb ed="#T"/>cuntur
+              <lb ed="#T"/>autem reducit eos qui sunt secundum consequens dicens: <quote xml:id="phsl-t7-Qd1e9532">qui uero sunt secundum consequens redu<lb ed="#T"/>cuntur
               sicuti et qui sunt secundum accidens, quia consequens pars est accidentis, et ita
               <lb ed="#T"/>reducto accidente, reducitur consequens</quote>. <pc type="pilcrow"/>Quod autem consequens pars sit acci<lb ed="#T"/>dentis
               patet ex hiis que diximus de antecedente, quia sicut ibi dictum
@@ -3454,7 +3454,7 @@
               <lb ed="#T"/>quod consequens, siue id quod consequitur partem esse accidentis, cum accidens comune
               <lb ed="#T"/>fit ad hec tria.
             </p>
-            <p>
+            <p xml:id="phsl-t7-d1e9555">
               <pc type="pilcrow"/>Set nota quod unus locus non est pars alterius. Non enim
               <lb ed="#T"/>potest dici quod locus sophisticus secundum consequens sit pars subiectiua integralis loci so<lb ed="#T"/>phistici
               secundum accidens. Vnde intellige quod consequens est pars accidentis a parte termin<lb ed="#T"/>orum
@@ -3464,31 +3464,31 @@
               <lb ed="#T"/>loci a genere, set ea quorum hee habitudines sic se habent quod
               <lb ed="#T"/>unum est pars alterius. Et sic consequens est pars subiectiua accidentis a parte
               <lb ed="#T"/>eorum in quibus fiunt, et non a parte ipsarum habitudinum sophisti<lb ed="#T"/>carum.
-              Et hoc est quod probat <ref><name>Aristoteles</name></ref>, scilicet, quod consequens est pars accidentis
-              <lb ed="#T"/>cum dicit: <quote>nam consequens accidit</quote>. Similiter enim uerum est quod antecedens accidit, et
+              Et hoc est quod probat <ref xml:id="phsl-t7-Rd1e9578"><name>Aristoteles</name></ref>, scilicet, quod consequens est pars accidentis
+              <lb ed="#T"/>cum dicit: <quote xml:id="phsl-t7-Qd1e9585">nam consequens accidit</quote>. Similiter enim uerum est quod antecedens accidit, et
               <lb ed="#T"/>similiter conuertibile accidit, sicut dictum est in tractatu de accidente.
             </p>
-            <p>
+            <p xml:id="phsl-t7-d1e9591">
               <pc type="pilcrow"/>Habet
               <lb ed="#T"/>autem consequens aliam reductionem propriam secundum se preter hanc. Ponit eum
               <lb ed="#T"/>defectum circa hanc differentiam sillogismi, scilicet, <mentioned>positis</mentioned>, quod patet quia maius non
               <lb ed="#T"/>ponit minus, ut <mentioned>animal</mentioned> <mentioned>hominem</mentioned>. Et ita consequens non ponit antecedens cum sit
               <lb ed="#T"/>maius, set econuerso. Vnde cum hec differentia <mentioned>positis</mentioned> dicat ordinem premissarum
               <lb ed="#T"/>ad conclusionem secundum habitudines locales, quia contra sillogismum per habitudines
-              <lb ed="#T"/>locales sunt loci sophistici determinati in <ref><title>Elenchis</title></ref>. Set ubi est consequens
+              <lb ed="#T"/>locales sunt loci sophistici determinati in <ref xml:id="phsl-t7-Rd1e9621"><title>Elenchis</title></ref>. Set ubi est consequens
               <lb ed="#T"/>non est ordo premissarum ad conclusionem secundum aliquas habitudines locales,
               <lb ed="#T"/>quare ubi est consequens non est hec differentia <mentioned>positis</mentioned>. Et sic reducitur consequens secundum
               <lb ed="#T"/>se per hanc differentiam <mentioned>positis</mentioned> cum ponat defectum circa eam.
             </p>
-            <p>
+            <p xml:id="phsl-t7-d1e9638">
               <pc type="pilcrow"/>Et
               <lb ed="#T"/>nota ut sepe tactum est quod duplex est positio in sillogismo. <pc type="pilcrow"/>Est enim una
               <lb ed="#T"/>positio per quantitatem, et qualitatem, et ordinem propositionum et terminorum,
-              <lb ed="#T"/>et sic sumitur hec differentia <mentioned>positis</mentioned> in libro <ref><title>Priorum</title></ref>. <pc type="pilcrow"/>Alia autem est positio
+              <lb ed="#T"/>et sic sumitur hec differentia <mentioned>positis</mentioned> in libro <ref xml:id="phsl-t7-Rd1e9654"><title>Priorum</title></ref>. <pc type="pilcrow"/>Alia autem est positio
               <lb ed="#T"/>in sillogismo que est per habitudines locales, et talis positio est in sillogismo dialectico.
               <lb ed="#T"/>Et contra talem positionem est locus sophisticus secundum consequens.
             </p>
-            <p>
+            <p xml:id="phsl-t7-d1e9665">
               <pc type="pilcrow"/>Qui uero in eo quod plures
               <lb ed="#T"/>interrogationes unam faciunt reducuntur in eo quod ponunt defec<lb ed="#T"/>tum
               circa unitatem propositionis. Nam propositio est unum de uno, quia eadem
@@ -3497,14 +3497,14 @@
               <lb ed="#T"/>et simpliciter est propositio que unum de uno significat, et est locus a partibus suffi<lb ed="#T"/>cienter
               enuntiatis.
             </p>
-            <p>
+            <p xml:id="phsl-t7-d1e9684">
               <pc type="pilcrow"/>Terminatis autem reductionem generali
               <lb ed="#T"/>primo, et postea speciali secundum differentias elenchi, et contradictionis, <pc type="pilcrow"/>consequenter de<lb ed="#T"/>terminat
-              <ref><name>Aristoteles</name></ref> qui loci sophistici reducuntur a parte contradictionis, et qui
-              <lb ed="#T"/>a parte sillogismi dicens: <quote>ergo qui sunt secundum dictionem reducuntur quoniam est apparens
+              <ref xml:id="phsl-t7-Rd1e9694"><name>Aristoteles</name></ref> qui loci sophistici reducuntur a parte contradictionis, et qui
+              <lb ed="#T"/>a parte sillogismi dicens: <quote xml:id="phsl-t7-Qd1e9701">ergo qui sunt secundum dictionem reducuntur quoniam est apparens
               <lb ed="#T"/>contradictio quod erat proprium elenchi; alii autem reducuntur secundum sillogismi di<lb ed="#T"/>ffinitionem</quote>.
             </p>
-            <p>
+            <p xml:id="phsl-t7-d1e9709">
               Et hec de fallaciis et de earum reductione sufficiant.
             </p>
           </div> <!--This closes De reductione speciali-->

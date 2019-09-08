@@ -55,7 +55,7 @@
             <supplied>De duplici relatiuo</supplied>
           </head>
           <p xml:id="phsl-t8-d1e107">
-            <lb ed="#T"/><pc type="pilcrow"/>Relatiuum est duplex. Vno enim modo relatiuum est cuius esse est
+            <lb ed="#T" n="76"/><pc type="pilcrow"/>Relatiuum est duplex. Vno enim modo relatiuum est cuius esse est
             <lb ed="#T"/>ad aliquid quodammodo se habere, et sic relatiuum est unum de X predi<lb ed="#T"/>camentis.
             <pc type="pilcrow"/>Alio autem modo relatiuum est rei antelate recordatiuum,
             <lb ed="#T"/>quia ut uult <ref xml:id="phsl-t8-Rd1e121"><name>Priscianus</name> in
@@ -274,12 +274,7 @@
               <pb ed="#T" n="21-r"/>
               <cb ed="#T" n="a"/>
               <lb ed="#T"/><pc type="pilcrow"/><!--RULE-->nulla propositio inchoata a relatiuo habet contradictoriam. Et assig<lb ed="#T"/>nant
-              <lb ed="#T"/>talem rationem. Cum dicitur <mentioned>omnis homo
-              <choice>
-                <sic>est</sic>
-                <corr>currit</corr>
-              </choice>
-              et ille disputat</mentioned>, hoc
+              talem rationem. Cum dicitur <mentioned>omnis homo <choice><sic>est</sic><corr>currit</corr></choice> et ille disputat</mentioned>, hoc
               <lb ed="#T"/>relatiuum <mentioned>ille</mentioned> habet respectum ad hoc antecedens <mentioned>homo</mentioned> propter dependentiam
               <lb ed="#T"/>sue relationis. Set cum negatio adueniat propositioni inchoante a re<lb ed="#T"/>latiuo
               dicendo sic: <mentioned>ille non disputat</mentioned>, tunc illa negatio negat
@@ -353,7 +348,7 @@
           </head>
           <p xml:id="phsl-t8-d1e966">
             <pc type="pilcrow"/>Habito de relatiuis substantie dicendum est de relatiuis accident<lb ed="#T"/>tium:
-            <lb ed="#T"/><pc type="pilcrow"/>Relatiuum autem accidentis est quod refert rem eandem per modum deno<lb ed="#T"/>minationis,
+            <pc type="pilcrow"/>Relatiuum autem accidentis est quod refert rem eandem per modum deno<lb ed="#T"/>minationis,
             ut <mentioned>tale</mentioned>, <mentioned>quale</mentioned>, et consimilia. Vnde hec est differentia relatiui
             <lb ed="#T"/>substantie ad relatiuum accidentis quod relatiuum substantie refert rem unitam siue
             <cb ed="#T" n="b"/>
@@ -377,7 +372,7 @@
               <lb ed="#T"/>relatiuum idemptitatis, ut <mentioned>talis</mentioned>; aliud est relatiuum diuersitatis, ut <mentioned>alterius<lb ed="#T"/>modi</mentioned>.
               <pc type="pilcrow"/>Relatiuum autem idemptitatis in accidentibus est quod refert idem
               <lb ed="#T"/>in specie, ut <mentioned>talis</mentioned> et <mentioned>tantus</mentioned>. <pc type="pilcrow"/>Relatiuum autem diuersitatis in acciden<lb ed="#T"/>tibus
-              <lb ed="#T"/>est quod refert eandem qualitatem in specie, et subponit pro qualitate
+              est quod refert eandem qualitatem in specie, et subponit pro qualitate
               <lb ed="#T"/>diuersa in specie, ut <mentioned>Socrates est albus et alteriusmodi est Plato</mentioned>.
             </p>
             <p xml:id="phsl-t8-d1e1064">

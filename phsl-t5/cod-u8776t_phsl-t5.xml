@@ -60,7 +60,7 @@
               they are indicated above in the "starts-on" div
               <pb ed="#T" n="2A-v"/>
             <cb ed="#T" n="b"/>-->
-            <lb ed="#T" n="82"/><pc type="pilcrow"/>Ratio multipliciter dicitur. Vno enim modo idem est quod diffinitio, uel
+            <lb ed="#T" n="83"/><pc type="pilcrow"/>Ratio multipliciter dicitur. Vno enim modo idem est quod diffinitio, uel
             <lb ed="#T"/><unclear>descriptio</unclear>, ut hic: <mentioned>uniuoca dicuntur quorum nomen est commune
             <lb ed="#T"/>ratio substantie secundum illud nomen est eadem</mentioned> <!--This is a quote, but he doesn't say it is... Aristoteles, Categoriae, 1, 1a8-9-->
           </p>
@@ -934,7 +934,8 @@
                       <!--<lb ed="#T"/>-->est prius.
                     </note>
                     <cb ed="#T" n="b"/>
-                    <lb ed="#T"/>aut irrationale; set non est irrationale; ergo est rationale</mentioned>, et sic de omnibus aliis diuisionibus.
+                    <lb ed="#T"/>aut irrationale; set non est irrationale; ergo est rationale</mentioned>, et sic de omni<lb ed="#T"/>bus 
+                    aliis diuisionibus.
                   </p>
                 </div>
               </div>

@@ -49,8 +49,9 @@
     </front>
     <body>
       <div xml:id="phsl-t12">
+        <head xml:id="phsl-t12-Hd1e101">Tractatus 12</head>
         <div xml:id="phsl-t12-Dd1e98">
-          <head xml:id="phsl-t12-Hd1e100">
+          <head xml:id="phsl-t12-Hd1e100" type="question-title">
             <supplied>De distributionis diffinitione</supplied>
           </head>
           <p xml:id="phsl-t12-d1e106">

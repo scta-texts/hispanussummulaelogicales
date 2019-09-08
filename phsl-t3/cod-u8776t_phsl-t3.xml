@@ -49,8 +49,9 @@
     </front>
     <body>
       <div xml:id="phsl-t3">
+        <head xml:id="phsl-t3-Hd1e101">Tractatus 3</head>
         <div xml:id="phsl-t3-Dd1e103">
-          <head xml:id="phsl-t3-Hd1e105">
+          <head xml:id="phsl-t3-Hd1e105" type="question-title">
             <supplied>De quibusdam premittendis</supplied>
           </head>
           <p xml:id="phsl-t3-d1e111">
@@ -182,7 +183,6 @@
             <lb ed="#T"/>alia moralis, alia sermocinalis.
           </p>
         </div>
-
         <div xml:id="phsl-t3-Dd1e438">
           <head xml:id="phsl-t3-Hd1e440">
             <supplied>De predicamentis</supplied>

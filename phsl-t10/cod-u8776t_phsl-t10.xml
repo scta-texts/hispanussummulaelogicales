@@ -49,8 +49,9 @@
     </front>
     <body>
       <div xml:id="phsl-t10">
+        <head xml:id="phsl-t10-Hd1e101">Tractatus 10</head>
         <div xml:id="phsl-t10-Dd1e98">
-          <head xml:id="phsl-t10-Hd1e100">
+          <head xml:id="phsl-t10-Hd1e100" type="question-title">
             <supplied>De appelationis diffinitione</supplied>
           </head>
           <p xml:id="phsl-t10-d1e106">
